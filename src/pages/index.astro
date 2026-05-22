@@ -1,0 +1,92 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import LawsuitCard from "@components/LawsuitCard.astro";
+import CategoryCard from "@components/CategoryCard.astro";
+import StateGrid from "@components/StateGrid.astro";
+import CTAContactSponsor from "@components/CTAContactSponsor.astro";
+import { formatDate } from "@lib/site";
+
+const lawsuits = (await getCollection("lawsuits")).sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1) ?? "2026-05-20";
+---
+
+<BaseLayout
+  title="Plain-English Guides to Active Injury and Mass Tort Lawsuits"
+  description="Track lawsuit status, alleged injuries, eligibility factors, deadlines, and state-specific legal context for major mass tort and injury claims."
+  isHome={true}
+>
+  <section class="border-b border-line bg-panel">
+    <div class="mx-auto max-w-6xl px-4 py-12 md:py-16">
+      <div class="max-w-3xl">
+        <p class="text-sm font-bold uppercase tracking-[0.12em] text-accent-dark">Mass tort and injury case-status guides</p>
+        <h1 class="mt-3 text-4xl font-black leading-tight tracking-normal text-ink md:text-5xl">
+          Plain-English Guides to Active Injury and Mass Tort Lawsuits
+        </h1>
+        <p class="mt-5 text-lg leading-8 text-muted">
+          Track lawsuit status, alleged injuries, eligibility factors, deadlines, and state-specific legal context for major mass tort and injury claims.
+        </p>
+        <div class="mt-7 flex flex-col gap-3 sm:flex-row">
+          <a class="rounded-md bg-accent px-5 py-3 text-center text-sm font-bold text-white hover:bg-accent-dark" href="/lawsuits/">View Lawsuit Guides</a>
+          <a class="rounded-md border border-line bg-white px-5 py-3 text-center text-sm font-bold text-ink hover:bg-panel" href="/sponsorship/">Sponsorship Information</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl space-y-12 px-4 py-10">
+    <section>
+      <div class="flex items-end justify-between gap-4">
+        <div>
+          <h2 class="text-2xl font-bold text-ink">Featured Active Lawsuits</h2>
+          <p class="mt-2 text-sm leading-6 text-muted">Neutral summaries for the five launch lawsuit guides.</p>
+        </div>
+        <a class="hidden text-sm font-bold text-accent-dark sm:inline" href="/lawsuits/">All guides</a>
+      </div>
+      <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {lawsuits.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
+      </div>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-bold text-ink">Browse by Category</h2>
+      <div class="mt-5 grid gap-4 md:grid-cols-3">
+        <CategoryCard title="Defective Drugs" description="Medication-focused claims involving alleged injuries after prescription or clinical use." href="/categories/defective-drugs/" />
+        <CategoryCard title="Toxic Exposure" description="Claims involving alleged chemical, pesticide, PFAS, or environmental exposure injuries." href="/categories/toxic-exposure/" />
+        <CategoryCard title="Product Liability" description="A broad view of product-related injury claims in the launch lawsuit library." href="/categories/product-liability/" />
+      </div>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-bold text-ink">Browse by State</h2>
+      <p class="mt-2 text-sm leading-6 text-muted">Launch state pages include state deadline considerations, records to gather, and federal court context.</p>
+      <div class="mt-5">
+        <StateGrid />
+      </div>
+    </section>
+
+    <section class="grid gap-4 md:grid-cols-2">
+      <div class="rounded-lg border border-line bg-white p-5">
+        <h2 class="text-2xl font-bold text-ink">How These Guides Work</h2>
+        <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
+          <p>Each lawsuit guide starts with a national overview, then links to state-specific context for the launch states.</p>
+          <p>The pages explain alleged injuries, possible eligibility factors, common evidence, deadline considerations, and litigation status in cautious plain English.</p>
+          <p>This site does not provide legal advice. Sponsorships are disclosed and do not control editorial content.</p>
+        </div>
+      </div>
+      <CTAContactSponsor />
+    </section>
+
+    <section class="rounded-lg border border-line bg-panel p-5">
+      <h2 class="text-2xl font-bold text-ink">Latest Update and Editorial Trust</h2>
+      <p class="mt-3 text-sm leading-6 text-muted">
+        Launch content was last updated {formatDate(latestUpdated)}. Each guide includes a sources and update log placeholder for manual review before publication.
+      </p>
+      <div class="mt-4 flex flex-wrap gap-3 text-sm font-bold text-accent-dark">
+        <a href="/editorial-policy/">Editorial Policy</a>
+        <a href="/advertising-disclosure/">Advertising Disclosure</a>
+        <a href="/legal-disclaimer/">Legal Disclaimer</a>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

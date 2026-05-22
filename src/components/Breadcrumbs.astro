@@ -1,0 +1,20 @@
+---
+const { items = [] } = Astro.props;
+---
+
+{items.length > 0 && (
+  <nav class="mb-5 text-sm text-muted" aria-label="Breadcrumb">
+    <ol class="flex flex-wrap items-center gap-2">
+      {items.map((item, index) => (
+        <li class="flex items-center gap-2">
+          {index > 0 && <span aria-hidden="true">/</span>}
+          {index === items.length - 1 ? (
+            <span class="font-semibold text-ink">{item.name}</span>
+          ) : (
+            <a class="hover:text-ink" href={item.url}>{item.name}</a>
+          )}
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}

@@ -1,0 +1,29 @@
+---
+import GuideLayout from "@layouts/GuideLayout.astro";
+import { site } from "@lib/site";
+
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Contact", url: "/contact/" }
+];
+---
+
+<GuideLayout
+  title="Contact"
+  description="Contact Injury Lawsuit Guide about editorial updates, sponsorship availability, or general site questions."
+  breadcrumbs={breadcrumbs}
+>
+  <div class="grid gap-8 md:grid-cols-[1fr_320px]">
+    <div class="prose-legal">
+      <h1>Contact</h1>
+      <p>For sponsorship questions, editorial updates, or general site inquiries, contact the site team by email.</p>
+      <p><a class="font-bold text-accent-dark" href={`mailto:${site.email}`}>{site.email}</a></p>
+      <p>Please do not send confidential legal, medical, or case documents through email unless you already have a direct attorney-client relationship with the recipient.</p>
+    </div>
+    <aside class="rounded-lg border border-line bg-panel p-5">
+      <h2 class="text-xl font-bold text-ink">Sponsorship inquiries</h2>
+      <p class="mt-3 text-sm leading-6 text-muted">Include the lawsuit, state, firm name, website, and preferred contact details.</p>
+      <a class="mt-4 inline-flex rounded-md bg-accent px-4 py-2 text-sm font-bold text-white hover:bg-accent-dark" href="/sponsorship/">View sponsorship model</a>
+    </aside>
+  </div>
+</GuideLayout>

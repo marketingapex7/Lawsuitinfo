@@ -1,0 +1,55 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import LawsuitCard from "@components/LawsuitCard.astro";
+import { states } from "@lib/site";
+
+const lawsuits = (await getCollection("lawsuits")).sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+const stateGuides = await getCollection("state-guides");
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Lawsuits", url: "/lawsuits/" }
+];
+---
+
+<BaseLayout
+  title="All Lawsuit Guides"
+  description="Browse active mass tort and injury lawsuit guides, including state-specific resources for launch states."
+  breadcrumbs={breadcrumbs}
+>
+  <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="max-w-3xl">
+      <h1 class="text-4xl font-black tracking-normal text-ink">All Lawsuit Guides</h1>
+      <p class="mt-4 text-lg leading-8 text-muted">A clean directory of active lawsuit guides, state pages, and sponsorship availability.</p>
+    </header>
+
+    <section class="mt-8 grid gap-4 md:grid-cols-2">
+      {lawsuits.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
+    </section>
+
+    <section class="mt-12">
+      <h2 class="text-2xl font-bold text-ink">State-Specific Guides</h2>
+      <div class="mt-5 space-y-8">
+        {states.map((state) => {
+          const guides = stateGuides
+            .filter((guide) => guide.data.stateSlug === state.slug)
+            .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+          return (
+            <div id={`state-${state.slug}`} class="scroll-mt-24 rounded-lg border border-line bg-white p-4">
+              <h3 class="text-xl font-bold text-ink">{state.name}</h3>
+              <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                {guides.map((guide) => (
+                  <a class="rounded-md border border-line bg-panel p-3 text-sm font-bold text-ink hover:border-accent/50" href={`/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/`}>
+                    {guide.data.title}
+                  </a>
+                ))}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </section>
+  </div>
+</BaseLayout>

@@ -1,0 +1,25 @@
+---
+import GuideLayout from "@layouts/GuideLayout.astro";
+
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Advertising Disclosure", url: "/advertising-disclosure/" }
+];
+---
+
+<GuideLayout
+  title="Advertising Disclosure"
+  description="Disclosure explaining legal sponsor placements, editorial independence, and user responsibility when evaluating lawyers."
+  breadcrumbs={breadcrumbs}
+>
+  <div class="prose-legal max-w-3xl">
+    <h1>Advertising Disclosure</h1>
+    <p>Some pages on this site may include paid legal sponsor placements. A sponsor placement means a lawyer or law firm paid for visibility on a specific lawsuit and state guide.</p>
+    <h2>What sponsorship means</h2>
+    <p>Sponsorship does not mean endorsement, ranking, recommendation, or a statement that a sponsor is the best lawyer for any person or claim.</p>
+    <h2>Editorial independence</h2>
+    <p>Sponsors do not control the editorial content of lawsuit guides. Informational content should remain neutral, cautious, and separate from sponsor messaging.</p>
+    <h2>Evaluate lawyers independently</h2>
+    <p>Users should independently evaluate any lawyer or law firm, ask questions about experience, fees, referrals, and case handling, and decide whether to contact a licensed attorney.</p>
+  </div>
+</GuideLayout>

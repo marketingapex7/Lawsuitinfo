@@ -1,0 +1,121 @@
+---
+import { getCollection, render } from "astro:content";
+import GuideLayout from "@layouts/GuideLayout.astro";
+import CaseStatusBadge from "@components/CaseStatusBadge.astro";
+import QuickFactsCard from "@components/QuickFactsCard.astro";
+import SponsorCard from "@components/SponsorCard.astro";
+import FAQSection from "@components/FAQSection.astro";
+import RelatedStateGuides from "@components/RelatedStateGuides.astro";
+import SourceUpdateLog from "@components/SourceUpdateLog.astro";
+import DisclaimerBox from "@components/DisclaimerBox.astro";
+import { formatDate, getStateBySlug } from "@lib/site";
+
+export async function getStaticPaths() {
+  const guides = await getCollection("state-guides");
+  return guides.map((guide) => ({
+    params: {
+      lawsuitSlug: guide.data.lawsuitSlug,
+      stateSlug: guide.data.stateSlug
+    },
+    props: { guide }
+  }));
+}
+
+const { guide } = Astro.props;
+const { Content } = await render(guide);
+const state = getStateBySlug(guide.data.stateSlug);
+const allGuides = await getCollection("state-guides");
+const sameState = allGuides
+  .filter((item) => item.data.stateSlug === guide.data.stateSlug && item.data.lawsuitSlug !== guide.data.lawsuitSlug)
+  .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Lawsuits", url: "/lawsuits/" },
+  { name: guide.data.lawsuit, url: `/lawsuits/${guide.data.lawsuitSlug}/` },
+  { name: guide.data.state, url: `/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/` }
+];
+---
+
+<GuideLayout title={guide.data.title} description={guide.data.description} breadcrumbs={breadcrumbs} faqs={guide.data.faqs}>
+  <header class="grid gap-6 lg:grid-cols-[1fr_320px]">
+    <div>
+      <CaseStatusBadge status={guide.data.status} />
+      <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{guide.data.title}</h1>
+      <p class="mt-4 text-lg leading-8 text-muted">{guide.data.description}</p>
+      <div class="mt-5 flex flex-wrap gap-3 text-sm font-semibold text-muted">
+        <span>{guide.data.state}</span>
+        <span>{guide.data.category}</span>
+        <span>Updated {formatDate(guide.data.lastUpdated)}</span>
+      </div>
+    </div>
+    <QuickFactsCard
+      title="State Quick Facts"
+      facts={[
+        { label: "State", value: `${guide.data.state} (${guide.data.stateAbbr})` },
+        { label: "Lawsuit", value: guide.data.lawsuit },
+        { label: "Category", value: guide.data.category },
+        { label: "Current status", value: guide.data.status },
+        { label: "Federal court context", value: state?.courts.join(", ") ?? "Federal district court context varies." },
+        { label: "Deadline note", value: "Deadlines depend on individual facts and state law." },
+        { label: "Sponsor status", value: guide.data.sponsorStatus }
+      ]}
+    />
+  </header>
+
+  <div class="mt-8 grid gap-8 lg:grid-cols-[1fr_300px]">
+    <div class="prose-legal max-w-none">
+      <Content />
+
+      <section id="records">
+        <h2>Records to gather</h2>
+        <ul>
+          <li>Medical records related to diagnosis, treatment, and symptoms.</li>
+          <li>Records showing use of, prescription for, or exposure to the product or substance involved.</li>
+          <li>Pharmacy, clinic, employment, military, agricultural, or exposure records where relevant.</li>
+          <li>Photos, receipts, dental invoices, pathology reports, or specialist records if applicable.</li>
+        </ul>
+      </section>
+
+      <section id="state-context">
+        <h2>State-specific exposure and context</h2>
+        <p>{guide.data.exposureContext}</p>
+      </section>
+
+      <section id="courts">
+        <h2>Where cases may be handled</h2>
+        <p>Living in {guide.data.state} does not necessarily mean the case will be filed only in {guide.data.state}. Claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
+        {state && (
+          <>
+            <h3>Federal courts in {guide.data.state}</h3>
+            <ul>
+              {state.courts.map((court) => <li>{court}</li>)}
+            </ul>
+          </>
+        )}
+      </section>
+
+      <section id="questions">
+        <h2>Questions to ask a lawyer</h2>
+        <ul>
+          <li>Are you currently reviewing {guide.data.lawsuit} claims?</li>
+          <li>What records do you need to evaluate my claim?</li>
+          <li>How do {guide.data.state} filing deadlines affect my situation?</li>
+          <li>Would my claim be handled locally, nationally, or through an MDL?</li>
+          <li>Do you work directly on this case or refer it to another firm?</li>
+          <li>Are there upfront costs?</li>
+        </ul>
+      </section>
+    </div>
+    <div class="space-y-5">
+      <SponsorCard status={guide.data.sponsorStatus} lawsuit={guide.data.lawsuit} state={guide.data.state} sponsor={guide.data.sponsor} />
+      <a class="block rounded-lg border border-line bg-panel p-4 text-sm font-bold text-accent-dark hover:bg-white" href={`/lawsuits/${guide.data.lawsuitSlug}/`}>
+        Back to {guide.data.lawsuit} guide
+      </a>
+      <DisclaimerBox />
+    </div>
+  </div>
+
+  <FAQSection faqs={guide.data.faqs} />
+  <RelatedStateGuides guides={sameState} title={`Other Lawsuit Guides in ${guide.data.state}`} />
+  <SourceUpdateLog lastReviewed={guide.data.lastReviewed} lastUpdated={guide.data.lastUpdated} />
+</GuideLayout>

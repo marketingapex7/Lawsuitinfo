@@ -1,0 +1,15 @@
+---
+const { title = "Quick Facts", facts = [] } = Astro.props;
+---
+
+<aside class="rounded-lg border border-line bg-panel p-4">
+  <h2 class="text-lg font-bold text-ink">{title}</h2>
+  <dl class="mt-4 divide-y divide-line">
+    {facts.map((fact) => (
+      <div class="grid gap-1 py-3">
+        <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{fact.label}</dt>
+        <dd class="text-sm font-semibold leading-6 text-ink">{fact.value}</dd>
+      </div>
+    ))}
+  </dl>
+</aside>

@@ -1,0 +1,139 @@
+---
+import { getCollection, render } from "astro:content";
+import GuideLayout from "@layouts/GuideLayout.astro";
+import CaseStatusBadge from "@components/CaseStatusBadge.astro";
+import QuickFactsCard from "@components/QuickFactsCard.astro";
+import SponsorCard from "@components/SponsorCard.astro";
+import TableOfContents from "@components/TableOfContents.astro";
+import FAQSection from "@components/FAQSection.astro";
+import RelatedLawsuits from "@components/RelatedLawsuits.astro";
+import RelatedStateGuides from "@components/RelatedStateGuides.astro";
+import SourceUpdateLog from "@components/SourceUpdateLog.astro";
+import DisclaimerBox from "@components/DisclaimerBox.astro";
+import { entrySlug } from "@lib/content";
+import { formatDate } from "@lib/site";
+
+export async function getStaticPaths() {
+  const lawsuits = await getCollection("lawsuits");
+  return lawsuits.map((lawsuit) => ({
+    params: { slug: entrySlug(lawsuit) },
+    props: { lawsuit }
+  }));
+}
+
+const { lawsuit } = Astro.props;
+const slug = entrySlug(lawsuit);
+const { Content } = await render(lawsuit);
+const stateGuides = (await getCollection("state-guides"))
+  .filter((guide) => guide.data.lawsuitSlug === slug)
+  .sort((a, b) => a.data.state.localeCompare(b.data.state));
+const related = (await getCollection("lawsuits"))
+  .filter((item) => entrySlug(item) !== slug)
+  .slice(0, 4);
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Lawsuits", url: "/lawsuits/" },
+  { name: lawsuit.data.lawsuit, url: `/lawsuits/${slug}/` }
+];
+const toc = [
+  { id: "overview", label: "What the lawsuit is about" },
+  { id: "status", label: "Current status" },
+  { id: "eligibility", label: "Who may be affected" },
+  { id: "injuries", label: "Injuries involved" },
+  { id: "evidence", label: "Evidence usually needed" },
+  { id: "states", label: "State guides" },
+  { id: "faq", label: "FAQ" }
+];
+---
+
+<GuideLayout title={lawsuit.data.title} description={lawsuit.data.description} breadcrumbs={breadcrumbs} faqs={lawsuit.data.faqs}>
+  <header class="grid gap-6 lg:grid-cols-[1fr_320px]">
+    <div>
+      <CaseStatusBadge status={lawsuit.data.status} />
+      <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.title}</h1>
+      <p class="mt-4 text-lg leading-8 text-muted">{lawsuit.data.description}</p>
+      <div class="mt-5 flex flex-wrap gap-3 text-sm font-semibold text-muted">
+        <span>{lawsuit.data.category}</span>
+        <span>Primary injury: {lawsuit.data.primaryInjury}</span>
+        <span>Updated {formatDate(lawsuit.data.lastUpdated)}</span>
+      </div>
+    </div>
+    <QuickFactsCard
+      facts={[
+        { label: "Case type", value: lawsuit.data.caseType },
+        { label: "Primary alleged injury", value: lawsuit.data.primaryInjury },
+        { label: "Current status", value: lawsuit.data.status },
+        { label: "Who may be affected", value: lawsuit.data.affected },
+        { label: "Evidence commonly needed", value: lawsuit.data.evidence.slice(0, 3).join(", ") },
+        { label: "Related state guides", value: `${stateGuides.length} launch states` }
+      ]}
+    />
+  </header>
+
+  <div class="mt-8 grid gap-8 lg:grid-cols-[220px_1fr_300px]">
+    <div class="hidden lg:block">
+      <div class="sticky top-24">
+        <TableOfContents items={toc} />
+      </div>
+    </div>
+    <div class="prose-legal max-w-none">
+      <Content />
+
+      <section id="injuries">
+        <h2>Injuries involved</h2>
+        <ul>
+          {lawsuit.data.injuries.map((injury) => <li>{injury}</li>)}
+        </ul>
+      </section>
+
+      <section id="evidence">
+        <h2>Evidence usually needed</h2>
+        <ul>
+          {lawsuit.data.evidence.map((item) => <li>{item}</li>)}
+        </ul>
+      </section>
+
+      <section id="timeline">
+        <h2>Timeline</h2>
+        <div class="space-y-3">
+          {lawsuit.data.timeline.map((item) => (
+            <div class="rounded-lg border border-line bg-panel p-4">
+              <h3 class="mt-0">{item.label}</h3>
+              <p class="mb-0">{item.detail}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section id="settlement">
+        <h2>Settlement status</h2>
+        <p>No settlement is guaranteed. Settlement status can change as litigation develops, and any potential outcome depends on individual facts, evidence, court rulings, and negotiation posture.</p>
+      </section>
+
+      <section id="deadlines">
+        <h2>Deadline overview</h2>
+        <p>Deadlines vary by state and may depend on diagnosis date, discovery date, exposure history, wrongful death issues, and other facts. A lawyer can evaluate how the relevant deadline rules may apply.</p>
+      </section>
+
+      <section id="states">
+        <h2>State-by-state guide links</h2>
+        <div class="grid gap-3 sm:grid-cols-2">
+          {stateGuides.map((guide) => (
+            <a class="rounded-lg border border-line bg-white p-4 font-bold hover:border-accent/50" href={`/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/`}>
+              {guide.data.title}
+            </a>
+          ))}
+        </div>
+      </section>
+    </div>
+    <div class="space-y-5">
+      <SponsorCard status={lawsuit.data.sponsorStatus} lawsuit={lawsuit.data.lawsuit} sponsor={lawsuit.data.sponsor} />
+      <DisclaimerBox />
+    </div>
+  </div>
+
+  <FAQSection faqs={lawsuit.data.faqs} />
+  <RelatedStateGuides guides={stateGuides.slice(0, 6)} title={`${lawsuit.data.lawsuit} State Guides`} />
+  <RelatedLawsuits lawsuits={related} />
+  <SourceUpdateLog lastReviewed={lawsuit.data.lastReviewed} lastUpdated={lawsuit.data.lastUpdated} />
+</GuideLayout>

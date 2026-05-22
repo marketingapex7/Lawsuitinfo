@@ -1,0 +1,25 @@
+---
+import GuideLayout from "@layouts/GuideLayout.astro";
+
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Editorial Policy", url: "/editorial-policy/" }
+];
+---
+
+<GuideLayout
+  title="Editorial Policy"
+  description="How Injury Lawsuit Guide writes, reviews, updates, and separates editorial content from sponsorship."
+  breadcrumbs={breadcrumbs}
+>
+  <div class="prose-legal max-w-3xl">
+    <h1>Editorial Policy</h1>
+    <p>This site provides general legal information for people researching active mass tort and injury lawsuits. Content is written and edited for clarity, caution, and usefulness.</p>
+    <h2>How content is prepared</h2>
+    <p>Pages are designed to explain lawsuit allegations, possible eligibility factors, common records, deadline considerations, and litigation context in plain English. Content should be reviewed against public sources before publication and updated when material developments occur.</p>
+    <h2>Updates and review dates</h2>
+    <p>Guide pages include last updated and last reviewed dates. Lawsuit information may change quickly, and update logs should be maintained as pages are revised.</p>
+    <h2>Sponsorship independence</h2>
+    <p>Sponsorship does not control editorial content. Sponsors may appear in clearly marked placement areas, but the informational guide content should remain neutral and independently maintained.</p>
+  </div>
+</GuideLayout>

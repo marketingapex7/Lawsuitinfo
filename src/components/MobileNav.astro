@@ -1,0 +1,21 @@
+---
+const links = [
+  { href: "/lawsuits/", label: "Lawsuits" },
+  { href: "/categories/defective-drugs/", label: "Categories" },
+  { href: "/sponsorship/", label: "Sponsorship" },
+  { href: "/editorial-policy/", label: "Editorial Policy" }
+];
+---
+
+<details class="md:hidden">
+  <summary class="flex cursor-pointer list-none items-center rounded-md border border-line px-3 py-2 text-sm font-semibold text-ink">
+    Menu
+  </summary>
+  <nav class="absolute left-4 right-4 top-16 z-20 rounded-lg border border-line bg-white p-2 shadow-lg">
+    {links.map((link) => (
+      <a class="block rounded-md px-3 py-3 text-sm font-semibold text-ink hover:bg-panel" href={link.href}>
+        {link.label}
+      </a>
+    ))}
+  </nav>
+</details>

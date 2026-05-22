@@ -1,0 +1,13 @@
+---
+import { states } from "@lib/site";
+
+const { basePath = "/lawsuits/" } = Astro.props;
+---
+
+<div class="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+  {states.map((state) => (
+    <a class="rounded-lg border border-line bg-white p-4 text-sm font-bold text-ink hover:border-accent/50 hover:bg-panel" href={`${basePath}#state-${state.slug}`}>
+      {state.name}
+    </a>
+  ))}
+</div>

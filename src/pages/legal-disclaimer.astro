@@ -1,0 +1,25 @@
+---
+import GuideLayout from "@layouts/GuideLayout.astro";
+
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Legal Disclaimer", url: "/legal-disclaimer/" }
+];
+---
+
+<GuideLayout
+  title="Legal Disclaimer"
+  description="Important disclaimer that this website provides general legal information only and does not create an attorney-client relationship."
+  breadcrumbs={breadcrumbs}
+>
+  <div class="prose-legal max-w-3xl">
+    <h1>Legal Disclaimer</h1>
+    <p>This website provides general legal information only. It is not legal advice, medical advice, or a substitute for speaking with a licensed attorney.</p>
+    <h2>No attorney-client relationship</h2>
+    <p>Reading this site, using this site, or contacting a sponsor through this site does not create an attorney-client relationship with the site owner.</p>
+    <h2>No guarantee of outcome</h2>
+    <p>No lawsuit outcome, settlement, filing deadline, or eligibility determination is guaranteed. Claims depend on individual facts, evidence, applicable law, and the legal process.</p>
+    <h2>Deadlines vary</h2>
+    <p>Filing deadlines may vary by state and may depend on diagnosis date, discovery date, exposure history, wrongful death issues, and other facts. Speak with a licensed attorney about your situation.</p>
+  </div>
+</GuideLayout>

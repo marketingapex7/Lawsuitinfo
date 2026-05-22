@@ -1,0 +1,25 @@
+---
+import { formatDate } from "@lib/site";
+
+const { lastReviewed, lastUpdated } = Astro.props;
+---
+
+<section class="mt-10 rounded-lg border border-line bg-panel p-4">
+  <h2 class="text-xl font-bold text-ink">Sources and Update Log</h2>
+  <dl class="mt-4 grid gap-3 text-sm sm:grid-cols-2">
+    <div>
+      <dt class="font-bold text-muted">Last reviewed</dt>
+      <dd class="mt-1 text-ink">{formatDate(lastReviewed)}</dd>
+    </div>
+    <div>
+      <dt class="font-bold text-muted">Last updated</dt>
+      <dd class="mt-1 text-ink">{formatDate(lastUpdated)}</dd>
+    </div>
+  </dl>
+  <p class="mt-4 text-sm leading-6 text-muted">
+    Sources reviewed placeholder: court filings, MDL notices, public agency materials, manufacturer disclosures, and law firm case-status updates where applicable. Manual source review should be completed before publication.
+  </p>
+  <p class="mt-2 text-sm leading-6 text-muted">
+    Recent update placeholder: MVP content structure created with cautious language and state-specific routing.
+  </p>
+</section>

@@ -1,0 +1,39 @@
+---
+import { getCollection, render } from "astro:content";
+import GuideLayout from "@layouts/GuideLayout.astro";
+import LawsuitCard from "@components/LawsuitCard.astro";
+import { entrySlug } from "@lib/content";
+
+export async function getStaticPaths() {
+  const categories = await getCollection("categories");
+  return categories.map((category) => ({
+    params: { slug: entrySlug(category) },
+    props: { category }
+  }));
+}
+
+const { category } = Astro.props;
+const slug = entrySlug(category);
+const { Content } = await render(category);
+const lawsuits = (await getCollection("lawsuits"))
+  .filter((lawsuit) => category.data.lawsuitSlugs.includes(entrySlug(lawsuit)))
+  .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Categories", url: "/lawsuits/" },
+  { name: category.data.name, url: `/categories/${slug}/` }
+];
+---
+
+<GuideLayout title={category.data.title} description={category.data.description} breadcrumbs={breadcrumbs}>
+  <header class="max-w-3xl">
+    <h1 class="text-4xl font-black tracking-normal text-ink">{category.data.title}</h1>
+    <p class="mt-4 text-lg leading-8 text-muted">{category.data.description}</p>
+  </header>
+  <div class="prose-legal mt-8 max-w-none">
+    <Content />
+  </div>
+  <section class="mt-8 grid gap-4 md:grid-cols-2">
+    {lawsuits.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
+  </section>
+</GuideLayout>

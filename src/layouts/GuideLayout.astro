@@ -1,0 +1,13 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+
+const { title, description, breadcrumbs, faqs = [] } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs} faqs={faqs}>
+  <article class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+    <slot />
+  </article>
+</BaseLayout>

@@ -1,0 +1,19 @@
+---
+import { entrySlug } from "@lib/content";
+
+const { lawsuits = [] } = Astro.props;
+---
+
+{lawsuits.length > 0 && (
+  <section class="mt-10">
+    <h2 class="text-2xl font-bold text-ink">Related Lawsuits</h2>
+    <div class="mt-4 grid gap-3 sm:grid-cols-2">
+      {lawsuits.map((item) => (
+        <a class="rounded-lg border border-line bg-white p-4 hover:border-accent/50" href={`/lawsuits/${entrySlug(item)}/`}>
+          <p class="text-sm font-bold text-ink">{item.data.lawsuit}</p>
+          <p class="mt-1 text-xs font-semibold uppercase tracking-[0.08em] text-muted">{item.data.category}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+)}

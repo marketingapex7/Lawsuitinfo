@@ -1,0 +1,55 @@
+---
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import { site } from "@lib/site";
+import { absoluteUrl, breadcrumbSchema, faqSchema, webPageSchema, webSiteSchema } from "@lib/seo";
+import "../styles/global.css";
+
+const {
+  title,
+  description,
+  canonicalPath = Astro.url.pathname,
+  breadcrumbs = [],
+  faqs = [],
+  isHome = false
+} = Astro.props;
+
+const canonical = absoluteUrl(canonicalPath);
+const pageTitle = isHome ? `${title} | ${site.name}` : `${title} | ${site.name}`;
+const schemas = [
+  isHome ? webSiteSchema() : null,
+  webPageSchema(title, description, canonical),
+  breadcrumbs.length > 0 ? breadcrumbSchema(breadcrumbs) : null,
+  faqs.length > 0 ? faqSchema(faqs) : null
+].filter(Boolean);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    {schemas.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
+  </head>
+  <body class="min-h-screen antialiased">
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

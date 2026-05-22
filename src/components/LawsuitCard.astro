@@ -1,0 +1,26 @@
+---
+import CaseStatusBadge from "./CaseStatusBadge.astro";
+import { entrySlug } from "@lib/content";
+
+const { lawsuit } = Astro.props;
+const data = lawsuit.data ?? lawsuit;
+const slug = lawsuit.id ? entrySlug(lawsuit) : data.slug;
+---
+
+<article class="rounded-lg border border-line bg-white p-4 shadow-sm">
+  <div class="flex flex-wrap items-center gap-2">
+    <CaseStatusBadge status={data.status} />
+    <span class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{data.category}</span>
+  </div>
+  <h3 class="mt-4 text-xl font-bold leading-tight text-ink">
+    <a href={`/lawsuits/${slug}/`} class="hover:text-accent-dark">{data.lawsuit}</a>
+  </h3>
+  <p class="mt-2 text-sm leading-6 text-muted">{data.description}</p>
+  <dl class="mt-4 grid gap-2 text-sm">
+    <div>
+      <dt class="font-bold text-muted">Primary alleged injury</dt>
+      <dd class="text-ink">{data.primaryInjury}</dd>
+    </div>
+  </dl>
+  <a class="mt-4 inline-flex text-sm font-bold text-accent-dark" href={`/lawsuits/${slug}/`}>View guide</a>
+</article>

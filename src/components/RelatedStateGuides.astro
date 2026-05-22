@@ -1,0 +1,17 @@
+---
+const { guides = [], title = "Related State Guides" } = Astro.props;
+---
+
+{guides.length > 0 && (
+  <section class="mt-10">
+    <h2 class="text-2xl font-bold text-ink">{title}</h2>
+    <div class="mt-4 grid gap-3 sm:grid-cols-2">
+      {guides.map((guide) => (
+        <a class="rounded-lg border border-line bg-white p-4 hover:border-accent/50" href={`/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/`}>
+          <p class="text-sm font-bold text-ink">{guide.data.title}</p>
+          <p class="mt-1 text-xs text-muted">{guide.data.status}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+)}

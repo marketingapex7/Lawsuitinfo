@@ -1,0 +1,28 @@
+---
+import MobileNav from "./MobileNav.astro";
+import { site } from "@lib/site";
+
+const links = [
+  { href: "/lawsuits/", label: "Lawsuits" },
+  { href: "/categories/defective-drugs/", label: "Categories" },
+  { href: "/sponsorship/", label: "Sponsorship" },
+  { href: "/contact/", label: "Contact" }
+];
+---
+
+<header class="sticky top-0 z-30 border-b border-line bg-white/95 backdrop-blur">
+  <div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
+    <a href="/" class="flex items-center gap-2 font-bold tracking-normal text-ink" aria-label={`${site.name} home`}>
+      <span class="grid h-8 w-8 place-items-center rounded-md bg-accent text-sm font-black text-white">IL</span>
+      <span class="leading-tight">{site.name}</span>
+    </a>
+    <nav class="hidden items-center gap-1 md:flex" aria-label="Primary navigation">
+      {links.map((link) => (
+        <a class="rounded-md px-3 py-2 text-sm font-semibold text-muted hover:bg-panel hover:text-ink" href={link.href}>
+          {link.label}
+        </a>
+      ))}
+    </nav>
+    <MobileNav />
+  </div>
+</header>
