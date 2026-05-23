@@ -11,7 +11,8 @@ const {
   canonicalPath = Astro.url.pathname,
   breadcrumbs = [],
   faqs = [],
-  isHome = false
+  isHome = false,
+  noindex = false
 } = Astro.props;
 
 const canonical = absoluteUrl(canonicalPath);
@@ -32,6 +33,7 @@ const schemas = [
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
     <link rel="canonical" href={canonical} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={site.name} />

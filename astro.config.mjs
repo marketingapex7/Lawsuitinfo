@@ -7,7 +7,11 @@ const siteUrl = process.env.SITE_URL ?? "https://lawsuitinfo.pages.dev";
 export default defineConfig({
   site: siteUrl,
   output: "static",
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      filter: (page) => !page.endsWith("/sponsorship/")
+    })
+  ],
   vite: {
     plugins: [tailwindcss()]
   }

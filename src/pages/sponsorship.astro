@@ -3,36 +3,20 @@ import GuideLayout from "@layouts/GuideLayout.astro";
 
 const breadcrumbs = [
   { name: "Home", url: "/" },
-  { name: "Sponsorship", url: "/sponsorship/" }
+  { name: "Advertising Status", url: "/sponsorship/" }
 ];
 ---
 
 <GuideLayout
-  title="Sponsorship"
-  description="Exclusive sponsorship slots are available by lawsuit and state, with one sponsor position per state-level lawsuit guide."
+  title="Advertising Status"
+  description="Advertising and paid placements are not currently active on Injury Lawsuit Guide."
   breadcrumbs={breadcrumbs}
+  noindex={true}
 >
-  <div class="grid gap-8 md:grid-cols-[1fr_320px]">
-    <div class="prose-legal">
-      <h1>Sponsorship</h1>
-      <p>Each monetizable page is a lawsuit plus a state, such as Depo-Provera in Illinois, Suboxone in Missouri, or AFFF Firefighting Foam in Michigan.</p>
-      <h2>One sponsor per lawsuit + state</h2>
-      <p>Each lawsuit/state guide has one featured sponsor slot. Slots may be marked available, reserved, or sold.</p>
-      <h2>Example placements</h2>
-      <ul>
-        <li>Depo-Provera + Illinois</li>
-        <li>Suboxone + Missouri</li>
-        <li>AFFF Firefighting Foam + Michigan</li>
-      </ul>
-      <h2>Founding sponsor offer</h2>
-      <p>Founding sponsors may request priority review for launch-state slots. Sponsorship terms can be discussed for individual lawsuit and state combinations.</p>
-      <h2>Editorial separation</h2>
-      <p>Sponsors do not control editorial content, and sponsorship does not imply endorsement or ranking.</p>
-    </div>
-    <aside class="rounded-lg border border-line bg-accent p-5 text-white">
-      <h2 class="text-xl font-bold">Request availability</h2>
-      <p class="mt-3 text-sm leading-6 text-white/90">Send the lawsuit and state combination you want to reserve or sponsor.</p>
-      <a class="mt-4 inline-flex rounded-md bg-white px-4 py-2 text-sm font-bold text-accent-dark" href="/contact/">Contact about sponsorship</a>
-    </aside>
+  <div class="prose-legal max-w-3xl">
+    <h1>Advertising Status</h1>
+    <p>Advertising and paid placements are not currently active on this site.</p>
+    <p>If advertising is added in the future, it will be clearly disclosed and kept separate from editorial content.</p>
+    <p><a href="/advertising-disclosure/">Read the advertising disclosure</a>.</p>
   </div>
 </GuideLayout>

@@ -3,7 +3,6 @@ import { getCollection, render } from "astro:content";
 import GuideLayout from "@layouts/GuideLayout.astro";
 import CaseStatusBadge from "@components/CaseStatusBadge.astro";
 import QuickFactsCard from "@components/QuickFactsCard.astro";
-import SponsorCard from "@components/SponsorCard.astro";
 import FAQSection from "@components/FAQSection.astro";
 import RelatedStateGuides from "@components/RelatedStateGuides.astro";
 import SourceUpdateLog from "@components/SourceUpdateLog.astro";
@@ -59,8 +58,7 @@ const breadcrumbs = [
         { label: "Category", value: guide.data.category },
         { label: "Current status", value: guide.data.status },
         { label: "Federal court context", value: state?.courts.join(", ") ?? "Federal district court context varies." },
-        { label: "Deadline note", value: "Deadlines depend on individual facts and state law." },
-        { label: "Sponsor status", value: guide.data.sponsorStatus }
+        { label: "Deadline note", value: "Deadlines depend on individual facts and state law." }
       ]}
     />
   </header>
@@ -110,7 +108,6 @@ const breadcrumbs = [
       </section>
     </div>
     <div class="space-y-5">
-      <SponsorCard status={guide.data.sponsorStatus} lawsuit={guide.data.lawsuit} state={guide.data.state} sponsor={guide.data.sponsor} />
       <a class="block rounded-lg border border-line bg-panel p-4 text-sm font-bold text-accent-dark hover:bg-white" href={`/lawsuits/${guide.data.lawsuitSlug}/`}>
         Back to {guide.data.lawsuit} guide
       </a>

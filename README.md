@@ -1,6 +1,6 @@
 # Injury Lawsuit Guide
 
-Static Astro site for public legal information and lawsuit/state sponsorship pages.
+Static Astro site for public legal information about active mass tort and injury lawsuits.
 
 ## Local Development
 
@@ -40,4 +40,4 @@ This project uses static output only. It does not need the Cloudflare Astro adap
 - State lawsuit pages: `src/content/state-guides/`
 - Category pages: `src/content/categories/`
 
-Sponsor availability is edited in frontmatter with `sponsorStatus: available`, `reserved`, or `sold`.
+Content is edited in Markdown frontmatter and page body sections.

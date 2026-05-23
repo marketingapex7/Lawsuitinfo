@@ -4,7 +4,6 @@ import GuideLayout from "@layouts/GuideLayout.astro";
 import CaseStatusBadge from "@components/CaseStatusBadge.astro";
 import CaseStatusSnapshot from "@components/CaseStatusSnapshot.astro";
 import QuickFactsCard from "@components/QuickFactsCard.astro";
-import SponsorCard from "@components/SponsorCard.astro";
 import TableOfContents from "@components/TableOfContents.astro";
 import FAQSection from "@components/FAQSection.astro";
 import RelatedLawsuits from "@components/RelatedLawsuits.astro";
@@ -86,7 +85,6 @@ const toc = [
         lastUpdated={lawsuit.data.lastUpdated}
         stateGuideCount={stateGuides.length}
       />
-      <SponsorCard status={lawsuit.data.sponsorStatus} lawsuit={lawsuit.data.lawsuit} sponsor={lawsuit.data.sponsor} />
       <DisclaimerBox />
     </aside>
     <div class="prose-legal max-w-none lg:order-2">

@@ -2,7 +2,7 @@ export const site = {
   name: "Injury Lawsuit Guide",
   url: import.meta.env.SITE_URL ?? "https://lawsuitinfo.pages.dev",
   description:
-    "Plain-English legal information about active mass tort and injury lawsuits, state-specific legal context, and sponsorship availability.",
+    "Plain-English legal information about active mass tort and injury lawsuits and state-specific legal context.",
   email: import.meta.env.PUBLIC_CONTACT_EMAIL ?? "contact@lawsuitinfo.com"
 };
 
