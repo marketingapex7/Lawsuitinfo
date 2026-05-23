@@ -155,11 +155,11 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li>Federal court / MDL source to add later: Northern District of California Roundup MDL No. 2741 page, public orders, and docket materials.</li>
-<li>JPML source to add later: MDL No. 2741 transfer order and related transfer materials.</li>
-<li>EPA / agency source to add later: glyphosate regulatory materials and pesticide-labeling materials where relevant.</li>
-<li>Public settlement/case update source to add later: neutral public reporting and court materials on proposed settlement activity, objections, appellate issues, and approval deadlines.</li>
-<li>Last reviewed date: May 23, 2026.</li>
+<li><strong>Federal court context:</strong> Federal Roundup product liability cases have been coordinated in <a href="https://cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">MDL No. 2741 in the Northern District of California</a>, with related state-court and settlement activity.</li>
+<li><strong>Agency or medical context:</strong> Public context may involve glyphosate regulatory materials, product-labeling issues, and court materials addressing warnings, causation, settlement, and appeal issues. EPA maintains public information on <a href="https://www.epa.gov/ingredients-used-pesticide-products/glyphosate">glyphosate</a>.</li>
+<li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. Roundup litigation is mature and settlement-focused compared with newer mass torts, but individual claim status remains fact-specific.</li>
+<li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
+<li><strong>Last reviewed:</strong> May 23, 2026.</li>
 </ul>
 </section>
 

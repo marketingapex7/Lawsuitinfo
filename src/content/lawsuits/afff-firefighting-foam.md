@@ -154,11 +154,11 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li>Federal court / MDL source to add later: District of South Carolina AFFF MDL No. 2873 page, case-management orders, and public docket materials.</li>
-<li>JPML source to add later: AFFF transfer and coordination materials for MDL No. 2873.</li>
-<li>EPA / CDC / ATSDR source to add later: PFAS drinking-water, health, exposure, and AFFF disposal or transition materials.</li>
-<li>Public settlement/case update source to add later: public water settlement materials and separate personal injury case-status updates.</li>
-<li>Last reviewed date: May 23, 2026.</li>
+<li><strong>Federal court context:</strong> AFFF firefighting foam / PFAS claims have been coordinated in federal multidistrict litigation involving PFAS-containing firefighting foam. The District of South Carolina maintains public information for <a href="https://www.scd.uscourts.gov/mdl-2873/index.asp">MDL No. 2873</a>.</li>
+<li><strong>Agency or medical context:</strong> PFAS health and environmental context may involve EPA, CDC, ATSDR, state environmental agencies, and water-testing information. Public background is available from the <a href="https://www.epa.gov/pfas">EPA PFAS information page</a> and <a href="https://www.atsdr.cdc.gov/pfas/index.html">ATSDR PFAS and Your Health</a>.</li>
+<li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. AFFF claims may involve firefighters, military personnel, airport workers, industrial workers, or residents near contaminated sites.</li>
+<li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
+<li><strong>Last reviewed:</strong> May 23, 2026.</li>
 </ul>
 </section>
 

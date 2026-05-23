@@ -154,11 +154,11 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li>Federal court / MDL source to add later: Southern District of Illinois Paraquat MDL No. 3004 page, orders, and public docket materials.</li>
-<li>JPML source to add later: MDL No. 3004 transfer order and related transfer materials.</li>
-<li>EPA / agency source to add later: paraquat regulatory materials, restricted-use pesticide information, and relevant safety materials.</li>
-<li>Public settlement/case update source to add later: neutral docket reports or public orders addressing expert rulings, case stays, settlement posture, or bellwether planning.</li>
-<li>Last reviewed date: May 23, 2026.</li>
+<li><strong>Federal court context:</strong> Paraquat product liability claims have been coordinated in federal multidistrict litigation involving Parkinson's disease allegations. The Southern District of Illinois maintains public information for <a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">MDL No. 3004</a>.</li>
+<li><strong>Agency or medical context:</strong> Claim review may involve pesticide exposure records, agricultural work history, applicator records, medical diagnosis records, and public pesticide-regulation materials. EPA maintains public information on <a href="https://www.epa.gov/ingredients-used-pesticide-products/paraquat-dichloride">paraquat dichloride</a> and <a href="https://www.epa.gov/pesticide-worker-safety/paraquat-dichloride-training-certified-applicators">paraquat applicator training</a>.</li>
+<li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation involves disputed scientific, causation, exposure, and warning issues.</li>
+<li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
+<li><strong>Last reviewed:</strong> May 23, 2026.</li>
 </ul>
 </section>
 

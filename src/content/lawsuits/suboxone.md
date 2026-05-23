@@ -155,11 +155,11 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li>Federal court / MDL source to add later: Northern District of Ohio MDL No. 3092 docket materials and public case-management orders.</li>
-<li>JPML source to add later: MDL No. 3092 transfer order and related transfer materials.</li>
-<li>FDA source to add later: FDA 2022 buprenorphine dental-problems safety communication and prescribing-information updates.</li>
-<li>Public settlement/case update source to add later: neutral docket reports or public orders addressing discovery, bellwether planning, or claim-screening procedures.</li>
-<li>Last reviewed date: May 23, 2026.</li>
+<li><strong>Federal court context:</strong> Federal Suboxone tooth decay cases have been coordinated in multidistrict litigation for common pretrial issues. The JPML transfer materials for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3092-Transfer_Order-1-24.pdf">MDL No. 3092</a> describe the coordinated federal proceeding.</li>
+<li><strong>Agency or medical context:</strong> Claim review may involve prescription records, dental records, pharmacy records, warnings, and records showing tooth decay, extractions, or restorative treatment. The FDA has published a <a href="https://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-about-dental-problems-buprenorphine-medicines-dissolved-mouth-treat-opioid-use-disorder">buprenorphine dental-problems safety communication</a> for medicines dissolved in the mouth.</li>
+<li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation remains active, and individual review may depend on use history, dental injury records, and timing.</li>
+<li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
+<li><strong>Last reviewed:</strong> May 23, 2026.</li>
 </ul>
 </section>
 

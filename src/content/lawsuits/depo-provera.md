@@ -154,11 +154,11 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li>Federal court / MDL source to add later: Northern District of Florida Depo-Provera MDL page and master docket materials.</li>
-<li>JPML source to add later: MDL No. 3140 transfer order and related transfer orders.</li>
-<li>FDA or medical source to add later: current Depo-Provera labeling and relevant safety communications or peer-reviewed medical literature.</li>
-<li>Public settlement/case update source to add later: neutral docket reports or public court orders addressing case management, expert issues, or bellwether scheduling.</li>
-<li>Last reviewed date: May 23, 2026.</li>
+<li><strong>Federal court context:</strong> Federal Depo-Provera product liability cases are described on this site as centralized in <a href="https://www.flnd.uscourts.gov/depo-provera-products-liability-litigation-mdl-no-3140">MDL No. 3140 in the Northern District of Florida</a> for coordinated pretrial proceedings. The JPML transfer materials are also available through the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3140-Transfer_Order-1-25.pdf">Judicial Panel on Multidistrict Litigation</a>.</li>
+<li><strong>Agency or medical context:</strong> Claim review may involve product labeling, injection records, brain imaging, pathology, neurology, neurosurgery, and other medical records. FDA drug-label information can be checked through the <a href="https://labels.fda.gov/">FDA Online Label Repository</a>.</li>
+<li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation appears to be in active pretrial development rather than a mature settlement stage.</li>
+<li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
+<li><strong>Last reviewed:</strong> May 23, 2026.</li>
 </ul>
 </section>
 
