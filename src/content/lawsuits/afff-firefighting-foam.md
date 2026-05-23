@@ -69,8 +69,54 @@ faqs:
 
 <section id="status">
 <h2>Current litigation status</h2>
-<p>AFFF Firefighting Foam claims are listed here as active / investigating. Some claims may be coordinated nationally, including through federal multidistrict litigation where applicable, while others may be evaluated through different legal processes.</p>
-<p>Litigation status can change. This guide should be read as a general case-status overview rather than a real-time court docket.</p>
+<p>AFFF Firefighting Foam claims are active and have been coordinated for years in federal multidistrict litigation involving PFAS-containing firefighting foam. The AFFF MDL, MDL No. 2873, is in the District of South Carolina and includes personal injury, water contamination, and other PFAS-related claims connected to aqueous film-forming foam.</p>
+<p>The personal injury side of the litigation focuses on allegations that exposure to PFAS chemicals in AFFF contributed to cancers and other diseases, including kidney cancer, testicular cancer, thyroid disease, and ulcerative colitis. Defendants generally dispute exposure, causation, warnings, liability, and damages. Litigation status can change, and this guide is a general overview rather than a live court docket.</p>
+</section>
+
+<section id="key-issues">
+<h2>Key issues in the lawsuit</h2>
+<p>AFFF lawsuits generally allege that firefighting foam contained PFAS chemicals, including compounds such as PFOA and PFOS, and that repeated use or environmental release of the foam exposed firefighters, military personnel, airport workers, industrial workers, and nearby communities to harmful substances. Claims may involve direct occupational exposure, training exercises, emergency fire response, contaminated gear, contaminated soil, or drinking water contamination near sites where AFFF was used.</p>
+<p>The key issues include whether a person had meaningful PFAS exposure, whether the exposure can be connected to AFFF rather than another source, whether the diagnosed condition is one being reviewed in the litigation, and whether warnings or safety information were adequate. In some cases, a claim may involve both occupational exposure and environmental contamination. In others, the exposure pathway may be less direct and require more investigation.</p>
+<p>Because PFAS exposure can come from many sources, these cases often require careful exposure reconstruction. Plaintiffs may need to show where they worked, trained, lived, or drank water, what type of foam was used, how often exposure occurred, and how the disease timeline fits the alleged exposure.</p>
+</section>
+
+<section id="claim-evaluation">
+<h2>How claims may be evaluated</h2>
+<p>AFFF claim review usually begins with exposure history. Fire department records, airport employment records, military service records, training logs, incident reports, foam purchase records, facility records, job descriptions, witness statements, and water testing records may help identify potential exposure. For military or airport-related exposure, location and dates can be especially important.</p>
+<p>Medical records are also central. Diagnosis records, pathology reports, oncology records, specialist notes, lab results, surgery records, and treatment records can help confirm the disease, diagnosis date, stage, treatment course, and damages. A lawyer may also ask about smoking history, family history, occupational exposures, kidney function history, thyroid history, autoimmune conditions, and other medical factors.</p>
+<p>Causation review may compare the type and duration of PFAS exposure with the diagnosed condition and known alternative causes. Some claims may be stronger when there is repeated occupational contact with AFFF or documented contamination at a specific site. Others may require additional investigation to connect exposure to a legally relevant source.</p>
+</section>
+
+<section id="fact-patterns">
+<h2>Common fact patterns</h2>
+<p>One common fact pattern may involve a firefighter who trained with or used AFFF during flammable liquid fire drills, aircraft rescue operations, refinery incidents, fuel fires, or equipment testing and later developed kidney cancer or testicular cancer. Another may involve a military service member stationed at a base where AFFF was used regularly and later diagnosed with a PFAS-related condition.</p>
+<p>Airport workers, industrial safety workers, and people involved in fire suppression training may also have relevant histories. Some claims may involve residents near a base, airport, training center, or industrial site where PFAS contamination affected drinking water. Those claims may require water district records, public notices, environmental testing, or address history to evaluate.</p>
+<p>Useful details can include the facility name, years of work or residence, whether foam was handled directly, whether protective equipment was used, whether water contamination was documented, and when the medical condition was first diagnosed.</p>
+</section>
+
+<section id="harder-claims">
+<h2>What can make a claim harder to evaluate</h2>
+<p>AFFF claims can be harder to evaluate when the exposure source is unclear. PFAS chemicals are found in many products and environments, so a claim may need more than a general belief that PFAS exposure occurred. Missing employment records, uncertain training history, unknown foam type, or no documented contamination can make exposure harder to prove.</p>
+<p>Medical and timing issues can also complicate review. A diagnosis that is not currently being reviewed in the litigation, a very limited exposure history, a long gap with unclear records, or strong alternative risk factors may require closer analysis. These facts do not automatically rule out a claim, but they can affect how a lawyer evaluates it.</p>
+<p>Prior settlements, releases, workers’ compensation issues, military records, government contractor defenses, bankruptcy issues, or filing deadlines may also affect legal options. These questions are fact-specific and may vary by state.</p>
+</section>
+
+<section id="state-law">
+<h2>Why state law may still matter</h2>
+<p>Even when AFFF claims are coordinated in a federal MDL, state law may still matter for individual cases. A person’s residence, exposure site, work location, diagnosis location, and defendant contacts can affect which state’s law applies. State law may influence deadlines, discovery rules, damages, wrongful death claims, and proof requirements.</p>
+<p>Environmental exposure cases can also raise state-specific issues involving water districts, public notices, property records, occupational claims, or local contamination history. A national MDL can coordinate common issues, but individual claims still depend on the person’s facts and applicable law.</p>
+</section>
+
+<section id="lawyer-questions">
+<h2>Questions to ask before contacting a lawyer</h2>
+<ul>
+<li>Where and when was I exposed to AFFF or PFAS-contaminated water?</li>
+<li>Was the exposure tied to firefighting, military service, airport work, industrial work, or a contaminated site?</li>
+<li>Do I have employment, service, training, incident, or water testing records?</li>
+<li>What condition was diagnosed, and when was it first confirmed?</li>
+<li>Are there other possible PFAS or chemical exposure sources in my history?</li>
+<li>Which state’s deadline rules may apply to my exposure and diagnosis timeline?</li>
+</ul>
 </section>
 
 <section id="eligibility">

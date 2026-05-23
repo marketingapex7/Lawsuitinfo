@@ -69,8 +69,54 @@ faqs:
 
 <section id="status">
 <h2>Current litigation status</h2>
-<p>Depo-Provera claims are listed here as active / investigating. Some claims may be coordinated nationally, including through federal multidistrict litigation where applicable, while others may be evaluated through different legal processes.</p>
-<p>Litigation status can change. This guide should be read as a general case-status overview rather than a real-time court docket.</p>
+<p>Depo-Provera meningioma claims are active and being evaluated nationally. Federal Depo-Provera product liability cases have been centralized for coordinated pretrial proceedings in MDL No. 3140 in the Northern District of Florida. Centralization does not decide whether any individual claim is valid; it is a process for handling common factual issues more efficiently.</p>
+<p>The central issues include whether use of Depo-Provera or related depot medroxyprogesterone acetate injections is associated with meningioma, whether warnings were adequate, what defendants knew or should have known about the alleged risk, and how individual medical histories affect causation. Litigation status can change, so this guide should be read as a general case-status overview rather than a real-time court docket.</p>
+</section>
+
+<section id="key-issues">
+<h2>Key issues in the lawsuit</h2>
+<p>Depo-Provera lawsuits generally focus on allegations that users were not adequately warned about the risk of developing one or more meningiomas after receiving the injectable contraceptive. A meningioma is a tumor that forms in the membranes around the brain and spinal cord. Some meningiomas may be monitored, while others may require surgery, radiation, or ongoing neurological care.</p>
+<p>The main factual questions are likely to include how long a person used Depo-Provera, how many injections were received, whether the product was the brand-name medication or a generic equivalent, and whether the diagnosis involved a qualifying meningioma. Legal questions may include warning adequacy, product labeling, causation, statute of limitations, and whether a plaintiff can show that different warnings would have affected prescribing or treatment decisions.</p>
+<p>Defendants can dispute these claims in several ways. They may argue that the scientific evidence does not prove causation for a particular person, that warnings were legally adequate, that a person’s tumor had another explanation, or that the claim was filed too late. Those disputes are one reason individual medical and pharmacy records matter so much.</p>
+</section>
+
+<section id="claim-evaluation">
+<h2>How claims may be evaluated</h2>
+<p>A Depo-Provera claim review usually starts with the use timeline. Prescription records, pharmacy records, injection logs, clinic notes, OB/GYN records, primary care records, and insurance histories may help show when injections occurred and how long use continued. The more specific the timeline, the easier it may be to compare product use with diagnosis and treatment history.</p>
+<p>The diagnosis timeline is equally important. Brain imaging, neurosurgery records, pathology reports, neurology notes, radiation oncology records, and hospital records can help identify the tumor type, location, treatment, symptoms, and date of discovery. A lawyer may also want to know whether the tumor was incidental, symptomatic, surgically removed, recurrent, or treated with radiation.</p>
+<p>Causation review may look at dose, duration, timing, other hormone exposure, prior medical conditions, family history, and whether medical providers discussed Depo-Provera in connection with the diagnosis. None of those facts automatically proves or defeats a claim, but they can affect how the claim is evaluated.</p>
+</section>
+
+<section id="fact-patterns">
+<h2>Common fact patterns</h2>
+<p>One common fact pattern may involve a person who received Depo-Provera injections for contraception over several years through an OB/GYN office, community clinic, public health clinic, or primary care provider and later learned that a brain scan showed a meningioma. Another may involve a person who stopped using the medication years earlier but was diagnosed after headaches, vision changes, seizures, balance issues, or other neurological symptoms led to imaging.</p>
+<p>Some people may have records showing regular injection appointments every three months. Others may have gaps in use, changed providers, or received injections at different clinics. A claim may be easier to evaluate when there are dated records showing injections, the prescribing provider, the pharmacy or clinic involved, the diagnosis date, and the medical course after diagnosis.</p>
+<p>Families may also review claims where a person required brain surgery, radiation, long-term monitoring, or experienced lasting neurological effects. Wrongful death issues may require separate state-law analysis and are not something this page can evaluate.</p>
+</section>
+
+<section id="harder-claims">
+<h2>What can make a claim harder to evaluate</h2>
+<p>Missing injection records can make it harder to prove product use and duration. This can happen when clinics close, records are old, providers changed electronic systems, or the person cannot remember where injections were received. Insurance records, pharmacy records, patient portal downloads, and old appointment calendars may sometimes help fill gaps.</p>
+<p>Timing can also complicate review. A very short use history, an uncertain diagnosis date, or a tumor found long after use may require closer medical and legal analysis. Other medical factors, prior tumor history, genetic conditions, other hormone treatments, or incomplete pathology records may also affect causation review.</p>
+<p>Legal issues can make a claim harder as well. Prior releases, bankruptcy claims, estate issues, or filing deadlines may limit options. A lawyer would need to review the specific documents and state law before giving an opinion.</p>
+</section>
+
+<section id="state-law">
+<h2>Why state law may still matter</h2>
+<p>Even when cases are coordinated in a federal MDL, state law may still matter. A person’s claim may be evaluated under the law of the state where they lived, received injections, were diagnosed, or experienced injury. State law can affect filing deadlines, discovery rules, wrongful death claims, damages, and what warnings or proof may be required.</p>
+<p>For example, some deadlines may run from the date of diagnosis, while others may involve discovery of a possible connection between the product and injury. These rules are fact-specific. A national proceeding can coordinate common issues, but it does not erase state-law differences.</p>
+</section>
+
+<section id="lawyer-questions">
+<h2>Questions to ask before contacting a lawyer</h2>
+<ul>
+<li>Can I identify where and when I received Depo-Provera injections?</li>
+<li>Do I have pharmacy, clinic, OB/GYN, or insurance records showing use?</li>
+<li>What type of meningioma was diagnosed, and when was it first found?</li>
+<li>Did I have surgery, radiation, monitoring, or lasting neurological symptoms?</li>
+<li>How could my state’s filing deadline apply to my diagnosis timeline?</li>
+<li>What records would a lawyer need before giving an initial claim review?</li>
+</ul>
 </section>
 
 <section id="eligibility">
