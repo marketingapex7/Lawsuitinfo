@@ -1,6 +1,6 @@
 ---
 title: "Paraquat Parkinson's Lawsuit in Michigan"
-description: "Information for Michigan residents researching Paraquat Parkinson's lawsuits, alleged parkinson's disease claims, possible eligibility factors, records, deadlines, and legal options."
+description: "Information for Michigan residents researching Paraquat Parkinson's lawsuits, Parkinson's disease allegations, possible eligibility factors, records, deadlines, and legal options."
 lawsuit: "Paraquat Parkinson's"
 lawsuitSlug: "paraquat"
 state: "Michigan"
@@ -17,7 +17,7 @@ sponsorStatus: "available"
 faqs:
   -
     question: "What is the Paraquat Parkinson's lawsuit in Michigan about?"
-    answer: "This guide explains general information for Michigan residents researching Paraquat Parkinson's claims involving alleged parkinson's disease."
+    answer: "This guide explains general information for Michigan residents researching Paraquat Parkinson's claims involving Parkinson's disease allegations."
   -
     question: "Can a Michigan resident join a national lawsuit?"
     answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
@@ -49,7 +49,7 @@ faqs:
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>Michigan residents may want to speak with a lawyer if they used or were exposed to Paraquat herbicide products and later experienced Parkinson's disease or another injury being reviewed in these claims.</p>
+<p>Michigan residents may want to speak with a lawyer if they used or were exposed to Paraquat herbicide products and later experienced parkinson's disease.</p>
 <ul>
 <li>Use, prescription, employment, service, or exposure history.</li>
 <li>Medical diagnosis and treatment records.</li>

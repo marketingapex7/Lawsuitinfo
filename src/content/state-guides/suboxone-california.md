@@ -1,6 +1,6 @@
 ---
 title: "Suboxone Tooth Decay Lawsuit in California"
-description: "Information for California residents researching Suboxone Tooth Decay lawsuits, alleged severe dental injuries claims, possible eligibility factors, records, deadlines, and legal options."
+description: "Information for California residents researching Suboxone Tooth Decay lawsuits, severe tooth decay and dental injury allegations, possible eligibility factors, records, deadlines, and legal options."
 lawsuit: "Suboxone Tooth Decay"
 lawsuitSlug: "suboxone"
 state: "California"
@@ -17,7 +17,7 @@ sponsorStatus: "available"
 faqs:
   -
     question: "What is the Suboxone Tooth Decay lawsuit in California about?"
-    answer: "This guide explains general information for California residents researching Suboxone Tooth Decay claims involving alleged severe dental injuries."
+    answer: "This guide explains general information for California residents researching Suboxone Tooth Decay claims involving severe tooth decay and dental injury allegations."
   -
     question: "Can a California resident join a national lawsuit?"
     answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
@@ -49,7 +49,7 @@ faqs:
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>California residents may want to speak with a lawyer if they used or were exposed to Suboxone medication-assisted treatment products and later experienced Severe dental injuries or another injury being reviewed in these claims.</p>
+<p>California residents may want to speak with a lawyer if they used or were exposed to Suboxone medication-assisted treatment products and later experienced severe dental injuries.</p>
 <ul>
 <li>Use, prescription, employment, service, or exposure history.</li>
 <li>Medical diagnosis and treatment records.</li>

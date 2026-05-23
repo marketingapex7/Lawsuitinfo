@@ -26,6 +26,7 @@ const lawsuits = [
     categorySlug: "defective-drugs",
     status: "Active / Investigating",
     primaryInjury: "Meningioma brain tumors",
+    claimDescription: "meningioma brain tumor allegations",
     caseType: "Prescription drug injury claim",
     affected: "People who used Depo-Provera and later received a meningioma diagnosis.",
     product: "Depo-Provera birth control injections",
@@ -53,6 +54,7 @@ const lawsuits = [
     categorySlug: "defective-drugs",
     status: "Active / Investigating",
     primaryInjury: "Severe dental injuries",
+    claimDescription: "severe tooth decay and dental injury allegations",
     caseType: "Prescription drug dental injury claim",
     affected: "People who used Suboxone film or tablets and later experienced serious dental injury.",
     product: "Suboxone medication-assisted treatment products",
@@ -73,13 +75,15 @@ const lawsuits = [
     ]
   },
   {
-    lawsuit: "AFFF Firefighting Foam / PFAS",
-    title: "AFFF Firefighting Foam / PFAS Lawsuit Guide",
+    lawsuit: "AFFF Firefighting Foam",
+    title: "AFFF Firefighting Foam Lawsuit Guide",
     slug: "afff-firefighting-foam",
     category: "Toxic Exposure",
     categorySlug: "toxic-exposure",
     status: "Active / Investigating",
     primaryInjury: "PFAS exposure-related cancer and disease claims",
+    claimDescription: "kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims",
+    injuryExperiencePhrase: "kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, or another condition being reviewed in PFAS-related AFFF claims",
     caseType: "Toxic exposure injury claim",
     affected: "People with significant AFFF or PFAS exposure history and a related diagnosis.",
     product: "Aqueous film-forming firefighting foam and PFAS chemicals",
@@ -107,6 +111,7 @@ const lawsuits = [
     categorySlug: "toxic-exposure",
     status: "Active / Investigating",
     primaryInjury: "Parkinson's disease",
+    claimDescription: "Parkinson's disease allegations",
     caseType: "Pesticide exposure injury claim",
     affected: "People with paraquat exposure history who later developed Parkinson's disease.",
     product: "Paraquat herbicide products",
@@ -134,6 +139,7 @@ const lawsuits = [
     categorySlug: "toxic-exposure",
     status: "Active / Investigating",
     primaryInjury: "Non-Hodgkin lymphoma",
+    claimDescription: "non-Hodgkin lymphoma allegations",
     caseType: "Herbicide exposure injury claim",
     affected: "People with glyphosate exposure history who later developed non-Hodgkin lymphoma.",
     product: "Roundup and glyphosate-based herbicide products",
@@ -201,6 +207,18 @@ function faqObjects(items) {
   return items.map(([question, answer]) => ({ question, answer }));
 }
 
+function lowerInjuryPhrase(item) {
+  return item.primaryInjury.charAt(0).toLowerCase() + item.primaryInjury.slice(1);
+}
+
+function claimDescription(item) {
+  return item.claimDescription ?? `${lowerInjuryPhrase(item)} allegations`;
+}
+
+function injuryExperiencePhrase(item) {
+  return item.injuryExperiencePhrase ?? lowerInjuryPhrase(item);
+}
+
 function hubBody(item) {
   return `<section id="overview">
 <h2>What the lawsuit is about</h2>
@@ -211,14 +229,14 @@ function hubBody(item) {
 <section id="status">
 <h2>Current litigation status</h2>
 <p>${item.lawsuit} claims are listed here as ${item.status.toLowerCase()}. Some claims may be coordinated nationally, including through federal multidistrict litigation where applicable, while others may be evaluated through different legal processes.</p>
-<p>Manual update needed before publication: confirm the latest court status, MDL information, key rulings, and any settlement developments from current public sources.</p>
+<p>Litigation status can change. This guide should be read as a general case-status overview rather than a real-time court docket.</p>
 </section>
 
 <section id="eligibility">
 <h2>Who may be affected</h2>
 <ul>
 <li>People with documented use of or exposure to ${item.product}.</li>
-<li>People later diagnosed with ${item.primaryInjury} or a related injury described in active claims.</li>
+<li>People later diagnosed with ${injuryExperiencePhrase(item)}.</li>
 <li>People who can identify approximate dates, locations, providers, employers, or exposure circumstances.</li>
 <li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
 </ul>
@@ -235,7 +253,7 @@ function stateBody(item, state) {
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>${state.name} residents may want to speak with a lawyer if they used or were exposed to ${item.product} and later experienced ${item.primaryInjury} or another injury being reviewed in these claims.</p>
+<p>${state.name} residents may want to speak with a lawyer if they used or were exposed to ${item.product} and later experienced ${injuryExperiencePhrase(item)}.</p>
 <ul>
 <li>Use, prescription, employment, service, or exposure history.</li>
 <li>Medical diagnosis and treatment records.</li>
@@ -260,10 +278,10 @@ mkdirSync(join(root, "src/content/state-guides"), { recursive: true });
 mkdirSync(join(root, "src/content/categories"), { recursive: true });
 
 for (const item of lawsuits) {
-  const injuryLower = item.primaryInjury.charAt(0).toLowerCase() + item.primaryInjury.slice(1);
+  const injuryLower = lowerInjuryPhrase(item);
   const fm = {
     title: item.title,
-    description: `Plain-English guide to ${item.lawsuit} lawsuits, alleged ${injuryLower} claims, current case status, eligibility factors, and state-specific resources.`,
+    description: `Plain-English guide to ${item.lawsuit} lawsuits, ${claimDescription(item)}, current case status, eligibility factors, and state-specific resources.`,
     lawsuit: item.lawsuit,
     slug: item.slug,
     category: item.category,
@@ -276,8 +294,8 @@ for (const item of lawsuits) {
     injuries: item.injuries,
     timeline: [
       { label: "Product use or exposure", detail: `Claim evaluation usually starts with records showing use of or exposure to ${item.product}.` },
-      { label: "Diagnosis and treatment", detail: `Medical records can help connect the timeline between alleged exposure and ${item.primaryInjury}.` },
-      { label: "Current claim review", detail: "Manual update needed: add confirmed court milestones, MDL developments, or settlement updates after source review." }
+      { label: "Diagnosis and treatment", detail: `Medical records can help connect the timeline between alleged exposure and ${injuryExperiencePhrase(item)}.` },
+      { label: "Claim review", detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence." }
     ],
     lastUpdated,
     lastReviewed: lastUpdated,
@@ -290,7 +308,7 @@ for (const item of lawsuits) {
     const article = ["Illinois", "Ohio"].includes(state.name) ? "an" : "a";
     const sfm = {
       title: `${item.lawsuit} Lawsuit in ${state.name}`,
-      description: `Information for ${state.name} residents researching ${item.lawsuit} lawsuits, alleged ${injuryLower} claims, possible eligibility factors, records, deadlines, and legal options.`,
+      description: `Information for ${state.name} residents researching ${item.lawsuit} lawsuits, ${claimDescription(item)}, possible eligibility factors, records, deadlines, and legal options.`,
       lawsuit: item.lawsuit,
       lawsuitSlug: item.slug,
       state: state.name,
@@ -305,7 +323,7 @@ for (const item of lawsuits) {
       lastReviewed: lastUpdated,
       sponsorStatus: "available",
       faqs: faqObjects([
-        [`What is the ${item.lawsuit} lawsuit in ${state.name} about?`, `This guide explains general information for ${state.name} residents researching ${item.lawsuit} claims involving alleged ${injuryLower}.`],
+        [`What is the ${item.lawsuit} lawsuit in ${state.name} about?`, `This guide explains general information for ${state.name} residents researching ${item.lawsuit} claims involving ${claimDescription(item)}.`],
         [`Can ${article} ${state.name} resident join a national lawsuit?`, `Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts.`],
         [`Do ${state.name} deadlines matter?`, `Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts.`],
         ["What records should I gather?", "Medical records, exposure or use records, pharmacy records, employment records, treatment invoices, and diagnosis documents may help a lawyer review a claim."],

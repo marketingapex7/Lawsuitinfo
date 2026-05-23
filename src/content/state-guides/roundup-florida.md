@@ -1,6 +1,6 @@
 ---
 title: "Roundup Cancer Lawsuit in Florida"
-description: "Information for Florida residents researching Roundup Cancer lawsuits, alleged non-Hodgkin lymphoma claims, possible eligibility factors, records, deadlines, and legal options."
+description: "Information for Florida residents researching Roundup Cancer lawsuits, non-Hodgkin lymphoma allegations, possible eligibility factors, records, deadlines, and legal options."
 lawsuit: "Roundup Cancer"
 lawsuitSlug: "roundup"
 state: "Florida"
@@ -17,7 +17,7 @@ sponsorStatus: "available"
 faqs:
   -
     question: "What is the Roundup Cancer lawsuit in Florida about?"
-    answer: "This guide explains general information for Florida residents researching Roundup Cancer claims involving alleged non-Hodgkin lymphoma."
+    answer: "This guide explains general information for Florida residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
   -
     question: "Can a Florida resident join a national lawsuit?"
     answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
@@ -49,7 +49,7 @@ faqs:
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>Florida residents may want to speak with a lawyer if they used or were exposed to Roundup and glyphosate-based herbicide products and later experienced Non-Hodgkin lymphoma or another injury being reviewed in these claims.</p>
+<p>Florida residents may want to speak with a lawyer if they used or were exposed to Roundup and glyphosate-based herbicide products and later experienced non-Hodgkin lymphoma.</p>
 <ul>
 <li>Use, prescription, employment, service, or exposure history.</li>
 <li>Medical diagnosis and treatment records.</li>

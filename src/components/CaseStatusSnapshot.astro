@@ -1,0 +1,31 @@
+---
+import { formatDate } from "@lib/site";
+
+const { status, category, primaryInjury, lastUpdated, stateGuideCount } = Astro.props;
+---
+
+<aside class="rounded-lg border border-line bg-white p-4 shadow-sm">
+  <h2 class="text-lg font-bold text-ink">Case Status Snapshot</h2>
+  <dl class="mt-4 grid gap-3 text-sm">
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Current status</dt>
+      <dd class="mt-1 font-semibold text-ink">{status}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Case category</dt>
+      <dd class="mt-1 font-semibold text-ink">{category}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Primary alleged injury</dt>
+      <dd class="mt-1 font-semibold text-ink">{primaryInjury}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">State guides</dt>
+      <dd class="mt-1 font-semibold text-ink">{stateGuideCount} launch states</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Last updated</dt>
+      <dd class="mt-1 font-semibold text-ink">{formatDate(lastUpdated)}</dd>
+    </div>
+  </dl>
+</aside>

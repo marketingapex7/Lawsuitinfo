@@ -1,7 +1,7 @@
 ---
-title: "AFFF Firefighting Foam / PFAS Lawsuit in Georgia"
-description: "Information for Georgia residents researching AFFF Firefighting Foam / PFAS lawsuits, alleged pFAS exposure-related cancer and disease claims claims, possible eligibility factors, records, deadlines, and legal options."
-lawsuit: "AFFF Firefighting Foam / PFAS"
+title: "AFFF Firefighting Foam Lawsuit in Georgia"
+description: "Information for Georgia residents researching AFFF Firefighting Foam lawsuits, kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims, possible eligibility factors, records, deadlines, and legal options."
+lawsuit: "AFFF Firefighting Foam"
 lawsuitSlug: "afff-firefighting-foam"
 state: "Georgia"
 stateSlug: "georgia"
@@ -16,8 +16,8 @@ lastReviewed: "2026-05-20"
 sponsorStatus: "available"
 faqs:
   -
-    question: "What is the AFFF Firefighting Foam / PFAS lawsuit in Georgia about?"
-    answer: "This guide explains general information for Georgia residents researching AFFF Firefighting Foam / PFAS claims involving alleged pFAS exposure-related cancer and disease claims."
+    question: "What is the AFFF Firefighting Foam lawsuit in Georgia about?"
+    answer: "This guide explains general information for Georgia residents researching AFFF Firefighting Foam claims involving kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims."
   -
     question: "Can a Georgia resident join a national lawsuit?"
     answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
@@ -34,7 +34,7 @@ faqs:
     question: "Is a settlement guaranteed?"
     answer: "No. No settlement, claim value, or outcome is guaranteed."
   -
-    question: "Can defendants dispute AFFF Firefighting Foam / PFAS claims?"
+    question: "Can defendants dispute AFFF Firefighting Foam claims?"
     answer: "Yes. Defendants may dispute causation, warnings, liability, damages, or other issues."
   -
     question: "What should I ask a lawyer first?"
@@ -49,7 +49,7 @@ faqs:
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>Georgia residents may want to speak with a lawyer if they used or were exposed to Aqueous film-forming firefighting foam and PFAS chemicals and later experienced PFAS exposure-related cancer and disease claims or another injury being reviewed in these claims.</p>
+<p>Georgia residents may want to speak with a lawyer if they used or were exposed to Aqueous film-forming firefighting foam and PFAS chemicals and later experienced kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, or another condition being reviewed in PFAS-related AFFF claims.</p>
 <ul>
 <li>Use, prescription, employment, service, or exposure history.</li>
 <li>Medical diagnosis and treatment records.</li>

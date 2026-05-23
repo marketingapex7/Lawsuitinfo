@@ -28,7 +28,7 @@ Use these Cloudflare Pages build settings:
 
 Set these environment variables in Cloudflare Pages:
 
-- `SITE_URL`: the production origin, such as `https://example.com`
+- `SITE_URL`: the production origin, such as `https://lawsuitinfo.pages.dev`
 - `PUBLIC_CONTACT_EMAIL`: the public contact email shown on the site
 - `ASTRO_TELEMETRY_DISABLED`: `1`
 

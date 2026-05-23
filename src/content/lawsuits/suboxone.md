@@ -1,6 +1,6 @@
 ---
 title: "Suboxone Tooth Decay Lawsuit Guide"
-description: "Plain-English guide to Suboxone Tooth Decay lawsuits, alleged severe dental injuries claims, current case status, eligibility factors, and state-specific resources."
+description: "Plain-English guide to Suboxone Tooth Decay lawsuits, severe tooth decay and dental injury allegations, current case status, eligibility factors, and state-specific resources."
 lawsuit: "Suboxone Tooth Decay"
 slug: "suboxone"
 category: "Defective Drug"
@@ -29,10 +29,10 @@ timeline:
     detail: "Claim evaluation usually starts with records showing use of or exposure to Suboxone medication-assisted treatment products."
   -
     label: "Diagnosis and treatment"
-    detail: "Medical records can help connect the timeline between alleged exposure and Severe dental injuries."
+    detail: "Medical records can help connect the timeline between alleged exposure and severe dental injuries."
   -
-    label: "Current claim review"
-    detail: "Manual update needed: add confirmed court milestones, MDL developments, or settlement updates after source review."
+    label: "Claim review"
+    detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
 sponsorStatus: "available"
@@ -72,14 +72,14 @@ faqs:
 <section id="status">
 <h2>Current litigation status</h2>
 <p>Suboxone Tooth Decay claims are listed here as active / investigating. Some claims may be coordinated nationally, including through federal multidistrict litigation where applicable, while others may be evaluated through different legal processes.</p>
-<p>Manual update needed before publication: confirm the latest court status, MDL information, key rulings, and any settlement developments from current public sources.</p>
+<p>Litigation status can change. This guide should be read as a general case-status overview rather than a real-time court docket.</p>
 </section>
 
 <section id="eligibility">
 <h2>Who may be affected</h2>
 <ul>
 <li>People with documented use of or exposure to Suboxone medication-assisted treatment products.</li>
-<li>People later diagnosed with Severe dental injuries or a related injury described in active claims.</li>
+<li>People later diagnosed with severe dental injuries.</li>
 <li>People who can identify approximate dates, locations, providers, employers, or exposure circumstances.</li>
 <li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
 </ul>

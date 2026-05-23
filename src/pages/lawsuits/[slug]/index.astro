@@ -2,6 +2,7 @@
 import { getCollection, render } from "astro:content";
 import GuideLayout from "@layouts/GuideLayout.astro";
 import CaseStatusBadge from "@components/CaseStatusBadge.astro";
+import CaseStatusSnapshot from "@components/CaseStatusSnapshot.astro";
 import QuickFactsCard from "@components/QuickFactsCard.astro";
 import SponsorCard from "@components/SponsorCard.astro";
 import TableOfContents from "@components/TableOfContents.astro";
@@ -47,27 +48,15 @@ const toc = [
 ---
 
 <GuideLayout title={lawsuit.data.title} description={lawsuit.data.description} breadcrumbs={breadcrumbs} faqs={lawsuit.data.faqs}>
-  <header class="grid gap-6 lg:grid-cols-[1fr_320px]">
-    <div>
-      <CaseStatusBadge status={lawsuit.data.status} />
-      <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.title}</h1>
-      <p class="mt-4 text-lg leading-8 text-muted">{lawsuit.data.description}</p>
-      <div class="mt-5 flex flex-wrap gap-3 text-sm font-semibold text-muted">
-        <span>{lawsuit.data.category}</span>
-        <span>Primary injury: {lawsuit.data.primaryInjury}</span>
-        <span>Updated {formatDate(lawsuit.data.lastUpdated)}</span>
-      </div>
+  <header class="max-w-3xl">
+    <CaseStatusBadge status={lawsuit.data.status} />
+    <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.title}</h1>
+    <p class="mt-4 text-lg leading-8 text-muted">{lawsuit.data.description}</p>
+    <div class="mt-5 flex flex-wrap gap-3 text-sm font-semibold text-muted">
+      <span>{lawsuit.data.category}</span>
+      <span>Primary injury: {lawsuit.data.primaryInjury}</span>
+      <span>Updated {formatDate(lawsuit.data.lastUpdated)}</span>
     </div>
-    <QuickFactsCard
-      facts={[
-        { label: "Case type", value: lawsuit.data.caseType },
-        { label: "Primary alleged injury", value: lawsuit.data.primaryInjury },
-        { label: "Current status", value: lawsuit.data.status },
-        { label: "Who may be affected", value: lawsuit.data.affected },
-        { label: "Evidence commonly needed", value: lawsuit.data.evidence.slice(0, 3).join(", ") },
-        { label: "Related state guides", value: `${stateGuides.length} launch states` }
-      ]}
-    />
   </header>
 
   <div class="mt-8 grid gap-8 lg:grid-cols-[220px_1fr_300px]">
@@ -76,7 +65,28 @@ const toc = [
         <TableOfContents items={toc} />
       </div>
     </div>
-    <div class="prose-legal max-w-none">
+    <aside class="space-y-5 lg:order-3">
+      <QuickFactsCard
+        facts={[
+          { label: "Case type", value: lawsuit.data.caseType },
+          { label: "Primary alleged injury", value: lawsuit.data.primaryInjury },
+          { label: "Current status", value: lawsuit.data.status },
+          { label: "Who may be affected", value: lawsuit.data.affected },
+          { label: "Evidence commonly needed", value: lawsuit.data.evidence.join(", ") },
+          { label: "Related state guides", value: `${stateGuides.length} launch states` }
+        ]}
+      />
+      <CaseStatusSnapshot
+        status={lawsuit.data.status}
+        category={lawsuit.data.category}
+        primaryInjury={lawsuit.data.primaryInjury}
+        lastUpdated={lawsuit.data.lastUpdated}
+        stateGuideCount={stateGuides.length}
+      />
+      <SponsorCard status={lawsuit.data.sponsorStatus} lawsuit={lawsuit.data.lawsuit} sponsor={lawsuit.data.sponsor} />
+      <DisclaimerBox />
+    </aside>
+    <div class="prose-legal max-w-none lg:order-2">
       <Content />
 
       <section id="injuries">
@@ -125,10 +135,6 @@ const toc = [
           ))}
         </div>
       </section>
-    </div>
-    <div class="space-y-5">
-      <SponsorCard status={lawsuit.data.sponsorStatus} lawsuit={lawsuit.data.lawsuit} sponsor={lawsuit.data.sponsor} />
-      <DisclaimerBox />
     </div>
   </div>
 

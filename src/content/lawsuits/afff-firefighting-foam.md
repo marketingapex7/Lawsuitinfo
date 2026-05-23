@@ -1,7 +1,7 @@
 ---
-title: "AFFF Firefighting Foam / PFAS Lawsuit Guide"
-description: "Plain-English guide to AFFF Firefighting Foam / PFAS lawsuits, alleged pFAS exposure-related cancer and disease claims claims, current case status, eligibility factors, and state-specific resources."
-lawsuit: "AFFF Firefighting Foam / PFAS"
+title: "AFFF Firefighting Foam Lawsuit Guide"
+description: "Plain-English guide to AFFF Firefighting Foam lawsuits, kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims, current case status, eligibility factors, and state-specific resources."
+lawsuit: "AFFF Firefighting Foam"
 slug: "afff-firefighting-foam"
 category: "Toxic Exposure"
 categorySlug: "toxic-exposure"
@@ -28,10 +28,10 @@ timeline:
     detail: "Claim evaluation usually starts with records showing use of or exposure to Aqueous film-forming firefighting foam and PFAS chemicals."
   -
     label: "Diagnosis and treatment"
-    detail: "Medical records can help connect the timeline between alleged exposure and PFAS exposure-related cancer and disease claims."
+    detail: "Medical records can help connect the timeline between alleged exposure and kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, or another condition being reviewed in PFAS-related AFFF claims."
   -
-    label: "Current claim review"
-    detail: "Manual update needed: add confirmed court milestones, MDL developments, or settlement updates after source review."
+    label: "Claim review"
+    detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
 sponsorStatus: "available"
@@ -70,15 +70,15 @@ faqs:
 
 <section id="status">
 <h2>Current litigation status</h2>
-<p>AFFF Firefighting Foam / PFAS claims are listed here as active / investigating. Some claims may be coordinated nationally, including through federal multidistrict litigation where applicable, while others may be evaluated through different legal processes.</p>
-<p>Manual update needed before publication: confirm the latest court status, MDL information, key rulings, and any settlement developments from current public sources.</p>
+<p>AFFF Firefighting Foam claims are listed here as active / investigating. Some claims may be coordinated nationally, including through federal multidistrict litigation where applicable, while others may be evaluated through different legal processes.</p>
+<p>Litigation status can change. This guide should be read as a general case-status overview rather than a real-time court docket.</p>
 </section>
 
 <section id="eligibility">
 <h2>Who may be affected</h2>
 <ul>
 <li>People with documented use of or exposure to Aqueous film-forming firefighting foam and PFAS chemicals.</li>
-<li>People later diagnosed with PFAS exposure-related cancer and disease claims or a related injury described in active claims.</li>
+<li>People later diagnosed with kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, or another condition being reviewed in PFAS-related AFFF claims.</li>
 <li>People who can identify approximate dates, locations, providers, employers, or exposure circumstances.</li>
 <li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
 </ul>

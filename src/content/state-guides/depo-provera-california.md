@@ -1,6 +1,6 @@
 ---
 title: "Depo-Provera Lawsuit in California"
-description: "Information for California residents researching Depo-Provera lawsuits, alleged meningioma brain tumors claims, possible eligibility factors, records, deadlines, and legal options."
+description: "Information for California residents researching Depo-Provera lawsuits, meningioma brain tumor allegations, possible eligibility factors, records, deadlines, and legal options."
 lawsuit: "Depo-Provera"
 lawsuitSlug: "depo-provera"
 state: "California"
@@ -17,7 +17,7 @@ sponsorStatus: "available"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit in California about?"
-    answer: "This guide explains general information for California residents researching Depo-Provera claims involving alleged meningioma brain tumors."
+    answer: "This guide explains general information for California residents researching Depo-Provera claims involving meningioma brain tumor allegations."
   -
     question: "Can a California resident join a national lawsuit?"
     answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
@@ -49,7 +49,7 @@ faqs:
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>California residents may want to speak with a lawyer if they used or were exposed to Depo-Provera birth control injections and later experienced Meningioma brain tumors or another injury being reviewed in these claims.</p>
+<p>California residents may want to speak with a lawyer if they used or were exposed to Depo-Provera birth control injections and later experienced meningioma brain tumors.</p>
 <ul>
 <li>Use, prescription, employment, service, or exposure history.</li>
 <li>Medical diagnosis and treatment records.</li>
