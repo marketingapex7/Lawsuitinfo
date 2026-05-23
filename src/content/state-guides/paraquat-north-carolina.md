@@ -49,7 +49,7 @@ faqs:
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>North Carolina residents may want to speak with a lawyer if they used or were exposed to Paraquat herbicide products and later experienced parkinson's disease.</p>
+<p>North Carolina residents may want to speak with a lawyer if they used or were exposed to Paraquat herbicide products and later experienced Parkinson's disease.</p>
 <ul>
 <li>Use, prescription, employment, service, or exposure history.</li>
 <li>Medical diagnosis and treatment records.</li>

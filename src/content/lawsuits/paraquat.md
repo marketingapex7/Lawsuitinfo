@@ -27,7 +27,7 @@ timeline:
     detail: "Claim evaluation usually starts with records showing use of or exposure to Paraquat herbicide products."
   -
     label: "Diagnosis and treatment"
-    detail: "Medical records can help connect the timeline between alleged exposure and parkinson's disease."
+    detail: "Medical records can help connect the timeline between alleged exposure and Parkinson's disease."
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
@@ -77,7 +77,7 @@ faqs:
 <h2>Who may be affected</h2>
 <ul>
 <li>People with documented use of or exposure to Paraquat herbicide products.</li>
-<li>People later diagnosed with parkinson's disease.</li>
+<li>People later diagnosed with Parkinson's disease.</li>
 <li>People who can identify approximate dates, locations, providers, employers, or exposure circumstances.</li>
 <li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
 </ul>

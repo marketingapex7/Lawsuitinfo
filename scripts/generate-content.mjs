@@ -112,6 +112,7 @@ const lawsuits = [
     status: "Active / Investigating",
     primaryInjury: "Parkinson's disease",
     claimDescription: "Parkinson's disease allegations",
+    injuryExperiencePhrase: "Parkinson's disease",
     caseType: "Pesticide exposure injury claim",
     affected: "People with paraquat exposure history who later developed Parkinson's disease.",
     product: "Paraquat herbicide products",
