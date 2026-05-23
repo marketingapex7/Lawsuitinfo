@@ -23,6 +23,7 @@ injuries:
   - "Dental extractions"
   - "Gum damage"
   - "Dental restoration costs"
+settlementStatus: "Suboxone dental injury litigation appears to be in an active pretrial and claim-evaluation stage. No global personal-injury settlement is guaranteed or confirmed here. Settlement posture may depend on discovery, warnings evidence, product-form evidence, dental-record proof, bellwether planning, and rulings about causation and limitations issues. People researching a possible claim should avoid settlement calculators and focus on prescription history, dental records, treatment costs, and the date dental injuries were first discovered."
 timeline:
   -
     label: "Product use or exposure"
@@ -33,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-05-23"
+lastReviewed: "2026-05-23"
 faqs:
   -
     question: "What is the Suboxone tooth decay lawsuit about?"
@@ -66,6 +67,37 @@ faqs:
 <h2>What the lawsuit is about</h2>
 <p>Lawsuits allege that Suboxone film or tablets may be linked to severe tooth decay and that warnings about dental risks were not adequate for some users.</p>
 <p>Claims may involve Suboxone medication-assisted treatment products. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+</section>
+
+<section id="latest-update">
+<h2>Suboxone Tooth Decay Lawsuit Update: May 2026</h2>
+<p>Suboxone dental injury claims appear active and are being handled through coordinated federal litigation. Federal Suboxone film product liability cases are centralized in MDL No. 3092 in the Northern District of Ohio, where the court is managing common pretrial issues involving warnings, product form, dental injury allegations, and case-specific proof.</p>
+<p>As of May 2026, the litigation appears more active and pretrial-focused than settlement-focused. The major current issues include whether oral buprenorphine/naloxone products contributed to severe dental injuries, whether warnings were adequate, whether a person's dental records show a meaningful before-and-after pattern, and how other dental risk factors should be considered.</p>
+<p>Recent public updates continue to focus on MDL management, discovery, claim screening, and dental-record documentation. For people researching the case, this means that product history and dental history are central: pharmacy records, treatment program records, dental charts, X-rays, extraction records, and restoration invoices may all matter.</p>
+</section>
+
+<section id="case-status-snapshot">
+<h2>Case Status Snapshot</h2>
+<ul>
+<li><strong>Status:</strong> Active / Investigating</li>
+<li><strong>Primary injury:</strong> Severe dental injuries, including tooth decay, tooth loss, and extractions</li>
+<li><strong>Main product/exposure:</strong> Suboxone film and other oral buprenorphine/naloxone products dissolved in the mouth</li>
+<li><strong>MDL or court context:</strong> MDL No. 3092, Northern District of Ohio</li>
+<li><strong>Settlement status:</strong> No confirmed global personal-injury settlement; litigation remains in active pretrial development</li>
+<li><strong>Key deadline:</strong> Varies by state, injury date, discovery facts, warning timeline, and individual circumstances</li>
+<li><strong>State law relevance:</strong> State law may affect filing deadlines, warning claims, damages, comparative fault, and medical-expense proof</li>
+</ul>
+</section>
+
+<section id="litigation-updates">
+<h2>Litigation Updates and Timeline</h2>
+<ul>
+<li><strong>January 2022:</strong> The FDA warned that dental problems had been reported with medicines containing buprenorphine that dissolve in the mouth and required new warning information.</li>
+<li><strong>February 2024:</strong> The JPML centralized federal Suboxone film product liability cases in MDL No. 3092 in the Northern District of Ohio.</li>
+<li><strong>2025:</strong> MDL activity focused on pleadings, discovery, case organization, and procedures for handling common warning and dental-injury issues.</li>
+<li><strong>Early 2026:</strong> Public litigation updates continued to focus on discovery, case management, and identifying claims with adequate prescription and dental documentation.</li>
+<li><strong>May 2026:</strong> Claims remain active, with the practical focus on product history, dental records, injury timing, and state-law deadline issues.</li>
+</ul>
 </section>
 
 <section id="status">
@@ -117,6 +149,17 @@ faqs:
 <li>What dental work was recommended or completed, and what did it cost?</li>
 <li>When did I first notice tooth decay, tooth loss, or gum problems?</li>
 <li>How could state filing deadlines affect a dental injury claim?</li>
+</ul>
+</section>
+
+<section id="sources-status-notes">
+<h2>Sources and status notes</h2>
+<ul>
+<li>Federal court / MDL source to add later: Northern District of Ohio MDL No. 3092 docket materials and public case-management orders.</li>
+<li>JPML source to add later: MDL No. 3092 transfer order and related transfer materials.</li>
+<li>FDA source to add later: FDA 2022 buprenorphine dental-problems safety communication and prescribing-information updates.</li>
+<li>Public settlement/case update source to add later: neutral docket reports or public orders addressing discovery, bellwether planning, or claim-screening procedures.</li>
+<li>Last reviewed date: May 23, 2026.</li>
 </ul>
 </section>
 

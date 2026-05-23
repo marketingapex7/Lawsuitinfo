@@ -21,6 +21,7 @@ injuries:
   - "Neurological symptoms"
   - "Agricultural exposure history"
   - "Pesticide applicator exposure"
+settlementStatus: "Paraquat litigation remains active and has involved discovery, expert issues, case-specific proof, and public discussion of settlement posture. No global settlement is guaranteed or confirmed here. Settlement status may depend on rulings about expert testimony, exposure proof, bellwether planning, dismissal issues, and whether individual plaintiffs can document paraquat-specific exposure and Parkinson's disease diagnosis. People researching a claim should be cautious about settlement-value claims and should focus on exposure records, neurology records, and filing-deadline analysis."
 timeline:
   -
     label: "Product use or exposure"
@@ -31,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-05-23"
+lastReviewed: "2026-05-23"
 faqs:
   -
     question: "What is the Paraquat lawsuit about?"
@@ -64,6 +65,37 @@ faqs:
 <h2>What the lawsuit is about</h2>
 <p>Lawsuits allege that paraquat exposure may be associated with Parkinson's disease and that users were not adequately warned about neurological risks.</p>
 <p>Claims may involve Paraquat herbicide products. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+</section>
+
+<section id="latest-update">
+<h2>Paraquat Parkinson's Lawsuit Update: May 2026</h2>
+<p>Paraquat Parkinson's claims remain active in federal MDL No. 3004 in the Southern District of Illinois. The litigation involves allegations that exposure to paraquat herbicide is associated with Parkinson's disease, with defendants disputing causation, warnings, exposure proof, and liability.</p>
+<p>As of May 2026, the major current issues include expert causation, case-specific exposure proof, Parkinson's diagnosis documentation, and the legal effect of prior rulings or settlement discussions. The case is not a simple intake-only litigation; it requires detailed records showing how a person was exposed to paraquat and how the diagnosis timeline developed.</p>
+<p>Recent public updates have continued to focus on case management, expert issues, and whether claims have enough product-specific exposure evidence. For people researching the case, this means that general farm work may not be enough by itself. Records or witness information tying the person to paraquat mixing, loading, spraying, drift, equipment cleaning, or nearby application may be important.</p>
+</section>
+
+<section id="case-status-snapshot">
+<h2>Case Status Snapshot</h2>
+<ul>
+<li><strong>Status:</strong> Active / Investigating</li>
+<li><strong>Primary injury:</strong> Parkinson's disease</li>
+<li><strong>Main product/exposure:</strong> Paraquat herbicide exposure in agricultural, applicator, mixing, loading, spraying, or bystander settings</li>
+<li><strong>MDL or court context:</strong> MDL No. 3004, Southern District of Illinois</li>
+<li><strong>Settlement status:</strong> Public settlement discussions do not guarantee a global resolution or individual recovery</li>
+<li><strong>Key deadline:</strong> Varies by state, exposure history, diagnosis date, discovery facts, and prior claim activity</li>
+<li><strong>State law relevance:</strong> State law may affect limitations periods, product liability standards, damages, and wrongful death issues</li>
+</ul>
+</section>
+
+<section id="litigation-updates">
+<h2>Litigation Updates and Timeline</h2>
+<ul>
+<li><strong>2021:</strong> Federal Paraquat cases were centralized in MDL No. 3004 in the Southern District of Illinois for coordinated pretrial proceedings.</li>
+<li><strong>2022-2024:</strong> The MDL proceeded through discovery, expert development, and case-management work addressing common scientific and exposure issues.</li>
+<li><strong>2025:</strong> Public case activity continued to focus on expert causation, case-specific proof, and how individual exposure histories should be evaluated.</li>
+<li><strong>Early 2026:</strong> Public updates reflected continued attention to settlement posture and claim screening, but no guaranteed resolution for individual claims.</li>
+<li><strong>May 2026:</strong> The practical focus remains paraquat-specific exposure evidence, Parkinson's diagnosis records, and state-law deadline analysis.</li>
+</ul>
 </section>
 
 <section id="status">
@@ -116,6 +148,17 @@ faqs:
 <li>When did Parkinson's symptoms begin, and when was the diagnosis confirmed?</li>
 <li>Did I use or work around other pesticides that may need to be disclosed?</li>
 <li>Which state’s deadline rules may apply to my exposure history?</li>
+</ul>
+</section>
+
+<section id="sources-status-notes">
+<h2>Sources and status notes</h2>
+<ul>
+<li>Federal court / MDL source to add later: Southern District of Illinois Paraquat MDL No. 3004 page, orders, and public docket materials.</li>
+<li>JPML source to add later: MDL No. 3004 transfer order and related transfer materials.</li>
+<li>EPA / agency source to add later: paraquat regulatory materials, restricted-use pesticide information, and relevant safety materials.</li>
+<li>Public settlement/case update source to add later: neutral docket reports or public orders addressing expert rulings, case stays, settlement posture, or bellwether planning.</li>
+<li>Last reviewed date: May 23, 2026.</li>
 </ul>
 </section>
 

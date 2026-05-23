@@ -22,6 +22,7 @@ injuries:
   - "Thyroid disease"
   - "Ulcerative colitis"
   - "PFAS exposure-related claims"
+settlementStatus: "AFFF litigation is mature in some respects, especially for public water system contamination settlements, but personal injury claims remain separate and fact-specific. A water-provider settlement does not automatically resolve an individual cancer or disease claim. Personal injury settlement posture may depend on expert rulings, exposure category, disease category, proof of AFFF exposure, medical diagnosis, and state-law issues. No personal injury settlement, claim value, or outcome is guaranteed."
 timeline:
   -
     label: "Product use or exposure"
@@ -32,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-05-23"
+lastReviewed: "2026-05-23"
 faqs:
   -
     question: "What is the AFFF lawsuit about?"
@@ -65,6 +66,37 @@ faqs:
 <h2>What the lawsuit is about</h2>
 <p>Lawsuits allege that AFFF firefighting foam containing PFAS chemicals exposed firefighters, military personnel, workers, and communities to substances linked in claims to serious disease.</p>
 <p>Claims may involve Aqueous film-forming firefighting foam and PFAS chemicals. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+</section>
+
+<section id="latest-update">
+<h2>AFFF Firefighting Foam Lawsuit Update: May 2026</h2>
+<p>AFFF Firefighting Foam litigation remains active in federal MDL No. 2873 in the District of South Carolina. The litigation includes several categories of claims, including personal injury claims, public water system contamination claims, and other PFAS-related claims connected to aqueous film-forming foam.</p>
+<p>As of May 2026, the personal injury side remains focused on exposure proof, disease categories, expert causation issues, and whether a person's exposure can be tied to AFFF rather than another PFAS source. Some public water system claims have followed settlement tracks, but individual cancer and disease claims require separate analysis and should not be treated as automatically resolved.</p>
+<p>Recent public litigation activity has continued to emphasize case management, expert issues, and the separation between water-provider claims and individual injury claims. For people researching the case, the practical question is whether they can document where, when, and how they encountered PFAS-containing firefighting foam or PFAS-contaminated water, and whether their diagnosis fits the conditions being reviewed.</p>
+</section>
+
+<section id="case-status-snapshot">
+<h2>Case Status Snapshot</h2>
+<ul>
+<li><strong>Status:</strong> Active / Investigating</li>
+<li><strong>Primary injury:</strong> PFAS exposure-related cancer and disease claims</li>
+<li><strong>Main product/exposure:</strong> AFFF firefighting foam containing PFAS, including exposure through firefighting, military, airport, industrial, or water-contamination settings</li>
+<li><strong>MDL or court context:</strong> MDL No. 2873, District of South Carolina</li>
+<li><strong>Settlement status:</strong> Public water system settlements do not automatically resolve personal injury claims; individual injury settlement posture remains claim-specific</li>
+<li><strong>Key deadline:</strong> Varies by state, exposure site, diagnosis date, discovery facts, and claim type</li>
+<li><strong>State law relevance:</strong> State law may affect deadlines, damages, wrongful death claims, environmental exposure issues, and proof rules</li>
+</ul>
+</section>
+
+<section id="litigation-updates">
+<h2>Litigation Updates and Timeline</h2>
+<ul>
+<li><strong>2018:</strong> Federal AFFF cases were centralized in MDL No. 2873 in the District of South Carolina for coordinated pretrial proceedings.</li>
+<li><strong>2023-2024:</strong> Public water system settlement activity became a major part of the broader AFFF/PFAS litigation, while personal injury claims continued on separate tracks.</li>
+<li><strong>2025:</strong> Court management continued to address claim categories, expert issues, discovery, and the organization of personal injury claims.</li>
+<li><strong>Early 2026:</strong> Public status updates continued to focus on expert and case-management issues for disease categories and exposure pathways.</li>
+<li><strong>May 2026:</strong> The practical focus for potential personal injury claims remains exposure reconstruction, disease diagnosis, medical proof, and state-law deadlines.</li>
+</ul>
 </section>
 
 <section id="status">
@@ -116,6 +148,17 @@ faqs:
 <li>What condition was diagnosed, and when was it first confirmed?</li>
 <li>Are there other possible PFAS or chemical exposure sources in my history?</li>
 <li>Which state’s deadline rules may apply to my exposure and diagnosis timeline?</li>
+</ul>
+</section>
+
+<section id="sources-status-notes">
+<h2>Sources and status notes</h2>
+<ul>
+<li>Federal court / MDL source to add later: District of South Carolina AFFF MDL No. 2873 page, case-management orders, and public docket materials.</li>
+<li>JPML source to add later: AFFF transfer and coordination materials for MDL No. 2873.</li>
+<li>EPA / CDC / ATSDR source to add later: PFAS drinking-water, health, exposure, and AFFF disposal or transition materials.</li>
+<li>Public settlement/case update source to add later: public water settlement materials and separate personal injury case-status updates.</li>
+<li>Last reviewed date: May 23, 2026.</li>
 </ul>
 </section>
 

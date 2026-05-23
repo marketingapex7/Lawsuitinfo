@@ -21,6 +21,7 @@ injuries:
   - "Glyphosate exposure"
   - "Agricultural exposure"
   - "Landscaping or groundskeeping exposure"
+settlementStatus: "Roundup litigation is more mature and more settlement-focused than many newer mass torts, but that does not mean every claim is resolved or that any person has a guaranteed recovery. Public reports in 2026 described proposed settlement activity and legal disputes over how a broader settlement might proceed. Individual options may depend on diagnosis type, exposure history, prior settlement paperwork, opt-out or release issues, state deadlines, and ongoing court or appellate rulings."
 timeline:
   -
     label: "Product use or exposure"
@@ -31,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-05-23"
+lastReviewed: "2026-05-23"
 faqs:
   -
     question: "What is the Roundup lawsuit about?"
@@ -64,6 +65,37 @@ faqs:
 <h2>What the lawsuit is about</h2>
 <p>Lawsuits allege that glyphosate-based Roundup exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate.</p>
 <p>Claims may involve Roundup and glyphosate-based herbicide products. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+</section>
+
+<section id="latest-update">
+<h2>Roundup Cancer Lawsuit Update: May 2026</h2>
+<p>Roundup cancer litigation remains active, but it is a mature litigation with a long history of federal MDL proceedings, state court cases, appeals, and settlement activity. Federal Roundup product liability cases have been coordinated in MDL No. 2741 in the Northern District of California, while many claims have also proceeded through state courts or settlement-related processes.</p>
+<p>As of May 2026, Roundup appears more settlement-focused than newer mass torts, but public settlement activity does not mean every claim is resolved or that a person automatically qualifies. Current legal issues include proposed settlement procedures, objections or disputes over settlement structure, federal preemption arguments, warning-law questions, and how prior releases or opt-out decisions affect individual rights.</p>
+<p>Recent public news has focused on a proposed multibillion-dollar settlement and legal disputes that could affect timing, approval, or participation. For people researching the case, the important takeaway is to identify product-use history, diagnosis details, and any prior claim paperwork before assuming a new or additional legal option exists.</p>
+</section>
+
+<section id="case-status-snapshot">
+<h2>Case Status Snapshot</h2>
+<ul>
+<li><strong>Status:</strong> Active / Settlement-focused</li>
+<li><strong>Primary injury:</strong> Non-Hodgkin lymphoma</li>
+<li><strong>Main product/exposure:</strong> Roundup and other glyphosate-based herbicide products</li>
+<li><strong>MDL or court context:</strong> MDL No. 2741, Northern District of California, with related state court and settlement activity</li>
+<li><strong>Settlement status:</strong> Public proposed settlement activity exists, but approval, eligibility, timing, and individual outcomes remain fact-specific</li>
+<li><strong>Key deadline:</strong> Varies by state, diagnosis date, exposure history, discovery facts, prior settlement participation, and court orders</li>
+<li><strong>State law relevance:</strong> State law may affect warnings claims, damages, limitations periods, release issues, and wrongful death claims</li>
+</ul>
+</section>
+
+<section id="litigation-updates">
+<h2>Litigation Updates and Timeline</h2>
+<ul>
+<li><strong>2016:</strong> Federal Roundup cases were centralized in MDL No. 2741 in the Northern District of California for coordinated pretrial proceedings.</li>
+<li><strong>2018-2020:</strong> Early trials, appeals, and settlement discussions shaped the national litigation and brought broader attention to glyphosate-related non-Hodgkin lymphoma claims.</li>
+<li><strong>2020-2025:</strong> Many claims moved through settlement programs, state court proceedings, appeals, and continuing disputes over warnings and causation.</li>
+<li><strong>February 2026:</strong> Public reports described a proposed multibillion-dollar Roundup settlement intended to address large groups of current and future claims, subject to court process and objections.</li>
+<li><strong>May 2026:</strong> Public reports described legal disputes that could affect settlement timing, approval, deadlines, or the forum handling settlement-related issues.</li>
+</ul>
 </section>
 
 <section id="status">
@@ -117,6 +149,17 @@ faqs:
 <li>What type of non-Hodgkin lymphoma was diagnosed, and when?</li>
 <li>Have I signed any settlement, release, or claim paperwork before?</li>
 <li>Which state’s deadline rules may apply to my exposure and diagnosis timeline?</li>
+</ul>
+</section>
+
+<section id="sources-status-notes">
+<h2>Sources and status notes</h2>
+<ul>
+<li>Federal court / MDL source to add later: Northern District of California Roundup MDL No. 2741 page, public orders, and docket materials.</li>
+<li>JPML source to add later: MDL No. 2741 transfer order and related transfer materials.</li>
+<li>EPA / agency source to add later: glyphosate regulatory materials and pesticide-labeling materials where relevant.</li>
+<li>Public settlement/case update source to add later: neutral public reporting and court materials on proposed settlement activity, objections, appellate issues, and approval deadlines.</li>
+<li>Last reviewed date: May 23, 2026.</li>
 </ul>
 </section>
 

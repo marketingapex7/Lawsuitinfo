@@ -20,6 +20,7 @@ const lawsuits = defineCollection({
     affected: z.string(),
     evidence: z.array(z.string()),
     injuries: z.array(z.string()),
+    settlementStatus: z.string(),
     timeline: z.array(z.object({
       label: z.string(),
       detail: z.string()

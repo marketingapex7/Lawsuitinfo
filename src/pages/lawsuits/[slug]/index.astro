@@ -42,10 +42,14 @@ const breadcrumbs = [
 ];
 const toc = [
   { id: "overview", label: "What the lawsuit is about" },
+  { id: "latest-update", label: "Latest update" },
+  { id: "case-status-snapshot", label: "Case snapshot" },
+  { id: "litigation-updates", label: "Litigation updates" },
   { id: "status", label: "Current status" },
   { id: "eligibility", label: "Who may be affected" },
   { id: "injuries", label: "Injuries involved" },
   { id: "evidence", label: "Evidence usually needed" },
+  { id: "settlement", label: "Settlement status" },
   { id: "states", label: "State guides" },
   { id: "faq", label: "FAQ" }
 ];
@@ -130,7 +134,7 @@ const toc = [
 
       <section id="settlement">
         <h2>Settlement status</h2>
-        <p>No settlement is guaranteed. Settlement status can change as litigation develops, and any potential outcome depends on individual facts, evidence, court rulings, and negotiation posture.</p>
+        <p>{lawsuit.data.settlementStatus}</p>
       </section>
 
       <section id="deadlines">

@@ -22,6 +22,7 @@ injuries:
   - "Surgery"
   - "Radiation treatment"
   - "Neurological symptoms"
+settlementStatus: "Depo-Provera meningioma litigation appears to be in a developing pretrial stage rather than a mature settlement stage. No global settlement is guaranteed or confirmed here. Settlement posture may be influenced by expert rulings, bellwether planning, proof-of-use requirements, warning evidence, and how individual medical histories are evaluated. Anyone researching a possible claim should focus first on preserving injection records, diagnosis records, and state-deadline information rather than relying on settlement-value estimates."
 timeline:
   -
     label: "Product use or exposure"
@@ -32,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-05-23"
+lastReviewed: "2026-05-23"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
@@ -65,6 +66,37 @@ faqs:
 <h2>What the lawsuit is about</h2>
 <p>Lawsuits allege that long-term use of Depo-Provera may be associated with meningioma brain tumors and that users were not adequately warned about the risk.</p>
 <p>Claims may involve Depo-Provera birth control injections. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+</section>
+
+<section id="latest-update">
+<h2>Depo-Provera Lawsuit Update: May 2026</h2>
+<p>Depo-Provera meningioma claims appear active and still developing. The federal litigation is centralized in MDL No. 3140 in the Northern District of Florida, where the court is managing common pretrial issues for cases alleging that Depo-Provera or generic depot medroxyprogesterone acetate injections are connected to meningioma brain tumors.</p>
+<p>As of May 2026, the major legal issues include expert causation, warning evidence, proof of product use, diagnosis records, and how individual medical histories will be evaluated. The litigation appears more investigation- and pretrial-focused than settlement-focused at this stage. People researching the case should understand that an active MDL does not mean a claim is automatically valid or that a settlement is available.</p>
+<p>Recent public court information reflects ongoing case-management activity and scheduled proceedings rather than a final resolution. For potential claimants, the practical takeaway is to collect injection records, pharmacy records, OB/GYN or clinic records, imaging reports, pathology reports, and diagnosis timelines while also checking how state filing deadlines may apply.</p>
+</section>
+
+<section id="case-status-snapshot">
+<h2>Case Status Snapshot</h2>
+<ul>
+<li><strong>Status:</strong> Active / Investigating</li>
+<li><strong>Primary injury:</strong> Meningioma brain tumors</li>
+<li><strong>Main product/exposure:</strong> Depo-Provera and related depot medroxyprogesterone acetate injections</li>
+<li><strong>MDL or court context:</strong> MDL No. 3140, Northern District of Florida</li>
+<li><strong>Settlement status:</strong> No confirmed global settlement; litigation appears to be in active pretrial development</li>
+<li><strong>Key deadline:</strong> Filing deadlines vary by state, diagnosis date, discovery facts, and other claim-specific issues</li>
+<li><strong>State law relevance:</strong> State law may affect limitations periods, warning claims, damages, and wrongful death issues</li>
+</ul>
+</section>
+
+<section id="litigation-updates">
+<h2>Litigation Updates and Timeline</h2>
+<ul>
+<li><strong>February 2025:</strong> The Judicial Panel on Multidistrict Litigation centralized federal Depo-Provera cases in MDL No. 3140 in the Northern District of Florida for coordinated pretrial proceedings.</li>
+<li><strong>2025:</strong> Early MDL activity focused on case management, pleadings, transfer of related actions, and procedures for organizing common factual and legal issues.</li>
+<li><strong>Early 2026:</strong> Public case updates continued to focus on pretrial scheduling, proof-of-use issues, expert questions, and the shape of potential bellwether work.</li>
+<li><strong>May 2026:</strong> The litigation remains active, with public court materials reflecting continued case-management activity and upcoming proceedings.</li>
+<li><strong>What to watch next:</strong> Expert rulings, bellwether scheduling, warning evidence, and state-law deadline rulings may affect how claims are evaluated.</li>
+</ul>
 </section>
 
 <section id="status">
@@ -116,6 +148,17 @@ faqs:
 <li>Did I have surgery, radiation, monitoring, or lasting neurological symptoms?</li>
 <li>How could my state’s filing deadline apply to my diagnosis timeline?</li>
 <li>What records would a lawyer need before giving an initial claim review?</li>
+</ul>
+</section>
+
+<section id="sources-status-notes">
+<h2>Sources and status notes</h2>
+<ul>
+<li>Federal court / MDL source to add later: Northern District of Florida Depo-Provera MDL page and master docket materials.</li>
+<li>JPML source to add later: MDL No. 3140 transfer order and related transfer orders.</li>
+<li>FDA or medical source to add later: current Depo-Provera labeling and relevant safety communications or peer-reviewed medical literature.</li>
+<li>Public settlement/case update source to add later: neutral docket reports or public court orders addressing case management, expert issues, or bellwether scheduling.</li>
+<li>Last reviewed date: May 23, 2026.</li>
 </ul>
 </section>
 
