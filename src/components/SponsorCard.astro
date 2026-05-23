@@ -3,6 +3,9 @@ const { status = "available", lawsuit, state, sponsor } = Astro.props;
 
 const label = status === "sold" ? "Featured sponsor" : status === "reserved" ? "Sponsor slot reserved" : "Exclusive sponsor slot available";
 const title = state ? `${state} Sponsor Slot ${status === "available" ? "Available" : status === "reserved" ? "Reserved" : "Filled"}` : label;
+const availableCopy = state
+  ? "Only one legal sponsor is featured for each lawsuit/state guide. Sponsorship provides exclusive placement on this page and related guide sections."
+  : "National sponsor slot available for this lawsuit guide.";
 ---
 
 <aside class="rounded-lg border border-line bg-white p-4 shadow-sm">
@@ -20,7 +23,7 @@ const title = state ? `${state} Sponsor Slot ${status === "available" ? "Availab
     </div>
   ) : (
     <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
-      <p>One legal sponsor may be featured on this {lawsuit ? `${lawsuit} ` : ""}{state ? `guide for ${state}` : "guide"}.</p>
+      <p>{availableCopy}</p>
       <a class="inline-flex rounded-md bg-accent px-4 py-2 text-sm font-bold text-white hover:bg-accent-dark" href="/sponsorship/">View sponsorship information</a>
     </div>
   )}

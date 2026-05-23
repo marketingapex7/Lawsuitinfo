@@ -1,0 +1,58 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import { states } from "@lib/site";
+
+const stateGuides = await getCollection("state-guides");
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "States", url: "/states/" }
+];
+---
+
+<BaseLayout
+  title="State Lawsuit Guides"
+  description="Browse state-specific lawsuit guides for the 10 launch states, including sponsor availability, deadlines, records, and federal court context."
+  breadcrumbs={breadcrumbs}
+>
+  <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="max-w-3xl">
+      <h1 class="text-4xl font-black tracking-normal text-ink">State Lawsuit Guides</h1>
+      <p class="mt-4 text-lg leading-8 text-muted">
+        Browse state-specific lawsuit guide collections for the 10 launch states. Each state collection links to the active lawsuit guides available in that state.
+      </p>
+    </header>
+
+    <section class="mt-8 grid gap-4 md:grid-cols-2">
+      {states.map((state) => {
+        const guides = stateGuides
+          .filter((guide) => guide.data.stateSlug === state.slug)
+          .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+
+        return (
+          <article id={state.slug} class="scroll-mt-24 rounded-lg border border-line bg-white p-5 shadow-sm">
+            <div class="flex items-start justify-between gap-4">
+              <div>
+                <h2 class="text-xl font-bold text-ink">{state.name}</h2>
+                <p class="mt-1 text-sm font-semibold text-muted">{guides.length} lawsuit guides</p>
+              </div>
+              <span class="rounded-full border border-line bg-panel px-3 py-1 text-xs font-bold text-muted">{state.abbr}</span>
+            </div>
+            <div class="mt-4 grid gap-2">
+              {guides.map((guide) => (
+                <a
+                  class="rounded-md border border-line bg-panel px-3 py-3 text-sm font-bold text-ink hover:border-accent/50 hover:bg-white"
+                  href={`/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/`}
+                >
+                  {guide.data.title}
+                </a>
+              ))}
+            </div>
+          </article>
+        );
+      })}
+    </section>
+  </div>
+</BaseLayout>

@@ -42,6 +42,9 @@ const breadcrumbs = [
       <CaseStatusBadge status={guide.data.status} />
       <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{guide.data.title}</h1>
       <p class="mt-4 text-lg leading-8 text-muted">{guide.data.description}</p>
+      <p class="mt-4 rounded-lg border border-line bg-panel p-3 text-sm leading-6 text-muted">
+        This guide is informational only. Attorney advertising may appear on sponsored pages, and case status can change.
+      </p>
       <div class="mt-5 flex flex-wrap gap-3 text-sm font-semibold text-muted">
         <span>{guide.data.state}</span>
         <span>{guide.data.category}</span>
