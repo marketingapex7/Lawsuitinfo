@@ -13,7 +13,6 @@ primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
-sponsorStatus: "available"
 faqs:
   -
     question: "What is the Roundup Cancer lawsuit in Illinois about?"

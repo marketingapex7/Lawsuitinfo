@@ -13,7 +13,6 @@ primaryInjury: "Parkinson's disease"
 exposureContext: "State residents may have encountered paraquat through farms, crop handling, pesticide application, agricultural work, mixing, loading, or nearby work activities."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
-sponsorStatus: "available"
 faqs:
   -
     question: "What is the Paraquat Parkinson's lawsuit in Missouri about?"

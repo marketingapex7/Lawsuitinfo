@@ -13,7 +13,6 @@ primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
-sponsorStatus: "available"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit in Illinois about?"

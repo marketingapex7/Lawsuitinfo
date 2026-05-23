@@ -35,7 +35,6 @@ timeline:
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
-sponsorStatus: "available"
 faqs:
   -
     question: "What is the Suboxone tooth decay lawsuit about?"

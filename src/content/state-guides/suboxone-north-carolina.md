@@ -13,7 +13,6 @@ primaryInjury: "Severe dental injuries"
 exposureContext: "State residents may have received Suboxone through addiction treatment providers, medication-assisted treatment programs, clinics, pharmacies, and prescribing physicians."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
-sponsorStatus: "available"
 faqs:
   -
     question: "What is the Suboxone Tooth Decay lawsuit in North Carolina about?"

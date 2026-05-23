@@ -13,7 +13,6 @@ primaryInjury: "PFAS exposure-related cancer and disease claims"
 exposureContext: "State residents may have encountered AFFF or PFAS through fire departments, airports, military bases, industrial facilities, training areas, or water contamination."
 lastUpdated: "2026-05-20"
 lastReviewed: "2026-05-20"
-sponsorStatus: "available"
 faqs:
   -
     question: "What is the AFFF Firefighting Foam lawsuit in Michigan about?"

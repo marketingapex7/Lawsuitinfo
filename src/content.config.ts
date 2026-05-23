@@ -5,14 +5,6 @@ const faqSchema = z.object({
   answer: z.string()
 });
 
-const sponsorSchema = z.object({
-  name: z.string().optional(),
-  phone: z.string().optional(),
-  website: z.string().optional(),
-  logo: z.string().optional(),
-  description: z.string().optional()
-}).optional();
-
 const lawsuits = defineCollection({
   type: "content",
   schema: z.object({
@@ -34,8 +26,6 @@ const lawsuits = defineCollection({
     })),
     lastUpdated: z.string(),
     lastReviewed: z.string(),
-    sponsorStatus: z.enum(["available", "reserved", "sold"]),
-    sponsor: sponsorSchema,
     faqs: z.array(faqSchema)
   })
 });
@@ -57,8 +47,6 @@ const stateGuides = defineCollection({
     exposureContext: z.string(),
     lastUpdated: z.string(),
     lastReviewed: z.string(),
-    sponsorStatus: z.enum(["available", "reserved", "sold"]),
-    sponsor: sponsorSchema,
     faqs: z.array(faqSchema)
   })
 });
