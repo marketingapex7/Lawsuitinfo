@@ -2,7 +2,7 @@
 title: "Paraquat Parkinson's Lawsuit Guide"
 description: "Plain-English guide to Paraquat Parkinson's lawsuits, Parkinson's disease allegations, current case status, eligibility factors, and state-specific resources."
 lawsuit: "Paraquat Parkinson's"
-slug: "paraquat"
+urlSlug: "paraquat"
 category: "Toxic Exposure"
 categorySlug: "toxic-exposure"
 status: "Active / Investigating"

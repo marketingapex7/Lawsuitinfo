@@ -2,7 +2,7 @@
 title: "AFFF Firefighting Foam Lawsuit in Georgia"
 description: "Information for Georgia residents researching AFFF Firefighting Foam lawsuits, kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims, possible eligibility factors, records, deadlines, and legal options."
 lawsuit: "AFFF Firefighting Foam"
-lawsuitSlug: "afff-firefighting-foam"
+lawsuitSlug: "afff-pfas"
 state: "Georgia"
 stateSlug: "georgia"
 stateAbbr: "GA"

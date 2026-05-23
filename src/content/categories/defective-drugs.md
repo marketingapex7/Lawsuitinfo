@@ -1,7 +1,7 @@
 ---
 title: "Defective Drug Lawsuit Guides"
 description: "Medication-focused lawsuit guides involving alleged injuries, warnings, treatment records, and state-specific legal context."
-slug: "defective-drugs"
+urlSlug: "defective-drugs"
 name: "Defective Drugs"
 lawsuitSlugs:
   - "depo-provera"

@@ -1,12 +1,12 @@
 ---
 title: "Product Liability Lawsuit Guides"
 description: "A broad category page linking all launch injury lawsuit guides while the product liability library expands."
-slug: "product-liability"
+urlSlug: "product-liability"
 name: "Product Liability"
 lawsuitSlugs:
   - "depo-provera"
   - "suboxone"
-  - "afff-firefighting-foam"
+  - "afff-pfas"
   - "paraquat"
   - "roundup"
 lastUpdated: "2026-05-20"

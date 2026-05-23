@@ -1,0 +1,4 @@
+/lawsuits/afff-firefighting-foam/ /lawsuits/afff-pfas/ 301
+/lawsuits/afff-firefighting-foam/:state/ /lawsuits/afff-pfas/:state/ 301
+/afff-pfas/ /lawsuits/afff-pfas/ 301
+/afff-pfas/:state/ /lawsuits/afff-pfas/:state/ 301

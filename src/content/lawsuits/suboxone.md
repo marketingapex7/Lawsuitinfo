@@ -2,7 +2,7 @@
 title: "Suboxone Tooth Decay Lawsuit Guide"
 description: "Plain-English guide to Suboxone Tooth Decay lawsuits, severe tooth decay and dental injury allegations, current case status, eligibility factors, and state-specific resources."
 lawsuit: "Suboxone Tooth Decay"
-slug: "suboxone"
+urlSlug: "suboxone"
 category: "Defective Drug"
 categorySlug: "defective-drugs"
 status: "Active / Investigating"

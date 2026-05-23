@@ -2,7 +2,7 @@
 title: "AFFF Firefighting Foam Lawsuit in California"
 description: "Information for California residents researching AFFF Firefighting Foam lawsuits, kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims, possible eligibility factors, records, deadlines, and legal options."
 lawsuit: "AFFF Firefighting Foam"
-lawsuitSlug: "afff-firefighting-foam"
+lawsuitSlug: "afff-pfas"
 state: "California"
 stateSlug: "california"
 stateAbbr: "CA"

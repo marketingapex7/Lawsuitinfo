@@ -2,7 +2,7 @@
 title: "Roundup Cancer Lawsuit Guide"
 description: "Plain-English guide to Roundup Cancer lawsuits, non-Hodgkin lymphoma allegations, current case status, eligibility factors, and state-specific resources."
 lawsuit: "Roundup Cancer"
-slug: "roundup"
+urlSlug: "roundup"
 category: "Toxic Exposure"
 categorySlug: "toxic-exposure"
 status: "Active / Investigating"

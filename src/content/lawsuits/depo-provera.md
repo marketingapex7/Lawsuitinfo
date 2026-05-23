@@ -2,7 +2,7 @@
 title: "Depo-Provera Lawsuit Guide"
 description: "Plain-English guide to Depo-Provera lawsuits, meningioma brain tumor allegations, current case status, eligibility factors, and state-specific resources."
 lawsuit: "Depo-Provera"
-slug: "depo-provera"
+urlSlug: "depo-provera"
 category: "Defective Drug"
 categorySlug: "defective-drugs"
 status: "Active / Investigating"

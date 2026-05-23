@@ -2,7 +2,7 @@
 title: "AFFF Firefighting Foam Lawsuit Guide"
 description: "Plain-English guide to AFFF Firefighting Foam lawsuits, kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims, current case status, eligibility factors, and state-specific resources."
 lawsuit: "AFFF Firefighting Foam"
-slug: "afff-firefighting-foam"
+urlSlug: "afff-pfas"
 category: "Toxic Exposure"
 categorySlug: "toxic-exposure"
 status: "Active / Investigating"

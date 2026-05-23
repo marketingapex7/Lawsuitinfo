@@ -2,7 +2,7 @@
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import { site } from "@lib/site";
-import { absoluteUrl, breadcrumbSchema, faqSchema, webPageSchema, webSiteSchema } from "@lib/seo";
+import { absoluteUrl, articleSchema, breadcrumbSchema, faqSchema, webPageSchema, webSiteSchema } from "@lib/seo";
 import "../styles/global.css";
 
 const {
@@ -12,14 +12,17 @@ const {
   breadcrumbs = [],
   faqs = [],
   isHome = false,
-  noindex = false
+  noindex = false,
+  seoTitle,
+  article
 } = Astro.props;
 
 const canonical = absoluteUrl(canonicalPath);
-const pageTitle = isHome ? `${title} | ${site.name}` : `${title} | ${site.name}`;
+const pageTitle = `${seoTitle ?? title} | ${site.name}`;
 const schemas = [
   isHome ? webSiteSchema() : null,
   webPageSchema(title, description, canonical),
+  article ? articleSchema({ title: seoTitle ?? title, description, url: canonical, ...article }) : null,
   breadcrumbs.length > 0 ? breadcrumbSchema(breadcrumbs) : null,
   faqs.length > 0 ? faqSchema(faqs) : null
 ].filter(Boolean);

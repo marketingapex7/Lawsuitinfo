@@ -8,6 +8,7 @@ import RelatedStateGuides from "@components/RelatedStateGuides.astro";
 import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
 import { formatDate, getStateBySlug } from "@lib/site";
+import { stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
 
 export async function getStaticPaths() {
   const guides = await getCollection("state-guides");
@@ -33,9 +34,18 @@ const breadcrumbs = [
   { name: guide.data.lawsuit, url: `/lawsuits/${guide.data.lawsuitSlug}/` },
   { name: guide.data.state, url: `/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/` }
 ];
+const seoTitle = stateGuideSeoTitle(guide.data.lawsuit, guide.data.state);
+const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.state, guide.data.primaryInjury);
 ---
 
-<GuideLayout title={guide.data.title} description={guide.data.description} breadcrumbs={breadcrumbs} faqs={guide.data.faqs}>
+<GuideLayout
+  title={guide.data.title}
+  seoTitle={seoTitle}
+  description={seoDescription}
+  breadcrumbs={breadcrumbs}
+  faqs={guide.data.faqs}
+  article={{ dateModified: guide.data.lastUpdated }}
+>
   <header class="grid gap-6 lg:grid-cols-[1fr_320px]">
     <div>
       <CaseStatusBadge status={guide.data.status} />

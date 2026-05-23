@@ -1,10 +1,10 @@
 ---
 title: "Toxic Exposure Lawsuit Guides"
 description: "Toxic exposure lawsuit guides involving chemicals, pesticides, PFAS, herbicides, cancer claims, and neurological injury allegations."
-slug: "toxic-exposure"
+urlSlug: "toxic-exposure"
 name: "Toxic Exposure"
 lawsuitSlugs:
-  - "afff-firefighting-foam"
+  - "afff-pfas"
   - "paraquat"
   - "roundup"
 lastUpdated: "2026-05-20"

@@ -19,7 +19,7 @@ const lawsuits = defineCollection({
     title: z.string(),
     description: z.string(),
     lawsuit: z.string(),
-    slug: z.string().optional(),
+    urlSlug: z.string().optional(),
     category: z.string(),
     categorySlug: z.string(),
     status: z.string(),
@@ -68,7 +68,7 @@ const categories = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    slug: z.string().optional(),
+    urlSlug: z.string().optional(),
     name: z.string(),
     lawsuitSlugs: z.array(z.string()),
     lastUpdated: z.string()

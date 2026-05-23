@@ -12,6 +12,7 @@ import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
 import { entrySlug } from "@lib/content";
 import { formatDate } from "@lib/site";
+import { lawsuitMetaDescription, lawsuitSeoTitle } from "@lib/seo";
 
 export async function getStaticPaths() {
   const lawsuits = await getCollection("lawsuits");
@@ -29,7 +30,11 @@ const stateGuides = (await getCollection("state-guides"))
   .sort((a, b) => a.data.state.localeCompare(b.data.state));
 const related = (await getCollection("lawsuits"))
   .filter((item) => entrySlug(item) !== slug)
+  .sort((a, b) => Number(b.data.category === lawsuit.data.category) - Number(a.data.category === lawsuit.data.category))
   .slice(0, 4);
+const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
+const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury);
+const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
 const breadcrumbs = [
   { name: "Home", url: "/" },
   { name: "Lawsuits", url: "/lawsuits/" },
@@ -46,10 +51,17 @@ const toc = [
 ];
 ---
 
-<GuideLayout title={lawsuit.data.title} description={lawsuit.data.description} breadcrumbs={breadcrumbs} faqs={lawsuit.data.faqs}>
+<GuideLayout
+  title={lawsuit.data.title}
+  seoTitle={seoTitle}
+  description={seoDescription}
+  breadcrumbs={breadcrumbs}
+  faqs={lawsuit.data.faqs}
+  article={{ dateModified: lawsuit.data.lastUpdated }}
+>
   <header class="max-w-3xl">
     <CaseStatusBadge status={lawsuit.data.status} />
-    <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.title}</h1>
+    <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.lawsuit}</h1>
     <p class="mt-4 text-lg leading-8 text-muted">{lawsuit.data.description}</p>
     <p class="mt-4 rounded-lg border border-line bg-panel p-3 text-sm leading-6 text-muted">
       This guide is informational only. Advertising may be added in the future and will be clearly disclosed. Case status can change.
@@ -141,6 +153,6 @@ const toc = [
 
   <FAQSection faqs={lawsuit.data.faqs} />
   <RelatedStateGuides guides={stateGuides.slice(0, 6)} title={`${lawsuit.data.lawsuit} State Guides`} />
-  <RelatedLawsuits lawsuits={related} />
+  <RelatedLawsuits lawsuits={related} title={relatedTitle} />
   <SourceUpdateLog lastReviewed={lawsuit.data.lastReviewed} lastUpdated={lawsuit.data.lastUpdated} />
 </GuideLayout>

@@ -4,7 +4,8 @@ import BaseLayout from "@layouts/BaseLayout.astro";
 import LawsuitCard from "@components/LawsuitCard.astro";
 import CategoryCard from "@components/CategoryCard.astro";
 import StateGrid from "@components/StateGrid.astro";
-import { formatDate } from "@lib/site";
+import { entrySlug } from "@lib/content";
+import { formatDate, states } from "@lib/site";
 
 const lawsuits = (await getCollection("lawsuits")).sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
 const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1) ?? "2026-05-20";
@@ -44,6 +45,26 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       </div>
       <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {lawsuits.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
+      </div>
+      <div class="mt-6 rounded-lg border border-line bg-panel p-4">
+        <h3 class="text-base font-bold text-ink">Launch State Pages</h3>
+        <div class="mt-4 space-y-4">
+          {lawsuits.map((lawsuit) => {
+            const slug = entrySlug(lawsuit);
+            return (
+              <div>
+                <a class="text-sm font-bold text-accent-dark" href={`/lawsuits/${slug}/`}>{lawsuit.data.lawsuit}</a>
+                <div class="mt-2 flex flex-wrap gap-2">
+                  {states.map((state) => (
+                    <a class="rounded-md border border-line bg-white px-2.5 py-1.5 text-xs font-bold text-muted hover:border-accent/50 hover:text-ink" href={`/lawsuits/${slug}/${state.slug}/`}>
+                      {state.name}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            );
+          })}
+        </div>
       </div>
     </section>
 
