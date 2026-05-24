@@ -1,9 +1,9 @@
 export const site = {
-  name: "Injury Lawsuit Guide",
-  url: import.meta.env.SITE_URL ?? "https://lawsuitinfo.pages.dev",
+  name: "Lawsuit Status Guide",
+  url: import.meta.env.SITE_URL ?? "https://lawsuitstatusguide.com",
   description:
-    "Plain-English legal information about active mass tort and injury lawsuits and state-specific legal context.",
-  email: import.meta.env.PUBLIC_CONTACT_EMAIL ?? "contact@lawsuitinfo.com"
+    "Plain-English updates on active injury and mass tort lawsuits, including case status, alleged injuries, deadlines, and state-specific legal context.",
+  email: import.meta.env.PUBLIC_CONTACT_EMAIL ?? "contact@lawsuitstatusguide.com"
 };
 
 export const states = [

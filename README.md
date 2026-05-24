@@ -1,6 +1,6 @@
-# Injury Lawsuit Guide
+# Lawsuit Status Guide
 
-Static Astro site for public legal information about active mass tort and injury lawsuits.
+Static Astro site for plain-English updates on active injury and mass tort lawsuits.
 
 ## Local Development
 
@@ -28,7 +28,7 @@ Use these Cloudflare Pages build settings:
 
 Set these environment variables in Cloudflare Pages:
 
-- `SITE_URL`: the production origin, such as `https://lawsuitinfo.pages.dev`
+- `SITE_URL`: the production origin, such as `https://lawsuitstatusguide.com`
 - `PUBLIC_CONTACT_EMAIL`: the public contact email shown on the site
 - `ASTRO_TELEMETRY_DISABLED`: `1`
 
