@@ -7,7 +7,8 @@ const data = lawsuit.data ?? lawsuit;
 const slug = lawsuit.id ? entrySlug(lawsuit) : data.slug;
 ---
 
-<article class="rounded-lg border border-line bg-white p-4 shadow-sm">
+<article class="rounded-lg border border-line bg-white p-4 shadow-sm hover:border-accent/50">
+  <div class="mb-4 h-1 w-12 rounded-full bg-accent/80"></div>
   <div class="flex flex-wrap items-center gap-2">
     <CaseStatusBadge status={data.status} />
     <span class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{data.category}</span>

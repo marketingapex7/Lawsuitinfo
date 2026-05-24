@@ -16,7 +16,7 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
   description="Track lawsuit status, alleged injuries, eligibility factors, deadlines, and state-specific legal context for major mass tort and injury claims."
   isHome={true}
 >
-  <section class="border-b border-line bg-panel">
+  <section class="border-b border-line bg-[#eef7f8]">
     <div class="mx-auto max-w-6xl px-4 py-12 md:py-16">
       <div class="max-w-3xl">
         <p class="text-sm font-bold uppercase tracking-[0.12em] text-accent-dark">Mass tort and injury case-status guides</p>
@@ -35,9 +35,10 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
   </section>
 
   <div class="mx-auto max-w-6xl space-y-12 px-4 py-10">
-    <section>
+    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
       <div class="flex items-end justify-between gap-4">
         <div>
+          <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
           <h2 class="text-2xl font-bold text-ink">Featured Active Lawsuits</h2>
           <p class="mt-2 text-sm leading-6 text-muted">Neutral summaries for the five launch lawsuit guides.</p>
         </div>
@@ -46,7 +47,7 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {lawsuits.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
       </div>
-      <div class="mt-6 rounded-lg border border-line bg-panel p-4">
+      <div class="mt-6 rounded-lg border border-line bg-[#f1f5f9] p-4">
         <h3 class="text-base font-bold text-ink">Launch State Pages</h3>
         <div class="mt-4 space-y-4">
           {lawsuits.map((lawsuit) => {
@@ -68,7 +69,8 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       </div>
     </section>
 
-    <section>
+    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
+      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
       <h2 class="text-2xl font-bold text-ink">Browse by Category</h2>
       <div class="mt-5 grid gap-4 md:grid-cols-3">
         <CategoryCard title="Defective Drugs" description="Medication-focused claims involving alleged injuries after prescription or clinical use." href="/categories/defective-drugs/" />
@@ -77,7 +79,8 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       </div>
     </section>
 
-    <section>
+    <section class="rounded-lg border border-line bg-[#eef7f8] p-5">
+      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
       <h2 class="text-2xl font-bold text-ink">Browse by State</h2>
       <p class="mt-2 text-sm leading-6 text-muted">Launch state pages include state deadline considerations, records to gather, and federal court context.</p>
       <div class="mt-5">
@@ -85,7 +88,8 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       </div>
     </section>
 
-    <section class="rounded-lg border border-line bg-white p-5">
+    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
+      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
       <h2 class="text-2xl font-bold text-ink">How These Guides Work</h2>
       <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
         <p>Each lawsuit guide starts with a national overview, then links to state-specific context for the launch states.</p>
@@ -94,7 +98,8 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       </div>
     </section>
 
-    <section class="rounded-lg border border-line bg-panel p-5">
+    <section class="rounded-lg border border-accent/20 bg-[#eef7f8] p-5">
+      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
       <h2 class="text-2xl font-bold text-ink">Latest Update and Editorial Trust</h2>
       <p class="mt-3 text-sm leading-6 text-muted">
         Launch content was last updated {formatDate(latestUpdated)}. Each guide includes review dates, cautious legal language, source/update notes, and links to editorial policy.

@@ -2,11 +2,11 @@
 const { items = [] } = Astro.props;
 ---
 
-<nav class="rounded-lg border border-line bg-white p-4" aria-label="Page sections">
+<nav class="rounded-lg border border-line border-t-4 border-t-accent bg-white p-4 shadow-sm" aria-label="Page sections">
   <h2 class="text-sm font-bold uppercase tracking-[0.08em] text-muted">On this page</h2>
-  <ol class="mt-3 space-y-2 text-sm font-semibold text-ink">
+  <ol class="mt-3 space-y-2 text-sm font-semibold leading-6 text-ink">
     {items.map((item) => (
-      <li><a class="hover:text-accent-dark" href={`#${item.id}`}>{item.label}</a></li>
+      <li><a class="block rounded-md px-2 py-1 hover:bg-panel hover:text-accent-dark" href={`#${item.id}`}>{item.label}</a></li>
     ))}
   </ol>
 </nav>

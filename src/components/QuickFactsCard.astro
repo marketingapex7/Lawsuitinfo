@@ -2,7 +2,7 @@
 const { title = "Quick Facts", facts = [] } = Astro.props;
 ---
 
-<aside class="rounded-lg border border-line bg-panel p-4">
+<aside class="rounded-lg border border-line border-t-4 border-t-accent bg-white p-4 shadow-sm">
   <h2 class="text-lg font-bold text-ink">{title}</h2>
   <dl class="mt-4 divide-y divide-line">
     {facts.map((fact) => (

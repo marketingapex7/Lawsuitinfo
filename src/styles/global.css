@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  background: #ffffff;
+  background: #f7f9fb;
   color: var(--color-ink);
   font-family: var(--font-sans);
   text-rendering: optimizeLegibility;
@@ -36,10 +36,54 @@ a {
   line-height: 1.75;
 }
 
-.prose-legal :where(h2) {
+.guide-panel,
+.guide-panel-muted,
+.guide-panel-accent,
+.guide-panel-warning,
+.source-panel,
+.update-panel {
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.guide-panel {
+  background: #ffffff;
+  border: 1px solid var(--color-line);
+  border-left: 4px solid var(--color-accent);
+}
+
+.guide-panel-muted,
+.source-panel,
+.update-panel {
+  background: #f1f5f9;
+  border: 1px solid var(--color-line);
+}
+
+.guide-panel-accent {
+  background: #eef7f8;
+  border: 1px solid rgba(31, 111, 120, 0.18);
+}
+
+.guide-panel-warning {
+  background: #fff8e8;
+  border: 1px solid rgba(154, 106, 23, 0.25);
+}
+
+.guide-section {
   margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  font-size: 1.35rem;
+}
+
+.guide-section-title {
+  border-left: 4px solid var(--color-accent);
+  padding-left: 0.75rem;
+}
+
+.prose-legal :where(h2) {
+  margin-top: 2.25rem;
+  margin-bottom: 0.85rem;
+  border-left: 4px solid var(--color-accent);
+  padding-left: 0.75rem;
+  font-size: 1.45rem;
   font-weight: 750;
   line-height: 1.2;
   letter-spacing: 0;
@@ -66,4 +110,87 @@ a {
 
 .prose-legal :where(strong) {
   font-weight: 750;
+}
+
+.prose-legal section {
+  margin-top: 2rem;
+}
+
+.prose-legal section[id="latest-update"] {
+  background: #eef7f8;
+  border: 1px solid rgba(31, 111, 120, 0.18);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.prose-legal section[id="case-status-snapshot"] {
+  background: #ffffff;
+  border: 1px solid #dde3ea;
+  border-left: 4px solid var(--color-accent);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.prose-legal section[id="litigation-updates"] {
+  background: #f1f5f9;
+  border: 1px solid #dde3ea;
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.prose-legal section[id="settlement"] {
+  background: #fff8e8;
+  border: 1px solid rgba(154, 106, 23, 0.25);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.prose-legal section[id="sources-status-notes"] {
+  background: #ffffff;
+  border: 1px solid #dde3ea;
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.prose-legal section[id="sources-status-notes"] a,
+.prose-legal a {
+  color: var(--color-accent-dark);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.prose-legal section[id="overview"] {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.prose-legal section[id="overview"] h2 {
+  border-left: none;
+  padding-left: 0;
+}
+
+.prose-legal section[id="latest-update"] h2,
+.prose-legal section[id="case-status-snapshot"] h2,
+.prose-legal section[id="litigation-updates"] h2,
+.prose-legal section[id="settlement"] h2,
+.prose-legal section[id="sources-status-notes"] h2 {
+  margin-top: 0;
+}
+
+@media (min-width: 48rem) {
+  .guide-panel,
+  .guide-panel-muted,
+  .guide-panel-accent,
+  .guide-panel-warning,
+  .source-panel,
+  .update-panel,
+  .prose-legal section[id="latest-update"],
+  .prose-legal section[id="case-status-snapshot"],
+  .prose-legal section[id="litigation-updates"],
+  .prose-legal section[id="settlement"],
+  .prose-legal section[id="sources-status-notes"] {
+    padding: 1.25rem;
+  }
 }
