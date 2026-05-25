@@ -5,25 +5,76 @@ import Breadcrumbs from "@components/Breadcrumbs.astro";
 import { states } from "@lib/site";
 
 const stateGuides = await getCollection("state-guides");
+const lawsuits = await getCollection("lawsuits");
 const breadcrumbs = [
   { name: "Home", url: "/" },
   { name: "States", url: "/states/" }
+];
+const faqs = [
+  {
+    question: "Why do state lawsuit pages matter if many mass torts are handled nationally?",
+    answer:
+      "Many mass tort claims may be coordinated in federal proceedings or reviewed by national firms, but state law can still affect filing deadlines, discovery rules, wrongful death issues, and claim evaluation."
+  },
+  {
+    question: "Does living in a state mean a lawsuit must be filed there?",
+    answer:
+      "Not necessarily. A claim may be evaluated locally, filed in federal court, coordinated through multidistrict litigation, or handled through another legal process depending on the facts and case posture."
+  },
+  {
+    question: "What should readers use these state guides for?",
+    answer:
+      "The state guides are informational resources for understanding lawsuit status, possible eligibility factors, records commonly reviewed, deadline considerations, and federal court context. They are not legal advice."
+  }
 ];
 ---
 
 <BaseLayout
   title="State Lawsuit Guides"
-  description="Browse state-specific lawsuit guides for the 10 launch states, including deadlines, records, and federal court context."
+  description="Browse state lawsuit guides covering active mass tort claims, state deadlines, federal court context, records, and local legal considerations."
   breadcrumbs={breadcrumbs}
+  faqs={faqs}
 >
   <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
     <Breadcrumbs items={breadcrumbs} />
     <header class="max-w-3xl">
       <h1 class="text-4xl font-black tracking-normal text-ink">State Lawsuit Guides</h1>
       <p class="mt-4 text-lg leading-8 text-muted">
-        Browse state-specific lawsuit guide collections for the 10 launch states. Each state collection links to the active lawsuit guides available in that state.
+        Browse state-specific lawsuit guide collections for active injury and mass tort claims. These pages explain lawsuit status, possible eligibility factors, records commonly reviewed, deadline considerations, and federal court context for each launch state.
       </p>
     </header>
+
+    <section class="mt-8 grid gap-4 md:grid-cols-3">
+      <div class="guide-panel-accent">
+        <h2 class="text-lg font-bold text-ink">What State Guides Cover</h2>
+        <p class="mt-3 text-sm leading-6 text-muted">
+          Each state page links a specific lawsuit to local deadline issues, common records, exposure context, and courts that may be relevant to federal filings.
+        </p>
+      </div>
+      <div class="guide-panel">
+        <h2 class="text-lg font-bold text-ink">State Law Still Matters</h2>
+        <p class="mt-3 text-sm leading-6 text-muted">
+          Even nationally coordinated cases may involve state statutes of limitation, discovery rules, damages law, wrongful death rules, and fact-specific filing questions.
+        </p>
+      </div>
+      <div class="guide-panel-muted">
+        <h2 class="text-lg font-bold text-ink">Informational Only</h2>
+        <p class="mt-3 text-sm leading-6 text-muted">
+          These guides do not provide legal advice or decide whether a person has a claim. A licensed attorney can evaluate individual facts and deadlines.
+        </p>
+      </div>
+    </section>
+
+    <section class="mt-8 rounded-lg border border-line bg-white p-5 shadow-sm">
+      <h2 class="guide-section-title text-xl font-bold text-ink">Browse Launch States</h2>
+      <div class="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+        {states.map((state) => (
+          <a class="rounded-md border border-line bg-panel px-3 py-3 text-sm font-bold text-ink hover:border-accent/50 hover:bg-white" href={`#${state.slug}`}>
+            {state.name}
+          </a>
+        ))}
+      </div>
+    </section>
 
     <section class="mt-8 grid gap-4 md:grid-cols-2">
       {states.map((state) => {
@@ -40,6 +91,15 @@ const breadcrumbs = [
               </div>
               <span class="rounded-full border border-line bg-panel px-3 py-1 text-xs font-bold text-muted">{state.abbr}</span>
             </div>
+            <p class="mt-4 text-sm leading-6 text-muted">
+              {state.name} guides cover state-specific deadline considerations, records to gather, and lawsuit context for residents researching active mass tort claims.
+            </p>
+            <div class="mt-4 rounded-md border border-line bg-panel p-3">
+              <h3 class="text-sm font-bold text-ink">Federal court context</h3>
+              <p class="mt-2 text-sm leading-6 text-muted">
+                Relevant federal districts include {state.courts.join(", ")}. Living in {state.name} does not necessarily mean a claim would be filed only in state court.
+              </p>
+            </div>
             <div class="mt-4 grid gap-2">
               {guides.map((guide) => (
                 <a
@@ -53,6 +113,48 @@ const breadcrumbs = [
           </article>
         );
       })}
+    </section>
+
+    <section class="mt-10 grid gap-6 lg:grid-cols-[1fr_360px]">
+      <div class="rounded-lg border border-line bg-white p-5 shadow-sm">
+        <h2 class="guide-section-title text-xl font-bold text-ink">National Lawsuit Guides</h2>
+        <p class="mt-4 text-sm leading-6 text-muted">
+          Start with a national guide for the lawsuit overview, then use the state pages for deadline context, records, and local filing considerations.
+        </p>
+        <div class="mt-4 grid gap-2 sm:grid-cols-2">
+          {lawsuits
+            .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit))
+            .map((lawsuit) => (
+              <a class="rounded-md border border-line bg-panel px-3 py-3 text-sm font-bold text-ink hover:border-accent/50 hover:bg-white" href={`/lawsuits/${lawsuit.data.slug}/`}>
+                {lawsuit.data.lawsuit} Lawsuit Guide
+              </a>
+            ))}
+        </div>
+      </div>
+
+      <aside class="source-panel">
+        <h2 class="text-xl font-bold text-ink">Review Notes</h2>
+        <p class="mt-4 text-sm leading-6 text-muted">
+          State pages are reviewed for neutral wording, cautious deadline language, and consistency with the national lawsuit guides.
+        </p>
+        <div class="mt-4 grid gap-2">
+          <a class="text-sm font-bold text-accent-dark underline underline-offset-3" href="/editorial-policy/">Editorial Policy</a>
+          <a class="text-sm font-bold text-accent-dark underline underline-offset-3" href="/legal-disclaimer/">Legal Disclaimer</a>
+          <a class="text-sm font-bold text-accent-dark underline underline-offset-3" href="/lawsuits/">All Lawsuit Guides</a>
+        </div>
+      </aside>
+    </section>
+
+    <section class="mt-10 rounded-lg border border-line bg-[#f1f5f9] p-5">
+      <h2 class="guide-section-title text-xl font-bold text-ink">State Guide FAQ</h2>
+      <div class="mt-4 grid gap-3">
+        {faqs.map((faq) => (
+          <details class="rounded-md border border-line bg-white p-4">
+            <summary class="cursor-pointer text-sm font-bold text-ink">{faq.question}</summary>
+            <p class="mt-3 text-sm leading-6 text-muted">{faq.answer}</p>
+          </details>
+        ))}
+      </div>
     </section>
   </div>
 </BaseLayout>
