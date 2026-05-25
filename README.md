@@ -28,9 +28,10 @@ Use these Cloudflare Pages build settings:
 
 Set these environment variables in Cloudflare Pages:
 
-- `SITE_URL`: the production origin, such as `https://lawsuitstatusguide.com`
 - `PUBLIC_CONTACT_EMAIL`: the public contact email shown on the site
 - `ASTRO_TELEMETRY_DISABLED`: `1`
+
+Canonical URLs, sitemap URLs, robots.txt, and schema are fixed to `https://lawsuitstatusguide.com` in the site configuration.
 
 This project uses static output only. It does not need the Cloudflare Astro adapter, Pages Functions, Workers, a database, a CMS, payments, or login.
 

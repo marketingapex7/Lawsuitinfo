@@ -1,6 +1,6 @@
 export const site = {
   name: "Lawsuit Status Guide",
-  url: import.meta.env.SITE_URL ?? "https://lawsuitstatusguide.com",
+  url: "https://lawsuitstatusguide.com",
   description:
     "Plain-English updates on active injury and mass tort lawsuits, including case status, alleged injuries, deadlines, and state-specific legal context.",
   email: import.meta.env.PUBLIC_CONTACT_EMAIL ?? "contact@lawsuitstatusguide.com"
