@@ -1,6 +1,6 @@
 ---
 title: "Paraquat Parkinson's Lawsuit Guide"
-description: "Plain-English guide to Paraquat Parkinson's lawsuits, Parkinson's disease allegations, current case status, eligibility factors, and state-specific resources."
+description: "Plain-English guide to Paraquat Parkinson's lawsuits, alleged herbicide exposure claims, qualifications, settlement status, deadlines, and state resources."
 lawsuit: "Paraquat Parkinson's"
 urlSlug: "paraquat"
 category: "Toxic Exposure"
@@ -21,7 +21,7 @@ injuries:
   - "Neurological symptoms"
   - "Agricultural exposure history"
   - "Pesticide applicator exposure"
-settlementStatus: "Paraquat litigation remains active and has involved discovery, expert issues, case-specific proof, and public discussion of settlement posture. No global settlement is guaranteed or confirmed here. Settlement status may depend on rulings about expert testimony, exposure proof, bellwether planning, dismissal issues, and whether individual plaintiffs can document paraquat-specific exposure and Parkinson's disease diagnosis. People researching a claim should be cautious about settlement-value claims and should focus on exposure records, neurology records, and filing-deadline analysis."
+settlementStatus: "Paraquat litigation remains active and has involved discovery, expert issues, case-specific proof, and public discussion of settlement posture. No global settlement is guaranteed or confirmed here. For people researching Paraquat settlement status, the key point is that settlement posture can change and does not determine whether any individual person qualifies. Settlement status may depend on rulings about expert testimony, exposure proof, bellwether planning, dismissal issues, and whether individual plaintiffs can document paraquat-specific exposure and Parkinson's disease diagnosis. People researching a claim should be cautious about settlement-value claims and should focus on exposure records, neurology records, and filing-deadline analysis."
 timeline:
   -
     label: "Product use or exposure"
@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-05-23"
-lastReviewed: "2026-05-23"
+lastUpdated: "2026-05-30"
+lastReviewed: "2026-05-30"
 faqs:
   -
     question: "What is the Paraquat lawsuit about?"
@@ -44,6 +44,15 @@ faqs:
   -
     question: "Does Parkinson's disease prove a claim?"
     answer: "No. Eligibility depends on exposure, diagnosis, timing, records, and applicable law."
+  -
+    question: "Who may qualify for a Paraquat Parkinson's lawsuit?"
+    answer: "Possible claim review may involve people with documented paraquat exposure who later developed Parkinson's disease, but qualification depends on exposure proof, diagnosis records, timing, state law, and litigation posture."
+  -
+    question: "What is the Paraquat lawsuit settlement status?"
+    answer: "Paraquat litigation remains active and settlement posture can change. No settlement is guaranteed, and individual review may depend on exposure records, diagnosis records, deadlines, and court rulings."
+  -
+    question: "What Paraquat exposure records may matter?"
+    answer: "Applicator records, farm employment records, pesticide purchase records, spray logs, crop records, co-worker statements, safety training records, and equipment-cleaning records may be relevant."
   -
     question: "What records may help?"
     answer: "Employment, applicator, purchase, exposure, medical, and neurology records may be useful."
@@ -87,6 +96,26 @@ faqs:
 </ul>
 </section>
 
+<section id="paraquat-parkinsons-lawsuit">
+<h2>Paraquat Parkinson's lawsuit overview</h2>
+<p>The Paraquat Parkinson's lawsuit is a toxic-exposure product liability litigation. Plaintiffs generally allege that paraquat exposure is associated with Parkinson's disease and that warnings or safety information were inadequate. Defendants dispute the allegations and may challenge exposure, causation, warnings, liability, and damages.</p>
+<p>Paraquat is different from many consumer products because it is a restricted-use herbicide. EPA materials describe paraquat as subject to certified-applicator restrictions and training requirements. In claim review, that can make the details of the work setting especially important: who was certified, who mixed or loaded the product, who applied it, who cleaned equipment, and who worked near treated areas.</p>
+<p>A person researching this litigation should distinguish between general pesticide exposure and paraquat-specific exposure. Many agricultural workers have used or worked near multiple herbicides over time. A Paraquat claim usually requires more than a general history of farm work; it may require facts or records tying the person to paraquat products, application tasks, spray drift, equipment cleaning, or work near areas where paraquat was applied.</p>
+</section>
+
+<section id="paraquat-qualifications">
+<h2>Paraquat lawsuit qualifications</h2>
+<p>There is no automatic qualification rule for a Paraquat lawsuit. A claim review may consider whether the person had documented exposure to paraquat and later received a Parkinson's disease diagnosis. The review may also consider the intensity and duration of exposure, diagnosis timing, medical records, state filing deadlines, and whether the facts fit the claims currently being reviewed.</p>
+<ul>
+<li><strong>Exposure proof:</strong> Records or witness information showing mixing, loading, applying, transporting, storing, cleaning equipment, disposing of materials, or working near paraquat application.</li>
+<li><strong>Work setting:</strong> Farm labor, crop production, pesticide application, co-op work, commercial spraying, equipment maintenance, or other agricultural work where paraquat was used.</li>
+<li><strong>Diagnosis proof:</strong> Neurology records, movement-disorder specialist notes, medication history, symptom history, and records confirming Parkinson's disease rather than another condition.</li>
+<li><strong>Timing:</strong> Approximate exposure years, first symptoms, diagnosis date, and any delays between exposure and disease recognition.</li>
+<li><strong>Legal context:</strong> State deadlines, prior claim activity, court rulings, and whether the case posture allows the claim to move forward.</li>
+</ul>
+<p>Because Paraquat litigation has involved expert and case-specific proof issues, a person with a possible claim should expect detailed questions about product identification, exposure route, diagnosis, and timing.</p>
+</section>
+
 <section id="litigation-updates">
 <h2>Litigation Updates and Timeline</h2>
 <ul>
@@ -98,16 +127,23 @@ faqs:
 </ul>
 </section>
 
+<section id="paraquat-settlement-status">
+<h2>Paraquat settlement status</h2>
+<p>Paraquat settlement status is a common search topic, but public discussion of settlement posture should not be read as a promise of payment or a decision about any individual claim. Paraquat cases remain active, and settlement posture may be affected by expert rulings, case-management orders, bellwether planning, dismissal issues, appeals, and the strength of individual exposure and diagnosis proof.</p>
+<p>Compared with a simple settled claim program, Paraquat litigation has required careful review of scientific causation and product-specific exposure evidence. That means a person researching settlement status should focus first on whether the claim can be documented: paraquat use or exposure, work setting, Parkinson's diagnosis, symptom timing, and state deadline issues.</p>
+<p>Settlement-value language online can be misleading. This site does not provide settlement calculators, estimates, or guaranteed payout ranges. Case value, if any, depends on individual facts, legal rulings, records, and any settlement process that may apply.</p>
+</section>
+
 <section id="status">
 <h2>Current litigation status</h2>
 <p>Paraquat Parkinson's claims are active and have been coordinated in federal multidistrict litigation. The federal Paraquat MDL, MDL No. 3004, is in the Southern District of Illinois and involves allegations that exposure to paraquat herbicide is associated with Parkinson's disease.</p>
-<p>The litigation has involved discovery, expert issues, case-specific proof, and ongoing dispute over whether individual plaintiffs can show legally sufficient exposure and causation. Defendants generally dispute that paraquat caused any individual person’s Parkinson's disease and may challenge exposure history, scientific causation, warnings, and damages. Litigation status can change, so this guide is a general overview rather than a live docket report.</p>
+<p>The litigation has involved discovery, expert issues, case-specific proof, and ongoing dispute over whether individual plaintiffs can show legally sufficient exposure and causation. Defendants generally dispute that paraquat caused any individual person's Parkinson's disease and may challenge exposure history, scientific causation, warnings, and damages. Litigation status can change, so this guide is a general overview rather than a live docket report.</p>
 </section>
 
 <section id="key-issues">
 <h2>Key issues in the lawsuit</h2>
 <p>Paraquat lawsuits generally allege that people who mixed, loaded, applied, handled, or worked around paraquat later developed Parkinson's disease and that warnings about neurological risks were inadequate. Paraquat is a restricted-use herbicide, so many claims involve agricultural settings, pesticide application, crop work, farm labor, commercial spraying, or work near treated fields.</p>
-<p>The key factual issues include whether the person was actually exposed to paraquat, how often exposure occurred, whether the person handled concentrated product or spray drift, what protective equipment was used, and whether the exposure timeline fits the Parkinson's diagnosis. Legal issues may include warning adequacy, causation, state-law deadlines, and whether the person’s proof is specific enough to connect their condition to paraquat exposure.</p>
+<p>The key factual issues include whether the person was actually exposed to paraquat, how often exposure occurred, whether the person handled concentrated product or spray drift, what protective equipment was used, and whether the exposure timeline fits the Parkinson's diagnosis. Legal issues may include warning adequacy, causation, state-law deadlines, and whether the person's proof is specific enough to connect their condition to paraquat exposure.</p>
 <p>Defendants may argue that Parkinson's disease has many possible causes, that exposure was too limited or too poorly documented, that the person used other pesticides, or that warnings and regulatory controls were adequate. Plaintiffs may point to repeated occupational exposure, applicator history, work records, witness statements, and neurology records.</p>
 <p>Another recurring issue is the difference between general agricultural work and documented paraquat exposure. A person may have worked around crops for years, but a claim review often needs more detail about whether paraquat itself was used, who handled it, how it was applied, and whether the person had direct or bystander contact.</p>
 </section>
@@ -126,17 +162,31 @@ faqs:
 <p>Claims may be easier to evaluate when there is a repeated exposure history, a clear job role, approximate years of application, and a well-documented Parkinson's diagnosis. Sporadic or uncertain exposure can still be reviewed, but it may require more supporting detail.</p>
 </section>
 
+<section id="paraquat-herbicide-exposure">
+<h2>Paraquat herbicide exposure examples</h2>
+<p>Paraquat herbicide exposure may be alleged in several agricultural settings. Examples can include mixing concentrate, loading spray tanks, applying herbicide, cleaning nozzles or tanks, repairing contaminated equipment, transporting opened containers, handling rinsate, disposing of containers, or working near spray operations. Bystander or drift exposure may also be reviewed, but those claims may require strong detail about timing, location, and proximity.</p>
+<p>EPA paraquat training materials use a broad idea of "use" that can include pre-application tasks, application, transportation or storage of opened containers, cleaning equipment, and disposal of pesticide-related materials. For legal claim review, those tasks may help frame questions about who handled the product, what protective equipment was used, whether a certified applicator was involved, and how often exposure occurred.</p>
+<p>Exposure examples are not the same as eligibility. A claim still may depend on product identification, dose or frequency, diagnosis, timing, state law, and whether the litigation is accepting similar fact patterns.</p>
+</section>
+
 <section id="harder-claims">
 <h2>What can make a claim harder to evaluate</h2>
 <p>Paraquat claims can be difficult when the person cannot identify the product used. Many farms use multiple herbicides and pesticides, and memory alone may not be enough to distinguish paraquat from other products. Missing employment records, no applicator records, vague dates, or lack of witnesses can make exposure proof harder.</p>
 <p>Medical complexity can also affect review. Parkinsonism can have causes other than Parkinson's disease, and records may need to distinguish idiopathic Parkinson's disease from other neurological diagnoses. Family history, age, other chemical exposures, head injury, medication-related symptoms, or incomplete neurology records may be relevant.</p>
-<p>Legal obstacles may include state filing deadlines, prior releases, workers’ compensation issues, bankruptcy or estate issues, and whether claims were affected by prior court rulings or settlement processes. These questions require individualized legal review.</p>
+<p>Legal obstacles may include state filing deadlines, prior releases, workers' compensation issues, bankruptcy or estate issues, and whether claims were affected by prior court rulings or settlement processes. These questions require individualized legal review.</p>
 </section>
 
 <section id="state-law">
 <h2>Why state law may still matter</h2>
 <p>Even when Paraquat cases are coordinated nationally, state law may affect individual claims. The state where exposure occurred, where the person lived, where the diagnosis was made, or where the product was purchased can matter. State law may influence statutes of limitation, discovery rules, product liability standards, damages, and wrongful death claims.</p>
 <p>A person with exposure across multiple farms or states may need a more careful choice-of-law review. National case coordination can manage common discovery, but it does not eliminate state-specific deadlines or proof rules.</p>
+</section>
+
+<section id="paraquat-deadlines">
+<h2>Paraquat lawsuit deadline considerations</h2>
+<p>Paraquat lawsuit deadlines vary by state. A deadline may depend on exposure dates, symptom onset, diagnosis date, when the person learned or reasonably could have learned of a possible claim, wrongful death facts, and other legal issues. Because Paraquat claims often involve exposure years before diagnosis, timing questions can be especially important.</p>
+<p>A person researching a Paraquat claim should gather first and last known exposure dates, employers or farms involved, pesticide application seasons, symptom history, Parkinson's diagnosis date, treatment dates, and any prior claim paperwork. Those facts may help an attorney evaluate whether a statute of limitations, discovery rule, or other deadline issue applies.</p>
+<p>This guide does not give state-specific legal deadlines. The state guide links below provide local context, but an attorney licensed in the relevant jurisdiction can evaluate how the deadline rules may apply to an individual timeline.</p>
 </section>
 
 <section id="lawyer-questions">
@@ -147,7 +197,7 @@ faqs:
 <li>Do I have applicator records, purchase records, employment records, or witnesses?</li>
 <li>When did Parkinson's symptoms begin, and when was the diagnosis confirmed?</li>
 <li>Did I use or work around other pesticides that may need to be disclosed?</li>
-<li>Which state’s deadline rules may apply to my exposure history?</li>
+<li>Which state deadline rules may apply to my exposure history?</li>
 </ul>
 </section>
 
@@ -158,7 +208,7 @@ faqs:
 <li><strong>Agency or medical context:</strong> Claim review may involve pesticide exposure records, agricultural work history, applicator records, medical diagnosis records, and public pesticide-regulation materials. EPA maintains public information on <a href="https://www.epa.gov/ingredients-used-pesticide-products/paraquat-dichloride">paraquat dichloride</a> and <a href="https://www.epa.gov/pesticide-worker-safety/paraquat-dichloride-training-certified-applicators">paraquat applicator training</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation involves disputed scientific, causation, exposure, and warning issues.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 23, 2026.</li>
+<li><strong>Last reviewed:</strong> May 30, 2026.</li>
 </ul>
 </section>
 
