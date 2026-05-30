@@ -54,6 +54,12 @@ const toc = [
   { id: "states", label: "State guides" },
   { id: "faq", label: "FAQ" }
 ];
+
+if (slug === "roundup") {
+  toc.splice(3, 0, { id: "roundup-eligibility", label: "Who qualifies" });
+  toc.splice(6, 0, { id: "when-roundup-lawsuit-started", label: "When it started" });
+  toc.splice(12, 0, { id: "roundup-statute-limitations", label: "Statute of limitations" });
+}
 ---
 
 <GuideLayout
