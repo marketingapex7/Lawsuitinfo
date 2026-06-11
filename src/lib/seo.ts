@@ -60,8 +60,7 @@ export function datasetSchema({
       name: site.name,
       url: site.url
     },
-    isAccessibleForFree: true,
-    license: `${site.url}/legal-disclaimer/`
+    isAccessibleForFree: true
   };
   if (dateModified) schema.dateModified = dateModified;
   if (variables && variables.length > 0) {

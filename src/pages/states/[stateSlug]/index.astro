@@ -35,16 +35,16 @@ const breadcrumbs = [
 
 const seoTitle = `Mass Tort Lawsuits in ${state.name} - Active Cases, Deadlines & Courts`;
 const description =
-  `${state.name} mass tort lawsuit guide: ${guides.length} active cases affecting ${state.name} residents, the state injury statute of limitations` +
+  `${state.name} mass tort lawsuit guide: ${guides.length} major cases affecting ${state.name} residents, the state injury statute of limitations` +
   `${limitation ? ` (${limitation.piYears} years)` : ""}, federal court districts, and what local filing deadlines mean for a claim.`;
 
 const faqs = [
   {
     question: `What mass tort lawsuits affect ${state.name} residents?`,
     answer:
-      `${state.name} residents are actively researching ${guides.length} major mass tort and injury cases covered on this site, including ` +
+      `This site covers ${guides.length} major mass tort and injury cases for ${state.name} residents, including ` +
       `${guides.slice(0, 4).map((g) => g.data.lawsuit).join(", ")}${guides.length > 4 ? ", and others" : ""}. ` +
-      `Each links to a ${state.name}-specific guide covering status, records, and deadline context.`
+      `Status varies by case: some remain in active intake, while others — such as Camp Lejeune Justice Act claims — have closed filing windows. Each links to a ${state.name}-specific guide stating its current status, records, and deadline context.`
   },
   {
     question: `How long do ${state.name} residents have to file an injury lawsuit?`,
@@ -72,7 +72,7 @@ const datasetVariables = limitation
       ...(limitation.discoveryNote ? [{ name: "Discovery rule", value: limitation.discoveryNote }] : []),
       ...(limitation.reposeNote ? [{ name: "Statute of repose", value: limitation.reposeNote }] : []),
       { name: "Relevant federal districts", value: state.courts.join("; ") },
-      { name: "Active mass tort cases covered", value: String(guides.length) }
+      { name: "Mass tort cases covered", value: String(guides.length) }
     ]
   : [];
 
@@ -107,7 +107,7 @@ const extraSchemas = limitation
         <span class="rounded-full border border-line bg-panel px-3 py-1 text-xs font-bold text-muted">{state.abbr}</span>
       </div>
       <p class="mt-4 text-lg leading-8 text-muted">
-        A guide for {state.name} residents researching active mass tort and injury lawsuits: which cases are accepting review, how {state.name} filing deadlines work, the federal courts involved, and links to {state.name}-specific guides for each case.
+        A guide for {state.name} residents researching major mass tort and injury lawsuits: each case's current status, how {state.name} filing deadlines work, the federal courts involved, and links to {state.name}-specific guides for each case. Status varies by case — some remain in active intake, while others (such as Camp Lejeune Justice Act claims) have closed filing windows, as each guide notes.
       </p>
       <p class="mt-4 rounded-lg border border-line bg-panel p-3 text-sm leading-6 text-muted">
         This page is general legal information only. It does not provide legal advice, does not create an attorney-client relationship, and case status can change. Last updated {newestUpdate ? formatDate(newestUpdate) : "2026"}.
@@ -153,7 +153,7 @@ const extraSchemas = limitation
     </section>
 
     <section id="cases" class="mt-8">
-      <h2 class="guide-section-title text-xl font-bold text-ink">Active lawsuit guides for {state.name} residents</h2>
+      <h2 class="guide-section-title text-xl font-bold text-ink">Lawsuit guides for {state.name} residents</h2>
       <div class="mt-4 grid gap-3 sm:grid-cols-2">
         {guides.map((guide) => (
           <a
