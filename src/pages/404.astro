@@ -1,0 +1,37 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { entrySlug } from "@lib/content";
+
+const lawsuits = (await getCollection("lawsuits")).sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+---
+
+<BaseLayout
+  title="Page Not Found"
+  description="The page you are looking for does not exist or has moved. Browse active lawsuit status guides instead."
+  noindex={true}
+>
+  <section class="mx-auto max-w-3xl px-4 py-16 text-center">
+    <p class="text-sm font-bold uppercase tracking-[0.12em] text-accent-dark">Error 404</p>
+    <h1 class="mt-3 text-4xl font-black leading-tight text-ink">Page not found</h1>
+    <p class="mt-4 text-lg leading-8 text-muted">
+      The page you are looking for does not exist or may have moved. It may also relate to a lawsuit we have not covered yet.
+    </p>
+    <div class="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
+      <a class="rounded-md bg-accent px-5 py-3 text-sm font-bold text-white hover:bg-accent-dark" href="/lawsuits/">Browse Lawsuit Guides</a>
+      <a class="rounded-md border border-line px-5 py-3 text-sm font-bold text-ink hover:bg-panel" href="/states/">Guides by State</a>
+    </div>
+    <div class="mt-12 text-left">
+      <h2 class="text-lg font-bold text-ink">Active lawsuit guides</h2>
+      <ul class="mt-4 grid gap-2 sm:grid-cols-2">
+        {lawsuits.map((lawsuit) => (
+          <li>
+            <a class="font-semibold text-accent-dark hover:underline" href={`/lawsuits/${entrySlug(lawsuit)}/`}>
+              {lawsuit.data.title}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
