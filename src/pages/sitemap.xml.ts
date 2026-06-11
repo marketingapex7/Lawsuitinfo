@@ -27,7 +27,9 @@ export async function GET() {
   const stateGuides = await getCollection("state-guides");
   const categories = await getCollection("categories");
 
-  // Hub pages inherit the newest content date — they re-render whenever any guide updates.
+  // "/" and "/lawsuits/" visibly surface per-guide "last updated" dates and orderings,
+  // so their rendered content genuinely changes when any guide updates. Pages without a
+  // meaningful change date (policies, /states/ index) omit lastmod rather than fabricate one.
   const newestContentDate = [
     ...lawsuits.map((entry) => entry.data.lastUpdated),
     ...stateGuides.map((entry) => entry.data.lastUpdated)
@@ -38,7 +40,7 @@ export async function GET() {
   const entries: SitemapEntry[] = [
     { loc: "/", lastmod: newestContentDate },
     { loc: "/lawsuits/", lastmod: newestContentDate },
-    { loc: "/states/", lastmod: newestContentDate },
+    { loc: "/states/" },
     { loc: "/editorial-policy/" },
     { loc: "/legal-disclaimer/" },
     { loc: "/advertising-disclosure/" },
