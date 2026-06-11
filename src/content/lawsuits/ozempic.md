@@ -22,7 +22,7 @@ injuries:
   - "Ileus and intestinal pseudo-obstruction"
   - "Bowel obstruction"
   - "Severe, persistent vomiting with complications"
-  - "NAION vision loss (emerging second wave)"
+  - "NAION vision loss (separate proceeding — MDL-3163)"
 settlementStatus: "No settlement program has been announced in the GLP-1 litigation as of June 2026. The court has scheduled Rule 702 (expert admissibility) hearings for September 10-18, 2026 under Case Management Order No. 32, with summary judgment briefing completing in August 2026; those rulings are the next events expected to shape settlement posture, and bellwether trial dates have not yet been set. Industry reporting has described very large potential exposure estimates if plaintiffs prevail, but estimates are not promises: no settlement, claim value, or outcome is guaranteed for any individual, and defendants continue to dispute the claims."
 timeline:
   -
