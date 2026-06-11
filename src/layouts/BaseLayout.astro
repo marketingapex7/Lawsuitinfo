@@ -14,17 +14,20 @@ const {
   isHome = false,
   noindex = false,
   seoTitle,
-  article
+  article,
+  speakableSelectors = [],
+  extraSchemas = []
 } = Astro.props;
 
 const canonical = absoluteUrl(canonicalPath);
 const pageTitle = `${seoTitle ?? title} | ${site.name}`;
 const schemas = [
   isHome ? webSiteSchema() : null,
-  webPageSchema(title, description, canonical),
+  webPageSchema(title, description, canonical, speakableSelectors),
   article ? articleSchema({ title: seoTitle ?? title, description, url: canonical, ...article }) : null,
   breadcrumbs.length > 0 ? breadcrumbSchema(breadcrumbs) : null,
-  faqs.length > 0 ? faqSchema(faqs) : null
+  faqs.length > 0 ? faqSchema(faqs) : null,
+  ...extraSchemas
 ].filter(Boolean);
 ---
 

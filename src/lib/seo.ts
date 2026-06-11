@@ -9,14 +9,69 @@ export function absoluteUrl(pathname: string) {
   return new URL(pathname, site.url).toString();
 }
 
-export function webPageSchema(title: string, description: string, url: string) {
-  return {
+export function webPageSchema(
+  title: string,
+  description: string,
+  url: string,
+  speakableSelectors?: string[]
+) {
+  const schema: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: title,
     description,
     url
   };
+  if (speakableSelectors && speakableSelectors.length > 0) {
+    schema.speakable = {
+      "@type": "SpeakableSpecification",
+      cssSelector: speakableSelectors
+    };
+  }
+  return schema;
+}
+
+export type DatasetVariable = {
+  name: string;
+  value: string;
+};
+
+export function datasetSchema({
+  name,
+  description,
+  url,
+  dateModified,
+  variables
+}: {
+  name: string;
+  description: string;
+  url: string;
+  dateModified?: string;
+  variables?: DatasetVariable[];
+}) {
+  const schema: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    name,
+    description,
+    url,
+    creator: {
+      "@type": "Organization",
+      name: site.name,
+      url: site.url
+    },
+    isAccessibleForFree: true,
+    license: `${site.url}/legal-disclaimer/`
+  };
+  if (dateModified) schema.dateModified = dateModified;
+  if (variables && variables.length > 0) {
+    schema.variableMeasured = variables.map((variable) => ({
+      "@type": "PropertyValue",
+      name: variable.name,
+      value: variable.value
+    }));
+  }
+  return schema;
 }
 
 export function articleSchema({

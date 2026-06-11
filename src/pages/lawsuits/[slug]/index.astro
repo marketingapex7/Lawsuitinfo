@@ -114,6 +114,7 @@ if (slug === "suboxone") {
   breadcrumbs={breadcrumbs}
   faqs={lawsuit.data.faqs}
   article={{ dateModified: lawsuit.data.lastUpdated }}
+  speakableSelectors={["h1", "#overview", "#latest-update"]}
 >
   <header class="max-w-3xl">
     <CaseStatusBadge status={lawsuit.data.status} />

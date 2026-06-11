@@ -23,7 +23,7 @@ export async function GET() {
     const links = guides
       .map((guide) => `[${guide.data.lawsuit}](${site.url}/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/)`)
       .join(", ");
-    return `- ${state.name}: ${links}`;
+    return `- [${state.name} lawsuit hub](${site.url}/states/${state.slug}/): ${links}`;
   });
 
   const body = `# ${site.name}

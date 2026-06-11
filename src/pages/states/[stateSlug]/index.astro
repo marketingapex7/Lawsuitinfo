@@ -1,0 +1,207 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import CaseStatusBadge from "@components/CaseStatusBadge.astro";
+import DisclaimerBox from "@components/DisclaimerBox.astro";
+import { states, formatDate } from "@lib/site";
+import { getStateLimitation } from "@lib/caseData";
+import { absoluteUrl, datasetSchema } from "@lib/seo";
+
+export async function getStaticPaths() {
+  const stateGuides = await getCollection("state-guides");
+  return states.map((state) => {
+    const guides = stateGuides
+      .filter((guide) => guide.data.stateSlug === state.slug)
+      .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+    return { params: { stateSlug: state.slug }, props: { state, guides } };
+  });
+}
+
+const { state, guides } = Astro.props;
+const limitation = getStateLimitation(state.slug);
+const path = `/states/${state.slug}/`;
+
+const newestUpdate = guides
+  .map((guide) => guide.data.lastUpdated)
+  .sort()
+  .at(-1);
+
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "States", url: "/states/" },
+  { name: state.name, url: path }
+];
+
+const seoTitle = `Mass Tort Lawsuits in ${state.name} - Active Cases, Deadlines & Courts`;
+const description =
+  `${state.name} mass tort lawsuit guide: ${guides.length} active cases affecting ${state.name} residents, the state injury statute of limitations` +
+  `${limitation ? ` (${limitation.piYears} years)` : ""}, federal court districts, and what local filing deadlines mean for a claim.`;
+
+const faqs = [
+  {
+    question: `What mass tort lawsuits affect ${state.name} residents?`,
+    answer:
+      `${state.name} residents are actively researching ${guides.length} major mass tort and injury cases covered on this site, including ` +
+      `${guides.slice(0, 4).map((g) => g.data.lawsuit).join(", ")}${guides.length > 4 ? ", and others" : ""}. ` +
+      `Each links to a ${state.name}-specific guide covering status, records, and deadline context.`
+  },
+  {
+    question: `How long do ${state.name} residents have to file an injury lawsuit?`,
+    answer: limitation
+      ? `${state.name}'s general personal injury statute of limitations is ${limitation.piYears} years (${limitation.citation}). ` +
+        `Product liability and toxic exposure claims can follow different accrual, discovery, and repose rules, so the deadline that applies to a specific claim varies. Only a licensed attorney can confirm it.`
+      : `Filing deadlines in ${state.name} depend on the type of claim and individual facts. A licensed attorney can confirm the deadline that applies.`
+  },
+  {
+    question: `Does a ${state.name} resident have to file in ${state.name}?`,
+    answer:
+      `Not necessarily. Many mass tort claims are filed in federal court and transferred into multidistrict litigation, or evaluated by national firms. Living in ${state.name} does not mean a claim is limited to ${state.name} state court, though ${state.name} law can still affect deadlines and damages.`
+  },
+  {
+    question: `Is this ${state.name} lawsuit information legal advice?`,
+    answer:
+      `No. These ${state.name} guides are general legal information for research only. They do not provide legal advice, do not create an attorney-client relationship, and do not determine whether any person has a claim.`
+  }
+];
+
+const datasetVariables = limitation
+  ? [
+      { name: "General personal injury statute of limitations (years)", value: String(limitation.piYears) },
+      { name: "Statutory citation", value: limitation.citation },
+      ...(limitation.discoveryNote ? [{ name: "Discovery rule", value: limitation.discoveryNote }] : []),
+      ...(limitation.reposeNote ? [{ name: "Statute of repose", value: limitation.reposeNote }] : []),
+      { name: "Relevant federal districts", value: state.courts.join("; ") },
+      { name: "Active mass tort cases covered", value: String(guides.length) }
+    ]
+  : [];
+
+const extraSchemas = limitation
+  ? [
+      datasetSchema({
+        name: `${state.name} Mass Tort Lawsuit Deadlines and Court Reference`,
+        description: `Statute of limitations, statutory citation, discovery and repose rules, and federal court districts relevant to mass tort and injury lawsuits for ${state.name} residents.`,
+        url: absoluteUrl(path),
+        dateModified: newestUpdate,
+        variables: datasetVariables
+      })
+    ]
+  : [];
+---
+
+<BaseLayout
+  title={`Mass Tort Lawsuits in ${state.name}`}
+  seoTitle={seoTitle}
+  description={description}
+  breadcrumbs={breadcrumbs}
+  faqs={faqs}
+  speakableSelectors={[".state-hub-answer", "h1"]}
+  extraSchemas={extraSchemas}
+>
+  <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="max-w-3xl">
+      <div class="flex items-center gap-3">
+        <h1 class="text-4xl font-black tracking-normal text-ink">Mass Tort Lawsuits in {state.name}</h1>
+        <span class="rounded-full border border-line bg-panel px-3 py-1 text-xs font-bold text-muted">{state.abbr}</span>
+      </div>
+      <p class="mt-4 text-lg leading-8 text-muted">
+        A guide for {state.name} residents researching active mass tort and injury lawsuits: which cases are accepting review, how {state.name} filing deadlines work, the federal courts involved, and links to {state.name}-specific guides for each case.
+      </p>
+      <p class="mt-4 rounded-lg border border-line bg-panel p-3 text-sm leading-6 text-muted">
+        This page is general legal information only. It does not provide legal advice, does not create an attorney-client relationship, and case status can change. Last updated {newestUpdate ? formatDate(newestUpdate) : "2026"}.
+      </p>
+    </header>
+
+    <section id="deadlines" class="mt-8 rounded-lg border border-line border-t-4 border-t-accent bg-white p-5 shadow-sm">
+      <h2 class="text-xl font-bold text-ink">How long do {state.name} residents have to file a lawsuit?</h2>
+      {limitation ? (
+        <>
+          <p class="state-hub-answer mt-3 text-base leading-7 text-ink">
+            {state.name}'s general personal injury statute of limitations is <strong>{limitation.piYears} years</strong> ({limitation.citation}). Product liability and toxic exposure claims do not always follow the general rule, so the deadline that controls a specific case can be shorter or longer.
+          </p>
+          <ul class="mt-4 grid gap-2 text-sm leading-6 text-muted">
+            <li><strong>General personal injury period:</strong> {limitation.piYears} years — {limitation.citation}.</li>
+            {limitation.discoveryNote && <li><strong>Discovery rule:</strong> {limitation.discoveryNote}</li>}
+            {limitation.reposeNote && <li><strong>Statute of repose:</strong> {limitation.reposeNote}</li>}
+          </ul>
+          <p class="mt-4 text-sm leading-6 text-muted">
+            Because the controlling deadline depends on diagnosis date, discovery facts, exposure history, and how a claim is filed, only a licensed attorney can confirm the deadline for a specific situation. Federal multidistrict litigation can also change where and how a {state.name} claim proceeds.
+          </p>
+        </>
+      ) : (
+        <p class="state-hub-answer mt-3 text-base leading-7 text-ink">
+          Filing deadlines in {state.name} depend on the type of claim and individual facts. A licensed attorney can confirm the deadline that applies to a specific situation.
+        </p>
+      )}
+    </section>
+
+    <section id="courts" class="mt-8 rounded-lg border border-line bg-white p-5 shadow-sm">
+      <h2 class="text-xl font-bold text-ink">Which federal courts handle {state.name} mass tort cases?</h2>
+      <p class="mt-3 text-sm leading-6 text-muted">
+        Mass tort claims by {state.name} residents are frequently filed in federal court and transferred into multidistrict litigation in other districts. The federal district courts covering {state.name} are:
+      </p>
+      <ul class="mt-3 grid gap-2 sm:grid-cols-2">
+        {state.courts.map((court) => (
+          <li class="rounded-md border border-line bg-panel px-3 py-2 text-sm font-semibold text-ink">{court}</li>
+        ))}
+      </ul>
+      <p class="mt-3 text-sm leading-6 text-muted">
+        Living in {state.name} does not mean a case is filed only in {state.name}. Many claims are coordinated nationally, but {state.name} law can still affect deadlines, damages, and wrongful-death rules.
+      </p>
+    </section>
+
+    <section id="cases" class="mt-8">
+      <h2 class="guide-section-title text-xl font-bold text-ink">Active lawsuit guides for {state.name} residents</h2>
+      <div class="mt-4 grid gap-3 sm:grid-cols-2">
+        {guides.map((guide) => (
+          <a
+            class="block rounded-lg border border-line bg-white p-4 shadow-sm hover:border-accent/50"
+            href={`/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/`}
+          >
+            <div class="flex items-center justify-between gap-3">
+              <h3 class="text-base font-bold text-ink">{guide.data.lawsuit}</h3>
+              <CaseStatusBadge status={guide.data.status} />
+            </div>
+            <p class="mt-2 text-sm leading-6 text-muted">Primary alleged injury: {guide.data.primaryInjury}</p>
+            <span class="mt-3 inline-block text-sm font-bold text-accent-dark">{state.name} guide →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="mt-10 grid gap-6 lg:grid-cols-[1fr_320px]">
+      <div class="rounded-lg border border-line bg-white p-5 shadow-sm">
+        <h2 class="guide-section-title text-xl font-bold text-ink">{state.name} Lawsuit FAQ</h2>
+        <div class="mt-4 grid gap-3">
+          {faqs.map((faq) => (
+            <details class="rounded-md border border-line bg-panel p-4">
+              <summary class="cursor-pointer text-sm font-bold text-ink">{faq.question}</summary>
+              <p class="mt-3 text-sm leading-6 text-muted">{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+      <aside class="space-y-5">
+        <div class="rounded-lg border border-line bg-panel p-4">
+          <h2 class="text-base font-bold text-ink">Other states</h2>
+          <div class="mt-3 grid grid-cols-2 gap-2">
+            {states
+              .filter((other) => other.slug !== state.slug)
+              .map((other) => (
+                <a class="rounded-md border border-line bg-white px-2 py-2 text-xs font-bold text-ink hover:border-accent/50" href={`/states/${other.slug}/`}>
+                  {other.name}
+                </a>
+              ))}
+          </div>
+        </div>
+        <DisclaimerBox />
+      </aside>
+    </section>
+
+    <section class="mt-8">
+      <a class="text-sm font-bold text-accent-dark underline underline-offset-4" href="/states/">← All state lawsuit guides</a>
+    </section>
+  </div>
+</BaseLayout>

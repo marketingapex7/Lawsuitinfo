@@ -1,6 +1,6 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
-import { site } from "@lib/site";
+import { site, states } from "@lib/site";
 
 export const prerender = true;
 
@@ -45,6 +45,14 @@ export async function GET() {
     { loc: "/legal-disclaimer/" },
     { loc: "/advertising-disclosure/" },
     { loc: "/contact/" },
+    ...states.map((state) => {
+      const stateUpdate = stateGuides
+        .filter((guide) => guide.data.stateSlug === state.slug)
+        .map((guide) => guide.data.lastUpdated)
+        .sort()
+        .at(-1);
+      return { loc: `/states/${state.slug}/`, lastmod: stateUpdate };
+    }),
     ...categories.map((category) => ({
       loc: `/categories/${entrySlug(category)}/`,
       lastmod: category.data.lastUpdated
