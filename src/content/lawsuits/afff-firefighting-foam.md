@@ -34,7 +34,7 @@ timeline:
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
 lastUpdated: "2026-06-11"
-lastReviewed: "2026-05-30"
+lastReviewed: "2026-06-11"
 faqs:
   -
     question: "What is the AFFF lawsuit about?"
@@ -78,10 +78,10 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>AFFF Firefighting Foam Lawsuit Update: May 2026</h2>
-<p>AFFF Firefighting Foam litigation remains active in federal MDL No. 2873 in the District of South Carolina. The litigation includes several categories of claims, including personal injury claims, public water system contamination claims, and other PFAS-related claims connected to aqueous film-forming foam.</p>
-<p>As of May 2026, the personal injury side remains focused on exposure proof, disease categories, expert causation issues, and whether a person's exposure can be tied to AFFF rather than another PFAS source. Some public water system claims have followed settlement tracks, but individual cancer and disease claims require separate analysis and should not be treated as automatically resolved.</p>
-<p>Recent public litigation activity has continued to emphasize case management, expert issues, and the separation between water-provider claims and individual injury claims. For people researching the case, the practical question is whether they can document where, when, and how they encountered PFAS-containing firefighting foam or PFAS-contaminated water, and whether their diagnosis fits the conditions being reviewed.</p>
+<h2>AFFF Firefighting Foam Lawsuit Update: June 2026</h2>
+<p>The personal-injury track of AFFF/PFAS MDL No. 2873 before Judge Richard Gergel in the District of South Carolina is currently without a trial date. Case Management Order No. 35, entered August 15, 2025, vacated the previously scheduled October 2025 kidney-cancer bellwether trial, and no replacement personal-injury trial date has been set. As of June 1, 2026, 15,240 cases are pending in the MDL.</p>
+<p>Separately, several water-system contamination settlements have been finalized and are in the payment process: 3M ($10.5-$12.5 billion), DuPont/Chemours/Corteva ($1.185 billion), Tyco ($750 million), and BASF ($316.5 million). These settlements compensate public water utilities for contamination remediation. They do not constitute a settlement for individual personal-injury claimants, and no personal-injury settlement exists.</p>
+<p>Anyone researching AFFF claims should clearly distinguish between the closed water-utility settlements and the unresolved individual injury litigation. The kidney-cancer bellwether track remains the leading personal-injury focus, but its schedule has been reset and no new hearing or trial dates are currently on record.</p>
 </section>
 
 <section id="case-status-snapshot">

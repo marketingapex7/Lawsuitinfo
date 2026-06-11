@@ -35,7 +35,7 @@ timeline:
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
 lastUpdated: "2026-06-11"
-lastReviewed: "2026-05-30"
+lastReviewed: "2026-06-11"
 faqs:
   -
     question: "What is the Suboxone tooth decay lawsuit about?"
@@ -79,10 +79,10 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Suboxone Tooth Decay Lawsuit Update: May 2026</h2>
-<p>Suboxone dental injury claims appear active and are being handled through coordinated federal litigation. Federal Suboxone film product liability cases are centralized in MDL No. 3092 in the Northern District of Ohio, where the court is managing common pretrial issues involving warnings, product form, dental injury allegations, and case-specific proof.</p>
-<p>As of May 2026, the litigation appears more active and pretrial-focused than settlement-focused. The major current issues include whether oral buprenorphine/naloxone products contributed to severe dental injuries, whether warnings were adequate, whether a person's dental records show a meaningful before-and-after pattern, and how other dental risk factors should be considered.</p>
-<p>Recent public updates continue to focus on MDL management, discovery, claim screening, and dental-record documentation. For people researching the case, this means that product history and dental history are central: pharmacy records, treatment program records, dental charts, X-rays, extraction records, and restoration invoices may all matter.</p>
+<h2>Suboxone Tooth Decay Lawsuit Update: June 2026</h2>
+<p>Bellwether selection is the primary focus of Suboxone tooth-decay litigation in MDL No. 3092 before Judge J. Philip Calabrese in the Northern District of Ohio. Under the Second Amended Case Management Order No. 15, entered March 27, 2026, the court's random selection of the first 20 core-discovery-pool cases was scheduled for June 10, 2026. As of June 1, 2026, 1,833 cases are pending in the MDL.</p>
+<p>The defendants are Indivior Inc., Indivior Solutions, and Aquestive Therapeutics. Reckitt was dismissed from the litigation in September 2024. No settlement program has been announced. Industry observers have projected that a first bellwether trial could occur around 2028, but no trial date has been entered in any court order.</p>
+<p>This litigation is at an early stage. Individuals researching this case should focus on preserving relevant dental and prescription records, as discovery in these cases is likely to turn heavily on medical documentation.</p>
 </section>
 
 <section id="case-status-snapshot">
