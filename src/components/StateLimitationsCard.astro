@@ -1,0 +1,35 @@
+---
+import type { StateLimitation } from "@lib/caseData";
+
+interface Props {
+  stateName: string;
+  limitation?: StateLimitation;
+  deadlineOverride?: string | undefined;
+}
+
+const { stateName, limitation, deadlineOverride } = Astro.props;
+---
+
+<section id="deadlines">
+  <h2>How long do {stateName} residents have to file?</h2>
+  {deadlineOverride ? (
+    <p>{deadlineOverride}</p>
+  ) : limitation ? (
+    <>
+      <p>
+        {stateName}'s general personal injury statute of limitations is <strong>{limitation.piYears} years</strong> ({limitation.citation}).
+        Product liability and toxic exposure claims do not always follow the general rule — accrual timing, tolling, and repose periods can change the real deadline in an individual case.
+      </p>
+      <ul>
+        <li><strong>General personal injury period:</strong> {limitation.piYears} years — {limitation.citation}.</li>
+        {limitation.discoveryNote && <li><strong>Discovery rule:</strong> {limitation.discoveryNote}</li>}
+        {limitation.reposeNote && <li><strong>Statute of repose:</strong> {limitation.reposeNote}</li>}
+      </ul>
+      <p>
+        Because the controlling deadline depends on diagnosis date, discovery facts, exposure history, wrongful-death rules, and how the claim is filed, only a licensed attorney can confirm the deadline that applies to a specific situation. This page is general legal information, not legal advice.
+      </p>
+    </>
+  ) : (
+    <p>Filing deadlines vary by state and depend on individual facts. A lawyer can evaluate how the relevant deadline rules apply.</p>
+  )}
+</section>

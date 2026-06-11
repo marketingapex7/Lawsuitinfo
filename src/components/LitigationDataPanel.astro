@@ -1,0 +1,76 @@
+---
+import { formatCount, latestPendingCount, type CaseData } from "@lib/caseData";
+import { formatDate } from "@lib/site";
+
+interface Props {
+  data: CaseData;
+}
+
+const { data } = Astro.props;
+const latest = latestPendingCount(data);
+const upcoming = data.keyDates.filter((d) => d.date >= data.dataAsOf);
+const past = data.keyDates.filter((d) => d.date < data.dataAsOf).slice(-3);
+---
+
+<aside class="rounded-lg border border-line border-t-4 border-t-accent-dark bg-white p-4 shadow-sm">
+  <h2 class="text-lg font-bold text-ink">Litigation Data</h2>
+  <p class="mt-1 text-xs font-semibold uppercase tracking-[0.08em] text-muted">Data as of {formatDate(data.dataAsOf)}</p>
+  <dl class="mt-4 divide-y divide-line">
+    <div class="grid gap-1 py-3">
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Proceeding</dt>
+      <dd class="text-sm font-semibold leading-6 text-ink">{data.litigation.type}{data.litigation.mdlNumber ? ` — ${data.litigation.mdlNumber}` : ""}</dd>
+    </div>
+    <div class="grid gap-1 py-3">
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Court</dt>
+      <dd class="text-sm font-semibold leading-6 text-ink">{data.litigation.court}</dd>
+    </div>
+    {data.litigation.judge && (
+      <div class="grid gap-1 py-3">
+        <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Presiding</dt>
+        <dd class="text-sm font-semibold leading-6 text-ink">{data.litigation.judge}</dd>
+      </div>
+    )}
+    {latest && (
+      <div class="grid gap-1 py-3">
+        <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{latest.scope}</dt>
+        <dd class="text-2xl font-black leading-7 text-ink">{formatCount(latest.count)}</dd>
+        <dd class="text-xs leading-5 text-muted">{latest.source}</dd>
+      </div>
+    )}
+    <div class="grid gap-1 py-3">
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Phase</dt>
+      <dd class="text-sm font-semibold leading-6 text-ink">{data.phase}</dd>
+    </div>
+    <div class="grid gap-1 py-3">
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Defendants</dt>
+      <dd class="text-sm font-semibold leading-6 text-ink">{data.defendants.join("; ")}</dd>
+    </div>
+  </dl>
+
+  {(upcoming.length > 0 || past.length > 0) && (
+    <div class="mt-2">
+      <h3 class="text-sm font-bold text-ink">Key dates</h3>
+      <ul class="mt-2 space-y-2">
+        {[...past, ...upcoming].map((item) => (
+          <li class="rounded-md border border-line bg-panel p-2.5">
+            <p class="text-xs font-bold uppercase tracking-[0.08em] text-accent-dark">{formatDate(item.date)}</p>
+            <p class="mt-0.5 text-sm font-semibold leading-5 text-ink">{item.label}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {data.sources.length > 0 && (
+    <div class="mt-4 border-t border-line pt-3">
+      <h3 class="text-sm font-bold text-ink">Primary sources</h3>
+      <ul class="mt-2 space-y-1.5">
+        {data.sources.map((source) => (
+          <li>
+            <a class="text-xs font-semibold leading-5 text-accent-dark underline decoration-line underline-offset-2 hover:text-ink" href={source.url} target="_blank" rel="noopener noreferrer">{source.name}</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+</aside>

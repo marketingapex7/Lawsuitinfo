@@ -5,8 +5,9 @@ urlSlug: "defective-drugs"
 name: "Defective Drugs"
 lawsuitSlugs:
   - "depo-provera"
+  - "ozempic"
   - "suboxone"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-11"
 ---
 
 <p>This category includes lawsuit guides involving prescription or clinical drug products. Claims may focus on alleged warnings, injury patterns, medical records, and individual use history.</p>

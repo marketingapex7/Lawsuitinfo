@@ -10,7 +10,9 @@ import RelatedLawsuits from "@components/RelatedLawsuits.astro";
 import RelatedStateGuides from "@components/RelatedStateGuides.astro";
 import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
+import LitigationDataPanel from "@components/LitigationDataPanel.astro";
 import { entrySlug } from "@lib/content";
+import { getCaseData } from "@lib/caseData";
 import { formatDate } from "@lib/site";
 import { lawsuitMetaDescription, lawsuitSeoTitle } from "@lib/seo";
 
@@ -24,6 +26,7 @@ export async function getStaticPaths() {
 
 const { lawsuit } = Astro.props;
 const slug = entrySlug(lawsuit);
+const caseData = getCaseData(slug);
 const { Content } = await render(lawsuit);
 const stateGuides = (await getCollection("state-guides"))
   .filter((guide) => guide.data.lawsuitSlug === slug)
@@ -78,6 +81,22 @@ if (slug === "afff-pfas") {
   toc.splice(16, 0, { id: "afff-deadlines", label: "Deadline considerations" });
 }
 
+if (slug === "ozempic") {
+  toc.splice(3, 0, { id: "ozempic-drugs-included", label: "Drugs included" });
+  toc.splice(4, 0, { id: "ozempic-qualifications", label: "Who may qualify" });
+  toc.splice(7, 0, { id: "ozempic-bellwether-trials", label: "Bellwether trials" });
+  toc.splice(13, 0, { id: "ozempic-injury-details", label: "Injuries alleged" });
+  toc.splice(16, 0, { id: "ozempic-deadlines", label: "Deadline considerations" });
+}
+
+if (slug === "camp-lejeune") {
+  toc.splice(3, 0, { id: "camp-lejeune-deadline", label: "Filing deadline status" });
+  toc.splice(4, 0, { id: "camp-lejeune-elective-option", label: "Elective Option payouts" });
+  toc.splice(7, 0, { id: "camp-lejeune-qualifications", label: "Who qualified" });
+  toc.splice(13, 0, { id: "camp-lejeune-conditions", label: "Covered conditions" });
+  toc.splice(16, 0, { id: "camp-lejeune-pending-claims", label: "Pending claims" });
+}
+
 if (slug === "suboxone") {
   toc.splice(3, 0, { id: "suboxone-dental-lawsuit", label: "Dental lawsuit" });
   toc.splice(4, 0, { id: "suboxone-eligibility", label: "Eligibility" });
@@ -117,6 +136,7 @@ if (slug === "suboxone") {
       </div>
     </div>
     <aside class="space-y-5 lg:order-3">
+      {caseData && <LitigationDataPanel data={caseData} />}
       <QuickFactsCard
         facts={[
           { label: "Case type", value: lawsuit.data.caseType },

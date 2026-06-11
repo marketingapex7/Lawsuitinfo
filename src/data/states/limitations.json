@@ -1,0 +1,63 @@
+{
+  "_note": "General personal-injury limitations periods. Product liability and toxic tort claims can follow different accrual, discovery-rule, tolling, and statute-of-repose rules. Informational only — not legal advice.",
+  "illinois": {
+    "piYears": 2,
+    "citation": "735 ILCS 5/13-202",
+    "discoveryNote": "Illinois courts apply a discovery rule in many injury cases, so the clock may run from when the injury and its likely cause were or should have been discovered.",
+    "reposeNote": "Product liability actions are also subject to statutory repose periods (735 ILCS 5/13-213)."
+  },
+  "missouri": {
+    "piYears": 5,
+    "citation": "Mo. Rev. Stat. § 516.120(4)",
+    "discoveryNote": "Missouri's period generally runs from when damage is sustained and capable of ascertainment, which can function like a discovery rule in latent-injury cases.",
+    "reposeNote": null
+  },
+  "texas": {
+    "piYears": 2,
+    "citation": "Tex. Civ. Prac. & Rem. Code § 16.003",
+    "discoveryNote": "Texas recognizes a discovery rule in limited circumstances involving inherently undiscoverable injuries.",
+    "reposeNote": "Texas applies a 15-year statute of repose to many product liability claims (§ 16.012)."
+  },
+  "florida": {
+    "piYears": 2,
+    "citation": "Fla. Stat. § 95.11(4)(a)",
+    "discoveryNote": "For negligence actions accruing after March 24, 2023, the general period is two years; older accruals may fall under the prior four-year period. Latent-injury accrual rules can apply.",
+    "reposeNote": "Florida product liability claims can be subject to a 12-year repose period for certain products (§ 95.031)."
+  },
+  "california": {
+    "piYears": 2,
+    "citation": "Cal. Code Civ. Proc. § 335.1",
+    "discoveryNote": "California applies a discovery rule: the period generally runs from when a plaintiff discovers, or reasonably should have discovered, the injury and its wrongful cause.",
+    "reposeNote": null
+  },
+  "north-carolina": {
+    "piYears": 3,
+    "citation": "N.C. Gen. Stat. § 1-52",
+    "discoveryNote": "North Carolina applies discovery-based accrual to many latent injury claims (§ 1-52(16)).",
+    "reposeNote": "North Carolina applies a 12-year statute of repose to product liability actions (§ 1-46.1)."
+  },
+  "georgia": {
+    "piYears": 2,
+    "citation": "O.C.G.A. § 9-3-33",
+    "discoveryNote": "Georgia courts have applied discovery-based accrual in certain latent-injury and toxic exposure cases.",
+    "reposeNote": "Georgia applies a 10-year statute of repose to many product liability claims (O.C.G.A. § 51-1-11(b)(2))."
+  },
+  "ohio": {
+    "piYears": 2,
+    "citation": "Ohio Rev. Code § 2305.10",
+    "discoveryNote": "Ohio's statute includes discovery-based accrual provisions for certain exposure-related claims.",
+    "reposeNote": "Ohio applies a 10-year statute of repose to many product liability claims (§ 2305.10(C))."
+  },
+  "pennsylvania": {
+    "piYears": 2,
+    "citation": "42 Pa. Cons. Stat. § 5524",
+    "discoveryNote": "Pennsylvania applies a discovery rule that can delay accrual until the injury and its cause reasonably could have been discovered.",
+    "reposeNote": null
+  },
+  "michigan": {
+    "piYears": 3,
+    "citation": "Mich. Comp. Laws § 600.5805(2)",
+    "discoveryNote": "Michigan applies limited discovery-based accrual rules; latent-injury treatment varies by claim type.",
+    "reposeNote": null
+  }
+}

@@ -7,6 +7,8 @@ import FAQSection from "@components/FAQSection.astro";
 import RelatedStateGuides from "@components/RelatedStateGuides.astro";
 import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
+import StateLimitationsCard from "@components/StateLimitationsCard.astro";
+import { getCaseData, getStateLimitation } from "@lib/caseData";
 import { formatDate, getStateBySlug } from "@lib/site";
 import { stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
 
@@ -24,6 +26,13 @@ export async function getStaticPaths() {
 const { guide } = Astro.props;
 const { Content } = await render(guide);
 const state = getStateBySlug(guide.data.stateSlug);
+const limitation = getStateLimitation(guide.data.stateSlug);
+const caseData = getCaseData(guide.data.lawsuitSlug);
+const deadlineQuickFact = caseData?.deadlineOverride
+  ? "Special federal deadline rules apply — see the deadline section."
+  : limitation
+    ? `General ${guide.data.state} personal injury period: ${limitation.piYears} years (${limitation.citation}). Exceptions apply.`
+    : "Deadlines depend on individual facts and state law.";
 const allGuides = await getCollection("state-guides");
 const sameState = allGuides
   .filter((item) => item.data.stateSlug === guide.data.stateSlug && item.data.lawsuitSlug !== guide.data.lawsuitSlug)
@@ -68,7 +77,7 @@ const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.
         { label: "Category", value: guide.data.category },
         { label: "Current status", value: guide.data.status },
         { label: "Federal court context", value: state?.courts.join(", ") ?? "Federal district court context varies." },
-        { label: "Deadline note", value: "Deadlines depend on individual facts and state law." }
+        { label: "Deadline note", value: deadlineQuickFact }
       ]}
     />
   </header>
@@ -104,6 +113,12 @@ const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.
           </>
         )}
       </section>
+
+      <StateLimitationsCard
+        stateName={guide.data.state}
+        limitation={limitation}
+        deadlineOverride={caseData?.deadlineOverride}
+      />
 
       <section id="questions">
         <h2>Questions to ask a lawyer</h2>

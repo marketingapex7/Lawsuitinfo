@@ -1,0 +1,43 @@
+{
+  "slug": "camp-lejeune",
+  "caseName": "Camp Lejeune Water Contamination Claims",
+  "litigation": {
+    "type": "Federal statutory claims (Camp Lejeune Justice Act of 2022)",
+    "mdlNumber": null,
+    "mdlName": "Camp Lejeune Justice Act litigation (not an MDL)",
+    "court": "U.S. District Court, Eastern District of North Carolina (exclusive jurisdiction)",
+    "courtShort": "E.D.N.C.",
+    "judge": "Cases distributed among the district's judges; magistrate coordination",
+    "established": "2022-08-10"
+  },
+  "phase": "Settlement processing and first trials — filing window closed",
+  "phaseDetail": "The two-year CLJA filing window closed on August 10, 2024. Pending administrative claims and filed lawsuits continue to move through the DOJ/Navy Elective Option settlement program and Track 1 bellwether trial preparation in the Eastern District of North Carolina.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 3744, "scope": "Lawsuits filed in E.D.N.C.", "source": "E.D.N.C. docket reporting, June 2026" },
+    { "date": "2026-04-15", "count": 407000, "scope": "Administrative claims filed with the Navy (approximate)", "source": "DOJ / Navy claims reporting, spring 2026" }
+  ],
+  "defendants": [
+    "United States of America (Department of the Navy)"
+  ],
+  "settlements": [
+    {
+      "label": "Elective Option settlement program",
+      "status": "active",
+      "detail": "The DOJ/Navy Elective Option offers tiered payments of roughly $100,000 to $450,000 depending on diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims (up to $550,000 combined). Through spring 2026, roughly $800 million in settlements had been approved and more than $570 million paid, with settlement masters negotiating a broader global resolution matrix."
+    }
+  ],
+  "keyDates": [
+    { "date": "2022-08-10", "label": "Camp Lejeune Justice Act signed", "detail": "CLJA created a federal cause of action for those exposed to contaminated water at Camp Lejeune for at least 30 days between August 1, 1953 and December 31, 1987." },
+    { "date": "2023-09-06", "label": "Elective Option announced", "detail": "DOJ and Navy launched a tiered early-settlement program for qualifying diagnoses." },
+    { "date": "2024-08-10", "label": "Filing deadline passed", "detail": "The CLJA two-year window to file administrative claims closed. New claims are generally barred." },
+    { "date": "2026-06-01", "label": "Track 1 trials and settlement scale-up", "detail": "First Track 1 bellwether trials proceeding in 2026; weekly settlement approvals continue and totals grow." }
+  ],
+  "deadlineOverride": "The Camp Lejeune Justice Act filing window closed on August 10, 2024. State filing deadlines do not control CLJA claims, and new claims are generally barred regardless of the claimant's home state. People with claims filed before the deadline do not need to refile; pending claims continue through the Navy administrative process and the Eastern District of North Carolina.",
+  "sources": [
+    { "name": "U.S. Department of Justice — Camp Lejeune Claims information", "url": "https://www.justice.gov/civil/camp-lejeune" },
+    { "name": "U.S. Navy JAG — Camp Lejeune Claims portal", "url": "https://www.navy.mil/clja/" },
+    { "name": "ATSDR — Camp Lejeune water contamination health studies", "url": "https://www.atsdr.cdc.gov/sites/lejeune/index.html" },
+    { "name": "U.S. District Court, E.D.N.C. — Camp Lejeune litigation page", "url": "https://www.nced.uscourts.gov/" }
+  ],
+  "dataAsOf": "2026-06-11"
+}
