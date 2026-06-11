@@ -25,11 +25,32 @@
   ],
   "settlements": [
     {
-      "label": "Public water system settlements (final approved)",
-      "status": "paying out — water systems only",
-      "detail": "Settlements resolving public water-system claims: 3M up to $10.3-12.5 billion over 13 years (2023); DuPont/Chemours/Corteva $1.185 billion (2023); Tyco Fire Products $750 million (final approval November 2024); BASF $316.5 million (2024). These funds compensate water utilities — not individuals.",
+      "label": "3M — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "Up to $10.3-12.5 billion paid over 13 years to public water systems for PFAS contamination. Final approval entered by Judge Gergel (fairness hearing February 2, 2024). Compensates water utilities, not individuals.",
+      "source": "Official court-supervised settlement administration site",
+      "sourceUrl": "https://www.pfaswatersettlement.com/"
+    },
+    {
+      "label": "DuPont / Chemours / Corteva — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "$1.185 billion settlement resolving claims of roughly 14,000 public water systems. Final approval entered following the December 14, 2023 fairness hearing.",
+      "source": "Official court-supervised settlement administration site",
+      "sourceUrl": "https://www.pfaswatersettlement.com/"
+    },
+    {
+      "label": "Tyco Fire Products / Chemguard — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "$750 million settlement; final approval order entered November 2024 (ECF 6406).",
       "source": "Tyco final approval order (ECF 6406)",
       "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf"
+    },
+    {
+      "label": "BASF — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "$316.5 million total ($312.5M settlement amount + $4M notice/administration); agreement signed May 20, 2024, final approval entered November 22, 2024.",
+      "source": "BASF preliminary approval motion (official settlement site)",
+      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/06/AFFF_BASF_Motion-for-Preliminary-Approval_06.03.2024.pdf"
     },
     {
       "label": "Personal-injury claims",
