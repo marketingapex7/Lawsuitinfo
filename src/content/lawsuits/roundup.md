@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-05-30"
+lastUpdated: "2026-06-11"
 lastReviewed: "2026-05-30"
 faqs:
   -

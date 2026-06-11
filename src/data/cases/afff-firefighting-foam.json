@@ -1,0 +1,73 @@
+{
+  "slug": "afff-pfas",
+  "caseName": "AFFF Firefighting Foam (PFAS) Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-2873",
+    "mdlName": "In re: Aqueous Film-Forming Foams Products Liability Litigation",
+    "court": "U.S. District Court, District of South Carolina (Charleston)",
+    "courtShort": "D.S.C.",
+    "judge": "Judge Richard M. Gergel",
+    "established": "2018-12-07"
+  },
+  "phase": "Personal-injury bellwether reset; water-system settlements paying out",
+  "phaseDetail": "Case Management Order No. 35 (August 15, 2025) vacated the October 2025 kidney-cancer bellwether trial and opened a claim-verification window; tens of thousands of new claims were filed during it. No new personal-injury trial date had been set as of June 2026. The first personal-injury bellwether track is kidney cancer.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 15240, "scope": "Pending actions in MDL-2873", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+  ],
+  "defendants": [
+    "3M",
+    "DuPont / Chemours / Corteva",
+    "Tyco Fire Products (Johnson Controls)",
+    "BASF",
+    "Carrier Global / Kidde-Fenwal",
+    "Arkema, Chemguard, Buckeye Fire Equipment, National Foam, Dynax and others"
+  ],
+  "settlements": [
+    {
+      "label": "3M — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "$10.5 billion to $12.5 billion paid over 13 years to public water systems for PFAS contamination, per the official settlement FAQ. Final approval entered by Judge Gergel (fairness hearing February 2, 2024). Compensates water utilities, not individuals.",
+      "source": "Official court-supervised settlement administration site",
+      "sourceUrl": "https://www.pfaswatersettlement.com/"
+    },
+    {
+      "label": "DuPont / Chemours / Corteva — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "$1.185 billion settlement resolving claims of roughly 14,000 public water systems. Final approval entered following the December 14, 2023 fairness hearing.",
+      "source": "Official court-supervised settlement administration site",
+      "sourceUrl": "https://www.pfaswatersettlement.com/"
+    },
+    {
+      "label": "Tyco Fire Products / Chemguard — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "$750 million settlement; final approval order entered November 2024 (ECF 6406).",
+      "source": "Tyco final approval order (ECF 6406)",
+      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf"
+    },
+    {
+      "label": "BASF — public water systems",
+      "status": "final approved, paying out — water systems only",
+      "detail": "$316.5 million total ($312.5M settlement amount + $4M notice/administration); agreement signed May 20, 2024, final approval entered November 22, 2024.",
+      "source": "BASF preliminary approval motion (official settlement site)",
+      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/06/AFFF_BASF_Motion-for-Preliminary-Approval_06.03.2024.pdf"
+    },
+    {
+      "label": "Personal-injury claims",
+      "status": "none",
+      "detail": "No settlement program exists for individual injury claims (kidney cancer, testicular cancer, thyroid disease, ulcerative colitis). The reset kidney-cancer bellwether and any rulings around it are expected to drive personal-injury settlement posture."
+    }
+  ],
+  "keyDates": [
+    { "date": "2018-12-07", "label": "MDL-2873 established", "detail": "JPML centralized federal AFFF cases before Judge Richard M. Gergel in the District of South Carolina." },
+    { "date": "2025-08-15", "label": "CMO 35 vacates October 2025 bellwether", "detail": "The court vacated the first kidney-cancer personal-injury trial setting and opened a claim verification window." },
+    { "date": "2026-06-01", "label": "15,240 pending cases", "detail": "MDL remains the third-largest active products MDL (JPML, June 1, 2026)." }
+  ],
+  "sources": [
+    { "name": "D.S.C. — MDL 2873 orders page", "url": "https://www.scd.uscourts.gov/mdl-2873/" },
+    { "name": "CMO 35 (PDF) — bellwether reset", "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2035%20ECF%207823.pdf" },
+    { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" },
+    { "name": "Tyco $750M final approval order (PDF)", "url": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf" }
+  ],
+  "dataAsOf": "2026-06-11"
+}
