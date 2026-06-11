@@ -5,7 +5,9 @@ const pendingCountSchema = z.object({
   date: z.string(),
   count: z.number(),
   scope: z.string(),
-  source: z.string()
+  source: z.string(),
+  sourceUrl: z.string().optional(),
+  primary: z.boolean().optional()
 });
 
 const caseDataSchema = z.object({
@@ -30,7 +32,8 @@ const caseDataSchema = z.object({
         label: z.string(),
         status: z.string(),
         detail: z.string(),
-        source: z.string().optional()
+        source: z.string().optional(),
+        sourceUrl: z.string().optional()
       })
     )
     .default([]),
@@ -64,7 +67,20 @@ export function getCaseData(slug: string): CaseData | undefined {
 }
 
 export function latestPendingCount(data: CaseData) {
-  return [...data.pendingCounts].sort((a, b) => a.date.localeCompare(b.date)).at(-1);
+  // Deterministic headline selection: an explicit `primary: true` entry wins;
+  // otherwise the newest date wins, with ties going to the earliest array entry.
+  const primary = data.pendingCounts.find((entry) => entry.primary);
+  if (primary) return primary;
+  let best: CaseData["pendingCounts"][number] | undefined;
+  for (const entry of data.pendingCounts) {
+    if (!best || entry.date.localeCompare(best.date) > 0) best = entry;
+  }
+  return best;
+}
+
+export function secondaryPendingCounts(data: CaseData) {
+  const headline = latestPendingCount(data);
+  return data.pendingCounts.filter((entry) => entry !== headline);
 }
 
 const limitationSchema = z.object({

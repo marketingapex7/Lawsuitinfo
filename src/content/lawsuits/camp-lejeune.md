@@ -25,7 +25,7 @@ injuries:
   - "Multiple myeloma"
   - "Parkinson's disease"
   - "Kidney disease and other conditions"
-settlementStatus: "Settlements are actively being paid. The DOJ/Navy Elective Option program offers tiered payments of roughly $100,000 to $450,000 depending on diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. Through spring 2026, roughly $800 million in settlements had been approved and more than $570 million paid, while settlement masters negotiate a broader global resolution framework and the first Track 1 trials proceed in the Eastern District of North Carolina. Individual results vary, participation in the Elective Option is voluntary, and no amount is guaranteed for any claim."
+settlementStatus: "Settlements are actively being paid. The DOJ/Navy Elective Option program offers tiered payments of roughly $100,000 to $450,000 depending on diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid, while settlement masters negotiate a broader global resolution framework and the first Track 1 trials proceed in the Eastern District of North Carolina. Individual results vary, participation in the Elective Option is voluntary, and no amount is guaranteed for any claim."
 timeline:
   -
     label: "Time at Camp Lejeune"
@@ -47,7 +47,7 @@ faqs:
     answer: "They remain active. Filed administrative claims continue through Navy review and settlement programs, and filed lawsuits continue in the Eastern District of North Carolina. Missing the deadline only affects people who never filed."
   -
     question: "How much are Camp Lejeune settlements paying?"
-    answer: "The Elective Option pays tiered amounts of roughly $100,000 to $450,000 based on diagnosis and exposure length, plus $100,000 for qualifying wrongful-death claims. Litigated or globally negotiated amounts can differ. Through spring 2026 about $800 million had been approved, with more than $570 million paid."
+    answer: "The Elective Option pays tiered amounts of roughly $100,000 to $450,000 based on diagnosis and exposure length, plus $100,000 for qualifying wrongful-death claims. Litigated or globally negotiated amounts can differ. Per DOJ figures dated May 15, 2026, more than $876 million had been offered and approximately $665 million paid."
   -
     question: "When will my Camp Lejeune claim be paid?"
     answer: "There is no universal timeline. Elective Option offers continue weekly, Track 1 trials are underway, and settlement masters are negotiating a global framework. Timing depends on diagnosis tier, documentation completeness, and whether a claim is in the administrative queue or in court."
@@ -56,7 +56,7 @@ faqs:
     answer: "The Elective Option tiers cover diagnoses including kidney, bladder, and liver cancers, leukemia, non-Hodgkin lymphoma, multiple myeloma, Parkinson's disease, and kidney disease. Other conditions tied to the contaminated water can support claims with stronger causation evidence."
   -
     question: "Does a Camp Lejeune settlement affect VA benefits?"
-    answer: "CLJA recoveries are reduced by certain VA disability or health benefits already paid for the same condition, but accepting a settlement does not take away ongoing VA health care or disability status. The offset math is claim-specific — a lawyer or VSO can walk through it."
+    answer: "Elective Option settlements are not reduced by VA benefit offsets, per DOJ guidance. Recoveries obtained outside the Elective Option — litigated judgments or other settlements — may be subject to the CLJA's offset for certain VA, Medicare, or Medicaid payments made for the same harm. Accepting a settlement does not end ongoing VA health care or disability status."
   -
     question: "Who decides Camp Lejeune cases?"
     answer: "The Camp Lejeune Justice Act gives exclusive jurisdiction to the U.S. District Court for the Eastern District of North Carolina. Cases are distributed among the district's judges, with coordinated Track discovery and bellwether trials."
@@ -79,7 +79,7 @@ faqs:
 
 <section id="latest-update">
 <h2>Camp Lejeune Update: June 2026</h2>
-<p>As of mid-2026, roughly <strong>3,744 lawsuits</strong> are pending in the Eastern District of North Carolina and approximately <strong>407,000 administrative claims</strong> were filed with the Navy before the deadline. Settlement activity has accelerated: about <strong>$800 million in settlements approved and more than $570 million paid</strong> through the Elective Option and case-specific resolutions, with offers continuing weekly.</p>
+<p>As of mid-2026, roughly <strong>3,744 lawsuits</strong> are pending in the Eastern District of North Carolina and approximately <strong>407,000 administrative claims</strong> were filed with the Navy before the deadline. Settlement activity has accelerated: per DOJ figures dated May 15, 2026, <strong>more than $876 million in settlements had been offered and approximately $665 million paid</strong> through the Elective Option and case-specific resolutions, with offers continuing weekly.</p>
 <p>The first <strong>Track 1 bellwether trials</strong> are proceeding in 2026, and court-appointed settlement masters have met repeatedly to negotiate a global resolution matrix that could resolve large blocks of pending claims.</p>
 </section>
 
@@ -97,7 +97,7 @@ faqs:
 <li><strong>Tier 2 conditions</strong> (multiple myeloma, Parkinson's disease, kidney disease/end-stage renal disease, systemic sclerosis): $100,000 to $400,000 depending on exposure duration.</li>
 <li><strong>Wrongful death:</strong> an additional $100,000 for qualifying claims, up to $550,000 combined.</li>
 </ul>
-<p>Accepting an Elective Option offer resolves the claim; declining preserves the right to pursue a potentially larger — but slower and uncertain — litigated outcome. That tradeoff is exactly what a claimant's lawyer evaluates.</p>
+<p>Accepting an Elective Option offer resolves the claim; declining preserves the right to pursue a potentially larger — but slower and uncertain — litigated outcome. That tradeoff is exactly what a claimant's lawyer evaluates. Per DOJ guidance, Elective Option payments are not reduced by VA benefit offsets; recoveries outside the program may be subject to the CLJA's offset provisions for certain VA, Medicare, or Medicaid payments made for the same harm.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -108,7 +108,7 @@ faqs:
 <section id="litigation-updates">
 <h2>Litigation updates</h2>
 <ul>
-<li><strong>2026:</strong> Track 1 trials proceed; settlement masters negotiate a global matrix; approved settlements reach ~$800 million with $570 million+ paid.</li>
+<li><strong>2026:</strong> Track 1 trials proceed; settlement masters negotiate a global matrix; settlements pass $876 million offered with ~$665 million paid (DOJ, May 15, 2026).</li>
 <li><strong>2025:</strong> Elective Option acceptance accelerated; the court resolved disputes over trial structure and jury rights under the CLJA.</li>
 <li><strong>August 10, 2024:</strong> CLJA filing window closed with roughly 407,000 administrative claims on file.</li>
 <li><strong>September 2023:</strong> DOJ/Navy launched the Elective Option early-settlement program.</li>

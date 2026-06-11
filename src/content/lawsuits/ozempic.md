@@ -23,7 +23,7 @@ injuries:
   - "Bowel obstruction"
   - "Severe, persistent vomiting with complications"
   - "NAION vision loss (emerging second wave)"
-settlementStatus: "No settlement program has been announced in the GLP-1 litigation as of June 2026. The first bellwether trials are scheduled to begin in September 2026 in the Eastern District of Pennsylvania, and the outcomes of those trials are expected to shape any settlement posture. Industry reporting has described very large potential exposure estimates if plaintiffs prevail, but estimates are not promises: no settlement, claim value, or outcome is guaranteed for any individual, and defendants continue to dispute the claims."
+settlementStatus: "No settlement program has been announced in the GLP-1 litigation as of June 2026. The court has scheduled Rule 702 (expert admissibility) hearings for September 10-18, 2026 under Case Management Order No. 32, with summary judgment briefing completing in August 2026; those rulings are the next events expected to shape settlement posture, and bellwether trial dates have not yet been set. Industry reporting has described very large potential exposure estimates if plaintiffs prevail, but estimates are not promises: no settlement, claim value, or outcome is guaranteed for any individual, and defendants continue to dispute the claims."
 timeline:
   -
     label: "GLP-1 prescription and use"
@@ -57,13 +57,13 @@ faqs:
     answer: "Gastroparesis means delayed gastric emptying — the stomach empties too slowly or stops moving food normally. Symptoms can include persistent vomiting, nausea, early fullness, pain, and malnutrition. Diagnosis is often confirmed with a gastric emptying study."
   -
     question: "What is the NAION vision-loss claim?"
-    answer: "A second wave of GLP-1 cases involves non-arteritic anterior ischemic optic neuropathy (NAION), a sudden optic-nerve injury that can cause permanent vision loss. Studies published in 2024-2025 reported an association in semaglutide users; this track is developing behind the gastrointestinal cases."
+    answer: "NAION (non-arteritic anterior ischemic optic neuropathy) is a sudden optic-nerve injury that can cause permanent vision loss. NAION claims proceed in their own federal proceeding — MDL-3163, with 110 pending actions as of June 1, 2026 — separate from the gastrointestinal-injury MDL-3094."
   -
     question: "When are the first Ozempic trials?"
-    answer: "The first bellwether trials in MDL-3094 are scheduled to begin in September 2026. Bellwether results do not decide other cases automatically, but they often influence settlement negotiations across the litigation."
+    answer: "Bellwether trial dates have not been set as of June 2026. The court's Case Management Order No. 32 schedules Rule 702 expert-admissibility hearings for September 10-18, 2026, with summary judgment briefing completing in August; trial scheduling is expected to follow those rulings."
   -
     question: "Has there been an Ozempic settlement?"
-    answer: "No. As of June 2026 no global or individual settlement program has been announced in the GLP-1 litigation. Any reports of specific settlement amounts at this stage are estimates, not outcomes, and no result is guaranteed."
+    answer: "No. As of June 2026 no global or individual settlement program has been announced in the GLP-1 litigation. The Rule 702 and summary judgment rulings expected after the September 2026 hearings are the next events likely to influence settlement posture. No result is guaranteed."
   -
     question: "Is Ozempic recalled?"
     answer: "No. Ozempic and the other GLP-1 medications remain FDA-approved and on the market. The lawsuits are about warnings and alleged injuries, not about whether the drugs are available."
@@ -83,8 +83,8 @@ faqs:
 
 <section id="latest-update">
 <h2>Ozempic Lawsuit Update: June 2026</h2>
-<p>As of June 1, 2026, <strong>3,763 cases</strong> were pending in the federal GLP-1 multidistrict litigation (MDL-3094) according to the JPML's monthly statistics report, with roughly 1,200 additional cases reported in coordinated state-court proceedings. The MDL has grown steadily each month since its creation in February 2024.</p>
-<p>The litigation's most important near-term event is the <strong>first bellwether trial group, scheduled to begin in September 2026</strong> in the Eastern District of Pennsylvania. A second injury track involving NAION vision-loss claims continues to develop behind the gastrointestinal cases.</p>
+<p>As of June 1, 2026, <strong>3,763 cases</strong> were pending in the federal GLP-1 multidistrict litigation (MDL-3094) according to the JPML's monthly statistics report, with roughly 1,200 additional cases reported in coordinated state-court proceedings. The MDL has grown steadily each month since its creation in February 2024. A separate federal proceeding, <strong>MDL-3163</strong>, consolidates NAION vision-loss claims and held <strong>110 pending actions</strong> as of the same report.</p>
+<p>The litigation's most important near-term event is the <strong>Rule 702 (expert admissibility) hearing window, September 10–18, 2026</strong>, set by Case Management Order No. 32, with summary judgment briefing completing August 7, 2026. Bellwether trial dates have not yet been set and are expected to follow those rulings.</p>
 </section>
 
 <section id="ozempic-drugs-included">
@@ -117,16 +117,16 @@ faqs:
 <section id="litigation-updates">
 <h2>Litigation updates</h2>
 <ul>
-<li><strong>June 2026:</strong> 3,763 cases pending in MDL-3094 per the JPML's June 1 report; filings continue monthly.</li>
-<li><strong>2026 (first half):</strong> Bellwether workup and expert discovery proceed toward the September 2026 trial start; NAION vision-loss filings continue as a developing second track.</li>
-<li><strong>2025:</strong> The MDL grew past 1,500 cases; the court organized bellwether selection and general-causation discovery.</li>
+<li><strong>June 2026:</strong> 3,763 cases pending in MDL-3094 and 110 in the separate NAION proceeding (MDL-3163) per the JPML's June 1 report; filings continue monthly.</li>
+<li><strong>April 30, 2026:</strong> Case Management Order No. 32 set the amended expert and summary judgment schedule — briefing through August 7, 2026, and Rule 702 hearings September 10–18, 2026.</li>
+<li><strong>2025:</strong> The MDL grew past 1,500 cases; the court organized cross-cutting expert discovery and a streamlined docket (CMO No. 30, January 2026).</li>
 <li><strong>February 2024:</strong> JPML centralized federal GLP-1 cases in the Eastern District of Pennsylvania, creating MDL-3094.</li>
 </ul>
 </section>
 
 <section id="status">
 <h2>Current status</h2>
-<p>The litigation is active. Discovery and bellwether preparation are the current focus, with the first trials scheduled for September 2026. New cases continue to be filed and transferred into the MDL, and no settlement program exists as of June 2026.</p>
+<p>The litigation is active. Expert-admissibility (Rule 702) and summary judgment briefing are the current focus, with hearings set for September 10–18, 2026. Bellwether trial dates have not yet been set. New cases continue to be filed and transferred into the MDL, and no settlement program exists as of June 2026.</p>
 </section>
 
 <section id="eligibility">
@@ -134,9 +134,15 @@ faqs:
 <p>People who used a GLP-1 medication and then experienced severe, documented gastrointestinal injury — especially gastroparesis confirmed by a gastric emptying study, or a bowel obstruction or ileus requiring emergency care — are the focus of current filings. Family members may have wrongful-death-related questions where an injury contributed to a death; those claims involve additional state-specific rules.</p>
 </section>
 
+<section id="ozempic-bellwether-trials">
+<h2>What happens before the first trials?</h2>
+<p>Under <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_cm-ord_32.pdf" target="_blank" rel="noopener noreferrer">Case Management Order No. 32</a> (April 30, 2026), the parties complete Rule 702 expert-admissibility and summary judgment briefing by August 7, 2026, and the court holds <strong>Rule 702 hearings September 10–18, 2026</strong>. Those rulings decide which expert opinions and claims proceed — the gateway every mass tort passes through before bellwether trials are scheduled.</p>
+<p>Bellwether trial dates have not yet been set. When they are, the schedule will appear in the court's case management orders, and this page will be updated.</p>
+</section>
+
 <section id="ozempic-injury-details">
 <h2>Injuries alleged in filed cases</h2>
-<p><strong>Gastroparesis</strong> — delayed gastric emptying that can cause persistent vomiting, malnutrition, and long-term complications. <strong>Ileus and bowel obstruction</strong> — intestinal blockage or paralysis that can require hospitalization or surgery. <strong>NAION</strong> — a sudden optic-nerve injury associated in some studies with semaglutide use, capable of causing permanent vision loss; this is the litigation's emerging second wave. Filed complaints also describe severe dehydration, aspiration events, and related complications.</p>
+<p><strong>Gastroparesis</strong> — delayed gastric emptying that can cause persistent vomiting, malnutrition, and long-term complications. <strong>Ileus and bowel obstruction</strong> — intestinal blockage or paralysis that can require hospitalization or surgery. <strong>NAION</strong> — a sudden optic-nerve injury associated in some studies with semaglutide use, capable of causing permanent vision loss; NAION claims are consolidated in their own proceeding, MDL-3163 (110 pending actions as of June 1, 2026). Filed complaints also describe severe dehydration, aspiration events, and related complications.</p>
 </section>
 
 <section id="ozempic-deadlines">

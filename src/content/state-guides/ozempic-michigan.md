@@ -31,7 +31,7 @@ faqs:
     answer: "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."
   -
     question: "Has there been an Ozempic settlement?"
-    answer: "No. As of June 2026 no settlement program exists in the GLP-1 litigation. The first bellwether trials, scheduled for September 2026, are expected to shape settlement posture. No outcome is guaranteed."
+    answer: "No. As of June 2026 no settlement program exists in the GLP-1 litigation. The Rule 702 hearings set for September 10-18, 2026 and the rulings that follow are the next events expected to shape settlement posture. Bellwether trial dates have not been set, and no outcome is guaranteed."
   -
     question: "Is Ozempic recalled?"
     answer: "No. GLP-1 medications remain FDA-approved and on the market. The litigation concerns warnings and alleged injuries, not availability. Medication decisions belong with a licensed healthcare professional."
@@ -58,5 +58,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How Michigan claims proceed</h2>
-<p>Most Michigan GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated discovery and bellwether trials (the first trials are scheduled to begin September 2026). Michigan's general personal injury limitations period is 3 years (Mich. Comp. Laws § 600.5805(2)), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
+<p>Most Michigan GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. The court has scheduled Rule 702 expert-admissibility hearings for September 10–18, 2026 (Case Management Order No. 32); bellwether trial dates have not yet been set. Michigan's general personal injury limitations period is 3 years (Mich. Comp. Laws § 600.5805(2)), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
 </section>

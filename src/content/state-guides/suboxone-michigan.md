@@ -57,7 +57,3 @@ faqs:
 </ul>
 </section>
 
-<section id="deadlines">
-<h2>Michigan deadline considerations</h2>
-<p>Filing deadlines may depend on diagnosis date, discovery date, exposure history, state law, wrongful death issues, and other facts. This page does not provide legal advice or deadline calculations.</p>
-</section>

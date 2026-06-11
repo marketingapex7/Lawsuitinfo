@@ -1,5 +1,5 @@
 ---
-import { formatCount, latestPendingCount, type CaseData } from "@lib/caseData";
+import { formatCount, latestPendingCount, secondaryPendingCounts, type CaseData } from "@lib/caseData";
 import { formatDate } from "@lib/site";
 
 interface Props {
@@ -8,6 +8,7 @@ interface Props {
 
 const { data } = Astro.props;
 const latest = latestPendingCount(data);
+const secondary = secondaryPendingCounts(data);
 const upcoming = data.keyDates.filter((d) => d.date >= data.dataAsOf);
 const past = data.keyDates.filter((d) => d.date < data.dataAsOf).slice(-3);
 ---
@@ -34,9 +35,20 @@ const past = data.keyDates.filter((d) => d.date < data.dataAsOf).slice(-3);
       <div class="grid gap-1 py-3">
         <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{latest.scope}</dt>
         <dd class="text-2xl font-black leading-7 text-ink">{formatCount(latest.count)}</dd>
-        <dd class="text-xs leading-5 text-muted">{latest.source}</dd>
+        <dd class="text-xs leading-5 text-muted">
+          {latest.sourceUrl ? <a class="underline decoration-line underline-offset-2 hover:text-ink" href={latest.sourceUrl} target="_blank" rel="noopener noreferrer">{latest.source}</a> : latest.source}
+        </dd>
       </div>
     )}
+    {secondary.map((entry) => (
+      <div class="grid gap-1 py-3">
+        <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{entry.scope}</dt>
+        <dd class="text-sm font-bold leading-6 text-ink">{formatCount(entry.count)}</dd>
+        <dd class="text-xs leading-5 text-muted">
+          {entry.sourceUrl ? <a class="underline decoration-line underline-offset-2 hover:text-ink" href={entry.sourceUrl} target="_blank" rel="noopener noreferrer">{entry.source}</a> : entry.source}
+        </dd>
+      </div>
+    ))}
     <div class="grid gap-1 py-3">
       <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Phase</dt>
       <dd class="text-sm font-semibold leading-6 text-ink">{data.phase}</dd>
@@ -46,6 +58,23 @@ const past = data.keyDates.filter((d) => d.date < data.dataAsOf).slice(-3);
       <dd class="text-sm font-semibold leading-6 text-ink">{data.defendants.join("; ")}</dd>
     </div>
   </dl>
+
+  {data.settlements.length > 0 && (
+    <div class="mt-2">
+      <h3 class="text-sm font-bold text-ink">Settlements</h3>
+      <ul class="mt-2 space-y-2">
+        {data.settlements.map((settlement) => (
+          <li class="rounded-md border border-line bg-panel p-2.5">
+            <p class="text-xs font-bold uppercase tracking-[0.08em] text-accent-dark">{settlement.label}</p>
+            <p class="mt-1 text-xs leading-5 text-ink">{settlement.detail}</p>
+            {settlement.sourceUrl && (
+              <a class="mt-1 inline-block text-xs font-semibold text-accent-dark underline decoration-line underline-offset-2 hover:text-ink" href={settlement.sourceUrl} target="_blank" rel="noopener noreferrer">{settlement.source ?? "Source"}</a>
+            )}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 
   {(upcoming.length > 0 || past.length > 0) && (
     <div class="mt-2">

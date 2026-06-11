@@ -22,7 +22,7 @@ faqs:
     answer: "It stays active. Filed administrative claims continue through Navy review and the Elective Option program, and filed lawsuits continue in the Eastern District of North Carolina. Where the claimant lives does not affect the queue."
   -
     question: "How much are Camp Lejeune settlements paying?"
-    answer: "Elective Option offers are tiered at roughly $100,000 to $450,000 by diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. Through spring 2026, about $800 million was approved and more than $570 million paid. Individual amounts vary."
+    answer: "Elective Option offers are tiered at roughly $100,000 to $450,000 by diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. Per DOJ figures dated May 15, 2026, more than $876 million had been offered and approximately $665 million paid. Individual amounts vary."
   -
     question: "Why is the case in North Carolina if I live in Ohio?"
     answer: "The Camp Lejeune Justice Act gives exclusive jurisdiction to the Eastern District of North Carolina because the exposure occurred at the base. Claimants generally do not need to travel; their lawyers litigate in that court."
@@ -31,7 +31,7 @@ faqs:
     answer: "No. The CLJA set its own federal deadline — August 10, 2024 — which has passed. State statutes of limitations do not control these claims."
   -
     question: "Does a settlement affect VA benefits?"
-    answer: "CLJA awards are offset by certain VA payments already made for the same condition, but accepting a settlement does not end VA health care or disability status. The offset calculation is claim-specific."
+    answer: "Elective Option settlements are not reduced by VA benefit offsets, per DOJ guidance. Recoveries outside that program — litigated judgments or other settlements — may be subject to the CLJA's offset for certain VA, Medicare, or Medicaid payments made for the same harm. Ongoing VA health care and disability status are not taken away by settling."
   -
     question: "What should pending claimants do now?"
     answer: "Confirm the claim is on record, keep medical records current, respond quickly to document requests, and have counsel compare any Elective Option offer against realistic litigated values before deciding."
@@ -43,7 +43,7 @@ faqs:
 <section id="state-overview">
 <h2>What Ohio residents should know</h2>
 <p>Camp Lejeune claims are federal statutory claims under the Camp Lejeune Justice Act, decided exclusively in the <strong>U.S. District Court for the Eastern District of North Carolina</strong> — regardless of whether the claimant lives in Ohio or anywhere else.</p>
-<p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Ohio residents whose claims were filed in time: roughly 407,000 administrative claims and 3,744 lawsuits remain in process, with about $800 million in settlements approved and more than $570 million paid through spring 2026.</p>
+<p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Ohio residents whose claims were filed in time: roughly 407,000 administrative claims and 3,744 lawsuits remain in process. Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid.</p>
 </section>
 
 <section id="eligibility">

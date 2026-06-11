@@ -7,13 +7,14 @@
     "mdlName": "In re: Glucagon-like Peptide-1 Receptor Agonists (GLP-1 RAs) Products Liability Litigation",
     "court": "U.S. District Court, Eastern District of Pennsylvania",
     "courtShort": "E.D. Pa.",
-    "judge": "Judge Karen S. Marston",
+    "judge": "Judge Karen Spencer Marston",
     "established": "2024-02-02"
   },
-  "phase": "Discovery / bellwether preparation",
-  "phaseDetail": "First bellwether trials are scheduled to begin in September 2026. A second injury wave (NAION vision loss and related claims) is developing behind the gastrointestinal-injury track.",
+  "phase": "Rule 702 (expert) and summary judgment briefing",
+  "phaseDetail": "Under Case Management Order No. 32 (April 30, 2026), expert-admissibility and summary judgment briefing runs through August 7, 2026, with Rule 702 hearings set for September 10-18, 2026. Bellwether trial dates have not yet been set and are expected to follow those rulings. NAION vision-loss claims proceed separately in MDL-3163.",
   "pendingCounts": [
-    { "date": "2026-06-01", "count": 3763, "scope": "Pending actions in MDL-3094", "source": "JPML MDL Statistics Report, June 1, 2026" },
+    { "date": "2026-06-01", "count": 3763, "scope": "Pending actions in MDL-3094 (gastrointestinal injuries)", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/pending-mdls-0", "primary": true },
+    { "date": "2026-06-01", "count": 110, "scope": "Pending actions in separate NAION vision-loss MDL (MDL-3163)", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/pending-mdls-0" },
     { "date": "2026-06-01", "count": 1200, "scope": "Approximate additional state-court cases (coordinated proceedings)", "source": "Litigation industry reporting, June 2026" }
   ],
   "defendants": [
@@ -24,18 +25,20 @@
     {
       "label": "No settlements announced",
       "status": "none",
-      "detail": "No global or individual settlement program has been announced. Industry analysts have estimated potential exposure in the tens of billions of dollars if plaintiffs prevail, but outcomes of the September 2026 bellwether trials are expected to shape any settlement posture."
+      "detail": "No global or individual settlement program has been announced. The Rule 702 and summary judgment rulings expected after the September 2026 hearings are the litigation's next major value-shaping events. Industry estimates of potential exposure are not promises: no outcome is guaranteed and defendants continue to dispute the claims."
     }
   ],
   "keyDates": [
-    { "date": "2024-02-02", "label": "MDL-3094 created", "detail": "JPML centralized federal GLP-1 cases before Judge Karen S. Marston in the Eastern District of Pennsylvania." },
-    { "date": "2026-06-01", "label": "3,763 pending federal cases", "detail": "MDL continued steady monthly growth through the first half of 2026." },
-    { "date": "2026-09-01", "label": "First bellwether trials begin (scheduled)", "detail": "Initial bellwether trials on gastroparesis and gastrointestinal-injury claims are scheduled to start September 2026." }
+    { "date": "2024-02-02", "label": "MDL-3094 created", "detail": "JPML centralized federal GLP-1 cases before Judge Karen Spencer Marston in the Eastern District of Pennsylvania." },
+    { "date": "2026-04-30", "label": "CMO No. 32 sets expert and summary judgment schedule", "detail": "Fifth amended scheduling order for cross-cutting issues: briefing through August 7, 2026." },
+    { "date": "2026-06-01", "label": "3,763 pending federal cases", "detail": "MDL continued steady monthly growth through the first half of 2026 (JPML)." },
+    { "date": "2026-09-10", "label": "Rule 702 (Daubert) hearings: September 10-18, 2026", "detail": "Hearings on expert-admissibility motions per CMO No. 32. Bellwether trial dates have not yet been set and are expected to follow these rulings." }
   ],
   "sources": [
     { "name": "JPML — Pending MDL Dockets (monthly statistics)", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" },
-    { "name": "E.D. Pa. — MDL 3094 court page", "url": "https://www.paed.uscourts.gov/judges-info/district-court-judges/karen-s-marston" },
-    { "name": "FDA — Ozempic (semaglutide) label and safety information", "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=209637" }
+    { "name": "E.D. Pa. — MDL 3094 case management orders", "url": "https://www.paed.uscourts.gov/mdl/mdl3094/orders" },
+    { "name": "CMO No. 32 — Fifth Amended Scheduling Order (Apr 30, 2026)", "url": "https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_cm-ord_32.pdf" },
+    { "name": "FDA — Ozempic (semaglutide) approval and label information", "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=209637" }
   ],
   "dataAsOf": "2026-06-11"
 }
