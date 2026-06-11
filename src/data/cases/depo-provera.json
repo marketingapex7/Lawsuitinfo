@@ -1,0 +1,44 @@
+{
+  "slug": "depo-provera",
+  "caseName": "Depo-Provera Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3140",
+    "mdlName": "In re: Depo-Provera (Depot Medroxyprogesterone Acetate) Products Liability Litigation",
+    "court": "U.S. District Court, Northern District of Florida (Pensacola)",
+    "courtShort": "N.D. Fla.",
+    "judge": "Judge M. Casey Rodgers",
+    "established": "2025-02-07"
+  },
+  "phase": "General-causation gateway — Rule 702 hearing and preemption ruling pending",
+  "phaseDetail": "The fastest-growing MDL in the country: pending actions rose from 3,490 (March 31) to 5,508 (June 1) per JPML reports. A joint Rule 702 hearing on general-causation experts is set for June 24-26, 2026 (rescheduled from May 26-28), held jointly with Delaware and New York state-court judges. Pfizer's preemption summary-judgment motion is fully briefed and pending. Under Pretrial Order 30, the preemption and Rule 702 rulings will apply to all MDL cases.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 5508, "scope": "Pending actions in MDL-3140", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true },
+    { "date": "2026-03-31", "count": 3490, "scope": "Pending actions three months earlier (growth comparison)", "source": "JPML MDL Statistics Report, March 31, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+  ],
+  "defendants": [
+    "Pfizer Inc.",
+    "Pharmacia & Upjohn Co. LLC; Pharmacia LLC",
+    "Greenstone LLC; Viatris Inc.; Prasco LLC (authorized generics)"
+  ],
+  "settlements": [
+    {
+      "label": "No settlements announced",
+      "status": "none",
+      "detail": "No settlement program exists. The June 2026 Rule 702 hearing, the pending preemption ruling, and the first Pilot trial set for December 7, 2026 are the events most likely to shape any settlement posture."
+    }
+  ],
+  "keyDates": [
+    { "date": "2025-02-07", "label": "MDL-3140 established", "detail": "JPML centralized federal Depo-Provera meningioma cases before Judge M. Casey Rodgers in the Northern District of Florida." },
+    { "date": "2026-01-27", "label": "Pretrial Order 30 — rulings apply MDL-wide", "detail": "Preemption and Rule 702 rulings will apply to all MDL actions, not just Pilot cases." },
+    { "date": "2026-06-24", "label": "Joint Rule 702 (Daubert) hearing: June 24-26, 2026", "detail": "General-causation expert hearing in Pensacola, held jointly with Delaware and New York state-court judges (rescheduled from May 26-28)." },
+    { "date": "2026-12-07", "label": "First Pilot bellwether trial (scheduled)", "detail": "Per Case Management Order No. 9, the first Pilot case trial is set for December 7, 2026, with remaining Pilot trials to follow in early 2027." }
+  ],
+  "sources": [
+    { "name": "N.D. Fla. — MDL 3140 court page", "url": "https://www.flnd.uscourts.gov/depo-provera-products-liability-litigation-mdl-no-3140" },
+    { "name": "N.D. Fla. — MDL 3140 orders index", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" },
+    { "name": "Pretrial Order 30 (PDF)", "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/2026.01.27%20-%20325md3140%20-%20PTO%2030%20-%20%20Application%20of%20Rulings%20on%20Preemption%20and%20Rule%20702%20Mtn.pdf" },
+    { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" }
+  ],
+  "dataAsOf": "2026-06-11"
+}

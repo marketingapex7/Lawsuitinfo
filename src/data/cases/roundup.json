@@ -1,0 +1,50 @@
+{
+  "slug": "roundup",
+  "caseName": "Roundup Cancer Lawsuit",
+  "litigation": {
+    "type": "Federal MDL + nationwide class settlement (state court)",
+    "mdlNumber": "MDL-2741",
+    "mdlName": "In re: Roundup Products Liability Litigation",
+    "court": "U.S. District Court, Northern District of California",
+    "courtShort": "N.D. Cal.",
+    "judge": "Judge Vince Chhabria",
+    "established": "2016-10-03"
+  },
+  "phase": "Class settlement approval pending; Supreme Court preemption decision imminent",
+  "phaseDetail": "A $7.25 billion nationwide class settlement (King v. Monsanto, Missouri 22nd Judicial Circuit, Judge Timothy Boyer) received preliminary approval March 4, 2026, with the final approval hearing set for July 9, 2026. Separately, the U.S. Supreme Court heard argument in Monsanto Co. v. Durnell (No. 24-1068) on April 27, 2026 — a federal-preemption ruling that could reshape all remaining Roundup claims.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 3909, "scope": "Pending actions in MDL-2741", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true },
+    { "date": "2026-06-01", "count": 30000, "scope": "Reported state-court cases outside the MDL (approximate)", "source": "Litigation industry reporting, 2026" }
+  ],
+  "defendants": [
+    "Monsanto Company / Bayer AG"
+  ],
+  "settlements": [
+    {
+      "label": "Nationwide class settlement (King v. Monsanto)",
+      "status": "pending final approval",
+      "detail": "$7.25 billion paid over roughly 21 years, filed in Missouri's 22nd Judicial Circuit (St. Louis) before Judge Timothy Boyer. Preliminary approval March 4, 2026; objection/opt-out deadline June 4, 2026; final approval hearing July 9, 2026. Objectors have contested the structure, including an attempted federal removal in late May 2026.",
+      "source": "Preliminary approval order, King v. Monsanto (Mar. 4, 2026)",
+      "sourceUrl": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf"
+    },
+    {
+      "label": "Prior Bayer settlement programs (2020-2021)",
+      "status": "largely paid",
+      "detail": "Bayer previously committed roughly $11 billion (industry-reported) to resolve approximately 100,000 earlier Roundup claims through firm-by-firm settlements. Those programs are separate from the pending 2026 class settlement."
+    }
+  ],
+  "keyDates": [
+    { "date": "2016-10-03", "label": "MDL-2741 established", "detail": "JPML centralized federal Roundup cases before Judge Vince Chhabria in the Northern District of California." },
+    { "date": "2026-03-04", "label": "Class settlement preliminary approval", "detail": "Judge Timothy Boyer granted preliminary approval of the $7.25B King v. Monsanto nationwide class settlement." },
+    { "date": "2026-04-27", "label": "Supreme Court argument in Monsanto v. Durnell", "detail": "SCOTUS heard the FIFRA failure-to-warn preemption question (No. 24-1068); a decision is expected by the end of the term." },
+    { "date": "2026-06-04", "label": "Class objection / opt-out deadline", "detail": "Deadline for class members to object to or opt out of the proposed settlement (extension motion filed June 3)." },
+    { "date": "2026-07-09", "label": "Final approval hearing", "detail": "Missouri 22nd Judicial Circuit hearing on final approval of the class settlement." }
+  ],
+  "sources": [
+    { "name": "N.D. Cal. — MDL 2741 court page", "url": "https://www.cand.uscourts.gov/judges/chhabria-vince-vc/mdl-2741-in-re-roundup-products-liability-litigation/" },
+    { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" },
+    { "name": "Supreme Court docket — Monsanto Co. v. Durnell, No. 24-1068", "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24-1068.html" },
+    { "name": "King v. Monsanto preliminary approval order (PDF)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" }
+  ],
+  "dataAsOf": "2026-06-11"
+}

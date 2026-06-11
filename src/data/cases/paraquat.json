@@ -1,0 +1,41 @@
+{
+  "slug": "paraquat",
+  "caseName": "Paraquat Parkinson's Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3004",
+    "mdlName": "In re: Paraquat Products Liability Litigation",
+    "court": "U.S. District Court, Southern District of Illinois",
+    "courtShort": "S.D. Ill.",
+    "judge": "Chief Judge Nancy J. Rosenstengel",
+    "established": "2021-06-07"
+  },
+  "phase": "Confidential settlement program administration",
+  "phaseDetail": "A confidential Master Settlement Agreement was signed August 4, 2025. A qualified settlement fund is being established, a lien-resolution administrator was appointed in early 2026, and in June 2026 the court ordered depositions of opt-out plaintiffs at several firms amid high opt-out rates. Bellwether trials remain vacated while the program is administered; new cases continue to transfer into the MDL.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 6651, "scope": "Pending actions in MDL-3004", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+  ],
+  "defendants": [
+    "Syngenta Crop Protection LLC / Syngenta AG",
+    "Chevron U.S.A. Inc. (U.S. distributor, 1964-1986)"
+  ],
+  "settlements": [
+    {
+      "label": "Master Settlement Agreement",
+      "status": "active — terms confidential",
+      "detail": "Signed August 4, 2025 (referenced in the parties' joint motion to establish a qualified settlement fund). Terms, tiers, and per-claim values are confidential — any specific payout figures circulating publicly are speculation. The court is actively supervising the opt-out process, ordering depositions of opt-out plaintiffs in June 2026.",
+      "source": "S.D. Ill. MDL 3004 docket",
+      "sourceUrl": "https://www.ilsd.uscourts.gov/mdl3004.aspx"
+    }
+  ],
+  "keyDates": [
+    { "date": "2021-06-07", "label": "MDL-3004 established", "detail": "JPML centralized federal paraquat cases before Chief Judge Nancy J. Rosenstengel in the Southern District of Illinois." },
+    { "date": "2025-08-04", "label": "Master Settlement Agreement signed", "detail": "Confidential agreement referenced in the joint qualified-settlement-fund motion filed with the court." },
+    { "date": "2026-06-02", "label": "Opt-out depositions ordered", "detail": "The court ordered targeted depositions of opt-out plaintiffs at three firms amid reported high opt-out rates." }
+  ],
+  "sources": [
+    { "name": "S.D. Ill. — MDL 3004 court page", "url": "https://www.ilsd.uscourts.gov/mdl3004.aspx" },
+    { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" }
+  ],
+  "dataAsOf": "2026-06-11"
+}

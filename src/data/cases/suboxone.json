@@ -1,0 +1,41 @@
+{
+  "slug": "suboxone",
+  "caseName": "Suboxone Tooth Decay Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3092",
+    "mdlName": "In re: Suboxone (Buprenorphine/Naloxone) Film Products Liability Litigation",
+    "court": "U.S. District Court, Northern District of Ohio (Cleveland)",
+    "courtShort": "N.D. Ohio",
+    "judge": "Judge J. Philip Calabrese",
+    "established": "2024-02-05"
+  },
+  "phase": "Bellwether selection — core discovery pool",
+  "phaseDetail": "Under the Second Amended Case Management Order No. 15 (March 27, 2026), the court began assembling a 50-case core discovery pool, with the random selection of the first 20 cases set for June 10, 2026. Industry reporting projects the first bellwether trial in 2028, but no trial date appears in court orders yet.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 1833, "scope": "Pending actions in MDL-3092", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+  ],
+  "defendants": [
+    "Indivior Inc.",
+    "Indivior Solutions Inc.",
+    "Aquestive Therapeutics Inc."
+  ],
+  "settlements": [
+    {
+      "label": "No settlements announced",
+      "status": "none",
+      "detail": "No settlement program exists. The litigation is in bellwether selection; core-discovery and trial-pool steps run through 2027 under the court's bellwether protocol before any trial."
+    }
+  ],
+  "keyDates": [
+    { "date": "2024-02-05", "label": "MDL-3092 established", "detail": "JPML centralized federal Suboxone dental-injury cases before Judge J. Philip Calabrese in the Northern District of Ohio." },
+    { "date": "2024-05-16", "label": "CMO No. 4 — mass-filing (Schedule A) procedure", "detail": "The court authorized a master 'Schedule A' filing covering thousands of claimants, with severed plaintiffs later required to file individual actions." },
+    { "date": "2026-03-27", "label": "Second Amended CMO No. 15 — bellwether protocol", "detail": "Set the core-discovery-pool schedule for bellwether selection." },
+    { "date": "2026-06-10", "label": "Random selection of 20 core-discovery cases", "detail": "First tranche of the 50-case core discovery pool selected per the bellwether protocol." }
+  ],
+  "sources": [
+    { "name": "N.D. Ohio — MDL 3092 court page (case management orders)", "url": "https://www.ohnd.uscourts.gov/mdl-3092" },
+    { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" }
+  ],
+  "dataAsOf": "2026-06-11"
+}

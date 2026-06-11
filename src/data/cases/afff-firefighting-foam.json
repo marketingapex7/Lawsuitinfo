@@ -1,0 +1,52 @@
+{
+  "slug": "afff-pfas",
+  "caseName": "AFFF Firefighting Foam (PFAS) Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-2873",
+    "mdlName": "In re: Aqueous Film-Forming Foams Products Liability Litigation",
+    "court": "U.S. District Court, District of South Carolina (Charleston)",
+    "courtShort": "D.S.C.",
+    "judge": "Judge Richard M. Gergel",
+    "established": "2018-12-07"
+  },
+  "phase": "Personal-injury bellwether reset; water-system settlements paying out",
+  "phaseDetail": "Case Management Order No. 35 (August 15, 2025) vacated the October 2025 kidney-cancer bellwether trial and opened a claim-verification window; tens of thousands of new claims were filed during it. No new personal-injury trial date had been set as of June 2026. The first personal-injury bellwether track is kidney cancer.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 15240, "scope": "Pending actions in MDL-2873", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+  ],
+  "defendants": [
+    "3M",
+    "DuPont / Chemours / Corteva",
+    "Tyco Fire Products (Johnson Controls)",
+    "BASF",
+    "Carrier Global / Kidde-Fenwal",
+    "Arkema, Chemguard, Buckeye Fire Equipment, National Foam, Dynax and others"
+  ],
+  "settlements": [
+    {
+      "label": "Public water system settlements (final approved)",
+      "status": "paying out — water systems only",
+      "detail": "Settlements resolving public water-system claims: 3M up to $10.3-12.5 billion over 13 years (2023); DuPont/Chemours/Corteva $1.185 billion (2023); Tyco Fire Products $750 million (final approval November 2024); BASF $316.5 million (2024). These funds compensate water utilities — not individuals.",
+      "source": "Tyco final approval order (ECF 6406)",
+      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf"
+    },
+    {
+      "label": "Personal-injury claims",
+      "status": "none",
+      "detail": "No settlement program exists for individual injury claims (kidney cancer, testicular cancer, thyroid disease, ulcerative colitis). The reset kidney-cancer bellwether and any rulings around it are expected to drive personal-injury settlement posture."
+    }
+  ],
+  "keyDates": [
+    { "date": "2018-12-07", "label": "MDL-2873 established", "detail": "JPML centralized federal AFFF cases before Judge Richard M. Gergel in the District of South Carolina." },
+    { "date": "2025-08-15", "label": "CMO 35 vacates October 2025 bellwether", "detail": "The court vacated the first kidney-cancer personal-injury trial setting and opened a claim verification window." },
+    { "date": "2026-06-01", "label": "15,240 pending cases", "detail": "MDL remains the third-largest active products MDL (JPML, June 1, 2026)." }
+  ],
+  "sources": [
+    { "name": "D.S.C. — MDL 2873 orders page", "url": "https://www.scd.uscourts.gov/mdl-2873/" },
+    { "name": "CMO 35 (PDF) — bellwether reset", "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2035%20ECF%207823.pdf" },
+    { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" },
+    { "name": "Tyco $750M final approval order (PDF)", "url": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf" }
+  ],
+  "dataAsOf": "2026-06-11"
+}
