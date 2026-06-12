@@ -115,12 +115,35 @@ export function webSiteSchema() {
   };
 }
 
+// Short, search-aligned display names for use in <title> tags (the full
+// frontmatter name stays in H1s and body copy).
+const TITLE_NAMES: Record<string, string> = {
+  "Camp Lejeune Water Contamination": "Camp Lejeune",
+  "Ozempic / GLP-1": "Ozempic",
+  "Roundup Cancer": "Roundup",
+  "Suboxone Tooth Decay": "Suboxone",
+  "AFFF Firefighting Foam": "AFFF",
+  "Paraquat Parkinson's": "Paraquat",
+  "Depo-Provera": "Depo-Provera"
+};
+
+export function shortLawsuitName(lawsuit: string): string {
+  return TITLE_NAMES[lawsuit] ?? lawsuit;
+}
+
+// Append the brand only when the result stays within SERP-safe length (~62
+// chars); otherwise return the keyword-led core alone so it isn't truncated.
+export function composeTitle(core: string): string {
+  const branded = `${core} | ${site.name}`;
+  return branded.length <= 62 ? branded : core;
+}
+
 export function lawsuitSeoTitle(lawsuit: string) {
-  return `${lawsuit} Lawsuit Guide - Eligibility, Status, Deadlines`;
+  return `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }
 
 export function stateGuideSeoTitle(lawsuit: string, state: string) {
-  return `${lawsuit} Lawsuit in ${state} - Eligibility, Status, Deadlines`;
+  return `${shortLawsuitName(lawsuit)} Lawsuit in ${state}: Deadlines & Status`;
 }
 
 function metaInjury(primaryInjury: string) {

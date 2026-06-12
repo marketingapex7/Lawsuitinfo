@@ -2,7 +2,7 @@
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import { site } from "@lib/site";
-import { absoluteUrl, articleSchema, breadcrumbSchema, faqSchema, webPageSchema, webSiteSchema } from "@lib/seo";
+import { absoluteUrl, articleSchema, breadcrumbSchema, composeTitle, faqSchema, webPageSchema, webSiteSchema } from "@lib/seo";
 import "../styles/global.css";
 
 const {
@@ -20,7 +20,7 @@ const {
 } = Astro.props;
 
 const canonical = absoluteUrl(canonicalPath);
-const pageTitle = `${seoTitle ?? title} | ${site.name}`;
+const pageTitle = composeTitle(seoTitle ?? title);
 const schemas = [
   isHome ? webSiteSchema() : null,
   webPageSchema(title, description, canonical, speakableSelectors),
