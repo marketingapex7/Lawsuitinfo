@@ -156,24 +156,26 @@ function metaInjury(primaryInjury: string) {
   return value.replace(/\bpfas\b/g, "PFAS");
 }
 
+const META_MAX = 155;
+
 function fitMetaDescription(description: string, shortSuffix: string) {
   let text = description.replace(/\s+/g, " ").trim();
-  if (text.length > 160) {
+  if (text.length > META_MAX) {
     text = text
       .replace("records, ", "")
       .replace("eligibility factors", "eligibility")
       .replace("litigation status", "status");
   }
-  if (text.length < 150) {
+  if (text.length < 148) {
     const base = text.endsWith(".") ? text.slice(0, -1) : text;
     for (const suffix of [shortSuffix, " for residents.", " for research.", " locally."]) {
-      if (`${base}${suffix}`.length >= 150 && `${base}${suffix}`.length <= 160) {
+      if (`${base}${suffix}`.length >= 148 && `${base}${suffix}`.length <= META_MAX) {
         text = `${base}${suffix}`;
         break;
       }
     }
   }
-  return text.length > 160 ? `${text.slice(0, 157).replace(/\s+\S*$/, "")}.` : text;
+  return text.length > META_MAX ? `${text.slice(0, META_MAX - 3).replace(/\s+\S*$/, "")}.` : text;
 }
 
 export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {

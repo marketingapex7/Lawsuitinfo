@@ -10,7 +10,7 @@ import DisclaimerBox from "@components/DisclaimerBox.astro";
 import StateLimitationsCard from "@components/StateLimitationsCard.astro";
 import { getCaseData, getStateLimitation } from "@lib/caseData";
 import { formatDate, getStateBySlug } from "@lib/site";
-import { stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
+import { shortLawsuitName, stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
 
 export async function getStaticPaths() {
   const guides = await getCollection("state-guides");
@@ -88,7 +88,7 @@ const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.
       <Content />
 
       <section id="records">
-        <h2>What records do {guide.data.state} {guide.data.lawsuit} claims need?</h2>
+        <h2>What records support {shortLawsuitName(guide.data.lawsuit)} claims in {guide.data.state}?</h2>
         <ul>
           <li>Medical records related to diagnosis, treatment, and symptoms.</li>
           <li>Records showing use of, prescription for, or exposure to the product or substance involved.</li>
@@ -98,12 +98,12 @@ const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.
       </section>
 
       <section id="state-context">
-        <h2>What {guide.data.state} exposure and context matters?</h2>
+        <h2>What exposure and legal context matter in {guide.data.state}?</h2>
         <p>{guide.data.exposureContext}</p>
       </section>
 
       <section id="courts">
-        <h2>Where are {guide.data.state} {guide.data.lawsuit} cases handled?</h2>
+        <h2>Where are {guide.data.state} {shortLawsuitName(guide.data.lawsuit)} cases handled?</h2>
         <p>Living in {guide.data.state} does not necessarily mean the case will be filed only in {guide.data.state}. Claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
         {state && (
           <>
