@@ -115,12 +115,35 @@ export function webSiteSchema() {
   };
 }
 
+// Short, search-aligned display names for use in <title> tags (the full
+// frontmatter name stays in H1s and body copy).
+const TITLE_NAMES: Record<string, string> = {
+  "Camp Lejeune Water Contamination": "Camp Lejeune",
+  "Ozempic / GLP-1": "Ozempic",
+  "Roundup Cancer": "Roundup",
+  "Suboxone Tooth Decay": "Suboxone",
+  "AFFF Firefighting Foam": "AFFF",
+  "Paraquat Parkinson's": "Paraquat",
+  "Depo-Provera": "Depo-Provera"
+};
+
+export function shortLawsuitName(lawsuit: string): string {
+  return TITLE_NAMES[lawsuit] ?? lawsuit;
+}
+
+// Append the brand only when the result stays within SERP-safe length (~62
+// chars); otherwise return the keyword-led core alone so it isn't truncated.
+export function composeTitle(core: string): string {
+  const branded = `${core} | ${site.name}`;
+  return branded.length <= 62 ? branded : core;
+}
+
 export function lawsuitSeoTitle(lawsuit: string) {
-  return `${lawsuit} Lawsuit Guide - Eligibility, Status, Deadlines`;
+  return `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }
 
 export function stateGuideSeoTitle(lawsuit: string, state: string) {
-  return `${lawsuit} Lawsuit in ${state} - Eligibility, Status, Deadlines`;
+  return `${shortLawsuitName(lawsuit)} Lawsuit in ${state}: Deadlines & Status`;
 }
 
 function metaInjury(primaryInjury: string) {
@@ -133,24 +156,26 @@ function metaInjury(primaryInjury: string) {
   return value.replace(/\bpfas\b/g, "PFAS");
 }
 
+const META_MAX = 155;
+
 function fitMetaDescription(description: string, shortSuffix: string) {
   let text = description.replace(/\s+/g, " ").trim();
-  if (text.length > 160) {
+  if (text.length > META_MAX) {
     text = text
       .replace("records, ", "")
       .replace("eligibility factors", "eligibility")
       .replace("litigation status", "status");
   }
-  if (text.length < 150) {
+  if (text.length < 148) {
     const base = text.endsWith(".") ? text.slice(0, -1) : text;
     for (const suffix of [shortSuffix, " for residents.", " for research.", " locally."]) {
-      if (`${base}${suffix}`.length >= 150 && `${base}${suffix}`.length <= 160) {
+      if (`${base}${suffix}`.length >= 148 && `${base}${suffix}`.length <= META_MAX) {
         text = `${base}${suffix}`;
         break;
       }
     }
   }
-  return text.length > 160 ? `${text.slice(0, 157).replace(/\s+\S*$/, "")}.` : text;
+  return text.length > META_MAX ? `${text.slice(0, META_MAX - 3).replace(/\s+\S*$/, "")}.` : text;
 }
 
 export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {

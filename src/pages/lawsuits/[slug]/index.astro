@@ -161,21 +161,21 @@ if (slug === "suboxone") {
       <Content />
 
       <section id="injuries">
-        <h2>Injuries involved</h2>
+        <h2>What injuries does the {lawsuit.data.lawsuit} lawsuit involve?</h2>
         <ul>
           {lawsuit.data.injuries.map((injury) => <li>{injury}</li>)}
         </ul>
       </section>
 
       <section id="evidence">
-        <h2>Evidence usually needed</h2>
+        <h2>What evidence is needed for {lawsuit.data.lawsuit} claims?</h2>
         <ul>
           {lawsuit.data.evidence.map((item) => <li>{item}</li>)}
         </ul>
       </section>
 
       <section id="timeline">
-        <h2>Timeline</h2>
+        <h2>How has the {lawsuit.data.lawsuit} lawsuit progressed?</h2>
         <div class="space-y-3">
           {lawsuit.data.timeline.map((item) => (
             <div class="rounded-lg border border-line bg-panel p-4">
@@ -187,12 +187,12 @@ if (slug === "suboxone") {
       </section>
 
       <section id="settlement">
-        <h2>Settlement status</h2>
+        <h2>What is the {lawsuit.data.lawsuit} settlement status?</h2>
         <p>{lawsuit.data.settlementStatus}</p>
       </section>
 
       <section id="deadlines">
-        <h2>Deadline overview</h2>
+        <h2>What are the {lawsuit.data.lawsuit} lawsuit filing deadlines?</h2>
         <p>Deadlines vary by state and may depend on diagnosis date, discovery date, exposure history, wrongful death issues, and other facts. A lawyer can evaluate how the relevant deadline rules may apply.</p>
       </section>
 
