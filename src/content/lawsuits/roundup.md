@@ -33,7 +33,7 @@ timeline:
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
 lastUpdated: "2026-06-11"
-lastReviewed: "2026-05-30"
+lastReviewed: "2026-06-11"
 faqs:
   -
     question: "What is the Roundup lawsuit about?"
@@ -77,10 +77,10 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Roundup Cancer Lawsuit Update: May 2026</h2>
-<p>Roundup cancer litigation remains active, but it is a mature litigation with a long history of federal MDL proceedings, state court cases, appeals, and settlement activity. Federal Roundup product liability cases have been coordinated in MDL No. 2741 in the Northern District of California, while many claims have also proceeded through state courts or settlement-related processes.</p>
-<p>As of May 2026, Roundup appears more settlement-focused than newer mass torts, but public settlement activity does not mean every claim is resolved or that a person automatically qualifies. Current legal issues include proposed settlement procedures, objections or disputes over settlement structure, federal preemption arguments, warning-law questions, and how prior releases or opt-out decisions affect individual rights.</p>
-<p>Recent public news has focused on a proposed multibillion-dollar settlement and legal disputes that could affect timing, approval, or participation. For people researching the case, the important takeaway is to identify product-use history, diagnosis details, and any prior claim paperwork before assuming a new or additional legal option exists.</p>
+<h2>Roundup Cancer Lawsuit Update: June 2026</h2>
+<p>The most significant current development is the $7.25 billion nationwide class settlement, <em>King v. Monsanto</em>, pending before Judge Timothy Boyer in Missouri's 22nd Judicial Circuit. Judge Boyer granted preliminary approval on March 4, 2026; the deadline for class members to object or opt out was set for June 4, 2026 (a motion to extend that deadline was filed shortly beforehand), and a final approval hearing is scheduled for July 9, 2026. As of June 1, 2026, 3,909 federal cases remain pending in MDL No. 2741 before Judge Vince Chhabria in the Northern District of California, with additional Roundup cases proceeding in state courts.</p>
+<p>A separate legal question is before the U.S. Supreme Court. On April 27, 2026, the Court heard oral argument in <em>Monsanto Co. v. Durnell</em> (No. 24-1068), which asks whether federal pesticide law preempts state failure-to-warn claims. A decision is expected before the end of the current term. Monsanto/Bayer disputes the plaintiffs' claims.</p>
+<p>The class settlement's structure does not determine individual eligibility. Because the opt-out and objection deadline fell in early June 2026 — and was the subject of a pending motion to extend — anyone who was a potential class member should confirm the current deadline status with counsel rather than assume it; the July 9 final approval hearing is the next key procedural date to watch.</p>
 </section>
 
 <section id="case-status-snapshot">

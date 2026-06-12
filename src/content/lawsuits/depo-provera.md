@@ -34,7 +34,7 @@ timeline:
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
 lastUpdated: "2026-06-11"
-lastReviewed: "2026-05-23"
+lastReviewed: "2026-06-11"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
@@ -69,10 +69,10 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Depo-Provera Lawsuit Update: May 2026</h2>
-<p>Depo-Provera meningioma claims appear active and still developing. The federal litigation is centralized in MDL No. 3140 in the Northern District of Florida, where the court is managing common pretrial issues for cases alleging that Depo-Provera or generic depot medroxyprogesterone acetate injections are connected to meningioma brain tumors.</p>
-<p>As of May 2026, the major legal issues include expert causation, warning evidence, proof of product use, diagnosis records, and how individual medical histories will be evaluated. The litigation appears more investigation- and pretrial-focused than settlement-focused at this stage. People researching the case should understand that an active MDL does not mean a claim is automatically valid or that a settlement is available.</p>
-<p>Recent public court information reflects ongoing case-management activity and scheduled proceedings rather than a final resolution. For potential claimants, the practical takeaway is to collect injection records, pharmacy records, OB/GYN or clinic records, imaging reports, pathology reports, and diagnosis timelines while also checking how state filing deadlines may apply.</p>
+<h2>Depo-Provera Lawsuit Update: June 2026</h2>
+<p>A joint Daubert hearing on general-causation experts is scheduled for June 24-26, 2026, before Judge M. Casey Rodgers in MDL No. 3140 in the Northern District of Florida, held jointly with Delaware and New York state-court judges. This is a hearing, not a trial, and its outcome will determine which expert testimony is admissible across all MDL cases under Pretrial Order 30. As of June 1, 2026, 5,508 cases are pending - up from 3,490 on March 31, 2026, making this the fastest-growing MDL currently active.</p>
+<p>The first Pilot bellwether trial is scheduled for December 7, 2026, per Case Management Order No. 9. Separately, Pfizer's federal preemption motion is fully briefed and pending before Judge Rodgers; under Pretrial Order 30, that ruling will also apply to all MDL cases. Pfizer and the Pharmacia entities dispute the plaintiffs' claims.</p>
+<p>The June 24-26 Daubert hearing and the pending preemption ruling are both gateway decisions that must be resolved before any bellwether trial proceeds. Individuals researching this litigation should monitor both rulings, as either could substantially affect the trajectory of the MDL.</p>
 </section>
 
 <section id="case-status-snapshot">

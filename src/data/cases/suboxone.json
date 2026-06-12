@@ -31,7 +31,7 @@
     { "date": "2024-02-05", "label": "MDL-3092 established", "detail": "JPML centralized federal Suboxone dental-injury cases before Judge J. Philip Calabrese in the Northern District of Ohio." },
     { "date": "2024-05-16", "label": "CMO No. 4 — mass-filing (Schedule A) procedure", "detail": "The court authorized a master 'Schedule A' filing covering thousands of claimants, with severed plaintiffs later required to file individual actions." },
     { "date": "2026-03-27", "label": "Second Amended CMO No. 15 — bellwether protocol", "detail": "Set the core-discovery-pool schedule for bellwether selection." },
-    { "date": "2026-06-10", "label": "Random selection of 20 core-discovery cases", "detail": "First tranche of the 50-case core discovery pool selected per the bellwether protocol." }
+    { "date": "2026-06-10", "label": "Random selection of 20 core-discovery cases (scheduled)", "detail": "The court's random selection of the first 20 cases for the 50-case core discovery pool was scheduled for June 10, 2026 under the Second Amended CMO No. 15 bellwether protocol." }
   ],
   "sources": [
     { "name": "N.D. Ohio — MDL 3092 court page (case management orders)", "url": "https://www.ohnd.uscourts.gov/mdl-3092" },
