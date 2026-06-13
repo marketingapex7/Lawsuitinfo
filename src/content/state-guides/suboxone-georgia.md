@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Severe dental injuries"
 exposureContext: "State residents may have received Suboxone through addiction treatment providers, medication-assisted treatment programs, clinics, pharmacies, and prescribing physicians."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Suboxone Tooth Decay lawsuit in Georgia about?"
-    answer: "This guide explains general information for Georgia residents researching Suboxone Tooth Decay claims involving severe tooth decay and dental injury allegations."
+    question: "Has there been a Suboxone tooth-decay verdict in Georgia?"
+    answer: "No. No Georgia state-court Suboxone tooth-decay verdict has been reported. Federal cases filed by Georgia residents are transferred to MDL-3092 in the Northern District of Ohio."
   -
-    question: "Can a Georgia resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Has Georgia participated in Indivior settlements?"
+    answer: "Yes. Georgia joined the 2019 Reckitt $1.4 billion settlement, the 2021 Indivior $300 million Medicaid settlement, the 2023 $102.5 million Suboxone antitrust settlement, and served on the executive committee for the July 2024 $86 million settlement in principle. Those are state-AG actions, separate from the federal tooth-decay product-liability MDL."
   -
     question: "Do Georgia deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What Georgia residents should know</h2>
 <p>Georgia residents are not necessarily limited to filing only in Georgia state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-suboxone-context">
+<h2>What stands out about Suboxone litigation in Georgia?</h2>
+<p>Georgia has not produced a state-court Suboxone tooth-decay verdict. Tooth-decay cases filed by Georgia residents in the Northern, Middle, or Southern District of Georgia are transferred into MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings before Judge J. Philip Calabrese.</p>
+<p>Georgia did participate in the major federal Indivior enforcement actions. Georgia joined the 2019 Reckitt Benckiser $1.4 billion settlement and the 2021 Indivior $300 million Medicaid-fraud settlement (both all-50-states actions), joined the June 2023 multistate $102.5 million Suboxone antitrust settlement, and was named to the executive committee for the July 2024 $86 million multistate settlement in principle.</p>
+<p>Georgia&rsquo;s personal injury statute of limitations is generally two years (O.C.G.A. &sect; 9-3-33). For latent dental injuries that develop during ongoing medication use, a lawyer can confirm how the deadline applies in a specific case.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://ag.ny.gov/press-release/2023/attorney-general-james-secures-1025-million-multistate-agreement-maker-opioid" target="_blank" rel="noopener noreferrer">NY AG &mdash; $102.5M Suboxone antitrust settlement (2023)</a>; <a href="https://ag.ny.gov/press-release/2024/attorney-general-james-secures-86-million-multistate-settlement-principle" target="_blank" rel="noopener noreferrer">NY AG &mdash; $86M Indivior settlement in principle (July 2024, executive-committee states listed)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">
