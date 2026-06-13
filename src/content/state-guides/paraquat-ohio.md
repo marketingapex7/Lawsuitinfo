@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Parkinson's disease"
 exposureContext: "State residents may have encountered paraquat through farms, crop handling, pesticide application, agricultural work, mixing, loading, or nearby work activities."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Paraquat Parkinson's lawsuit in Ohio about?"
-    answer: "This guide explains general information for Ohio residents researching Paraquat Parkinson's claims involving Parkinson's disease allegations."
+    question: "Where are Paraquat cases for Ohio residents coordinated?"
+    answer: "Federal paraquat cases filed by Ohio residents in the Northern or Southern District of Ohio are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
   -
-    question: "Can an Ohio resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Has Ohio passed a paraquat restriction?"
+    answer: "As of late March 2026, the CSG Midwest legislative tracker reports paraquat-related bills had been introduced in Ohio but had not passed. The Ohio General Assembly bill-tracking system is the authoritative source for current status; this guide is informational only."
   -
     question: "Do Ohio deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What Ohio residents should know</h2>
 <p>Ohio residents are not necessarily limited to filing only in Ohio state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-paraquat-context">
+<h2>What stands out about Paraquat litigation in Ohio?</h2>
+<p>Ohio is a major paraquat-use state in the Corn Belt. The USDA NASS 2018 chemical-use surveys placed Ohio among the larger corn (about 3.5 million planted acres) and soybean (about 5.0 million planted acres) states; paraquat is used in both crops as a burndown herbicide.</p>
+<p>Federal paraquat cases filed by Ohio residents in the Northern or Southern District of Ohio are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>
+<p>Restricted-use pesticide applicators in Ohio are governed by Ohio Administrative Code Chapter 901:5-11, administered by the Ohio Department of Agriculture. As of mid-2026, a review of the Ohio General Assembly's bill-tracking system, Ohio Department of Agriculture enforcement records, and Ohio Attorney General news did not surface an enacted state paraquat restriction or AG action against Syngenta or Chevron; the CSG Midwest 2026 legislative tracker indicates paraquat-related bills have been introduced in Ohio but had not passed as of late March 2026 (verify current status before relying on it). Ohio's personal injury statute of limitations is generally two years (Ohio Rev. Code &sect; 2305.10(A)), with a 10-year repose for many product liability claims (&sect; 2305.10(C)).</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Corn Chemical Use Highlights (Ohio ~3.5M acres)</a>; <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Soybean Chemical Use Highlights (Ohio ~5.0M acres)</a>; <a href="https://codes.ohio.gov/ohio-administrative-code/chapter-901:5-11" target="_blank" rel="noopener noreferrer">Ohio Administrative Code Ch. 901:5-11 &mdash; restricted-use pesticide applicator rules</a>; <a href="https://csgmidwest.org/2026/03/31/question-what-states-considering-restrictions-or-bans-on-the-sale-and-use-of-the-herbicide-paraquat" target="_blank" rel="noopener noreferrer">CSG Midwest &mdash; state paraquat legislative tracker (March 2026)</a>.</p>
 </section>
 
 <section id="eligibility">
