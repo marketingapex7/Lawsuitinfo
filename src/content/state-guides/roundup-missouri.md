@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in Missouri about?"
-    answer: "This guide explains general information for Missouri residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Why is Missouri so important in the Roundup litigation?"
+    answer: "St. Louis is Monsanto's historic home and the venue for the proposed $7.25 billion King v. Monsanto class settlement (preliminary approval March 2026, final hearing July 9, 2026). Missouri courts have also produced major verdicts, including the Anderson case reduced to $611 million."
   -
-    question: "Can a Missouri resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "How long do Missouri residents have to file?"
+    answer: "Missouri's general personal injury statute of limitations is unusually long at five years (Mo. Rev. Stat. Section 516.120), but the deadline that controls a specific claim depends on diagnosis date, discovery facts, and other issues. A lawyer can confirm it."
   -
     question: "Do Missouri deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,13 @@ faqs:
 <h2>What Missouri residents should know</h2>
 <p>Missouri residents are not necessarily limited to filing only in Missouri state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in Missouri?</h2>
+<p>Missouri is central to Roundup litigation because St. Louis is Monsanto's historic home, and the city's 22nd Judicial Circuit is where Bayer's proposed <strong>$7.25 billion nationwide class settlement</strong> (<em>King v. Monsanto</em>) received preliminary approval on March 4, 2026, with a final approval hearing set for July 9, 2026. Missouri courts have also produced major trial verdicts: in <em>Anderson v. Monsanto</em> (Cole County, November 2023) a jury awarded about $1.56 billion, later reduced to $611 million and upheld by a Missouri appellate court in 2025.</p>
+<p>A separate Missouri case, <em>Durnell v. Monsanto</em>, became the vehicle for the U.S. Supreme Court's review of whether federal pesticide law preempts state failure-to-warn claims, argued April 27, 2026 &mdash; a ruling that could reshape Roundup litigation nationwide.</p>
+<p>Missouri is a top soybean and corn state where glyphosate-tolerant crops dominate, so occupational exposure among farmers and applicators is common. Missouri's personal injury statute of limitations is unusually long &mdash; generally five years (Mo. Rev. Stat. &sect; 516.120).</p>
 </section>
 
 <section id="eligibility">

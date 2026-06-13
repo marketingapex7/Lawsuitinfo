@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in Michigan about?"
-    answer: "This guide explains general information for Michigan residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Has there been a Roundup verdict in Michigan?"
+    answer: "No notable Michigan state-court Roundup verdict has been reported. Michigan federal Roundup cases are transferred into the national MDL (No. 2741) in California."
   -
-    question: "Can a Michigan resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "What makes Michigan exposure different?"
+    answer: "Michigan's agriculture is unusually diverse, from row crops to specialty crops like cherries, blueberries, and sugarbeets, which broadens the range of glyphosate exposure scenarios. Claims still follow the federal MDL and proposed settlement."
   -
     question: "Do Michigan deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,13 @@ faqs:
 <h2>What Michigan residents should know</h2>
 <p>Michigan residents are not necessarily limited to filing only in Michigan state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in Michigan?</h2>
+<p>Michigan has not produced a notable in-state Roundup verdict. Michigan Roundup cases filed in the Eastern or Western District of Michigan are transferred into the national MDL (No. 2741) in California for coordinated proceedings, so Michigan claims move through the federal track and the proposed nationwide settlement rather than a state trial docket.</p>
+<p>Michigan's exposure profile is unusually broad because of its diverse agriculture. Beyond the soybean and corn acreage where glyphosate is standard, Michigan is a major specialty-crop state &mdash; tart cherries, blueberries, navy beans, asparagus, and sugarbeets &mdash; which widens the range of agricultural and farm-worker exposure scenarios compared with pure row-crop states.</p>
+<p>No Michigan-specific glyphosate ban or state action has been identified. Michigan's personal injury statute of limitations is generally three years (Mich. Comp. Laws &sect; 600.5805(2)). Because cancers linked to herbicide exposure can take years to develop, confirming how the deadline applies to an individual diagnosis is an important early step.</p>
 </section>
 
 <section id="eligibility">

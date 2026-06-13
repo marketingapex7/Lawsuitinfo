@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in Texas about?"
-    answer: "This guide explains general information for Texas residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Has there been a Roundup verdict in Texas?"
+    answer: "No notable Roundup trial verdict has come out of Texas state or federal courts. Texas federal Roundup cases are typically transferred into the national MDL (No. 2741) in California for coordinated pretrial proceedings."
   -
-    question: "Can a Texas resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Why is Texas relevant to Roundup claims?"
+    answer: "Texas is a major cotton, corn, and sorghum state where glyphosate is widely used, so the most common Texas exposure profile involves farmworkers and custom applicators. Claims still follow the federal MDL and the proposed nationwide settlement."
   -
     question: "Do Texas deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,13 @@ faqs:
 <h2>What Texas residents should know</h2>
 <p>Texas residents are not necessarily limited to filing only in Texas state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in Texas?</h2>
+<p>Texas has not produced a landmark in-state Roundup verdict. Texas Roundup cases filed in federal court &mdash; in the Northern or Southern District of Texas &mdash; are routinely transferred into the national federal proceeding, MDL No. 2741, before Judge Vince Chhabria in the Northern District of California. For Texas plaintiffs, the practical center of gravity is that federal MDL and the proposed nationwide class settlement, not a Texas-specific trial track.</p>
+<p>Texas's relevance is largely agricultural. As one of the country's largest cotton, corn, and sorghum states &mdash; where the great majority of cotton acreage is planted with herbicide-tolerant varieties and glyphosate is used heavily against resistant weeds such as Palmer amaranth &mdash; the most common Texas exposure profile involves farmworkers, custom applicators, and agricultural handlers.</p>
+<p>Texas has not banned glyphosate or brought a state action against it; the Texas Department of Agriculture has instead registered alternative herbicides to manage glyphosate-resistant weeds. Texas's personal injury statute of limitations is generally two years (Tex. Civ. Prac. &amp; Rem. Code &sect; 16.003), though a discovery rule can affect when the clock starts for latent illnesses.</p>
 </section>
 
 <section id="eligibility">

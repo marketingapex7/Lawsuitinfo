@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in Florida about?"
-    answer: "This guide explains general information for Florida residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Has a Roundup case gone to trial in Florida?"
+    answer: "Palacios v. Monsanto in Broward County was Florida's first Roundup case to reach trial-readiness, but it settled in March 2026 before a verdict. No Florida Roundup trial has produced a jury verdict to date."
   -
-    question: "Can a Florida resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Could Florida law limit Roundup claims?"
+    answer: "Florida lawmakers introduced bills in 2025 and 2026 that would have made an EPA-approved label a strong defense to failure-to-warn claims, but none passed before the legislature adjourned. This area of law can change, so confirm current status with a lawyer."
   -
     question: "Do Florida deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,13 @@ faqs:
 <h2>What Florida residents should know</h2>
 <p>Florida residents are not necessarily limited to filing only in Florida state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in Florida?</h2>
+<p>Florida reached a notable milestone in 2026: <em>Palacios v. Monsanto</em>, filed in Broward County Circuit Court, became the state's first Roundup case to reach trial-readiness. Set for trial on March 9, 2026, it settled on March 27, 2026 before a verdict, with terms not publicly disclosed and a separate court-supervised trust approved for the plaintiff's minor child. No Florida Roundup trial has produced a jury verdict to date.</p>
+<p>Florida lawmakers have twice tried to narrow these claims. Bills in 2025 (HB 129) and 2026 (HB 443 / SB 518) would have made an EPA-approved label a near-complete defense to state failure-to-warn claims; neither passed before the legislature adjourned. Both plaintiffs and defendants in Florida watch this legislative track closely.</p>
+<p>Florida's exposure profile is heavily agricultural &mdash; citrus especially, where glyphosate has been applied to a large share of orange and grapefruit groves &mdash; so grove and farm workers feature prominently. Florida's personal injury deadline is generally two years for claims accruing on or after March 24, 2023 (Fla. Stat. &sect; 95.11(4)(a)); older claims may fall under the prior four-year period.</p>
 </section>
 
 <section id="eligibility">
