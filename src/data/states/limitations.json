@@ -1,5 +1,5 @@
 {
-  "_note": "General personal-injury limitations periods. Product liability and toxic tort claims can follow different accrual, discovery-rule, tolling, and statute-of-repose rules. Informational only — not legal advice.",
+  "_note": "Personal-injury limitations periods applicable to product-liability and toxic-tort claims (the categories this site covers). Where a state's product-liability period differs from its general negligence period, the product-liability period is used. Accrual, discovery-rule, tolling, and statute-of-repose rules still vary case by case. Informational only — not legal advice.",
   "illinois": {
     "piYears": 2,
     "citation": "735 ILCS 5/13-202",
@@ -19,9 +19,9 @@
     "reposeNote": "Texas applies a 15-year statute of repose to many product liability claims (§ 16.012)."
   },
   "florida": {
-    "piYears": 2,
-    "citation": "Fla. Stat. § 95.11(4)(a)",
-    "discoveryNote": "For negligence actions accruing after March 24, 2023, the general period is two years; older accruals may fall under the prior four-year period. Latent-injury accrual rules can apply.",
+    "piYears": 4,
+    "citation": "Fla. Stat. § 95.11(3)(d)",
+    "discoveryNote": "Florida applies a four-year period to injury actions founded on the design, manufacture, distribution, or sale of personal property. Florida's 2023 tort reform (HB 837) cut the general negligence period to two years (§ 95.11(4)(a)) but did not change the product-liability period at § 95.11(3)(d). Latent-injury accrual rules can apply.",
     "reposeNote": "Florida product liability claims can be subject to a 12-year repose period for certain products (§ 95.031)."
   },
   "california": {

@@ -17,11 +17,11 @@ const { stateName, limitation, deadlineOverride } = Astro.props;
   ) : limitation ? (
     <>
       <p>
-        {stateName}'s general personal injury statute of limitations is <strong>{limitation.piYears} years</strong> ({limitation.citation}).
-        Product liability and toxic exposure claims do not always follow the general rule — accrual timing, tolling, and repose periods can change the real deadline in an individual case.
+        {stateName}'s personal injury statute of limitations applicable to product liability claims is <strong>{limitation.piYears} years</strong> ({limitation.citation}).
+        Accrual timing, tolling, and repose periods can still change the real deadline in an individual case.
       </p>
       <ul>
-        <li><strong>General personal injury period:</strong> {limitation.piYears} years — {limitation.citation}.</li>
+        <li><strong>Filing period:</strong> {limitation.piYears} years — {limitation.citation}.</li>
         {limitation.discoveryNote && <li><strong>Discovery rule:</strong> {limitation.discoveryNote}</li>}
         {limitation.reposeNote && <li><strong>Statute of repose:</strong> {limitation.reposeNote}</li>}
       </ul>

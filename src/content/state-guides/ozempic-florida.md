@@ -22,7 +22,7 @@ faqs:
     answer: "Possibly. Cases filed by Florida residents in federal court are routinely transferred into MDL-3094 in the Eastern District of Pennsylvania. Whether an individual claim is filed there depends on case strategy and individual facts."
   -
     question: "What is the Ozempic lawsuit statute of limitations in Florida?"
-    answer: "Florida's general personal injury period is 2 years (Fla. Stat. § 95.11(4)(a)), and for negligence actions accruing after March 24, 2023, the general period is two years; older accruals may fall under the prior four-year period. Latent-injury accrual rules can apply. Only a lawyer can confirm the deadline for a specific situation."
+    answer: "Florida generally provides four years for an injury claim founded on the design, manufacture, distribution, or sale of personal property (Fla. Stat. § 95.11(3)(d)). Accrual, repose, and other claim-specific rules can still affect the deadline. Only a lawyer can confirm the deadline for a specific situation."
   -
     question: "Which drugs are included for Florida claimants?"
     answer: "Filed cases involve Ozempic, Wegovy, Rybelsus, and Saxenda (Novo Nordisk) and Mounjaro, Zepbound, and Trulicity (Eli Lilly). Both diabetes and weight-loss prescriptions appear among filed cases."
@@ -58,5 +58,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How Florida claims proceed</h2>
-<p>Most Florida GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. The court has scheduled Rule 702 expert-admissibility hearings for September 10–18, 2026 (Case Management Order No. 32); bellwether trial dates have not yet been set. Florida's general personal injury limitations period is 2 years (Fla. Stat. § 95.11(4)(a)), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
+<p>Most Florida GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. The court has scheduled Rule 702 expert-admissibility hearings for September 10–18, 2026 (Case Management Order No. 32); bellwether trial dates have not yet been set. Florida generally provides four years for an injury claim founded on the design, manufacture, distribution, or sale of personal property (Fla. Stat. § 95.11(3)(d)), but accrual, repose, and other claim-specific rules can affect the deadline.</p>
 </section>
