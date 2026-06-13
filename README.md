@@ -40,5 +40,17 @@ This project uses static output only. It does not need the Cloudflare Astro adap
 - Lawsuit hub pages: `src/content/lawsuits/`
 - State lawsuit pages: `src/content/state-guides/`
 - Category pages: `src/content/categories/`
+- Per-case structured data (MDL #, judge, pending counts, settlements, key dates): `src/data/cases/`
+- Per-state statute-of-limitations data: `src/data/states/limitations.json`
 
 Content is edited in Markdown frontmatter and page body sections.
+
+## Build Playbook
+
+`docs/PLAYBOOK.md` is the runbook for adding a new tort, expanding state coverage, de-duplicating per-state pages, and the freshness loop. **Read the YMYL accuracy rules at the top of the playbook before editing legal content.**
+
+Helper scripts in `scripts/`:
+
+- `generate-content.mjs` — original content generator for the launch torts (legacy reference).
+- `add-case-states.mjs` — adds 10 state guides for a new case in one run, from a config block.
+- `dedup-state-pages.mjs` — replaces the boilerplate per-state body on existing case-state guides with verified, state-specific content driven by `src/data/state-dedup/{tortSlug}.json`.
