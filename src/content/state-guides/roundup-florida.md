@@ -51,6 +51,8 @@ faqs:
 <p>Florida reached a notable milestone in 2026: <em>Palacios v. Monsanto</em>, filed in Broward County Circuit Court, became the state's first Roundup case to reach trial-readiness. Set for trial on March 9, 2026, it settled on March 27, 2026 before a verdict, with terms not publicly disclosed and a separate court-supervised trust approved for the plaintiff's minor child. No Florida Roundup trial has produced a jury verdict to date.</p>
 <p>Florida lawmakers have twice tried to narrow these claims. Bills in 2025 (HB 129) and 2026 (HB 443 / SB 518) would have made an EPA-approved label a near-complete defense to state failure-to-warn claims; neither passed before the legislature adjourned. Both plaintiffs and defendants in Florida watch this legislative track closely.</p>
 <p>Florida's exposure profile is heavily agricultural &mdash; citrus especially, where glyphosate has been applied to a large share of orange and grapefruit groves &mdash; so grove and farm workers feature prominently. Florida's personal injury deadline is generally two years for claims accruing on or after March 24, 2023 (Fla. Stat. &sect; 95.11(4)(a)); older claims may fall under the prior four-year period.</p>
+
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flsenate.gov/Session/Bill/2025/129" target="_blank" rel="noopener noreferrer">Florida Legislature — HB 129 (2025 pesticide-labeling bill)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">

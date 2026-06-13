@@ -51,6 +51,8 @@ faqs:
 <p>Pennsylvania &mdash; specifically the Philadelphia Court of Common Pleas &mdash; has been one of the most active Roundup trial venues in the country. Notable Philadelphia verdicts include <em>Caranci v. Monsanto</em> (October 2023, $175 million, upheld by a Pennsylvania appellate court in May 2025), <em>McKivison v. Monsanto</em> (January 2024, a $2.25 billion jury award later reduced to $400 million), and <em>Melissen v. Monsanto</em> (October 2024, $78 million). Not every trial favored plaintiffs &mdash; Bayer also won defense verdicts in Philadelphia in 2024, a reminder that outcomes vary case by case.</p>
 <p>Many Pennsylvania plaintiffs allege residential lawn-and-garden exposure rather than agricultural use. A complicating factor: in 2024 the Third Circuit (in <em>Schaffner v. Monsanto</em>) held that federal pesticide law preempts state failure-to-warn claims &mdash; a ruling that created a split with other circuits and is part of why the U.S. Supreme Court is now weighing the preemption question.</p>
 <p>Pennsylvania's personal injury statute of limitations is generally two years (42 Pa. Cons. Stat. &sect; 5524).</p>
+
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.inquirer.com/news/philadelphia/roundup-weed-killer-cancer-claim-philadelphia-verdict-20231027.html" target="_blank" rel="noopener noreferrer">Philadelphia Inquirer — Caranci verdict (Oct. 2023)</a>; <a href="https://www.nbcnews.com/news/us-news/bayer-ordered-pay-225b-jury-finds-roundup-weed-killer-caused-pennsylva-rcna136338" target="_blank" rel="noopener noreferrer">NBC News — McKivison $2.25B verdict (Jan. 2024)</a>.</p>
 </section>
 
 <section id="eligibility">

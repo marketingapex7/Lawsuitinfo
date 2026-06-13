@@ -48,9 +48,11 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in California?</h2>
-<p>California is the epicenter of Roundup litigation. Three landmark California trials shaped the national fight: <em>Johnson v. Monsanto</em> (San Francisco Superior Court, 2018), where a school groundskeeper won a verdict reduced from $289 million to about $78 million; <em>Hardeman v. Monsanto</em> (2019), the first federal bellwether, tried in the Northern District of California; and <em>Pilliod v. Monsanto</em> (Alameda County Superior Court, 2019), a $2.055 billion jury award later reduced to about $87 million. The U.S. Supreme Court declined to review the Hardeman and Pilliod cases in 2022.</p>
+<p>California is the epicenter of Roundup litigation. Three landmark California trials shaped the national fight: <em>Johnson v. Monsanto</em> (San Francisco Superior Court, 2018), where a school groundskeeper won a $289 million verdict that the trial court cut to $78.5 million and a California appeals court further reduced to about $20.5 million in 2020; <em>Hardeman v. Monsanto</em> (2019), the first federal bellwether, tried in the Northern District of California; and <em>Pilliod v. Monsanto</em> (Alameda County Superior Court, 2019), a $2.055 billion jury award later reduced to about $87 million. The U.S. Supreme Court declined to review the Hardeman and Pilliod cases in 2022.</p>
 <p>California is also the only state to formally list glyphosate as a carcinogen &mdash; under Proposition 65 (2017, by OEHHA) &mdash; though that listing has itself been the subject of separate litigation.</p>
 <p>As the nation's largest agricultural state, California's exposure scenarios span row crops, orchards, vineyards, landscaping, and rights-of-way work, alongside residential use. The national federal MDL (No. 2741) sits in the Northern District of California before Judge Vince Chhabria. California's personal injury statute of limitations is generally two years (Cal. Civ. Proc. Code &sect; 335.1).</p>
+
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nbcbayarea.com/news/local/north-bay/sf-appeals-court-upholds-verdict-in-monsanto-roundup-case-cuts-award-to-20-5m/2330391/" target="_blank" rel="noopener noreferrer">NBC Bay Area — appeals court cuts Johnson award to $20.5M (2020)</a>; <a href="https://oehha.ca.gov/proposition-65" target="_blank" rel="noopener noreferrer">California OEHHA — Proposition 65 list</a>.</p>
 </section>
 
 <section id="eligibility">

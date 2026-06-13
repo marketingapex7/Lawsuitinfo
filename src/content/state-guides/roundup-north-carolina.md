@@ -51,6 +51,8 @@ faqs:
 <p>North Carolina has not produced a notable in-state Roundup verdict. North Carolina Roundup cases filed in federal court &mdash; across the Eastern, Middle, and Western Districts &mdash; are transferred into the national MDL (No. 2741) in California for coordinated pretrial proceedings, so the state's claims largely move through the federal track and the proposed nationwide settlement rather than a North Carolina trial docket.</p>
 <p>The state's relevance is primarily agricultural. North Carolina is a significant row-crop and tobacco state with substantial soybean acreage, and glyphosate is applied to the large majority of soybean acres; the most common exposure profiles involve farm and tobacco workers and rural residents.</p>
 <p>North Carolina's personal injury statute of limitations is generally three years (N.C. Gen. Stat. &sect; 1-52(16)), and the state applies a discovery rule, so the clock may not start until the harm becomes (or reasonably should have become) apparent. North Carolina also applies statutes of repose &mdash; including a product-liability repose period &mdash; that can independently bar older claims, which makes early legal review especially important here.</p>
+
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://www.nass.usda.gov" target="_blank" rel="noopener noreferrer">USDA NASS — agricultural statistics</a>.</p>
 </section>
 
 <section id="eligibility">

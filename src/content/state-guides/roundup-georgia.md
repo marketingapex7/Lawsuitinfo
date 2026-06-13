@@ -51,6 +51,8 @@ faqs:
 <p>Georgia produced one of the largest Roundup verdicts on record: in <em>Barnes v. Monsanto</em> (State Court of Cobb County, March 2025), a jury awarded about $2.065 billion to a single plaintiff with non-Hodgkin lymphoma &mdash; reported as the largest single-plaintiff injury verdict in Georgia history. Bayer announced an appeal.</p>
 <p>Georgia law in this area is shifting. The state enacted SB 144, effective January 1, 2026, which limits pesticide failure-to-warn liability to what the EPA label requires &mdash; a significant change for future Georgia claims. Separately, the federal Eleventh Circuit (which covers Georgia) held in <em>Carson v. Monsanto</em> (2024) that federal law does not preempt failure-to-warn claims, creating a split with another circuit that helped send the preemption question to the U.S. Supreme Court.</p>
 <p>Georgia is a major agricultural state &mdash; peanuts, cotton, and pecans &mdash; where glyphosate is widely used, so both occupational and residential exposure are relevant. Georgia's personal injury statute of limitations is generally two years (O.C.G.A. &sect; 9-3-33).</p>
+
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.upi.com/Top_News/US/2025/03/24/Ga-Jury-awards-21-billion-from-Bayer-Monsanto-for-roundup/3011742857182/" target="_blank" rel="noopener noreferrer">UPI — Cobb County $2.1B Barnes verdict (Mar. 2025)</a>; <a href="https://www.drugwatch.com/news/2025/03/24/man-awarded-2-1-billion-in-one-of-the-largest-roundup-lawsuit-verdicts-ever/" target="_blank" rel="noopener noreferrer">Drugwatch — Barnes verdict coverage (Mar. 2025)</a>.</p>
 </section>
 
 <section id="eligibility">

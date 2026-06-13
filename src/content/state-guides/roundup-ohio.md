@@ -50,7 +50,9 @@ faqs:
 <h2>What stands out about Roundup litigation in Ohio?</h2>
 <p>Ohio has not produced a notable state-court Roundup verdict. Ohio Roundup cases are filed in the Northern or Southern District of Ohio and transferred into the national MDL (No. 2741) in California; one documented example, <em>Griffin v. Monsanto</em> in the Northern District of Ohio, remained a filed complaint without a reported verdict. Ohio claims therefore move primarily through the federal MDL and the proposed nationwide settlement.</p>
 <p>Ohio's relevance is strongly agricultural. As a major corn and soybean state &mdash; among the top soybean producers, with glyphosate applied to nearly all soybean and corn acreage &mdash; the most common exposure pathways involve farmers, applicators, and rural residents exposed through direct application or spray drift.</p>
-<p>No Ohio-specific glyphosate ban or state action has been identified. Ohio's personal injury statute of limitations is generally two years (Ohio Rev. Code &sect; 2305.10(A)), with a discovery rule that can apply to latent illnesses such as cancers that develop years after exposure.</p>
+<p>As of mid-2026, no Ohio-specific glyphosate ban or attorney-general action has been identified in public records. Ohio's personal injury statute of limitations is generally two years (Ohio Rev. Code &sect; 2305.10(A)), with a discovery rule that can apply to latent illnesses such as cancers that develop years after exposure.</p>
+
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://www.nass.usda.gov" target="_blank" rel="noopener noreferrer">USDA NASS — agricultural statistics</a>.</p>
 </section>
 
 <section id="eligibility">
