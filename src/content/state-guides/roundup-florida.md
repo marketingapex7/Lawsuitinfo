@@ -15,11 +15,11 @@ lastUpdated: "2026-06-13"
 lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "Has a Roundup case gone to trial in Florida?"
-    answer: "Palacios v. Monsanto in Broward County was Florida's first Roundup case to reach trial-readiness, but it settled in March 2026 before a verdict. No Florida Roundup trial has produced a jury verdict to date."
+    question: "Did Florida pass pesticide-label liability legislation?"
+    answer: "No. Florida's HB 129 in 2025 and HB 443 and SB 518 in 2026 proposed protections tied to EPA-approved pesticide labels, but each bill died before enactment."
   -
-    question: "Could Florida law limit Roundup claims?"
-    answer: "Florida lawmakers introduced bills in 2025 and 2026 that would have made an EPA-approved label a strong defense to failure-to-warn claims, but none passed before the legislature adjourned. This area of law can change, so confirm current status with a lawyer."
+    question: "What is Florida's general product-liability filing period?"
+    answer: "Florida generally provides four years for an injury claim founded on the design, manufacture, distribution, or sale of personal property, but accrual and repose rules can change the deadline for a particular claim. A Florida lawyer can confirm which period applies."
   -
     question: "Do Florida deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,11 +48,11 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Florida?</h2>
-<p>Florida reached a notable milestone in 2026: <em>Palacios v. Monsanto</em>, filed in Broward County Circuit Court, became the state's first Roundup case to reach trial-readiness. Set for trial on March 9, 2026, it settled on March 27, 2026 before a verdict, with terms not publicly disclosed and a separate court-supervised trust approved for the plaintiff's minor child. No Florida Roundup trial has produced a jury verdict to date.</p>
-<p>Florida lawmakers have twice tried to narrow these claims. Bills in 2025 (HB 129) and 2026 (HB 443 / SB 518) would have made an EPA-approved label a near-complete defense to state failure-to-warn claims; neither passed before the legislature adjourned. Both plaintiffs and defendants in Florida watch this legislative track closely.</p>
-<p>Florida's exposure profile is heavily agricultural &mdash; citrus especially, where glyphosate has been applied to a large share of orange and grapefruit groves &mdash; so grove and farm workers feature prominently. Florida's personal injury deadline is generally two years for claims accruing on or after March 24, 2023 (Fla. Stat. &sect; 95.11(4)(a)); older claims may fall under the prior four-year period.</p>
+<p>Florida lawmakers have repeatedly considered, but not enacted, pesticide-label liability protections. HB 129 in 2025 and HB 443 and SB 518 in 2026 would have restricted certain failure-to-warn product-liability actions when a pesticide label met federal requirements. The official legislative histories show that all three measures died before enactment, including HB 443 and SB 518 on March 13, 2026.</p>
+<p>That legislative history matters because failure-to-warn allegations are central to many Roundup claims, but the failed bills did not themselves change Florida law. Claim viability still depends on the allegations, exposure and medical evidence, applicable federal rulings, and the law in force when a claim is evaluated.</p>
+<p>Florida generally provides four years for an injury claim founded on the design, manufacture, distribution, or sale of personal property under Fla. Stat. &sect; 95.11(3)(d). Product-liability deadlines can involve additional accrual and repose questions, so residents should not assume that the general period resolves the deadline for an individual Roundup claim.</p>
 
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flsenate.gov/Session/Bill/2025/129" target="_blank" rel="noopener noreferrer">Florida Legislature — HB 129 (2025)</a>; <a href="https://www.flsenate.gov/Session/Bill/2026/443" target="_blank" rel="noopener noreferrer">Florida Legislature — HB 443 (2026, died in subcommittee 3/13/26)</a>; <a href="https://www.flsenate.gov/Session/Bill/2026/518" target="_blank" rel="noopener noreferrer">Florida Legislature — SB 518 (2026, died in Judiciary 3/13/26)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flsenate.gov/Session/Bill/2025/129" target="_blank" rel="noopener noreferrer">Florida Legislature — HB 129 (2025)</a>; <a href="https://www.flsenate.gov/Session/Bill/2026/443" target="_blank" rel="noopener noreferrer">Florida Legislature — HB 443 (2026, died in subcommittee 3/13/26)</a>; <a href="https://www.flsenate.gov/Session/Bill/2026/518" target="_blank" rel="noopener noreferrer">Florida Legislature — SB 518 (2026, died in Judiciary 3/13/26)</a>; <a href="https://www.flsenate.gov/Laws/Statutes/2025/95.11" target="_blank" rel="noopener noreferrer">Fla. Stat. § 95.11 — limitations periods</a>.</p>
 </section>
 
 <section id="eligibility">
