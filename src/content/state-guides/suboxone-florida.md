@@ -15,8 +15,8 @@ lastUpdated: "2026-06-13"
 lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "Has there been a Suboxone tooth-decay verdict in Florida?"
-    answer: "No. No Florida state-court Suboxone tooth-decay verdict has been reported. Federal cases filed by Florida residents are transferred to MDL-3092 in the Northern District of Ohio."
+    question: "Where are Suboxone tooth-decay cases for Florida residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by Florida residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
     question: "Did Florida take action against Indivior?"
     answer: "Yes &mdash; on antitrust and Medicaid grounds, not tooth-decay. Florida joined the 2019 Reckitt $1.4 billion settlement, the 2021 Indivior $300 million Medicaid settlement, and the 2023 multistate $102.5 million Suboxone antitrust settlement (FL share &gt;$3.2 million). The federal tooth-decay product-liability litigation is separate."
@@ -48,10 +48,10 @@ faqs:
 
 <section id="state-suboxone-context">
 <h2>What stands out about Suboxone litigation in Florida?</h2>
-<p>Florida has not produced a state-court Suboxone tooth-decay verdict. Tooth-decay cases filed by Florida residents in the Northern, Middle, or Southern District of Florida are transferred into MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings before Judge J. Philip Calabrese.</p>
+<p>Tooth-decay cases filed by Florida residents in the Northern, Middle, or Southern District of Florida are transferred into MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings before Judge J. Philip Calabrese.</p>
 <p>Florida did participate in the major Indivior enforcement actions. Florida joined the 2019 Reckitt Benckiser $1.4 billion settlement and the 2021 $300 million Indivior Medicaid-fraud settlement (both all-50-states actions). Then-Florida AG Ashley Moody announced Florida&rsquo;s participation in the June 2023 multistate $102.5 million Suboxone antitrust settlement, with Florida&rsquo;s share reported at more than $3.2 million.</p>
-<p>Florida&rsquo;s personal injury statute of limitations is generally two years for negligence claims accruing on or after March 24, 2023 (Fla. Stat. &sect; 95.11(4)(a)). Older claims may fall under the prior four-year period, and a lawyer can confirm which deadline applies to a specific tooth-decay claim.</p>
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.myfloridalegal.com/newsrelease/attorney-general-moody-secures-1025-million-multistate-agreement-suboxone-maker-alleged" target="_blank" rel="noopener noreferrer">Florida AG &mdash; $102.5M Suboxone antitrust settlement (FL share &gt;$3.2M)</a>; <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-300-million-settlement-against-indivior" target="_blank" rel="noopener noreferrer">California AG &mdash; $300M Indivior Medicaid settlement (2021)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>.</p>
+<p>Florida generally provides four years for an injury claim founded on the design, manufacture, distribution, or sale of personal property under Fla. Stat. &sect; 95.11(3)(d). Product-liability deadlines can involve additional accrual and repose questions, so residents should not assume that the general period resolves the deadline for an individual Suboxone claim.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.myfloridalegal.com/newsrelease/attorney-general-moody-secures-1025-million-multistate-agreement-suboxone-maker-alleged" target="_blank" rel="noopener noreferrer">Florida AG &mdash; $102.5M Suboxone antitrust settlement (FL share &gt;$3.2M)</a>; <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-300-million-settlement-against-indivior" target="_blank" rel="noopener noreferrer">California AG &mdash; $300M Indivior Medicaid settlement (2021)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>; <a href="https://www.flsenate.gov/Laws/Statutes/2025/95.11" target="_blank" rel="noopener noreferrer">Fla. Stat. &sect; 95.11 &mdash; limitations periods</a>.</p>
 </section>
 
 <section id="eligibility">

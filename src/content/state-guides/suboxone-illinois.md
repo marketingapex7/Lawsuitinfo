@@ -15,8 +15,8 @@ lastUpdated: "2026-06-13"
 lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "Has there been a Suboxone tooth-decay verdict in Illinois?"
-    answer: "No. No Illinois state-court Suboxone tooth-decay verdict has been reported. Federal cases filed by Illinois residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated proceedings."
+    question: "Where are Suboxone tooth-decay cases for Illinois residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by Illinois residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
     question: "Has Illinois taken its own action against Indivior?"
     answer: "Yes &mdash; on antitrust and opioid-diversion grounds. Illinois AG Raoul co-led the multistate complaint that produced the 2023 $102.5 million Suboxone antitrust settlement and was a lead negotiating AG on the separate July 2024 $86 million settlement in principle. These are distinct from the federal tooth-decay product-liability MDL."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-suboxone-context">
 <h2>What stands out about Suboxone litigation in Illinois?</h2>
 <p>Illinois has been an unusually active state on Indivior enforcement, though not on tooth-decay claims specifically. Illinois Attorney General Kwame Raoul co-led the original 2016 multistate antitrust complaint that produced the June 2023 $102.5 million Suboxone antitrust settlement, and in July 2024 Raoul served as one of five lead negotiating attorneys general (with New York, Tennessee, Utah, and Virginia) on a separate $86 million multistate settlement in principle with Indivior over opioid-diversion practices.</p>
-<p>As of mid-2026, no Illinois state-court verdict on the Suboxone tooth-decay claims has been reported. Federal cases filed by Illinois residents in the Northern District of Illinois are transferred into MDL-3092 in the Northern District of Ohio for coordinated proceedings before Judge J. Philip Calabrese.</p>
+<p>Federal cases filed by Illinois residents in the Northern District of Illinois are transferred into MDL-3092 in the Northern District of Ohio for coordinated proceedings before Judge J. Philip Calabrese.</p>
 <p>Illinois&rsquo;s personal injury statute of limitations is generally two years (735 ILCS 5/13-202). Because dental decay typically develops gradually during ongoing medication use, accrual and discovery-rule questions are fact-specific.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-1025-million-settlement-with-suboxone-maker-for-alleged-illegal-monopoly-tactics" target="_blank" rel="noopener noreferrer">Illinois AG &mdash; $102.5M Suboxone antitrust settlement (2023)</a>; <a href="https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-86-million-national-settlement-in-principle-with-indivior-for-role-in-opioid-crisis" target="_blank" rel="noopener noreferrer">Illinois AG &mdash; $86M Indivior settlement in principle (July 2024)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>.</p>
 </section>

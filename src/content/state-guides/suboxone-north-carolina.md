@@ -15,8 +15,8 @@ lastUpdated: "2026-06-13"
 lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "Has there been a Suboxone tooth-decay verdict in North Carolina?"
-    answer: "No. No North Carolina state-court Suboxone tooth-decay verdict has been reported. Federal cases filed by North Carolina residents are transferred to MDL-3092 in the Northern District of Ohio."
+    question: "Where are Suboxone tooth-decay cases for North Carolina residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by North Carolina residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
     question: "How does North Carolina's statute of repose affect Suboxone claims?"
     answer: "Beyond the three-year personal-injury limitations period, North Carolina applies a product-liability statute of repose that can independently bar older claims regardless of when the harm was discovered, so claim timing review matters."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-suboxone-context">
 <h2>What stands out about Suboxone litigation in North Carolina?</h2>
 <p>North Carolina has been among the most aggressive state enforcers against Indivior. North Carolina recovered approximately $14.8 million from the 2019 Reckitt Benckiser $1.4 billion settlement &mdash; one of the larger per-state shares &mdash; and approximately $7.0 million from the 2021 Indivior $300 million Medicaid-fraud settlement. North Carolina also joined the 2023 multistate $102.5 million Suboxone antitrust settlement and served on the executive committee of the July 2024 $86 million settlement in principle.</p>
-<p>As of mid-2026, no North Carolina state-court verdict on Suboxone tooth-decay claims has been reported. Federal cases filed by North Carolina residents are transferred into MDL-3092 in the Northern District of Ohio.</p>
+<p>Federal cases filed by North Carolina residents are transferred into MDL-3092 in the Northern District of Ohio.</p>
 <p>North Carolina&rsquo;s personal injury statute of limitations is generally three years (N.C. Gen. Stat. &sect; 1-52(16)) with a discovery rule. The state also applies a product-liability statute of repose that can independently bar older claims, so early legal review matters for tooth-decay timing.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://ncdoj.gov/attorney-general-josh-stein-announces-700-million-settlement-with-pharmaceutical-distributor/" target="_blank" rel="noopener noreferrer">NC DOJ &mdash; Reckitt Benckiser settlement announcement (2019)</a>; <a href="https://oig.hhs.gov/fraud/enforcement/attorney-general-josh-stein-announces-300-million-settlement-with-opioid-misuse-treatment-drug-maker/" target="_blank" rel="noopener noreferrer">HHS OIG &mdash; NC AG announcement of $300M Indivior Medicaid settlement (2021)</a>; <a href="https://ncdoj.gov/attorney-general-josh-stein-announces-86-million-multistate-opioid-settlement-in-principle-with-indivior/" target="_blank" rel="noopener noreferrer">NC DOJ &mdash; $86M Indivior settlement in principle (July 2024)</a>.</p>
 </section>

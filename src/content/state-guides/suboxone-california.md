@@ -15,8 +15,8 @@ lastUpdated: "2026-06-13"
 lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "Has there been a Suboxone tooth-decay verdict in California?"
-    answer: "No. No California state-court Suboxone tooth-decay verdict has been reported. Federal cases filed by California residents are transferred to MDL-3092 in the Northern District of Ohio."
+    question: "Where are Suboxone tooth-decay cases for California residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by California residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
     question: "Why is California involved in Indivior settlements?"
     answer: "California's Medi-Cal Fraud division co-led the 2021 $300 million Indivior Medicaid-fraud settlement and the state served on the executive committee of the July 2024 $86 million settlement in principle. These are state-AG enforcement actions, separate from the federal product-liability tooth-decay MDL."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-suboxone-context">
 <h2>What stands out about Suboxone litigation in California?</h2>
 <p>California has been one of the most active state enforcers on Indivior, though not on tooth-decay claims specifically. California&rsquo;s Division of Medi-Cal Fraud and Elder Abuse co-led the multistate negotiation of the April 2021 federal $300 million Indivior Medicaid-fraud settlement (California received approximately $1.64 million from that settlement, in addition to about $2.85 million from the earlier 2019 Reckitt Benckiser $1.4 billion multistate settlement). California also joined the 2023 multistate $102.5 million Suboxone antitrust settlement and served on the executive committee of the July 2024 $86 million settlement in principle.</p>
-<p>As of mid-2026, no California state-court verdict on Suboxone tooth-decay claims has been reported. Federal cases filed by California residents are transferred into MDL-3092 in the Northern District of Ohio.</p>
+<p>Federal cases filed by California residents are transferred into MDL-3092 in the Northern District of Ohio.</p>
 <p>California&rsquo;s personal injury statute of limitations is generally two years (Cal. Civ. Proc. Code &sect; 335.1), with a discovery rule that can apply when an injury and its likely cause are not immediately apparent.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-300-million-settlement-against-indivior" target="_blank" rel="noopener noreferrer">California AG &mdash; $300M Indivior Medicaid settlement (2021)</a>; <a href="https://ag.ny.gov/press-release/2023/attorney-general-james-secures-1025-million-multistate-agreement-maker-opioid" target="_blank" rel="noopener noreferrer">NY AG &mdash; $102.5M Suboxone antitrust settlement (2023)</a>; <a href="https://ag.ny.gov/press-release/2024/attorney-general-james-secures-86-million-multistate-settlement-principle" target="_blank" rel="noopener noreferrer">NY AG &mdash; $86M Indivior settlement in principle (July 2024)</a>.</p>
 </section>

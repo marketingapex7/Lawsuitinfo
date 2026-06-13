@@ -15,8 +15,8 @@ lastUpdated: "2026-06-13"
 lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "Has there been a Suboxone tooth-decay verdict in Missouri?"
-    answer: "No. No Missouri state-court Suboxone tooth-decay verdict has been reported. Federal cases filed by Missouri residents are transferred to MDL-3092 in the Northern District of Ohio."
+    question: "Where are Suboxone tooth-decay cases for Missouri residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by Missouri residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
     question: "How long do Missouri residents have to file?"
     answer: "Missouri's general personal injury statute of limitations is unusually long at five years (Mo. Rev. Stat. Section 516.120). The deadline that controls a specific tooth-decay claim depends on diagnosis date and discovery facts; a lawyer can confirm it."
@@ -48,7 +48,7 @@ faqs:
 
 <section id="state-suboxone-context">
 <h2>What stands out about Suboxone litigation in Missouri?</h2>
-<p>Missouri has not produced a state-court Suboxone tooth-decay verdict. Missouri Attorney General Eric Schmitt announced Missouri&rsquo;s participation in the April 2021 federal $300 million Indivior Medicaid-fraud settlement (negotiated with all 50 states by the National Association of Medicaid Fraud Control Units), and Missouri also joined the 2023 multistate $102.5 million Suboxone antitrust settlement.</p>
+<p>Missouri Attorney General Eric Schmitt announced Missouri&rsquo;s participation in the April 2021 federal $300 million Indivior Medicaid-fraud settlement (negotiated with all 50 states by the National Association of Medicaid Fraud Control Units), and Missouri also joined the 2023 multistate $102.5 million Suboxone antitrust settlement.</p>
 <p>Tooth-decay cases filed by Missouri residents in the Eastern or Western District of Missouri are transferred into MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings before Judge J. Philip Calabrese.</p>
 <p>Missouri&rsquo;s personal injury statute of limitations is unusually long &mdash; generally five years (Mo. Rev. Stat. &sect; 516.120) &mdash; but the deadline that controls a specific tooth-decay claim depends on diagnosis timing, discovery facts, and other issues. A lawyer can confirm it.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://oig.hhs.gov/fraud/enforcement/attorney-general-schmitt-announces-settlement-with-indivior-over-false-marketing-related-to-suboxone/" target="_blank" rel="noopener noreferrer">HHS OIG &mdash; Missouri AG announcement of $300M Indivior Medicaid settlement (Apr. 2021)</a>; <a href="https://ag.ny.gov/press-release/2023/attorney-general-james-secures-1025-million-multistate-agreement-maker-opioid" target="_blank" rel="noopener noreferrer">NY AG &mdash; $102.5M Suboxone antitrust settlement (2023)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>.</p>

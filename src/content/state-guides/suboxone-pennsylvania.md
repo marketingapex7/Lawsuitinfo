@@ -15,8 +15,8 @@ lastUpdated: "2026-06-13"
 lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "Has there been a Suboxone tooth-decay verdict in Pennsylvania?"
-    answer: "No. No Pennsylvania state-court Suboxone tooth-decay verdict has been reported. Federal cases filed by Pennsylvania residents are transferred to MDL-3092 in the Northern District of Ohio."
+    question: "Where are Suboxone tooth-decay cases for Pennsylvania residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by Pennsylvania residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
     question: "Why is Pennsylvania connected to Indivior settlements?"
     answer: "The 2023 multistate $102.5 million Suboxone antitrust settlement was filed for approval in the Eastern District of Pennsylvania, and in July 2025 PA AG Sunday announced Pennsylvania's participation in a roughly $720 million eight-manufacturer opioid settlement that includes Indivior. Those are antitrust/opioid-enforcement actions, separate from the federal tooth-decay product-liability MDL."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-suboxone-context">
 <h2>What stands out about Suboxone litigation in Pennsylvania?</h2>
 <p>Pennsylvania has a distinct procedural connection to the broader Indivior litigation. The 2023 multistate $102.5 million Suboxone antitrust settlement was filed for court approval in the Eastern District of Pennsylvania &mdash; making Pennsylvania the forum state for that resolution. Separately, in July 2025, Pennsylvania Attorney General Dave Sunday announced Pennsylvania&rsquo;s participation in a roughly $720 million national settlement covering eight generic opioid manufacturers, including Indivior (Indivior&rsquo;s national share: $38,022,450 over four years; under the deal Indivior agreed to stop manufacturing or selling opioid products for ten years).</p>
-<p>As of mid-2026, no Pennsylvania state-court verdict on Suboxone tooth-decay claims has been reported. Pennsylvania tooth-decay cases filed in the Eastern, Middle, or Western District of Pennsylvania are transferred into MDL-3092 in the Northern District of Ohio.</p>
+<p>Pennsylvania tooth-decay cases filed in the Eastern, Middle, or Western District of Pennsylvania are transferred into MDL-3092 in the Northern District of Ohio.</p>
 <p>Pennsylvania&rsquo;s personal injury statute of limitations is generally two years (42 Pa. Cons. Stat. &sect; 5524), with a discovery rule that can delay accrual until the injury and its cause reasonably could have been discovered.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-settlement-that-holds-8-opioid-manufacturers-accountable-brings-millions-to-pa-for-prevention-and-treatment/" target="_blank" rel="noopener noreferrer">PA AG &mdash; July 2025 eight-manufacturer opioid settlement (includes Indivior)</a>; <a href="https://ag.ny.gov/press-release/2023/attorney-general-james-secures-1025-million-multistate-agreement-maker-opioid" target="_blank" rel="noopener noreferrer">NY AG &mdash; $102.5M Suboxone antitrust settlement (2023, filed in E.D. Pa.)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>.</p>
 </section>
