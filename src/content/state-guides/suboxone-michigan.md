@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Severe dental injuries"
 exposureContext: "State residents may have received Suboxone through addiction treatment providers, medication-assisted treatment programs, clinics, pharmacies, and prescribing physicians."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Suboxone Tooth Decay lawsuit in Michigan about?"
-    answer: "This guide explains general information for Michigan residents researching Suboxone Tooth Decay claims involving severe tooth decay and dental injury allegations."
+    question: "Where are Suboxone tooth-decay cases for Michigan residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by Michigan residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
-    question: "Can a Michigan resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Has Michigan taken its own Indivior action?"
+    answer: "Michigan participated in the standard federal Indivior multistate settlements (2019, 2021, 2023). As of mid-2026, a review of the Michigan Attorney General's news archive did not surface an independent Michigan AG action against Indivior beyond that multistate participation."
   -
     question: "Do Michigan deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What Michigan residents should know</h2>
 <p>Michigan residents are not necessarily limited to filing only in Michigan state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-suboxone-context">
+<h2>What stands out about Suboxone litigation in Michigan?</h2>
+<p>Tooth-decay cases filed by Michigan residents in the Eastern or Western District of Michigan are transferred into MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings before Judge J. Philip Calabrese.</p>
+<p>Michigan participated in the standard federal Indivior multistate settlements &mdash; the 2019 Reckitt Benckiser $1.4 billion settlement, the 2021 Indivior $300 million Medicaid-fraud settlement, and the June 2023 multistate $102.5 million Suboxone antitrust settlement &mdash; but did not serve as a lead negotiating state or on the executive committee for the July 2024 $86 million settlement in principle. As of mid-2026, a review of the Michigan Attorney General&rsquo;s news archive did not surface an independent Michigan AG action against Indivior beyond multistate participation; this is an absence-of-evidence statement rather than a guarantee.</p>
+<p>Michigan&rsquo;s personal injury statute of limitations is generally three years (Mich. Comp. Laws &sect; 600.5805(2)).</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://ag.ny.gov/press-release/2023/attorney-general-james-secures-1025-million-multistate-agreement-maker-opioid" target="_blank" rel="noopener noreferrer">NY AG &mdash; $102.5M Suboxone antitrust settlement (2023)</a>; <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-300-million-settlement-against-indivior" target="_blank" rel="noopener noreferrer">California AG &mdash; $300M Indivior Medicaid settlement (2021)</a>; <a href="https://www.michigan.gov/ag/news" target="_blank" rel="noopener noreferrer">Michigan Attorney General &mdash; news archive</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">

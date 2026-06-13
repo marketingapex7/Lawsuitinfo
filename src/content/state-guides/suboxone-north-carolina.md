@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Severe dental injuries"
 exposureContext: "State residents may have received Suboxone through addiction treatment providers, medication-assisted treatment programs, clinics, pharmacies, and prescribing physicians."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Suboxone Tooth Decay lawsuit in North Carolina about?"
-    answer: "This guide explains general information for North Carolina residents researching Suboxone Tooth Decay claims involving severe tooth decay and dental injury allegations."
+    question: "Where are Suboxone tooth-decay cases for North Carolina residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by North Carolina residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
-    question: "Can a North Carolina resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "How does North Carolina's statute of repose affect Suboxone claims?"
+    answer: "Beyond the three-year personal-injury limitations period, North Carolina applies a product-liability statute of repose that can independently bar older claims regardless of when the harm was discovered, so claim timing review matters."
   -
     question: "Do North Carolina deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What North Carolina residents should know</h2>
 <p>North Carolina residents are not necessarily limited to filing only in North Carolina state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-suboxone-context">
+<h2>What stands out about Suboxone litigation in North Carolina?</h2>
+<p>North Carolina has been among the most aggressive state enforcers against Indivior. North Carolina recovered approximately $14.8 million from the 2019 Reckitt Benckiser $1.4 billion settlement &mdash; one of the larger per-state shares &mdash; and approximately $7.0 million from the 2021 Indivior $300 million Medicaid-fraud settlement. North Carolina also joined the 2023 multistate $102.5 million Suboxone antitrust settlement and served on the executive committee of the July 2024 $86 million settlement in principle.</p>
+<p>Federal cases filed by North Carolina residents are transferred into MDL-3092 in the Northern District of Ohio.</p>
+<p>North Carolina&rsquo;s personal injury statute of limitations is generally three years (N.C. Gen. Stat. &sect; 1-52(16)) with a discovery rule. The state also applies a product-liability statute of repose that can independently bar older claims, so early legal review matters for tooth-decay timing.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://ncdoj.gov/attorney-general-josh-stein-announces-700-million-settlement-with-pharmaceutical-distributor/" target="_blank" rel="noopener noreferrer">NC DOJ &mdash; Reckitt Benckiser settlement announcement (2019)</a>; <a href="https://oig.hhs.gov/fraud/enforcement/attorney-general-josh-stein-announces-300-million-settlement-with-opioid-misuse-treatment-drug-maker/" target="_blank" rel="noopener noreferrer">HHS OIG &mdash; NC AG announcement of $300M Indivior Medicaid settlement (2021)</a>; <a href="https://ncdoj.gov/attorney-general-josh-stein-announces-86-million-multistate-opioid-settlement-in-principle-with-indivior/" target="_blank" rel="noopener noreferrer">NC DOJ &mdash; $86M Indivior settlement in principle (July 2024)</a>.</p>
 </section>
 
 <section id="eligibility">

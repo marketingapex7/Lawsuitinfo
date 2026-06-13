@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Severe dental injuries"
 exposureContext: "State residents may have received Suboxone through addiction treatment providers, medication-assisted treatment programs, clinics, pharmacies, and prescribing physicians."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-13"
+lastReviewed: "2026-06-13"
 faqs:
   -
-    question: "What is the Suboxone Tooth Decay lawsuit in Missouri about?"
-    answer: "This guide explains general information for Missouri residents researching Suboxone Tooth Decay claims involving severe tooth decay and dental injury allegations."
+    question: "Where are Suboxone tooth-decay cases for Missouri residents coordinated?"
+    answer: "Federal Suboxone tooth-decay cases filed by Missouri residents are transferred to MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings."
   -
-    question: "Can a Missouri resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "How long do Missouri residents have to file?"
+    answer: "Missouri's general personal injury statute of limitations is unusually long at five years (Mo. Rev. Stat. Section 516.120). The deadline that controls a specific tooth-decay claim depends on diagnosis date and discovery facts; a lawyer can confirm it."
   -
     question: "Do Missouri deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What Missouri residents should know</h2>
 <p>Missouri residents are not necessarily limited to filing only in Missouri state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-suboxone-context">
+<h2>What stands out about Suboxone litigation in Missouri?</h2>
+<p>Missouri Attorney General Eric Schmitt announced Missouri&rsquo;s participation in the April 2021 federal $300 million Indivior Medicaid-fraud settlement (negotiated with all 50 states by the National Association of Medicaid Fraud Control Units), and Missouri also joined the 2023 multistate $102.5 million Suboxone antitrust settlement.</p>
+<p>Tooth-decay cases filed by Missouri residents in the Eastern or Western District of Missouri are transferred into MDL-3092 in the Northern District of Ohio for coordinated pretrial proceedings before Judge J. Philip Calabrese.</p>
+<p>Missouri&rsquo;s personal injury statute of limitations is unusually long &mdash; generally five years (Mo. Rev. Stat. &sect; 516.120) &mdash; but the deadline that controls a specific tooth-decay claim depends on diagnosis timing, discovery facts, and other issues. A lawyer can confirm it.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://oig.hhs.gov/fraud/enforcement/attorney-general-schmitt-announces-settlement-with-indivior-over-false-marketing-related-to-suboxone/" target="_blank" rel="noopener noreferrer">HHS OIG &mdash; Missouri AG announcement of $300M Indivior Medicaid settlement (Apr. 2021)</a>; <a href="https://ag.ny.gov/press-release/2023/attorney-general-james-secures-1025-million-multistate-agreement-maker-opioid" target="_blank" rel="noopener noreferrer">NY AG &mdash; $102.5M Suboxone antitrust settlement (2023)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">
