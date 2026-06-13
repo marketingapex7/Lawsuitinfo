@@ -34,7 +34,12 @@
  *
  * SHAPE of src/data/state-dedup/{tortSlug}.json:
  *   {
- *     "_meta": { "tortSlug": "roundup", "tortName": "Roundup Cancer" },
+ *     "_meta": {
+ *       "tortSlug": "roundup",
+ *       "tortName": "Roundup Cancer",
+ *       "filePrefix": "roundup",
+ *       "reviewDate": "2026-06-13"
+ *     },
  *     "states": {
  *       "california": {
  *         "stateName": "California",
@@ -52,11 +57,10 @@
  *     }
  *   }
  */
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import { dirname, join } from "node:path";
+import { readFileSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
 
 const ROOT = process.cwd();
-const REVIEW_DATE = "2026-06-13"; // bump per dedup batch
 const STATE_GUIDES_DIR = join(ROOT, "src/content/state-guides");
 
 // Marker = the last line of the boilerplate "state-overview" section that is
@@ -68,18 +72,6 @@ const INSERT_MARKER = [
 ].join("\n");
 
 const A = `target="_blank" rel="noopener noreferrer"`;
-
-function renderSection({ h2, body, sources }) {
-  const sourcesHtml = sources.length === 0
-    ? ""
-    : `\n<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> ${sources
-        .map((s) => `<a href="${s.url}" ${A}>${s.label}</a>`)
-        .join("; ")}.</p>`;
-  return `<section id="state-${"current".replace("current", "tort")}-context">
-<h2>${h2}</h2>
-${body.trim()}${sourcesHtml}
-</section>`;
-}
 
 // We use a stable section id of "state-roundup-context" historically; keep it
 // per-tort so multiple dedup runs on the same file don't collide.
@@ -109,23 +101,39 @@ function escapeYaml(s) {
   return s.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
 }
 
-function genericFaqBlock({ tortName, stateName, article }) {
-  return [
-    `  -`,
-    `    question: "What is the ${tortName} lawsuit in ${stateName} about?"`,
-    `    answer: "This guide explains general information for ${stateName} residents researching ${tortName} claims involving non-Hodgkin lymphoma allegations."`,
-    `  -`,
-    `    question: "Can ${article} ${stateName} resident join a national lawsuit?"`,
-    `    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."`
-  ].join("\n");
+function findGenericFaqRange(text, { tortName, stateName, article }) {
+  const lines = text.split("\n");
+  const firstQuestion = `    question: "What is the ${tortName} lawsuit in ${stateName} about?"`;
+  const secondQuestion = `    question: "Can ${article} ${stateName} resident join a national lawsuit?"`;
+  const firstQuestionIndex = lines.indexOf(firstQuestion);
+  if (firstQuestionIndex < 1 || lines[firstQuestionIndex - 1].trim() !== "-") return null;
+
+  const firstItemStart = firstQuestionIndex - 1;
+  let secondItemStart = -1;
+  let thirdItemStart = -1;
+  for (let i = firstQuestionIndex + 1; i < lines.length; i += 1) {
+    if (lines[i].trim() !== "-") continue;
+    if (secondItemStart === -1) secondItemStart = i;
+    else {
+      thirdItemStart = i;
+      break;
+    }
+  }
+  if (secondItemStart === -1 || thirdItemStart === -1) return null;
+  if (!lines.slice(secondItemStart, thirdItemStart).includes(secondQuestion)) return null;
+
+  return { lines, firstItemStart, thirdItemStart };
 }
 
-function applyOne({ tortSlug, tortName, stateSlug, payload }) {
-  const filename = `${tortSlug}-${stateSlug}.md`;
+function applyOne({ tortSlug, tortName, filePrefix, reviewDate, stateSlug, payload }) {
+  const filename = `${filePrefix}-${stateSlug}.md`;
   const filePath = join(STATE_GUIDES_DIR, filename);
   let text;
+  let eol;
   try {
     text = readFileSync(filePath, "utf8");
+    eol = text.includes("\r\n") ? "\r\n" : "\n";
+    text = text.replace(/\r\n/g, "\n");
   } catch (e) {
     return { stateSlug, status: "missing-file", filePath };
   }
@@ -138,6 +146,24 @@ function applyOne({ tortSlug, tortName, stateSlug, payload }) {
     return { stateSlug, status: "marker-not-found-or-ambiguous" };
   }
 
+  if (!payload.h2 || !payload.body || !Array.isArray(payload.sources) || payload.sources.length === 0) {
+    return { stateSlug, status: "invalid-content-payload" };
+  }
+  if (!Array.isArray(payload.faqs) || payload.faqs.length !== 2) {
+    return { stateSlug, status: "invalid-faq-payload" };
+  }
+
+  // Validate the boilerplate FAQ range before changing anything. This keeps
+  // the operation atomic: hand-edited pages are left untouched for review.
+  const faqRange = findGenericFaqRange(text, {
+    tortName,
+    stateName: payload.stateName,
+    article: payload.article || "a"
+  });
+  if (!faqRange) {
+    return { stateSlug, status: "generic-faqs-not-found" };
+  }
+
   // 1) Insert the unique section immediately after the boilerplate intro.
   const newSection = renderSectionWithId({
     tortSlug,
@@ -147,28 +173,29 @@ function applyOne({ tortSlug, tortName, stateSlug, payload }) {
   });
   text = text.replace(INSERT_MARKER, `${INSERT_MARKER}\n\n${newSection}`);
 
-  // 2) Replace the two generic FAQs (if present) with state-specific ones.
-  const generic = genericFaqBlock({
+  // 2) Replace the two generic FAQs with state-specific ones. Recompute the
+  // range after section insertion so the line indexes cannot drift.
+  const updatedRange = findGenericFaqRange(text, {
     tortName,
     stateName: payload.stateName,
     article: payload.article || "a"
   });
-  if (text.includes(generic)) {
-    text = text.replace(generic, renderFaqYaml(payload.faqs || []));
-  } else {
-    // The boilerplate FAQ block may have been edited; do not silently mangle
-    // the file. Skip FAQ replacement and warn.
-    return doneWith(filePath, text, REVIEW_DATE, { stateSlug, status: "section-inserted-faqs-skipped" });
-  }
+  const updatedLines = updatedRange.lines;
+  updatedLines.splice(
+    updatedRange.firstItemStart,
+    updatedRange.thirdItemStart - updatedRange.firstItemStart,
+    ...renderFaqYaml(payload.faqs).split("\n")
+  );
+  text = updatedLines.join("\n");
 
-  return doneWith(filePath, text, REVIEW_DATE, { stateSlug, status: "ok" });
+  return doneWith(filePath, text, eol, reviewDate, { stateSlug, status: "ok" });
 }
 
-function doneWith(filePath, text, reviewDate, result) {
+function doneWith(filePath, text, eol, reviewDate, result) {
   // Bump lastUpdated + lastReviewed to today's dedup date.
   text = text.replace(/lastUpdated: "[^"]*"/, `lastUpdated: "${reviewDate}"`);
   text = text.replace(/lastReviewed: "[^"]*"/, `lastReviewed: "${reviewDate}"`);
-  writeFileSync(filePath, text);
+  writeFileSync(filePath, text.replace(/\n/g, eol));
   return result;
 }
 
@@ -187,6 +214,14 @@ function main() {
     process.exit(2);
   }
   const tortName = config._meta?.tortName || tortSlug;
+  // Most guide filenames use the URL slug. AFFF is the known exception:
+  // lawsuitSlug "afff-pfas" maps to files prefixed "afff-firefighting-foam".
+  const filePrefix = config._meta?.filePrefix || tortSlug;
+  const reviewDate = config._meta?.reviewDate;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(reviewDate || "")) {
+    console.error("ERROR: config._meta.reviewDate must use YYYY-MM-DD");
+    process.exit(2);
+  }
   const states = config.states || {};
   const stateSlugs = Object.keys(states);
   if (stateSlugs.length === 0) {
@@ -201,6 +236,8 @@ function main() {
     const result = applyOne({
       tortSlug,
       tortName,
+      filePrefix,
+      reviewDate,
       stateSlug,
       payload: states[stateSlug]
     });
@@ -210,9 +247,6 @@ function main() {
     } else if (result.status === "already-deduped") {
       skipped += 1;
       console.log(`  [skip]    ${tortSlug}-${stateSlug}.md  (already deduped)`);
-    } else if (result.status === "section-inserted-faqs-skipped") {
-      ok += 1;
-      console.log(`  [partial] ${tortSlug}-${stateSlug}.md  (section inserted; FAQ block changed — left FAQs alone)`);
     } else {
       bad += 1;
       console.log(`  [WARN]    ${tortSlug}-${stateSlug}.md  ${result.status}`);

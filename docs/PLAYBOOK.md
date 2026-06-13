@@ -186,8 +186,8 @@ If you're expanding beyond the 10 launch states (`src/lib/site.ts` → `states` 
 
 The legacy per-state guides for the 5 originally-launched torts shared near-identical bodies (the audit flagged this as doorway-page risk). The dedup pattern, proven on Roundup in PR #7:
 
-1. **Build a per-tort dedup config** at `src/data/state-dedup/{tortSlug}.json` using the shape documented in `scripts/dedup-state-pages.mjs`. Every claim in the `body` HTML must be backed by an entry in `sources`. Read the YMYL accuracy rules at the top of this document before writing the config.
-2. **Run** `node scripts/dedup-state-pages.mjs {tortSlug}`. The script is idempotent.
+1. **Build a per-tort dedup config** at `src/data/state-dedup/{tortSlug}.json` using the shape documented in `scripts/dedup-state-pages.mjs`. Set `_meta.reviewDate` to the date the batch was actually reviewed. Set `_meta.filePrefix` when filenames differ from the URL slug (for example, AFFF uses `tortSlug: "afff-pfas"` and `filePrefix: "afff-firefighting-foam"`). Every claim in the `body` HTML must be backed by an entry in `sources`. Read the YMYL accuracy rules at the top of this document before writing the config.
+2. **Run** `node scripts/dedup-state-pages.mjs {tortSlug}`. The script is idempotent and atomic per page: if the expected boilerplate or first two generic FAQs have already been hand-edited, it reports a warning and leaves that page unchanged.
 3. Build + spot-check: each `dist/lawsuits/{tortSlug}/{state}/index.html` should now have a `<section id="state-{tortSlug}-context">` with state-specific content + a Sources line.
 4. Ship the PR with the verification trail. Expect a strict review on every cited claim.
 
