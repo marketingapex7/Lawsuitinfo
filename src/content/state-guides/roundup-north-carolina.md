@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in North Carolina about?"
-    answer: "This guide explains general information for North Carolina residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Where are Roundup cases for North Carolina residents coordinated?"
+    answer: "Federal Roundup cases filed by North Carolina residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
   -
-    question: "Can a North Carolina resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Why is North Carolina relevant to Roundup claims?"
+    answer: "North Carolina is a significant row-crop and tobacco state with substantial soybean acreage, where glyphosate is widely used (USDA NASS 2018), so exposure commonly involves farm and tobacco workers and rural residents. Claims proceed through the federal MDL and the proposed settlement."
   -
     question: "Do North Carolina deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,13 @@ faqs:
 <h2>What North Carolina residents should know</h2>
 <p>North Carolina residents are not necessarily limited to filing only in North Carolina state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in North Carolina?</h2>
+<p>North Carolina's relevance to Roundup litigation is primarily agricultural. The state is a significant row-crop and tobacco state with substantial soybean acreage; the USDA NASS 2018 Soybean Chemical Use survey documents glyphosate applied to the large majority of U.S. soybean acreage, and the most common North Carolina exposure profiles involve farm and tobacco workers and rural residents.</p>
+<p>Federal Roundup cases filed by North Carolina residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Soybean Chemical Use Highlights</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>.</p>
 </section>
 
 <section id="eligibility">

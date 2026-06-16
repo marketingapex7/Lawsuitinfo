@@ -1,0 +1,161 @@
+{
+  "_meta": {
+    "tortSlug": "roundup",
+    "tortName": "Roundup Cancer",
+    "filePrefix": "roundup",
+    "reviewDate": "2026-06-16"
+  },
+  "states": {
+    "california": {
+      "stateName": "California",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in California?",
+      "body": "<p>California is the home of the Roundup litigation in two senses. The first landmark trial, <em>Johnson v. Monsanto</em>, was tried in San Francisco Superior Court in 2018: the jury awarded $289 million, the trial court reduced that to $78.5 million, and the California Court of Appeal further reduced the award to about $20.5 million in 2020.</p>\n<p>California is also the only state to formally list glyphosate as a carcinogen, under Proposition 65 (2017), though that listing has itself been the subject of separate litigation.</p>\n<p>The national federal proceeding, MDL No. 2741, is based in the Northern District of California before Judge Vince Chhabria, so California is the transferee forum for Roundup cases nationwide. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>",
+      "sources": [
+        { "label": "NBC Bay Area — appeals court cuts Johnson award to $20.5M (2020)", "url": "https://www.nbcbayarea.com/news/local/north-bay/sf-appeals-court-upholds-verdict-in-monsanto-roundup-case-cuts-award-to-20-5m/2330391/" },
+        { "label": "California OEHHA — Proposition 65 list", "url": "https://oehha.ca.gov/proposition-65" },
+        { "label": "King v. Monsanto preliminary approval order (Mar. 4, 2026)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" },
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for California residents coordinated?", "answer": "California is the home of the national Roundup MDL: federal cases are coordinated in MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "Did California produce a major Roundup verdict?", "answer": "Yes. Johnson v. Monsanto (San Francisco, 2018) was the first Roundup trial; the jury's $289 million award was reduced by the trial court to $78.5 million and then to about $20.5 million by the California Court of Appeal in 2020. Past verdicts do not guarantee any individual outcome." }
+      ]
+    },
+    "missouri": {
+      "stateName": "Missouri",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Missouri?",
+      "body": "<p>Missouri is central to Roundup litigation because St. Louis is Monsanto's historic home, and the city's 22nd Judicial Circuit is where Bayer's proposed <strong>$7.25 billion nationwide class settlement</strong> (<em>King v. Monsanto</em>) received preliminary approval on March 4, 2026, with a final approval hearing set for July 9, 2026.</p>\n<p>Missouri courts have also produced major trial verdicts. In <em>Anderson v. Monsanto</em> (Cole County, November 2023), a jury awarded about $1.56 billion; the award was later reduced to $611 million and upheld by a Missouri appellate court in 2025.</p>\n<p>A separate Missouri case, <em>Durnell v. Monsanto</em>, became the vehicle for the U.S. Supreme Court's review of whether federal pesticide law preempts state failure-to-warn claims, argued April 27, 2026 &mdash; a ruling that could reshape Roundup litigation nationwide. Federal Missouri cases are transferred into MDL No. 2741 in the Northern District of California.</p>",
+      "sources": [
+        { "label": "King v. Monsanto preliminary approval order (Mar. 4, 2026)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" },
+        { "label": "Drugwatch — Cole County $1.5B verdict (Nov. 2023)", "url": "https://www.drugwatch.com/news/2023/11/20/bayer-hit-with-1b-loss-in-latest-roundup-cancer-trial-verdict/" },
+        { "label": "U.S. Supreme Court docket — Monsanto v. Durnell (No. 24-1068)", "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24-1068.html" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for Missouri residents coordinated?", "answer": "Federal Roundup cases filed by Missouri residents are transferred into MDL No. 2741 in the Northern District of California. Separately, the proposed $7.25 billion King v. Monsanto class settlement is pending in St. Louis state court." },
+        { "question": "Why is Missouri central to the Roundup litigation?", "answer": "St. Louis is Monsanto's historic home and the venue for the proposed $7.25 billion King v. Monsanto class settlement (preliminary approval March 2026; final hearing July 9, 2026). Missouri courts also produced the Anderson verdict, reduced to $611 million and upheld in 2025." }
+      ]
+    },
+    "pennsylvania": {
+      "stateName": "Pennsylvania",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Pennsylvania?",
+      "body": "<p>Pennsylvania &mdash; specifically the Philadelphia Court of Common Pleas &mdash; has been one of the most active Roundup trial venues in the country. In <em>Caranci v. Monsanto</em> (October 2023), a Philadelphia jury returned a $175 million verdict, which a Pennsylvania appellate court upheld in 2025.</p>\n<p>In <em>McKivison v. Monsanto</em> (January 2024), a Philadelphia jury returned a $2.25 billion verdict that was later reduced to $400 million. Many Pennsylvania plaintiffs allege residential lawn-and-garden exposure rather than agricultural use.</p>\n<p>Federal Pennsylvania cases are transferred into the national proceeding, MDL No. 2741, in the Northern District of California, and many claims are also being resolved through the proposed $7.25 billion nationwide class settlement.</p>",
+      "sources": [
+        { "label": "Philadelphia Inquirer — Caranci $175M verdict (Oct. 2023)", "url": "https://www.inquirer.com/news/philadelphia/roundup-weed-killer-cancer-claim-philadelphia-verdict-20231027.html" },
+        { "label": "NBC News — McKivison $2.25B verdict (Jan. 2024)", "url": "https://www.nbcnews.com/news/us-news/bayer-ordered-pay-225b-jury-finds-roundup-weed-killer-caused-pennsylva-rcna136338" },
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for Pennsylvania residents coordinated?", "answer": "Federal Roundup cases filed by Pennsylvania residents are transferred into MDL No. 2741 in the Northern District of California. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "Have there been major Roundup verdicts in Pennsylvania?", "answer": "Yes. The Philadelphia Court of Common Pleas produced the Caranci verdict ($175 million, upheld on appeal in 2025) and the McKivison verdict ($2.25 billion, later reduced to $400 million). Past verdicts do not guarantee any individual outcome." }
+      ]
+    },
+    "georgia": {
+      "stateName": "Georgia",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Georgia?",
+      "body": "<p>Georgia produced one of the largest Roundup verdicts on record: in <em>Barnes v. Monsanto</em> (State Court of Cobb County, March 2025), a jury awarded about $2.065 billion to a single plaintiff with non-Hodgkin lymphoma &mdash; reported as the largest single-plaintiff injury verdict in Georgia history. Bayer announced an appeal.</p>\n<p>Georgia law in this area is shifting. Governor Brian Kemp signed SB 144 (Act 94) in May 2025, with the pesticide failure-to-warn provisions taking effect July 1, 2025; the law generally limits manufacturer failure-to-warn liability to what an EPA-approved label requires. Separately, the federal Eleventh Circuit held in <em>Carson v. Monsanto</em>, 92 F.4th 980 (11th Cir. 2024), that FIFRA does not preempt a Georgia plaintiff's failure-to-warn claim &mdash; creating a circuit split that helped send the preemption question to the U.S. Supreme Court.</p>\n<p>Federal Georgia cases are transferred into MDL No. 2741 in the Northern District of California, and many claims are also being resolved through the proposed $7.25 billion nationwide class settlement.</p>",
+      "sources": [
+        { "label": "UPI — Cobb County $2.1B Barnes verdict (Mar. 2025)", "url": "https://www.upi.com/Top_News/US/2025/03/24/Ga-Jury-awards-21-billion-from-Bayer-Monsanto-for-roundup/3011742857182/" },
+        { "label": "Drugwatch — Barnes verdict coverage (Mar. 2025)", "url": "https://www.drugwatch.com/news/2025/03/24/man-awarded-2-1-billion-in-one-of-the-largest-roundup-lawsuit-verdicts-ever/" },
+        { "label": "Atlanta Journal-Constitution — Kemp signs SB 144 (May 13, 2025)", "url": "https://www.ajc.com/politics/new-georgia-law-shields-roundup-maker-from-some-cancer-related-lawsuits/UDRRQYXYFRDZVOEYUVLEO3D33U/" },
+        { "label": "Carson v. Monsanto opinion (11th Cir., Feb. 5, 2024) (PDF)", "url": "https://media.ca11.uscourts.gov/opinions/pub/files/202110994.op3.pdf" }
+      ],
+      "faqs": [
+        { "question": "Was there a major Roundup verdict in Georgia?", "answer": "Yes. In Barnes v. Monsanto (Cobb County, March 2025) a jury awarded about $2.065 billion to one plaintiff, reported as the largest single-plaintiff injury verdict in Georgia history. Bayer announced an appeal, and past verdicts do not guarantee any individual outcome." },
+        { "question": "Does Georgia's SB 144 affect Roundup claims?", "answer": "Georgia enacted SB 144 (Act 94), with the failure-to-warn provisions effective July 1, 2025, generally limiting pesticide failure-to-warn liability to what the EPA label requires. It can affect how Georgia claims are evaluated, so confirm the current legal posture with a lawyer." }
+      ]
+    },
+    "texas": {
+      "stateName": "Texas",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Texas?",
+      "body": "<p>Texas's relevance to Roundup litigation is largely agricultural. As one of the country's largest cotton and row-crop states, Texas has extensive glyphosate use; the USDA NASS 2021 Cotton Chemical Use survey documents glyphosate as a standard herbicide across U.S. cotton acreage, with Texas the dominant cotton-producing state. The most common Texas exposure profiles involve farmworkers, applicators, and agricultural handlers.</p>\n<p>Federal Roundup cases filed by Texas residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>\n<p>The practical center of gravity for Texas claimants is therefore the federal MDL and the nationwide settlement rather than a Texas-specific trial track.</p>",
+      "sources": [
+        { "label": "USDA NASS 2021 Cotton Chemical Use Highlights", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf" },
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" },
+        { "label": "King v. Monsanto preliminary approval order (Mar. 4, 2026)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for Texas residents coordinated?", "answer": "Federal Roundup cases filed by Texas residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "Why is Texas relevant to Roundup claims?", "answer": "Texas is one of the largest cotton and row-crop states, where glyphosate is widely used (USDA NASS), so the most common Texas exposure profiles involve farmworkers and applicators. Claims still proceed through the federal MDL and the proposed nationwide settlement." }
+      ]
+    },
+    "illinois": {
+      "stateName": "Illinois",
+      "article": "an",
+      "h2": "What stands out about Roundup litigation in Illinois?",
+      "body": "<p>Illinois's relevance to Roundup litigation is heavily agricultural. It is one of the top one or two corn and soybean states in the country &mdash; the USDA NASS 2018 chemical-use surveys ranked Illinois second nationally in both crops &mdash; and glyphosate-tolerant varieties dominate that acreage, so occupational exposure among farmers and applicators is a core fact pattern.</p>\n<p>Federal Roundup cases filed by Illinois residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>",
+      "sources": [
+        { "label": "USDA NASS 2018 Corn Chemical Use Highlights", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" },
+        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for Illinois residents coordinated?", "answer": "Federal Roundup cases filed by Illinois residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "Why is Illinois relevant to Roundup claims?", "answer": "Illinois is one of the largest corn and soybean states (second nationally in both per USDA NASS 2018), where glyphosate-tolerant crops dominate, so farmer and applicator exposure is common. Claims proceed through the federal MDL and the proposed nationwide settlement." }
+      ]
+    },
+    "north-carolina": {
+      "stateName": "North Carolina",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in North Carolina?",
+      "body": "<p>North Carolina's relevance to Roundup litigation is primarily agricultural. The state is a significant row-crop and tobacco state with substantial soybean acreage; the USDA NASS 2018 Soybean Chemical Use survey documents glyphosate applied to the large majority of U.S. soybean acreage, and the most common North Carolina exposure profiles involve farm and tobacco workers and rural residents.</p>\n<p>Federal Roundup cases filed by North Carolina residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>",
+      "sources": [
+        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" },
+        { "label": "King v. Monsanto preliminary approval order (Mar. 4, 2026)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for North Carolina residents coordinated?", "answer": "Federal Roundup cases filed by North Carolina residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "Why is North Carolina relevant to Roundup claims?", "answer": "North Carolina is a significant row-crop and tobacco state with substantial soybean acreage, where glyphosate is widely used (USDA NASS 2018), so exposure commonly involves farm and tobacco workers and rural residents. Claims proceed through the federal MDL and the proposed settlement." }
+      ]
+    },
+    "ohio": {
+      "stateName": "Ohio",
+      "article": "an",
+      "h2": "What stands out about Roundup litigation in Ohio?",
+      "body": "<p>Ohio's relevance to Roundup litigation is strongly agricultural. As a major corn and soybean state &mdash; among the top soybean producers per the USDA NASS 2018 surveys, with glyphosate applied to nearly all such acreage &mdash; the most common exposure pathways involve farmers, applicators, and rural residents exposed through direct application or spray drift.</p>\n<p>Federal Roundup cases filed by Ohio residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>",
+      "sources": [
+        { "label": "USDA NASS 2018 Corn Chemical Use Highlights", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" },
+        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for Ohio residents coordinated?", "answer": "Federal Roundup cases filed by Ohio residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "Why is Ohio relevant to Roundup claims?", "answer": "Ohio is a major corn and soybean state where glyphosate is applied to nearly all such acreage (USDA NASS 2018), so exposure commonly involves farmers, applicators, and rural residents. Claims proceed through the federal MDL and the proposed settlement." }
+      ]
+    },
+    "michigan": {
+      "stateName": "Michigan",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Michigan?",
+      "body": "<p>Michigan's Roundup exposure profile includes agricultural settings where soybean acreage and glyphosate use can be relevant. The USDA NASS 2018 soybean chemical-use survey documents glyphosate use across U.S. soybean acreage, so farm, applicator, and rural exposure histories may be important facts for Michigan residents to document.</p>\n<p>Federal Roundup cases filed by Michigan residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>",
+      "sources": [
+        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" },
+        { "label": "King v. Monsanto preliminary approval order (Mar. 4, 2026)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for Michigan residents coordinated?", "answer": "Federal Roundup cases filed by Michigan residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "What makes Michigan's Roundup exposure profile different?", "answer": "Michigan residents may have agricultural, applicator, residential, or rural exposure histories, including soybean-related glyphosate use documented in USDA NASS data. Claims proceed through the federal MDL and the proposed nationwide settlement." }
+      ]
+    },
+    "florida": {
+      "stateName": "Florida",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Florida?",
+      "body": "<p>Florida residents may have Roundup exposure histories tied to agricultural, residential, landscaping, or groundskeeping use, but the current litigation path is not Florida-specific.</p>\n<p>Federal Roundup cases filed by Florida residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>\n<p>The practical center of gravity for Florida claimants is therefore the federal MDL and the nationwide settlement rather than a Florida-specific trial track.</p>",
+      "sources": [
+        { "label": "JPML — pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" },
+        { "label": "King v. Monsanto preliminary approval order (Mar. 4, 2026)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" }
+      ],
+      "faqs": [
+        { "question": "Where are Roundup cases for Florida residents coordinated?", "answer": "Federal Roundup cases filed by Florida residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement." },
+        { "question": "Why is Florida relevant to Roundup claims?", "answer": "Florida residents may have agricultural, residential, landscaping, or groundskeeping exposure histories, but claims proceed through the federal MDL and the proposed nationwide settlement rather than a Florida-specific trial track." }
+      ]
+    }
+  }
+}

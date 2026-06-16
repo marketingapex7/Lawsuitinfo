@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in Florida about?"
-    answer: "This guide explains general information for Florida residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Where are Roundup cases for Florida residents coordinated?"
+    answer: "Federal Roundup cases filed by Florida residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
   -
-    question: "Can a Florida resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Why is Florida relevant to Roundup claims?"
+    answer: "Florida residents may have agricultural, residential, landscaping, or groundskeeping exposure histories, but claims proceed through the federal MDL and the proposed nationwide settlement rather than a Florida-specific trial track."
   -
     question: "Do Florida deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What Florida residents should know</h2>
 <p>Florida residents are not necessarily limited to filing only in Florida state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in Florida?</h2>
+<p>Florida residents may have Roundup exposure histories tied to agricultural, residential, landscaping, or groundskeeping use, but the current litigation path is not Florida-specific.</p>
+<p>Federal Roundup cases filed by Florida residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p>The practical center of gravity for Florida claimants is therefore the federal MDL and the nationwide settlement rather than a Florida-specific trial track.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>.</p>
 </section>
 
 <section id="eligibility">
