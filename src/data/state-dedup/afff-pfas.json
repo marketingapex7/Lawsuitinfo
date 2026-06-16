@@ -1,0 +1,148 @@
+{
+  "_meta": {
+    "tortSlug": "afff-pfas",
+    "tortName": "AFFF Firefighting Foam",
+    "filePrefix": "afff-firefighting-foam",
+    "reviewDate": "2026-06-16"
+  },
+  "states": {
+    "illinois": {
+      "stateName": "Illinois",
+      "article": "an",
+      "h2": "Illinois's attorney general AFFF lawsuit",
+      "body": "<p>Illinois is among the states that have taken AFFF makers to court. On April 6, 2023, Attorney General Kwame Raoul filed suit in Cook County Circuit Court against multiple manufacturers of aqueous film-forming foam (AFFF), alleging they sold the PFAS-containing foam while concealing its toxicity; the complaint notes PFAS has been detected at scores of Illinois community water supplies. That state action runs on a separate track from the federal personal-injury litigation: AFFF injury claims filed by Illinois residents in federal court are transferred into MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "Illinois Attorney General &mdash; Raoul files lawsuit over PFAS contamination (Apr. 6, 2023)", "url": "https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-latest-lawsuit-over-contamination-by-toxic-forever-chemicals" },
+        { "label": "U.S. District Court (D.S.C.) &mdash; AFFF MDL No. 2873", "url": "https://www.scd.uscourts.gov/mdl-2873/index.asp" }
+      ],
+      "faqs": [
+        { "question": "Where are Illinois residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Illinois residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Illinois also has a separate state-court environmental lawsuit, filed by the Attorney General in Cook County in April 2023, seeking the state's cleanup costs." },
+        { "question": "Has Illinois sued AFFF manufacturers?", "answer": "Yes. On April 6, 2023, Illinois Attorney General Kwame Raoul filed a lawsuit against AFFF manufacturers, alleging they marketed the PFAS-containing firefighting foam while concealing its risks. That suit seeks cleanup and natural-resource costs for the state and is separate from individual personal-injury claims." }
+      ]
+    },
+    "missouri": {
+      "stateName": "Missouri",
+      "article": "a",
+      "h2": "Missouri AFFF contamination and Kansas City's lawsuit",
+      "body": "<p>In Missouri, the City of Kansas City has filed its own lawsuit against AFFF manufacturers, seeking to recover the costs of testing and cleaning up PFAS contamination tied to firefighting-foam use at city facilities, including its airport and water-system infrastructure. The state's most-studied military site, Whiteman Air Force Base in Johnson County, has documented PFAS contamination from decades of AFFF use and is the subject of an Air Force environmental cleanup response. Federal AFFF personal-injury claims by Missouri residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "City of Kansas City, Missouri &mdash; PFAS / AFFF litigation FAQ", "url": "https://www.kcmo.gov/city-hall/departments/law/pfas-litigation" },
+        { "label": "KOMU 8 (NBC) &mdash; PFAS contamination at Whiteman Air Force Base", "url": "https://www.komu.com/target8/target-8-forever-chemicals-at-whiteman-air-force-base-raise-concerns/article_f6c5fefc-6390-11ed-8407-e3d06ad9d7d0.html" }
+      ],
+      "faqs": [
+        { "question": "Where are Missouri residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Missouri residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Missouri also has local litigation: the City of Kansas City has sued AFFF manufacturers to recover its PFAS cleanup costs." },
+        { "question": "Which Missouri sites have AFFF-related PFAS contamination?", "answer": "Whiteman Air Force Base in Johnson County is Missouri's most-documented military PFAS site, with contamination tied to decades of AFFF firefighting-foam use and an ongoing Air Force environmental cleanup response. The City of Kansas City has also cited firefighting-foam use at its airport and water-system facilities." }
+      ]
+    },
+    "texas": {
+      "stateName": "Texas",
+      "article": "a",
+      "h2": "Texas's PFAS enforcement and the AFFF litigation",
+      "body": "<p>Texas's Attorney General has pursued PFAS manufacturers: on December 11, 2024, AG Ken Paxton sued 3M, DuPont, and related entities under the Texas Deceptive Trade Practices Act, alleging they marketed PFAS-containing products as safe for decades; the office has said it separately brought an earlier action addressing AFFF contamination. Reporting at the time noted nearly 50 Texas public water systems had detected PFAS above the EPA's limits. Federal AFFF personal-injury claims by Texas residents are transferred into MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "Texas Attorney General &mdash; Paxton sues PFAS manufacturers (Dec. 11, 2024)", "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-manufacturers-toxic-pfas-forever-chemicals-falsely-advertising" },
+        { "label": "KERA News &mdash; Texas sues over PFAS; nearly 50 water systems affected (Dec. 12, 2024)", "url": "https://www.keranews.org/environment-nature/2024-12-12/attorney-general-ken-paxton-sues-companies-over-forever-chemicals" }
+      ],
+      "faqs": [
+        { "question": "Where are Texas residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Texas residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Texas also has its own state-court PFAS actions brought by the Attorney General." },
+        { "question": "Has Texas sued over PFAS?", "answer": "Yes. In December 2024, Texas Attorney General Ken Paxton sued 3M, DuPont, and related companies under the Texas Deceptive Trade Practices Act over PFAS marketing, and the office has said it separately filed an earlier action addressing AFFF contamination. Those state suits are distinct from individual personal-injury claims." }
+      ]
+    },
+    "florida": {
+      "stateName": "Florida",
+      "article": "a",
+      "h2": "Florida's AFFF lawsuit and contaminated bases",
+      "body": "<p>Florida moved early against AFFF manufacturers: in 2022, the state's Attorney General filed a complaint against more than a dozen makers of aqueous film-forming foam, seeking Florida's investigation and cleanup costs. Florida also hosts heavily affected installations such as MacDill Air Force Base in Tampa and Eglin Air Force Base, where decades of AFFF use contaminated groundwater. Federal AFFF personal-injury claims by Florida residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina; the separate nationwide settlements with 3M, DuPont/Chemours/Corteva, Tyco, and BASF compensate public water utilities, not individuals.</p>",
+      "sources": [
+        { "label": "State Energy & Environmental Impact Center &mdash; Florida AG sued AFFF manufacturers (2022)", "url": "https://stateimpactcenter.org/ag-work/ag-actions/florida-ag-sued-manufacturers-for-use-of-pfas-in-firefighting-foam" },
+        { "label": "Official AFFF water-system settlement administration site", "url": "https://www.pfaswatersettlement.com/" }
+      ],
+      "faqs": [
+        { "question": "Where are Florida residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Florida residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Florida's own 2022 attorney-general lawsuit and the nationwide water-system settlements are separate proceedings." },
+        { "question": "Do the AFFF water-system settlements pay Florida individuals?", "answer": "No. The 3M, DuPont/Chemours/Corteva, Tyco, and BASF settlements approved in the MDL compensate public water systems for testing and treatment costs, not individuals. Personal-injury claims remain separate and are litigated in MDL-2873." }
+      ]
+    },
+    "california": {
+      "stateName": "California",
+      "article": "a",
+      "h2": "California's PFAS lawsuit and the AFFF litigation",
+      "body": "<p>On November 10, 2022, California Attorney General Rob Bonta filed one of the broadest state PFAS lawsuits in the country, suing 3M, DuPont, and more than a dozen other manufacturers and alleging PFAS had reached at least 146 public water systems and the bloodstream of most Californians. California has also issued statewide PFAS monitoring orders covering hundreds of water systems. Federal AFFF personal-injury claims by California residents are transferred into MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina; the state suit is a separate proceeding seeking cleanup and damages.</p>",
+      "sources": [
+        { "label": "California Attorney General &mdash; Bonta sues PFAS manufacturers (Nov. 10, 2022)", "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-manufacturers-toxic-forever-chemicals" },
+        { "label": "California State Water Resources Control Board &mdash; PFAS program", "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas.html" }
+      ],
+      "faqs": [
+        { "question": "Where are California residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by California residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. California's 2022 attorney-general PFAS lawsuit is a separate state-court action." },
+        { "question": "Has California sued PFAS manufacturers?", "answer": "Yes. In November 2022, Attorney General Rob Bonta sued 3M, DuPont, and other manufacturers, alleging widespread PFAS contamination of California's water and natural resources. That state action seeks cleanup and damages and is separate from individual injury claims." }
+      ]
+    },
+    "north-carolina": {
+      "stateName": "North Carolina",
+      "article": "a",
+      "h2": "North Carolina: AFFF suits and the Cape Fear PFAS story",
+      "body": "<p>North Carolina has a dual PFAS story. In November 2021, then-Attorney General Josh Stein filed lawsuits against more than a dozen AFFF manufacturers over contamination at sites including Charlotte-Douglas International Airport and military installations. Separately, the Chemours Fayetteville Works plant discharged GenX and other PFAS into the Cape Fear River &mdash; a drinking-water source for hundreds of thousands of residents &mdash; for decades. Federal AFFF personal-injury claims by North Carolina residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "North Carolina DOJ &mdash; AG files four lawsuits over toxic firefighting foam (Nov. 4, 2021)", "url": "https://ncdoj.gov/attorney-general-josh-stein-files-four-lawsuits-against-14-companies-over-toxic-firefighting-foam/" },
+        { "label": "NC Health News &mdash; coverage of the $1.19B PFAS water settlement and Cape Fear contamination (June 2023)", "url": "https://www.northcarolinahealthnews.org/2023/06/08/critics-skeptical-as-chemical-companies-agree-to-1-19-billion-pfas/" }
+      ],
+      "faqs": [
+        { "question": "Where are North Carolina residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by North Carolina residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. North Carolina's attorney-general AFFF suits and the Chemours Cape Fear River litigation are separate state and environmental proceedings." },
+        { "question": "What is the Cape Fear River PFAS contamination?", "answer": "For decades, the Chemours (formerly DuPont) Fayetteville Works plant discharged GenX and other PFAS into the Cape Fear River, a drinking-water source for hundreds of thousands of North Carolinians. It is the subject of separate state enforcement and litigation, distinct from the federal AFFF personal-injury MDL." }
+      ]
+    },
+    "georgia": {
+      "stateName": "Georgia",
+      "article": "a",
+      "h2": "Georgia's military-base AFFF contamination",
+      "body": "<p>Georgia's AFFF story centers on its military installations. Air Force site inspections have documented PFAS groundwater contamination from decades of firefighting-foam use at Moody Air Force Base (near Valdosta), Robins Air Force Base (Houston County), and Dobbins Air Reserve Base (Cobb County). In December 2025, U.S. Senator Jon Ossoff and colleagues pressed the Department of Defense over delays to the PFAS cleanup timetable at those bases and Savannah's airport. Federal AFFF personal-injury claims by Georgia residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "U.S. Senator Jon Ossoff &mdash; pressing DoD on PFAS cleanup delays at Georgia bases (Dec. 2025)", "url": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-colleagues-demand-answers-on-pfas-clean-up-delays-near-defense-bases/" },
+        { "label": "Air Force Times / AP &mdash; groundwater near Georgia military bases contaminated by firefighting foam", "url": "https://www.airforcetimes.com/news/your-air-force/2019/01/06/some-fear-groundwater-near-georgia-military-bases-is-toxic/" }
+      ],
+      "faqs": [
+        { "question": "Where are Georgia residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Georgia residents — including those of service members and families exposed at bases such as Moody, Robins, and Dobbins — are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina." },
+        { "question": "Which Georgia bases have AFFF-related PFAS contamination?", "answer": "Air Force site inspections have documented PFAS groundwater contamination from firefighting-foam use at Moody Air Force Base, Robins Air Force Base, and Dobbins Air Reserve Base. In December 2025, federal lawmakers pressed the Defense Department over delays to the cleanup schedule at those Georgia sites." }
+      ]
+    },
+    "ohio": {
+      "stateName": "Ohio",
+      "article": "an",
+      "h2": "Ohio's DuPont PFAS settlement and the AFFF litigation",
+      "body": "<p>Ohio was the first state to sue DuPont over &ldquo;forever chemicals&rdquo;: then-Attorney General Mike DeWine filed suit in 2018 over PFOA (C8) released from the Washington Works plant on the Ohio River. On November 29, 2023, the state announced a $110 million settlement with DuPont, Chemours, and Corteva resolving its PFAS claims &mdash; including those related to firefighting foam &mdash; with the funds allocated 80% to Washington Works pollution, 16% to AFFF damages, and 4% to natural resources. That state environmental recovery is separate from individual injury claims, which for Ohio residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "WOSU / Associated Press &mdash; chemical firms to pay $110 million to Ohio over PFAS (Nov. 30, 2023)", "url": "https://www.wosu.org/2023-11-30/chemical-firms-to-pay-110-million-to-ohio-to-settle-claims-over-releases-of-forever-chemicals" }
+      ],
+      "faqs": [
+        { "question": "Where are Ohio residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Ohio residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Ohio's $110 million state settlement with DuPont is a separate environmental recovery, not individual compensation." },
+        { "question": "Does Ohio's $110 million DuPont settlement pay individuals?", "answer": "No. The November 2023 settlement funds environmental restoration along the Ohio River and PFAS / firefighting-foam cleanup statewide; it does not compensate individuals. Personal-injury claims are handled separately, including in the federal AFFF MDL." }
+      ]
+    },
+    "pennsylvania": {
+      "stateName": "Pennsylvania",
+      "article": "a",
+      "h2": "Pennsylvania's PFAS lawsuit and the AFFF litigation",
+      "body": "<p>Pennsylvania has pursued PFAS manufacturers directly: in 2023, the Commonwealth filed a complaint against DuPont, Chemours, and related companies, alleging that PFAS they made or supplied &mdash; including chemicals used in aqueous film-forming foam &mdash; contaminated Pennsylvania's environment at levels well above federal limits. That state action is separate from the federal personal-injury litigation: AFFF injury claims filed by Pennsylvania residents in federal court are transferred into MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "Pennsylvania Office of Attorney General &mdash; Commonwealth PFAS complaint (filed 2023)", "url": "https://www.attorneygeneral.gov/wp-content/uploads/2023/06/2023-06-02-Commonwealth-v.-EIDP-Inc-et-al_Filed-copy.pdf" },
+        { "label": "U.S. District Court (D.S.C.) &mdash; AFFF MDL No. 2873", "url": "https://www.scd.uscourts.gov/mdl-2873/index.asp" }
+      ],
+      "faqs": [
+        { "question": "Where are Pennsylvania residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Pennsylvania residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. The Commonwealth's 2023 PFAS lawsuit is a separate state-court action seeking cleanup costs." },
+        { "question": "Has Pennsylvania sued PFAS or AFFF manufacturers?", "answer": "Yes. In 2023, the Commonwealth of Pennsylvania filed a complaint against DuPont, Chemours, and related companies over PFAS contamination, including chemicals used in firefighting foam. That suit is distinct from individual personal-injury claims." }
+      ]
+    },
+    "michigan": {
+      "stateName": "Michigan",
+      "article": "a",
+      "h2": "Michigan's PFAS enforcement and the AFFF litigation",
+      "body": "<p>Michigan runs one of the most aggressive state PFAS programs in the country. The Attorney General sued a group of PFAS manufacturers &mdash; including 3M, DuPont, and others &mdash; over contamination of the state's natural resources, and the state separately pursued Wolverine World Wide over PFAS-laden waste (from 3M Scotchgard) that contaminated wells across Kent County, resulting in a court-approved cleanup consent decree. Federal AFFF personal-injury claims by Michigan residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>",
+      "sources": [
+        { "label": "Michigan Department of Attorney General &mdash; PFAS enforcement", "url": "https://www.michigan.gov/ag/environment/pfas" }
+      ],
+      "faqs": [
+        { "question": "Where are Michigan residents' AFFF lawsuits handled?", "answer": "Federal AFFF personal-injury claims by Michigan residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Michigan's own attorney-general PFAS lawsuit and the Wolverine World Wide case are separate state proceedings." },
+        { "question": "What has Michigan done about PFAS contamination?", "answer": "Michigan's Attorney General sued a group of PFAS manufacturers over natural-resource contamination and separately pursued Wolverine World Wide over PFAS-laden waste that contaminated wells in Kent County, leading to a cleanup consent decree. These state actions are separate from individual personal-injury claims." }
+      ]
+    }
+  }
+}

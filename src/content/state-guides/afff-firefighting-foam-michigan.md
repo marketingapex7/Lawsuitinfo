@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "PFAS exposure-related cancer and disease claims"
 exposureContext: "State residents may have encountered AFFF or PFAS through fire departments, airports, military bases, industrial facilities, training areas, or water contamination."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the AFFF Firefighting Foam lawsuit in Michigan about?"
-    answer: "This guide explains general information for Michigan residents researching AFFF Firefighting Foam claims involving kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims."
+    question: "Where are Michigan residents' AFFF lawsuits handled?"
+    answer: "Federal AFFF personal-injury claims by Michigan residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Michigan's own attorney-general PFAS lawsuit and the Wolverine World Wide case are separate state proceedings."
   -
-    question: "Can a Michigan resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "What has Michigan done about PFAS contamination?"
+    answer: "Michigan's Attorney General sued a group of PFAS manufacturers over natural-resource contamination and separately pursued Wolverine World Wide over PFAS-laden waste that contaminated wells in Kent County, leading to a cleanup consent decree. These state actions are separate from individual personal-injury claims."
   -
     question: "Do Michigan deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Michigan residents should know</h2>
 <p>Michigan residents are not necessarily limited to filing only in Michigan state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-afff-pfas-context">
+<h2>Michigan's PFAS enforcement and the AFFF litigation</h2>
+<p>Michigan runs one of the most aggressive state PFAS programs in the country. The Attorney General sued a group of PFAS manufacturers &mdash; including 3M, DuPont, and others &mdash; over contamination of the state's natural resources, and the state separately pursued Wolverine World Wide over PFAS-laden waste (from 3M Scotchgard) that contaminated wells across Kent County, resulting in a court-approved cleanup consent decree. Federal AFFF personal-injury claims by Michigan residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.michigan.gov/ag/environment/pfas" target="_blank" rel="noopener noreferrer">Michigan Department of Attorney General &mdash; PFAS enforcement</a>.</p>
 </section>
 
 <section id="eligibility">

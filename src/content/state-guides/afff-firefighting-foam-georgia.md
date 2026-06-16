@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "PFAS exposure-related cancer and disease claims"
 exposureContext: "State residents may have encountered AFFF or PFAS through fire departments, airports, military bases, industrial facilities, training areas, or water contamination."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the AFFF Firefighting Foam lawsuit in Georgia about?"
-    answer: "This guide explains general information for Georgia residents researching AFFF Firefighting Foam claims involving kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims."
+    question: "Where are Georgia residents' AFFF lawsuits handled?"
+    answer: "Federal AFFF personal-injury claims by Georgia residents — including those of service members and families exposed at bases such as Moody, Robins, and Dobbins — are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina."
   -
-    question: "Can a Georgia resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Which Georgia bases have AFFF-related PFAS contamination?"
+    answer: "Air Force site inspections have documented PFAS groundwater contamination from firefighting-foam use at Moody Air Force Base, Robins Air Force Base, and Dobbins Air Reserve Base. In December 2025, federal lawmakers pressed the Defense Department over delays to the cleanup schedule at those Georgia sites."
   -
     question: "Do Georgia deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Georgia residents should know</h2>
 <p>Georgia residents are not necessarily limited to filing only in Georgia state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-afff-pfas-context">
+<h2>Georgia's military-base AFFF contamination</h2>
+<p>Georgia's AFFF story centers on its military installations. Air Force site inspections have documented PFAS groundwater contamination from decades of firefighting-foam use at Moody Air Force Base (near Valdosta), Robins Air Force Base (Houston County), and Dobbins Air Reserve Base (Cobb County). In December 2025, U.S. Senator Jon Ossoff and colleagues pressed the Department of Defense over delays to the PFAS cleanup timetable at those bases and Savannah's airport. Federal AFFF personal-injury claims by Georgia residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.ossoff.senate.gov/press-releases/sen-ossoff-colleagues-demand-answers-on-pfas-clean-up-delays-near-defense-bases/" target="_blank" rel="noopener noreferrer">U.S. Senator Jon Ossoff &mdash; pressing DoD on PFAS cleanup delays at Georgia bases (Dec. 2025)</a>; <a href="https://www.airforcetimes.com/news/your-air-force/2019/01/06/some-fear-groundwater-near-georgia-military-bases-is-toxic/" target="_blank" rel="noopener noreferrer">Air Force Times / AP &mdash; groundwater near Georgia military bases contaminated by firefighting foam</a>.</p>
 </section>
 
 <section id="eligibility">
