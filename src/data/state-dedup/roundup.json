@@ -1,0 +1,318 @@
+{
+  "_meta": {
+    "tortSlug": "roundup",
+    "tortName": "Roundup Cancer",
+    "filePrefix": "roundup",
+    "reviewDate": "2026-06-16"
+  },
+  "states": {
+    "california": {
+      "stateName": "California",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in California?",
+      "body": "<p>California is the epicenter of Roundup litigation. Three landmark California trials shaped the national fight: <em>Johnson v. Monsanto</em> (San Francisco Superior Court, 2018), where a school groundskeeper won a $289 million verdict that the trial court cut to $78.5 million and a California appeals court further reduced to about $20.5 million in 2020; <em>Hardeman v. Monsanto</em> (2019), the first federal bellwether, tried in the Northern District of California; and <em>Pilliod v. Monsanto</em> (Alameda County Superior Court, 2019), a $2.055 billion jury award later reduced to about $87 million. The U.S. Supreme Court declined to review the Hardeman and Pilliod cases in 2022.</p>\n<p>California is also the only state to formally list glyphosate as a carcinogen &mdash; under Proposition 65 (2017, by OEHHA) &mdash; though that listing has itself been the subject of separate litigation.</p>\n<p>As the nation's largest agricultural state, California's exposure scenarios span row crops, orchards, vineyards, landscaping, and rights-of-way work, alongside residential use. The national federal MDL (No. 2741) sits in the Northern District of California before Judge Vince Chhabria. California's personal injury statute of limitations is generally two years (Cal. Civ. Proc. Code &sect; 335.1).</p>",
+      "sources": [
+        {
+          "label": "NBC Bay Area — appeals court cuts Johnson award to $20.5M (2020)",
+          "url": "https://www.nbcbayarea.com/news/local/north-bay/sf-appeals-court-upholds-verdict-in-monsanto-roundup-case-cuts-award-to-20-5m/2330391/"
+        },
+        {
+          "label": "California OEHHA — Proposition 65 list",
+          "url": "https://oehha.ca.gov/proposition-65"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Were there major Roundup verdicts in California?",
+          "answer": "Yes. California produced the landmark Johnson, Hardeman, and Pilliod verdicts in 2018-2019. Awards were later reduced on appeal, and the Supreme Court declined to review the Hardeman and Pilliod cases in 2022. Past verdicts do not guarantee any individual outcome."
+        },
+        {
+          "question": "Is glyphosate listed as a carcinogen in California?",
+          "answer": "California listed glyphosate under Proposition 65 in 2017, making it the only state with such a listing. The listing has been the subject of separate litigation and does not by itself establish any individual claim."
+        }
+      ]
+    },
+    "texas": {
+      "stateName": "Texas",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Texas?",
+      "body": "<p>Texas has not produced a landmark in-state Roundup verdict. Texas Roundup cases filed in federal court &mdash; in the Northern or Southern District of Texas &mdash; are routinely transferred into the national federal proceeding, MDL No. 2741, before Judge Vince Chhabria in the Northern District of California. For Texas plaintiffs, the practical center of gravity is that federal MDL and the proposed nationwide class settlement, not a Texas-specific trial track.</p>\n<p>Texas's relevance is largely agricultural. As one of the country's largest cotton, corn, and sorghum states &mdash; where the great majority of cotton acreage is planted with herbicide-tolerant varieties and glyphosate is used heavily against resistant weeds such as Palmer amaranth &mdash; the most common Texas exposure profile involves farmworkers, custom applicators, and agricultural handlers.</p>\n<p>As of mid-2026, a review of the Texas Legislature's bill-tracking system and the Texas Attorney General's press-release archive did not surface a glyphosate-specific Texas statute or attorney-general action; this is an absence-of-evidence statement rather than a guarantee. The Texas Department of Agriculture has registered alternative herbicides under federal Section 24(c) to manage glyphosate-resistant weeds. Texas's personal injury statute of limitations is generally two years (Tex. Civ. Prac. &amp; Rem. Code &sect; 16.003), though a discovery rule can affect when the clock starts for latent illnesses.</p>",
+      "sources": [
+        {
+          "label": "JPML — pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        },
+        {
+          "label": "Texas Legislature Online &mdash; bill tracking",
+          "url": "https://capitol.texas.gov"
+        },
+        {
+          "label": "Texas Attorney General &mdash; press releases",
+          "url": "https://www.texasattorneygeneral.gov/news"
+        },
+        {
+          "label": "USDA NASS — agricultural statistics",
+          "url": "https://www.nass.usda.gov"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Has there been a Roundup verdict in Texas?",
+          "answer": "No notable Roundup trial verdict has come out of Texas state or federal courts. Texas federal Roundup cases are typically transferred into the national MDL (No. 2741) in California for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Why is Texas relevant to Roundup claims?",
+          "answer": "Texas is a major cotton, corn, and sorghum state where glyphosate is widely used, so the most common Texas exposure profile involves farmworkers and custom applicators. Claims still follow the federal MDL and the proposed nationwide settlement."
+        }
+      ]
+    },
+    "florida": {
+      "stateName": "Florida",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Florida?",
+      "body": "<p>Florida lawmakers have repeatedly considered, but not enacted, pesticide-label liability protections. HB 129 in 2025 and HB 443 and SB 518 in 2026 would have restricted certain failure-to-warn product-liability actions when a pesticide label met federal requirements. The official legislative histories show that all three measures died before enactment, including HB 443 and SB 518 on March 13, 2026.</p>\n<p>That legislative history matters because failure-to-warn allegations are central to many Roundup claims, but the failed bills did not themselves change Florida law. Claim viability still depends on the allegations, exposure and medical evidence, applicable federal rulings, and the law in force when a claim is evaluated.</p>\n<p>Florida generally provides four years for an injury claim founded on the design, manufacture, distribution, or sale of personal property under Fla. Stat. &sect; 95.11(3)(d). Product-liability deadlines can involve additional accrual and repose questions, so residents should not assume that the general period resolves the deadline for an individual Roundup claim.</p>",
+      "sources": [
+        {
+          "label": "Florida Legislature — HB 129 (2025)",
+          "url": "https://www.flsenate.gov/Session/Bill/2025/129"
+        },
+        {
+          "label": "Florida Legislature — HB 443 (2026, died in subcommittee 3/13/26)",
+          "url": "https://www.flsenate.gov/Session/Bill/2026/443"
+        },
+        {
+          "label": "Florida Legislature — SB 518 (2026, died in Judiciary 3/13/26)",
+          "url": "https://www.flsenate.gov/Session/Bill/2026/518"
+        },
+        {
+          "label": "Fla. Stat. § 95.11 — limitations periods",
+          "url": "https://www.flsenate.gov/Laws/Statutes/2025/95.11"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Did Florida pass pesticide-label liability legislation?",
+          "answer": "No. Florida's HB 129 in 2025 and HB 443 and SB 518 in 2026 proposed protections tied to EPA-approved pesticide labels, but each bill died before enactment."
+        },
+        {
+          "question": "What is Florida's general product-liability filing period?",
+          "answer": "Florida generally provides four years for an injury claim founded on the design, manufacture, distribution, or sale of personal property, but accrual and repose rules can change the deadline for a particular claim. A Florida lawyer can confirm which period applies."
+        }
+      ]
+    },
+    "illinois": {
+      "stateName": "Illinois",
+      "article": "an",
+      "h2": "What stands out about Roundup litigation in Illinois?",
+      "body": "<p>Illinois has not produced a landmark plaintiff verdict in the Roundup litigation. The Illinois trials that have concluded went the other way for plaintiffs: <em>Evard v. Monsanto</em> ended in a defense win that an Illinois appellate court affirmed in September 2025, and <em>Antonou v. Monsanto</em> (Cook County) ended in a mistrial in December 2024. Illinois Roundup cases are typically filed in the Circuit Court of Cook County and are frequently removed to the U.S. District Court for the Northern District of Illinois, with federal cases transferred into the national MDL (No. 2741).</p>\n<p>Illinois's relevance is heavily agricultural: it is one of the top one or two soybean and corn states, where glyphosate-tolerant crops dominate farmland, so occupational exposure among farmers and applicators is a core fact pattern.</p>\n<p>Illinois's personal injury statute of limitations is generally two years (735 ILCS 5/13-202), with a discovery rule that can matter for cancers diagnosed years after exposure.</p>",
+      "sources": [
+        {
+          "label": "Bayer &mdash; Roundup litigation record (Evard, Antonou statements)",
+          "url": "https://www.bayer.com/en/managing-the-roundup-litigation"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        },
+        {
+          "label": "USDA NASS &mdash; agricultural statistics",
+          "url": "https://www.nass.usda.gov"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Has there been a Roundup verdict in Illinois?",
+          "answer": "No notable plaintiff verdict has come out of Illinois. The Evard case ended in a defense win affirmed in 2025, and the Antonou case ended in a mistrial. Illinois cases generally proceed through Cook County and the national federal MDL."
+        },
+        {
+          "question": "Why is Illinois relevant to Roundup claims?",
+          "answer": "Illinois is one of the largest soybean and corn states, where glyphosate-tolerant crops dominate, so farmer and applicator exposure is common. Claims typically move through Cook County courts and the national federal MDL."
+        }
+      ]
+    },
+    "missouri": {
+      "stateName": "Missouri",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Missouri?",
+      "body": "<p>Missouri is central to Roundup litigation because St. Louis is Monsanto's historic home, and the city's 22nd Judicial Circuit is where Bayer's proposed <strong>$7.25 billion nationwide class settlement</strong> (<em>King v. Monsanto</em>) received preliminary approval on March 4, 2026, with a final approval hearing set for July 9, 2026. Missouri courts have also produced major trial verdicts: in <em>Anderson v. Monsanto</em> (Cole County, November 2023) a jury awarded about $1.56 billion, later reduced to $611 million and upheld by a Missouri appellate court in 2025.</p>\n<p>A separate Missouri case, <em>Durnell v. Monsanto</em>, became the vehicle for the U.S. Supreme Court's review of whether federal pesticide law preempts state failure-to-warn claims, argued April 27, 2026 &mdash; a ruling that could reshape Roundup litigation nationwide.</p>\n<p>Missouri is a top soybean and corn state where glyphosate-tolerant crops dominate, so occupational exposure among farmers and applicators is common. Missouri's personal injury statute of limitations is unusually long &mdash; generally five years (Mo. Rev. Stat. &sect; 516.120).</p>",
+      "sources": [
+        {
+          "label": "King v. Monsanto preliminary approval order (Mar. 4, 2026)",
+          "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf"
+        },
+        {
+          "label": "Drugwatch — Cole County $1.5B verdict (Nov. 2023)",
+          "url": "https://www.drugwatch.com/news/2023/11/20/bayer-hit-with-1b-loss-in-latest-roundup-cancer-trial-verdict/"
+        },
+        {
+          "label": "U.S. Supreme Court docket — Monsanto v. Durnell (No. 24-1068)",
+          "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24-1068.html"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is Missouri so important in the Roundup litigation?",
+          "answer": "St. Louis is Monsanto's historic home and the venue for the proposed $7.25 billion King v. Monsanto class settlement (preliminary approval March 2026, final hearing July 9, 2026). Missouri courts have also produced major verdicts, including the Anderson case reduced to $611 million."
+        },
+        {
+          "question": "How long do Missouri residents have to file?",
+          "answer": "Missouri's general personal injury statute of limitations is unusually long at five years (Mo. Rev. Stat. Section 516.120), but the deadline that controls a specific claim depends on diagnosis date, discovery facts, and other issues. A lawyer can confirm it."
+        }
+      ]
+    },
+    "north-carolina": {
+      "stateName": "North Carolina",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in North Carolina?",
+      "body": "<p>North Carolina has not produced a notable in-state Roundup verdict. North Carolina Roundup cases filed in federal court &mdash; across the Eastern, Middle, and Western Districts &mdash; are transferred into the national MDL (No. 2741) in California for coordinated pretrial proceedings, so the state's claims largely move through the federal track and the proposed nationwide settlement rather than a North Carolina trial docket.</p>\n<p>The state's relevance is primarily agricultural. North Carolina is a significant row-crop and tobacco state with substantial soybean acreage, and glyphosate is applied to the large majority of soybean acres; the most common exposure profiles involve farm and tobacco workers and rural residents.</p>\n<p>North Carolina's personal injury statute of limitations is generally three years (N.C. Gen. Stat. &sect; 1-52(16)), and the state applies a discovery rule, so the clock may not start until the harm becomes (or reasonably should have become) apparent. North Carolina also applies statutes of repose &mdash; including a product-liability repose period &mdash; that can independently bar older claims, which makes early legal review especially important here.</p>",
+      "sources": [
+        {
+          "label": "JPML — pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        },
+        {
+          "label": "USDA NASS — agricultural statistics",
+          "url": "https://www.nass.usda.gov"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Has there been a Roundup verdict in North Carolina?",
+          "answer": "No notable North Carolina state-court Roundup verdict has been reported. North Carolina federal Roundup cases are transferred into the national MDL (No. 2741) in California for coordinated proceedings."
+        },
+        {
+          "question": "How do North Carolina deadlines affect a Roundup claim?",
+          "answer": "North Carolina generally allows three years for personal injury (N.C. Gen. Stat. Section 1-52(16)) with a discovery rule, but it also applies statutes of repose that can bar older product claims regardless of discovery, so timing review matters."
+        }
+      ]
+    },
+    "georgia": {
+      "stateName": "Georgia",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Georgia?",
+      "body": "<p>Georgia produced one of the largest Roundup verdicts on record: in <em>Barnes v. Monsanto</em> (State Court of Cobb County, March 2025), a jury awarded about $2.065 billion to a single plaintiff with non-Hodgkin lymphoma &mdash; reported as the largest single-plaintiff injury verdict in Georgia history. Bayer announced an appeal.</p>\n<p>Georgia law in this area is shifting. Governor Brian Kemp signed SB 144 (Act 94) in May 2025, with the pesticide failure-to-warn provisions taking effect July 1, 2025; the law generally limits manufacturer failure-to-warn liability to what an EPA-approved label requires, with an exception for manufacturers who knowingly withhold or misrepresent material information. Separately, the federal Eleventh Circuit (which covers Georgia) held in <em>Carson v. Monsanto</em>, 92 F.4th 980 (11th Cir. 2024), that FIFRA does not expressly or impliedly preempt a Georgia plaintiff's failure-to-warn claim &mdash; creating a circuit split that helped send the preemption question to the U.S. Supreme Court.</p>\n<p>Georgia is a major agricultural state &mdash; peanuts, cotton, and pecans &mdash; where glyphosate is widely used, so both occupational and residential exposure are relevant. Georgia's personal injury statute of limitations is generally two years (O.C.G.A. &sect; 9-3-33).</p>",
+      "sources": [
+        {
+          "label": "UPI — Cobb County $2.1B Barnes verdict (Mar. 2025)",
+          "url": "https://www.upi.com/Top_News/US/2025/03/24/Ga-Jury-awards-21-billion-from-Bayer-Monsanto-for-roundup/3011742857182/"
+        },
+        {
+          "label": "Drugwatch — Barnes verdict coverage (Mar. 2025)",
+          "url": "https://www.drugwatch.com/news/2025/03/24/man-awarded-2-1-billion-in-one-of-the-largest-roundup-lawsuit-verdicts-ever/"
+        },
+        {
+          "label": "Atlanta Journal-Constitution — Kemp signs SB 144 (May 13, 2025)",
+          "url": "https://www.ajc.com/politics/new-georgia-law-shields-roundup-maker-from-some-cancer-related-lawsuits/UDRRQYXYFRDZVOEYUVLEO3D33U/"
+        },
+        {
+          "label": "Carson v. Monsanto opinion (11th Cir., Feb. 5, 2024) (PDF)",
+          "url": "https://media.ca11.uscourts.gov/opinions/pub/files/202110994.op3.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Was there a major Roundup verdict in Georgia?",
+          "answer": "Yes. In Barnes v. Monsanto (Cobb County, March 2025) a jury awarded about $2.065 billion to one plaintiff, reported as the largest single-plaintiff injury verdict in Georgia history. Bayer announced an appeal, and past verdicts do not guarantee any individual outcome."
+        },
+        {
+          "question": "Does Georgia's SB 144 affect Roundup claims?",
+          "answer": "Georgia enacted SB 144, effective July 1, 2025, limiting pesticide failure-to-warn liability to what the EPA label requires. It can affect how Georgia claims are evaluated, so confirm the current legal posture with a lawyer."
+        }
+      ]
+    },
+    "ohio": {
+      "stateName": "Ohio",
+      "article": "an",
+      "h2": "What stands out about Roundup litigation in Ohio?",
+      "body": "<p>Ohio has not produced a notable state-court Roundup verdict. Ohio Roundup cases are filed in the Northern or Southern District of Ohio and transferred into the national MDL (No. 2741) in California; one documented example, <em>Griffin v. Monsanto</em> in the Northern District of Ohio, remained a filed complaint without a reported verdict. Ohio claims therefore move primarily through the federal MDL and the proposed nationwide settlement.</p>\n<p>Ohio's relevance is strongly agricultural. As a major corn and soybean state &mdash; among the top soybean producers, with glyphosate applied to nearly all soybean and corn acreage &mdash; the most common exposure pathways involve farmers, applicators, and rural residents exposed through direct application or spray drift.</p>\n<p>As of mid-2026, a review of the Ohio General Assembly's bill-tracking system and the Ohio Attorney General's news archive did not surface a glyphosate-specific Ohio statute or attorney-general action; this is an absence-of-evidence statement rather than a guarantee. Ohio's personal injury statute of limitations is generally two years (Ohio Rev. Code &sect; 2305.10(A)), with a discovery rule that can apply to latent illnesses such as cancers that develop years after exposure.</p>",
+      "sources": [
+        {
+          "label": "JPML — pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        },
+        {
+          "label": "Ohio Senate &mdash; legislation tracking",
+          "url": "https://www.ohiosenate.gov"
+        },
+        {
+          "label": "Ohio Attorney General &mdash; news",
+          "url": "https://www.ohioattorneygeneral.gov/Media"
+        },
+        {
+          "label": "USDA NASS — agricultural statistics",
+          "url": "https://www.nass.usda.gov"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Has there been a Roundup verdict in Ohio?",
+          "answer": "No notable Ohio state-court Roundup verdict has been reported. Ohio federal Roundup cases are transferred into the national MDL (No. 2741) in California for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Why is Ohio relevant to Roundup claims?",
+          "answer": "Ohio is a major corn and soybean state where glyphosate is applied to nearly all such acreage, so exposure commonly involves farmers, applicators, and rural residents. Claims still follow the federal MDL and proposed settlement."
+        }
+      ]
+    },
+    "pennsylvania": {
+      "stateName": "Pennsylvania",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Pennsylvania?",
+      "body": "<p>Pennsylvania &mdash; specifically the Philadelphia Court of Common Pleas &mdash; has been one of the most active Roundup trial venues in the country. Notable Philadelphia verdicts include <em>Caranci v. Monsanto</em> (October 2023, $175 million, upheld by a Pennsylvania appellate court in May 2025), <em>McKivison v. Monsanto</em> (January 2024, a $2.25 billion jury award later reduced to $400 million), and <em>Melissen v. Monsanto</em> (October 2024, $78 million). Not every trial favored plaintiffs &mdash; Bayer also won defense verdicts in Philadelphia in 2024, a reminder that outcomes vary case by case.</p>\n<p>Many Pennsylvania plaintiffs allege residential lawn-and-garden exposure rather than agricultural use. A complicating factor: in 2024 the Third Circuit (in <em>Schaffner v. Monsanto</em>) held that federal pesticide law preempts state failure-to-warn claims &mdash; a ruling that created a split with other circuits and is part of why the U.S. Supreme Court is now weighing the preemption question.</p>\n<p>Pennsylvania's personal injury statute of limitations is generally two years (42 Pa. Cons. Stat. &sect; 5524).</p>",
+      "sources": [
+        {
+          "label": "Philadelphia Inquirer — Caranci verdict (Oct. 2023)",
+          "url": "https://www.inquirer.com/news/philadelphia/roundup-weed-killer-cancer-claim-philadelphia-verdict-20231027.html"
+        },
+        {
+          "label": "NBC News — McKivison $2.25B verdict (Jan. 2024)",
+          "url": "https://www.nbcnews.com/news/us-news/bayer-ordered-pay-225b-jury-finds-roundup-weed-killer-caused-pennsylva-rcna136338"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Have there been big Roundup verdicts in Pennsylvania?",
+          "answer": "Yes. The Philadelphia Court of Common Pleas produced several large verdicts, including Caranci ($175M, upheld 2025) and McKivison ($2.25B, reduced to $400M). Bayer also won some defense verdicts there. Past results do not guarantee any individual outcome."
+        },
+        {
+          "question": "Could a federal preemption ruling affect Pennsylvania cases?",
+          "answer": "Possibly. In 2024 the Third Circuit held that federal pesticide law preempts state failure-to-warn claims, creating a circuit split now before the U.S. Supreme Court. The outcome could affect Pennsylvania claims; a lawyer can explain the current posture."
+        }
+      ]
+    },
+    "michigan": {
+      "stateName": "Michigan",
+      "article": "a",
+      "h2": "What stands out about Roundup litigation in Michigan?",
+      "body": "<p>Michigan has not produced a notable in-state Roundup verdict. Michigan Roundup cases filed in the Eastern or Western District of Michigan are transferred into the national MDL (No. 2741) in California for coordinated proceedings, so Michigan claims move through the federal track and the proposed nationwide settlement rather than a state trial docket.</p>\n<p>Michigan's exposure profile is unusually broad because of its diverse agriculture. Beyond the soybean and corn acreage where glyphosate is standard, Michigan is a major specialty-crop state &mdash; tart cherries, blueberries, navy beans, asparagus, and sugarbeets &mdash; which widens the range of agricultural and farm-worker exposure scenarios compared with pure row-crop states.</p>\n<p>As of mid-2026, a review of the Michigan Legislature's bill-tracking system and the Michigan Attorney General's press-release archive did not surface a glyphosate-specific Michigan statute or attorney-general action; this is an absence-of-evidence statement rather than a guarantee. Michigan's personal injury statute of limitations is generally three years (Mich. Comp. Laws &sect; 600.5805(2)). Because cancers linked to herbicide exposure can take years to develop, confirming how the deadline applies to an individual diagnosis is an important early step.</p>",
+      "sources": [
+        {
+          "label": "JPML — pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        },
+        {
+          "label": "Michigan Legislature &mdash; bill search",
+          "url": "https://www.legislature.mi.gov"
+        },
+        {
+          "label": "Michigan Attorney General &mdash; news",
+          "url": "https://www.michigan.gov/ag/news"
+        },
+        {
+          "label": "USDA NASS — agricultural statistics",
+          "url": "https://www.nass.usda.gov"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Has there been a Roundup verdict in Michigan?",
+          "answer": "No notable Michigan state-court Roundup verdict has been reported. Michigan federal Roundup cases are transferred into the national MDL (No. 2741) in California."
+        },
+        {
+          "question": "What makes Michigan exposure different?",
+          "answer": "Michigan's agriculture is unusually diverse, from row crops to specialty crops like cherries, blueberries, and sugarbeets, which broadens the range of glyphosate exposure scenarios. Claims still follow the federal MDL and proposed settlement."
+        }
+      ]
+    }
+  }
+}

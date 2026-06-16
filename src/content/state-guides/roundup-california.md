@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in California about?"
-    answer: "This guide explains general information for California residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Were there major Roundup verdicts in California?"
+    answer: "Yes. California produced the landmark Johnson, Hardeman, and Pilliod verdicts in 2018-2019. Awards were later reduced on appeal, and the Supreme Court declined to review the Hardeman and Pilliod cases in 2022. Past verdicts do not guarantee any individual outcome."
   -
-    question: "Can a California resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Is glyphosate listed as a carcinogen in California?"
+    answer: "California listed glyphosate under Proposition 65 in 2017, making it the only state with such a listing. The listing has been the subject of separate litigation and does not by itself establish any individual claim."
   -
     question: "Do California deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What California residents should know</h2>
 <p>California residents are not necessarily limited to filing only in California state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in California?</h2>
+<p>California is the epicenter of Roundup litigation. Three landmark California trials shaped the national fight: <em>Johnson v. Monsanto</em> (San Francisco Superior Court, 2018), where a school groundskeeper won a $289 million verdict that the trial court cut to $78.5 million and a California appeals court further reduced to about $20.5 million in 2020; <em>Hardeman v. Monsanto</em> (2019), the first federal bellwether, tried in the Northern District of California; and <em>Pilliod v. Monsanto</em> (Alameda County Superior Court, 2019), a $2.055 billion jury award later reduced to about $87 million. The U.S. Supreme Court declined to review the Hardeman and Pilliod cases in 2022.</p>
+<p>California is also the only state to formally list glyphosate as a carcinogen &mdash; under Proposition 65 (2017, by OEHHA) &mdash; though that listing has itself been the subject of separate litigation.</p>
+<p>As the nation's largest agricultural state, California's exposure scenarios span row crops, orchards, vineyards, landscaping, and rights-of-way work, alongside residential use. The national federal MDL (No. 2741) sits in the Northern District of California before Judge Vince Chhabria. California's personal injury statute of limitations is generally two years (Cal. Civ. Proc. Code &sect; 335.1).</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nbcbayarea.com/news/local/north-bay/sf-appeals-court-upholds-verdict-in-monsanto-roundup-case-cuts-award-to-20-5m/2330391/" target="_blank" rel="noopener noreferrer">NBC Bay Area — appeals court cuts Johnson award to $20.5M (2020)</a>; <a href="https://oehha.ca.gov/proposition-65" target="_blank" rel="noopener noreferrer">California OEHHA — Proposition 65 list</a>.</p>
 </section>
 
 <section id="eligibility">

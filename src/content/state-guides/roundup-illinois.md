@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Roundup Cancer lawsuit in Illinois about?"
-    answer: "This guide explains general information for Illinois residents researching Roundup Cancer claims involving non-Hodgkin lymphoma allegations."
+    question: "Has there been a Roundup verdict in Illinois?"
+    answer: "No notable plaintiff verdict has come out of Illinois. The Evard case ended in a defense win affirmed in 2025, and the Antonou case ended in a mistrial. Illinois cases generally proceed through Cook County and the national federal MDL."
   -
-    question: "Can an Illinois resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Why is Illinois relevant to Roundup claims?"
+    answer: "Illinois is one of the largest soybean and corn states, where glyphosate-tolerant crops dominate, so farmer and applicator exposure is common. Claims typically move through Cook County courts and the national federal MDL."
   -
     question: "Do Illinois deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,14 @@ faqs:
 <h2>What Illinois residents should know</h2>
 <p>Illinois residents are not necessarily limited to filing only in Illinois state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-roundup-context">
+<h2>What stands out about Roundup litigation in Illinois?</h2>
+<p>Illinois has not produced a landmark plaintiff verdict in the Roundup litigation. The Illinois trials that have concluded went the other way for plaintiffs: <em>Evard v. Monsanto</em> ended in a defense win that an Illinois appellate court affirmed in September 2025, and <em>Antonou v. Monsanto</em> (Cook County) ended in a mistrial in December 2024. Illinois Roundup cases are typically filed in the Circuit Court of Cook County and are frequently removed to the U.S. District Court for the Northern District of Illinois, with federal cases transferred into the national MDL (No. 2741).</p>
+<p>Illinois's relevance is heavily agricultural: it is one of the top one or two soybean and corn states, where glyphosate-tolerant crops dominate farmland, so occupational exposure among farmers and applicators is a core fact pattern.</p>
+<p>Illinois's personal injury statute of limitations is generally two years (735 ILCS 5/13-202), with a discovery rule that can matter for cancers diagnosed years after exposure.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.bayer.com/en/managing-the-roundup-litigation" target="_blank" rel="noopener noreferrer">Bayer &mdash; Roundup litigation record (Evard, Antonou statements)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>; <a href="https://www.nass.usda.gov" target="_blank" rel="noopener noreferrer">USDA NASS &mdash; agricultural statistics</a>.</p>
 </section>
 
 <section id="eligibility">
