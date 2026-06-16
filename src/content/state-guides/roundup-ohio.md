@@ -15,11 +15,11 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "Has there been a Roundup verdict in Ohio?"
-    answer: "No notable Ohio state-court Roundup verdict has been reported. Ohio federal Roundup cases are transferred into the national MDL (No. 2741) in California for coordinated pretrial proceedings."
+    question: "Where are Roundup cases for Ohio residents coordinated?"
+    answer: "Federal Roundup cases filed by Ohio residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
   -
     question: "Why is Ohio relevant to Roundup claims?"
-    answer: "Ohio is a major corn and soybean state where glyphosate is applied to nearly all such acreage, so exposure commonly involves farmers, applicators, and rural residents. Claims still follow the federal MDL and proposed settlement."
+    answer: "Ohio is a major corn and soybean state where glyphosate is applied to nearly all such acreage (USDA NASS 2018), so exposure commonly involves farmers, applicators, and rural residents. Claims proceed through the federal MDL and the proposed settlement."
   -
     question: "Do Ohio deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,10 +48,9 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Ohio?</h2>
-<p>Ohio has not produced a notable state-court Roundup verdict. Ohio Roundup cases are filed in the Northern or Southern District of Ohio and transferred into the national MDL (No. 2741) in California; one documented example, <em>Griffin v. Monsanto</em> in the Northern District of Ohio, remained a filed complaint without a reported verdict. Ohio claims therefore move primarily through the federal MDL and the proposed nationwide settlement.</p>
-<p>Ohio's relevance is strongly agricultural. As a major corn and soybean state &mdash; among the top soybean producers, with glyphosate applied to nearly all soybean and corn acreage &mdash; the most common exposure pathways involve farmers, applicators, and rural residents exposed through direct application or spray drift.</p>
-<p>As of mid-2026, a review of the Ohio General Assembly's bill-tracking system and the Ohio Attorney General's news archive did not surface a glyphosate-specific Ohio statute or attorney-general action; this is an absence-of-evidence statement rather than a guarantee. Ohio's personal injury statute of limitations is generally two years (Ohio Rev. Code &sect; 2305.10(A)), with a discovery rule that can apply to latent illnesses such as cancers that develop years after exposure.</p>
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://www.ohiosenate.gov" target="_blank" rel="noopener noreferrer">Ohio Senate &mdash; legislation tracking</a>; <a href="https://www.ohioattorneygeneral.gov/Media" target="_blank" rel="noopener noreferrer">Ohio Attorney General &mdash; news</a>; <a href="https://www.nass.usda.gov" target="_blank" rel="noopener noreferrer">USDA NASS — agricultural statistics</a>.</p>
+<p>Ohio's relevance to Roundup litigation is strongly agricultural. As a major corn and soybean state &mdash; among the top soybean producers per the USDA NASS 2018 surveys, with glyphosate applied to nearly all such acreage &mdash; the most common exposure pathways involve farmers, applicators, and rural residents exposed through direct application or spray drift.</p>
+<p>Federal Roundup cases filed by Ohio residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Corn Chemical Use Highlights</a>; <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Soybean Chemical Use Highlights</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">

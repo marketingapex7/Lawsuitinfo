@@ -15,11 +15,11 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "Has there been a Roundup verdict in Illinois?"
-    answer: "No notable plaintiff verdict has come out of Illinois. The Evard case ended in a defense win affirmed in 2025, and the Antonou case ended in a mistrial. Illinois cases generally proceed through Cook County and the national federal MDL."
+    question: "Where are Roundup cases for Illinois residents coordinated?"
+    answer: "Federal Roundup cases filed by Illinois residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
   -
     question: "Why is Illinois relevant to Roundup claims?"
-    answer: "Illinois is one of the largest soybean and corn states, where glyphosate-tolerant crops dominate, so farmer and applicator exposure is common. Claims typically move through Cook County courts and the national federal MDL."
+    answer: "Illinois is one of the largest corn and soybean states (second nationally in both per USDA NASS 2018), where glyphosate-tolerant crops dominate, so farmer and applicator exposure is common. Claims proceed through the federal MDL and the proposed nationwide settlement."
   -
     question: "Do Illinois deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,10 +48,9 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Illinois?</h2>
-<p>Illinois has not produced a landmark plaintiff verdict in the Roundup litigation. The Illinois trials that have concluded went the other way for plaintiffs: <em>Evard v. Monsanto</em> ended in a defense win that an Illinois appellate court affirmed in September 2025, and <em>Antonou v. Monsanto</em> (Cook County) ended in a mistrial in December 2024. Illinois Roundup cases are typically filed in the Circuit Court of Cook County and are frequently removed to the U.S. District Court for the Northern District of Illinois, with federal cases transferred into the national MDL (No. 2741).</p>
-<p>Illinois's relevance is heavily agricultural: it is one of the top one or two soybean and corn states, where glyphosate-tolerant crops dominate farmland, so occupational exposure among farmers and applicators is a core fact pattern.</p>
-<p>Illinois's personal injury statute of limitations is generally two years (735 ILCS 5/13-202), with a discovery rule that can matter for cancers diagnosed years after exposure.</p>
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.bayer.com/en/managing-the-roundup-litigation" target="_blank" rel="noopener noreferrer">Bayer &mdash; Roundup litigation record (Evard, Antonou statements)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML &mdash; pending MDL dockets</a>; <a href="https://www.nass.usda.gov" target="_blank" rel="noopener noreferrer">USDA NASS &mdash; agricultural statistics</a>.</p>
+<p>Illinois's relevance to Roundup litigation is heavily agricultural. It is one of the top one or two corn and soybean states in the country &mdash; the USDA NASS 2018 chemical-use surveys ranked Illinois second nationally in both crops &mdash; and glyphosate-tolerant varieties dominate that acreage, so occupational exposure among farmers and applicators is a core fact pattern.</p>
+<p>Federal Roundup cases filed by Illinois residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Corn Chemical Use Highlights</a>; <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Soybean Chemical Use Highlights</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">

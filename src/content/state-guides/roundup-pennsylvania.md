@@ -15,11 +15,11 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "Have there been big Roundup verdicts in Pennsylvania?"
-    answer: "Yes. The Philadelphia Court of Common Pleas produced several large verdicts, including Caranci ($175M, upheld 2025) and McKivison ($2.25B, reduced to $400M). Bayer also won some defense verdicts there. Past results do not guarantee any individual outcome."
+    question: "Where are Roundup cases for Pennsylvania residents coordinated?"
+    answer: "Federal Roundup cases filed by Pennsylvania residents are transferred into MDL No. 2741 in the Northern District of California. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
   -
-    question: "Could a federal preemption ruling affect Pennsylvania cases?"
-    answer: "Possibly. In 2024 the Third Circuit held that federal pesticide law preempts state failure-to-warn claims, creating a circuit split now before the U.S. Supreme Court. The outcome could affect Pennsylvania claims; a lawyer can explain the current posture."
+    question: "Have there been major Roundup verdicts in Pennsylvania?"
+    answer: "Yes. The Philadelphia Court of Common Pleas produced the Caranci verdict ($175 million, upheld on appeal in 2025) and the McKivison verdict ($2.25 billion, later reduced to $400 million). Past verdicts do not guarantee any individual outcome."
   -
     question: "Do Pennsylvania deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,10 +48,10 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Pennsylvania?</h2>
-<p>Pennsylvania &mdash; specifically the Philadelphia Court of Common Pleas &mdash; has been one of the most active Roundup trial venues in the country. Notable Philadelphia verdicts include <em>Caranci v. Monsanto</em> (October 2023, $175 million, upheld by a Pennsylvania appellate court in May 2025), <em>McKivison v. Monsanto</em> (January 2024, a $2.25 billion jury award later reduced to $400 million), and <em>Melissen v. Monsanto</em> (October 2024, $78 million). Not every trial favored plaintiffs &mdash; Bayer also won defense verdicts in Philadelphia in 2024, a reminder that outcomes vary case by case.</p>
-<p>Many Pennsylvania plaintiffs allege residential lawn-and-garden exposure rather than agricultural use. A complicating factor: in 2024 the Third Circuit (in <em>Schaffner v. Monsanto</em>) held that federal pesticide law preempts state failure-to-warn claims &mdash; a ruling that created a split with other circuits and is part of why the U.S. Supreme Court is now weighing the preemption question.</p>
-<p>Pennsylvania's personal injury statute of limitations is generally two years (42 Pa. Cons. Stat. &sect; 5524).</p>
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.inquirer.com/news/philadelphia/roundup-weed-killer-cancer-claim-philadelphia-verdict-20231027.html" target="_blank" rel="noopener noreferrer">Philadelphia Inquirer — Caranci verdict (Oct. 2023)</a>; <a href="https://www.nbcnews.com/news/us-news/bayer-ordered-pay-225b-jury-finds-roundup-weed-killer-caused-pennsylva-rcna136338" target="_blank" rel="noopener noreferrer">NBC News — McKivison $2.25B verdict (Jan. 2024)</a>.</p>
+<p>Pennsylvania &mdash; specifically the Philadelphia Court of Common Pleas &mdash; has been one of the most active Roundup trial venues in the country. In <em>Caranci v. Monsanto</em> (October 2023), a Philadelphia jury returned a $175 million verdict, which a Pennsylvania appellate court upheld in 2025.</p>
+<p>In <em>McKivison v. Monsanto</em> (January 2024), a Philadelphia jury returned a $2.25 billion verdict that was later reduced to $400 million. Many Pennsylvania plaintiffs allege residential lawn-and-garden exposure rather than agricultural use.</p>
+<p>Federal Pennsylvania cases are transferred into the national proceeding, MDL No. 2741, in the Northern District of California, and many claims are also being resolved through the proposed $7.25 billion nationwide class settlement.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.inquirer.com/news/philadelphia/roundup-weed-killer-cancer-claim-philadelphia-verdict-20231027.html" target="_blank" rel="noopener noreferrer">Philadelphia Inquirer — Caranci $175M verdict (Oct. 2023)</a>; <a href="https://www.nbcnews.com/news/us-news/bayer-ordered-pay-225b-jury-finds-roundup-weed-killer-caused-pennsylva-rcna136338" target="_blank" rel="noopener noreferrer">NBC News — McKivison $2.25B verdict (Jan. 2024)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">

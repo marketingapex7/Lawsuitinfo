@@ -15,11 +15,11 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "Were there major Roundup verdicts in California?"
-    answer: "Yes. California produced the landmark Johnson, Hardeman, and Pilliod verdicts in 2018-2019. Awards were later reduced on appeal, and the Supreme Court declined to review the Hardeman and Pilliod cases in 2022. Past verdicts do not guarantee any individual outcome."
+    question: "Where are Roundup cases for California residents coordinated?"
+    answer: "California is the home of the national Roundup MDL: federal cases are coordinated in MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
   -
-    question: "Is glyphosate listed as a carcinogen in California?"
-    answer: "California listed glyphosate under Proposition 65 in 2017, making it the only state with such a listing. The listing has been the subject of separate litigation and does not by itself establish any individual claim."
+    question: "Did California produce a major Roundup verdict?"
+    answer: "Yes. Johnson v. Monsanto (San Francisco, 2018) was the first Roundup trial; the jury's $289 million award was reduced by the trial court to $78.5 million and then to about $20.5 million by the California Court of Appeal in 2020. Past verdicts do not guarantee any individual outcome."
   -
     question: "Do California deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,10 +48,10 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in California?</h2>
-<p>California is the epicenter of Roundup litigation. Three landmark California trials shaped the national fight: <em>Johnson v. Monsanto</em> (San Francisco Superior Court, 2018), where a school groundskeeper won a $289 million verdict that the trial court cut to $78.5 million and a California appeals court further reduced to about $20.5 million in 2020; <em>Hardeman v. Monsanto</em> (2019), the first federal bellwether, tried in the Northern District of California; and <em>Pilliod v. Monsanto</em> (Alameda County Superior Court, 2019), a $2.055 billion jury award later reduced to about $87 million. The U.S. Supreme Court declined to review the Hardeman and Pilliod cases in 2022.</p>
-<p>California is also the only state to formally list glyphosate as a carcinogen &mdash; under Proposition 65 (2017, by OEHHA) &mdash; though that listing has itself been the subject of separate litigation.</p>
-<p>As the nation's largest agricultural state, California's exposure scenarios span row crops, orchards, vineyards, landscaping, and rights-of-way work, alongside residential use. The national federal MDL (No. 2741) sits in the Northern District of California before Judge Vince Chhabria. California's personal injury statute of limitations is generally two years (Cal. Civ. Proc. Code &sect; 335.1).</p>
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nbcbayarea.com/news/local/north-bay/sf-appeals-court-upholds-verdict-in-monsanto-roundup-case-cuts-award-to-20-5m/2330391/" target="_blank" rel="noopener noreferrer">NBC Bay Area — appeals court cuts Johnson award to $20.5M (2020)</a>; <a href="https://oehha.ca.gov/proposition-65" target="_blank" rel="noopener noreferrer">California OEHHA — Proposition 65 list</a>.</p>
+<p>California is the home of the Roundup litigation in two senses. The first landmark trial, <em>Johnson v. Monsanto</em>, was tried in San Francisco Superior Court in 2018: the jury awarded $289 million, the trial court reduced that to $78.5 million, and the California Court of Appeal further reduced the award to about $20.5 million in 2020. The U.S. Supreme Court declined to review the case.</p>
+<p>California is also the only state to formally list glyphosate as a carcinogen, under Proposition 65 (2017), though that listing has itself been the subject of separate litigation.</p>
+<p>The national federal proceeding, MDL No. 2741, is based in the Northern District of California before Judge Vince Chhabria, so California is the transferee forum for Roundup cases nationwide. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nbcbayarea.com/news/local/north-bay/sf-appeals-court-upholds-verdict-in-monsanto-roundup-case-cuts-award-to-20-5m/2330391/" target="_blank" rel="noopener noreferrer">NBC Bay Area — appeals court cuts Johnson award to $20.5M (2020)</a>; <a href="https://oehha.ca.gov/proposition-65" target="_blank" rel="noopener noreferrer">California OEHHA — Proposition 65 list</a>; <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
 
 <section id="eligibility">

@@ -15,11 +15,11 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "Has there been a Roundup verdict in Michigan?"
-    answer: "No notable Michigan state-court Roundup verdict has been reported. Michigan federal Roundup cases are transferred into the national MDL (No. 2741) in California."
+    question: "Where are Roundup cases for Michigan residents coordinated?"
+    answer: "Federal Roundup cases filed by Michigan residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
   -
-    question: "What makes Michigan exposure different?"
-    answer: "Michigan's agriculture is unusually diverse, from row crops to specialty crops like cherries, blueberries, and sugarbeets, which broadens the range of glyphosate exposure scenarios. Claims still follow the federal MDL and proposed settlement."
+    question: "What makes Michigan's Roundup exposure profile different?"
+    answer: "Michigan's agriculture is unusually diverse, from soybeans to specialty crops like cherries, blueberries, and sugarbeets, which broadens the range of glyphosate exposure scenarios. Claims proceed through the federal MDL and the proposed nationwide settlement."
   -
     question: "Do Michigan deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,10 +48,9 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Michigan?</h2>
-<p>Michigan has not produced a notable in-state Roundup verdict. Michigan Roundup cases filed in the Eastern or Western District of Michigan are transferred into the national MDL (No. 2741) in California for coordinated proceedings, so Michigan claims move through the federal track and the proposed nationwide settlement rather than a state trial docket.</p>
-<p>Michigan's exposure profile is unusually broad because of its diverse agriculture. Beyond the soybean and corn acreage where glyphosate is standard, Michigan is a major specialty-crop state &mdash; tart cherries, blueberries, navy beans, asparagus, and sugarbeets &mdash; which widens the range of agricultural and farm-worker exposure scenarios compared with pure row-crop states.</p>
-<p>As of mid-2026, a review of the Michigan Legislature's bill-tracking system and the Michigan Attorney General's press-release archive did not surface a glyphosate-specific Michigan statute or attorney-general action; this is an absence-of-evidence statement rather than a guarantee. Michigan's personal injury statute of limitations is generally three years (Mich. Comp. Laws &sect; 600.5805(2)). Because cancers linked to herbicide exposure can take years to develop, confirming how the deadline applies to an individual diagnosis is an important early step.</p>
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://www.legislature.mi.gov" target="_blank" rel="noopener noreferrer">Michigan Legislature &mdash; bill search</a>; <a href="https://www.michigan.gov/ag/news" target="_blank" rel="noopener noreferrer">Michigan Attorney General &mdash; news</a>; <a href="https://www.nass.usda.gov" target="_blank" rel="noopener noreferrer">USDA NASS — agricultural statistics</a>.</p>
+<p>Michigan's exposure profile is unusually broad because of its diverse agriculture. Beyond the soybean acreage where glyphosate is standard (USDA NASS 2018), Michigan is a major specialty-crop state &mdash; tart cherries, blueberries, navy beans, asparagus, and sugarbeets &mdash; which widens the range of agricultural and farm-worker exposure scenarios compared with pure row-crop states.</p>
+<p>Federal Roundup cases filed by Michigan residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Soybean Chemical Use Highlights</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>.</p>
 </section>
 
 <section id="eligibility">
