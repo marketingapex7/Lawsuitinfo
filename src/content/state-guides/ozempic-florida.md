@@ -11,9 +11,12 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "Florida residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
+  -
+    question: "Did Florida pass a law requiring GLP-1 coverage in 2026?"
+    answer: "No. Two 2026 bills - SB 1070 and HB 977 - that would have required Florida's State Group Insurance Program to cover obesity treatment, including GLP-1 drugs, both died in committee on March 13, 2026. Those bills addressed state-employee coverage and are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania."
   -
     question: "What is the Ozempic lawsuit in Florida about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. Florida residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."
@@ -44,6 +47,12 @@ faqs:
 <h2>What Florida residents should know</h2>
 <p>Florida residents with GLP-1 injury claims are generally not limited to Florida state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,763 pending cases as of June 1, 2026.</p>
 <p>Florida law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
+</section>
+
+<section id="state-ozempic-context">
+<h2>Florida coverage legislation and the Ozempic litigation</h2>
+<p>Florida residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. In the 2026 session, Florida lawmakers considered Senate Bill 1070 and House Bill 977, which would have required the State Group Insurance Program (the state-employee health plan) to cover obesity treatment, including GLP-1 medications; both bills died in committee on March 13, 2026.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flsenate.gov/Session/Bill/2026/1070" target="_blank" rel="noopener noreferrer">Florida Senate &mdash; SB 1070 (2026), State Group Insurance Program Coverage for Obesity Treatment</a>; <a href="https://www.flsenate.gov/Session/Bill/2026/977" target="_blank" rel="noopener noreferrer">Florida Legislature &mdash; HB 977 (2026), Benefits for Obesity under the State Group Health Insurance Plan</a>.</p>
 </section>
 
 <section id="eligibility">

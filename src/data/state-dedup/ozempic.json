@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "tortSlug": "ozempic",
+    "tortName": "Ozempic / GLP-1",
+    "filePrefix": "ozempic",
+    "reviewDate": "2026-06-16",
+    "pageStructure": "newcase"
+  },
+  "states": {
+    "illinois": {
+      "stateName": "Illinois",
+      "article": "an",
+      "h2": "Illinois GLP-1 enforcement and the Ozempic litigation",
+      "body": "<p>Illinois residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. Within the state, the Attorney General has been active on GLP-1 consumer protection: on December 18, 2024, Attorney General Kwame Raoul issued a consumer alert about misleadingly marketed GLP-1 products and sent cease-and-desist letters to five Chicago-area medical spas accused of selling compounded semaglutide as name-brand medication. Illinois also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>",
+      "sources": [
+        { "label": "Illinois Attorney General &mdash; consumer alert on GLP-1 drugs (Dec. 18, 2024)", "url": "https://illinoisattorneygeneral.gov/news/story/consumer-alertattorney-general-raoul-urges-illinois-residents-to-be-vigilant-when-seeking-glp-1-drugs-for-weight-loss" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
+      ],
+      "faqs": [
+        { "question": "Has Illinois taken action on GLP-1 drug marketing?", "answer": "Yes. In December 2024, Illinois Attorney General Kwame Raoul issued a consumer alert and sent cease-and-desist letters to five Chicago-area medical spas over misleading GLP-1 marketing, and Illinois joined a February 2025 multistate letter urging the FDA to act against counterfeit and compounded GLP-1 products. These consumer-protection actions are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "missouri": {
+      "stateName": "Missouri",
+      "article": "a",
+      "h2": "Missouri Medicaid coverage and the Ozempic litigation",
+      "body": "<p>Missouri residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. On the coverage side, Missouri (MO HealthNet) is among the minority of state Medicaid programs that cover GLP-1 drugs for obesity treatment, subject to prior authorization &mdash; most state Medicaid programs cover GLP-1 drugs only for diabetes and certain other approved indications, not for weight loss.</p>",
+      "sources": [
+        { "label": "KFF &mdash; Medicaid Coverage of and Spending on GLP-1s (Jan. 16, 2026)", "url": "https://www.kff.org/medicaid/medicaid-coverage-of-and-spending-on-glp-1s/" },
+        { "label": "Delaware State Employee Benefits Committee &mdash; state coverage of GLP-1s for weight loss (Dec. 2025)", "url": "https://dhr.delaware.gov/benefits/sebc/documents/2025/1216-coverage-of-glp1-for-weight-loss.pdf" }
+      ],
+      "faqs": [
+        { "question": "Does Missouri Medicaid cover GLP-1 drugs for obesity?", "answer": "Yes, with prior authorization. Missouri (MO HealthNet) is among the minority of state Medicaid programs that cover GLP-1 drugs for obesity treatment; most states cover them only for diabetes and certain other indications. Coverage decisions are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "texas": {
+      "stateName": "Texas",
+      "article": "a",
+      "h2": "Texas coverage policy and the Ozempic litigation",
+      "body": "<p>Texas residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. Texas Medicaid does not cover GLP-1 drugs for weight loss, and House Bill 2412 &mdash; a 2025 measure that would have required obesity-treatment coverage &mdash; died when the 89th Texas Legislature adjourned its regular session on June 2, 2025.</p>",
+      "sources": [
+        { "label": "Texas Legislature &mdash; HB 2412 (89R, 2025) bill history", "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2412" },
+        { "label": "KFF &mdash; Medicaid Coverage of and Spending on GLP-1s (Jan. 16, 2026)", "url": "https://www.kff.org/medicaid/medicaid-coverage-of-and-spending-on-glp-1s/" }
+      ],
+      "faqs": [
+        { "question": "Does Texas Medicaid cover GLP-1 drugs for weight loss?", "answer": "No. Texas Medicaid does not cover GLP-1 drugs for weight loss, and a 2025 bill to require obesity-treatment coverage (HB 2412) died when the legislature adjourned on June 2, 2025. Coverage policy is separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "florida": {
+      "stateName": "Florida",
+      "article": "a",
+      "h2": "Florida coverage legislation and the Ozempic litigation",
+      "body": "<p>Florida residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. In the 2026 session, Florida lawmakers considered Senate Bill 1070 and House Bill 977, which would have required the State Group Insurance Program (the state-employee health plan) to cover obesity treatment, including GLP-1 medications; both bills died in committee on March 13, 2026.</p>",
+      "sources": [
+        { "label": "Florida Senate &mdash; SB 1070 (2026), State Group Insurance Program Coverage for Obesity Treatment", "url": "https://www.flsenate.gov/Session/Bill/2026/1070" },
+        { "label": "Florida Legislature &mdash; HB 977 (2026), Benefits for Obesity under the State Group Health Insurance Plan", "url": "https://www.flsenate.gov/Session/Bill/2026/977" }
+      ],
+      "faqs": [
+        { "question": "Did Florida pass a law requiring GLP-1 coverage in 2026?", "answer": "No. Two 2026 bills - SB 1070 and HB 977 - that would have required Florida's State Group Insurance Program to cover obesity treatment, including GLP-1 drugs, both died in committee on March 13, 2026. Those bills addressed state-employee coverage and are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "california": {
+      "stateName": "California",
+      "article": "a",
+      "h2": "California's Medi-Cal coverage change and the Ozempic litigation",
+      "body": "<p>California residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. On the coverage side, California's Medicaid program (Medi-Cal) ended coverage of GLP-1 medications such as Wegovy, Zepbound, and Saxenda for weight loss effective January 1, 2026, while coverage for diabetes and certain other approved indications continues. California Attorney General Rob Bonta also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>",
+      "sources": [
+        { "label": "Medi-Cal Rx &mdash; changes effective January 2026 (California DHCS)", "url": "https://medi-calrx.dhcs.ca.gov/cms/medicalrx/static-assets/documents/provider/2026/01_A_Changes_Medi-Cal_Rx_Effective_January2026.pdf" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
+      ],
+      "faqs": [
+        { "question": "Does California's Medi-Cal cover GLP-1 drugs for weight loss?", "answer": "No. Effective January 1, 2026, Medi-Cal ended coverage of GLP-1 drugs such as Wegovy, Zepbound, and Saxenda for weight loss; coverage for diabetes and certain other indications continues. That coverage decision is separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "north-carolina": {
+      "stateName": "North Carolina",
+      "article": "a",
+      "h2": "North Carolina's coverage reversal and the Ozempic litigation",
+      "body": "<p>North Carolina residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. North Carolina Medicaid removed GLP-1 weight-management drugs (Wegovy, Zepbound, Saxenda) from coverage in October 2025 during a state budget impasse, then reinstated that coverage in December 2025. North Carolina Attorney General Jeff Jackson also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>",
+      "sources": [
+        { "label": "NC Medicaid &mdash; reinstating GLP-1 coverage for weight management (Dec. 2025)", "url": "https://medicaid.ncdhhs.gov/blog/2025/12/19/nc-medicaid-reinstitute-coverage-glp-1s-weight-management" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
+      ],
+      "faqs": [
+        { "question": "Does North Carolina Medicaid cover GLP-1 drugs for weight management?", "answer": "As of early 2026, yes. North Carolina Medicaid removed GLP-1 weight-management coverage in October 2025 and then reinstated it in December 2025 (with prior authorization). Coverage decisions are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "georgia": {
+      "stateName": "Georgia",
+      "article": "a",
+      "h2": "Georgia coverage rules and the Ozempic litigation",
+      "body": "<p>Georgia residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. Georgia's Medicaid program does not cover GLP-1 drugs for weight loss, though the State Health Benefit Plan covers them in conjunction with a weight-management program. Georgia Attorney General Chris Carr also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>",
+      "sources": [
+        { "label": "Delaware State Employee Benefits Committee &mdash; state coverage of GLP-1s for weight loss (Dec. 2025)", "url": "https://dhr.delaware.gov/benefits/sebc/documents/2025/1216-coverage-of-glp1-for-weight-loss.pdf" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
+      ],
+      "faqs": [
+        { "question": "Does Georgia Medicaid cover GLP-1 drugs for weight loss?", "answer": "Georgia Medicaid does not cover GLP-1 drugs for weight loss, although the State Health Benefit Plan covers them alongside a weight-management program. Coverage rules are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "ohio": {
+      "stateName": "Ohio",
+      "article": "an",
+      "h2": "Ohio compounding rules and the Ozempic litigation",
+      "body": "<p>Ohio residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. In Ohio, the State Board of Pharmacy issued guidance in July 2025 clarifying that pharmacies may no longer compound copies of semaglutide or tirzepatide now that the FDA shortage has ended. Ohio Attorney General Dave Yost also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>",
+      "sources": [
+        { "label": "National Law Review &mdash; Ohio Board of Pharmacy GLP-1 compounding FAQs (July 17, 2025)", "url": "https://natlawreview.com/article/glp-1-drugs-ohio-board-pharmacy-issues-faqs-compounders" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
+      ],
+      "faqs": [
+        { "question": "Can pharmacies in Ohio still compound semaglutide or tirzepatide?", "answer": "Generally no. In July 2025 the Ohio Board of Pharmacy clarified that pharmacies may no longer compound copies of semaglutide or tirzepatide now that the FDA shortage has ended. These compounding rules are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    },
+    "pennsylvania": {
+      "stateName": "Pennsylvania",
+      "article": "a",
+      "h2": "Pennsylvania: the home of MDL-3094",
+      "body": "<p>Pennsylvania has a distinctive role in this litigation: MDL-3094, the national GLP-1 injury proceeding, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home state once filed in, or transferred to, MDL-3094. On the coverage side, Pennsylvania Medicaid is ending coverage of GLP-1 drugs for the treatment of overweight and obesity effective January 1, 2026. Pennsylvania Attorney General Dave Sunday has also warned consumers about counterfeit GLP-1 drugs and joined a February 2025 multistate letter to the FDA.</p>",
+      "sources": [
+        { "label": "Pennsylvania DHS &mdash; Medical Assistance bulletin on obesity treatment agents (Nov. 2025)", "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/providers/pharmacy-services/documents/clinical-guidelines-sw-pdl/2025-11-26-obesity-treatment-agents.pdf" },
+        { "label": "Philadelphia Inquirer &mdash; Pennsylvania warns on counterfeit GLP-1 drugs (June 2025)", "url": "https://www.inquirer.com/health/counterfeit-ozempic-wegovy-drugs-pennsylvania-20250602.html" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
+      ],
+      "faqs": [
+        { "question": "Why is Pennsylvania important in the Ozempic / GLP-1 litigation?", "answer": "MDL-3094, the consolidated federal GLP-1 injury litigation, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court. As of June 1, 2026, MDL-3094 had 3,763 pending cases." }
+      ]
+    },
+    "michigan": {
+      "stateName": "Michigan",
+      "article": "a",
+      "h2": "Michigan coverage rules and the Ozempic litigation",
+      "body": "<p>Michigan residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. Michigan's Medicaid program continues to cover GLP-1 drugs for weight management but now requires participation in a supervised program. Michigan Attorney General Dana Nessel also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>",
+      "sources": [
+        { "label": "Delaware State Employee Benefits Committee &mdash; state coverage of GLP-1s for weight loss (Dec. 2025)", "url": "https://dhr.delaware.gov/benefits/sebc/documents/2025/1216-coverage-of-glp1-for-weight-loss.pdf" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
+      ],
+      "faqs": [
+        { "question": "Does Michigan Medicaid cover GLP-1 drugs for weight management?", "answer": "Yes, but with conditions. Michigan Medicaid continues to cover GLP-1 weight-management drugs while now requiring participation in a supervised program. Coverage rules are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+      ]
+    }
+  }
+}

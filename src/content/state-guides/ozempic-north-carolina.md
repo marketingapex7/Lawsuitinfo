@@ -11,9 +11,12 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "North Carolina residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
+  -
+    question: "Does North Carolina Medicaid cover GLP-1 drugs for weight management?"
+    answer: "As of early 2026, yes. North Carolina Medicaid removed GLP-1 weight-management coverage in October 2025 and then reinstated it in December 2025 (with prior authorization). Coverage decisions are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania."
   -
     question: "What is the Ozempic lawsuit in North Carolina about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. North Carolina residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."
@@ -22,7 +25,7 @@ faqs:
     answer: "Possibly. Cases filed by North Carolina residents in federal court are routinely transferred into MDL-3094 in the Eastern District of Pennsylvania. Whether an individual claim is filed there depends on case strategy and individual facts."
   -
     question: "What is the Ozempic lawsuit statute of limitations in North Carolina?"
-    answer: "North Carolina's general personal injury period is 3 years (N.C. Gen. Stat. § 1-52), and north Carolina applies discovery-based accrual to many latent injury claims (§ 1-52(16)). Only a lawyer can confirm the deadline for a specific situation."
+    answer: "North Carolina's general personal injury period is 3 years (N.C. Gen. Stat. § 1-52). North Carolina applies discovery-based accrual to many latent injury claims (§ 1-52(16)). Only a lawyer can confirm the deadline for a specific situation."
   -
     question: "Which drugs are included for North Carolina claimants?"
     answer: "Filed cases involve Ozempic, Wegovy, Rybelsus, and Saxenda (Novo Nordisk) and Mounjaro, Zepbound, and Trulicity (Eli Lilly). Both diabetes and weight-loss prescriptions appear among filed cases."
@@ -44,6 +47,12 @@ faqs:
 <h2>What North Carolina residents should know</h2>
 <p>North Carolina residents with GLP-1 injury claims are generally not limited to North Carolina state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,763 pending cases as of June 1, 2026.</p>
 <p>North Carolina law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
+</section>
+
+<section id="state-ozempic-context">
+<h2>North Carolina's coverage reversal and the Ozempic litigation</h2>
+<p>North Carolina residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. North Carolina Medicaid removed GLP-1 weight-management drugs (Wegovy, Zepbound, Saxenda) from coverage in October 2025 during a state budget impasse, then reinstated that coverage in December 2025. North Carolina Attorney General Jeff Jackson also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://medicaid.ncdhhs.gov/blog/2025/12/19/nc-medicaid-reinstitute-coverage-glp-1s-weight-management" target="_blank" rel="noopener noreferrer">NC Medicaid &mdash; reinstating GLP-1 coverage for weight management (Dec. 2025)</a>; <a href="https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" target="_blank" rel="noopener noreferrer">Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)</a>.</p>
 </section>
 
 <section id="eligibility">

@@ -11,9 +11,12 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "Georgia residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
+  -
+    question: "Does Georgia Medicaid cover GLP-1 drugs for weight loss?"
+    answer: "Georgia Medicaid does not cover GLP-1 drugs for weight loss, although the State Health Benefit Plan covers them alongside a weight-management program. Coverage rules are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania."
   -
     question: "What is the Ozempic lawsuit in Georgia about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. Georgia residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."
@@ -22,7 +25,7 @@ faqs:
     answer: "Possibly. Cases filed by Georgia residents in federal court are routinely transferred into MDL-3094 in the Eastern District of Pennsylvania. Whether an individual claim is filed there depends on case strategy and individual facts."
   -
     question: "What is the Ozempic lawsuit statute of limitations in Georgia?"
-    answer: "Georgia's general personal injury period is 2 years (O.C.G.A. § 9-3-33), and georgia courts have applied discovery-based accrual in certain latent-injury and toxic exposure cases. Only a lawyer can confirm the deadline for a specific situation."
+    answer: "Georgia's general personal injury period is 2 years (O.C.G.A. § 9-3-33). Georgia courts have applied discovery-based accrual in certain latent-injury and toxic exposure cases. Only a lawyer can confirm the deadline for a specific situation."
   -
     question: "Which drugs are included for Georgia claimants?"
     answer: "Filed cases involve Ozempic, Wegovy, Rybelsus, and Saxenda (Novo Nordisk) and Mounjaro, Zepbound, and Trulicity (Eli Lilly). Both diabetes and weight-loss prescriptions appear among filed cases."
@@ -44,6 +47,12 @@ faqs:
 <h2>What Georgia residents should know</h2>
 <p>Georgia residents with GLP-1 injury claims are generally not limited to Georgia state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,763 pending cases as of June 1, 2026.</p>
 <p>Georgia law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
+</section>
+
+<section id="state-ozempic-context">
+<h2>Georgia coverage rules and the Ozempic litigation</h2>
+<p>Georgia residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. Georgia's Medicaid program does not cover GLP-1 drugs for weight loss, though the State Health Benefit Plan covers them in conjunction with a weight-management program. Georgia Attorney General Chris Carr also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://dhr.delaware.gov/benefits/sebc/documents/2025/1216-coverage-of-glp1-for-weight-loss.pdf" target="_blank" rel="noopener noreferrer">Delaware State Employee Benefits Committee &mdash; state coverage of GLP-1s for weight loss (Dec. 2025)</a>; <a href="https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" target="_blank" rel="noopener noreferrer">Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)</a>.</p>
 </section>
 
 <section id="eligibility">

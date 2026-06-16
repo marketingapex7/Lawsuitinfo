@@ -24,6 +24,10 @@ const states = [
   { name: "Michigan", slug: "michigan", abbr: "MI" }
 ];
 
+// Indefinite article for a state name ("a" / "an"). Vowel-initial state names
+// (e.g. Illinois, Ohio) take "an" — avoids ungrammatical "a Illinois".
+const art = (s) => (/^[aeiou]/i.test(s.name) ? "an" : "a");
+
 const cases = [
   {
     lawsuit: "Ozempic / GLP-1",
@@ -50,10 +54,10 @@ const cases = [
       `<p>Most ${s.name} GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. The court has scheduled Rule 702 expert-admissibility hearings for September 10–18, 2026 (Case Management Order No. 32); bellwether trial dates have not yet been set. ${s.name}'s general personal injury limitations period is ${lim.piYears} years (${lim.citation}), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>`,
     faqs: (s, lim) => [
       [`What is the Ozempic lawsuit in ${s.name} about?`, `Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. ${s.name} residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations.`],
-      [`Can a ${s.name} resident join the Ozempic MDL?`, `Possibly. Cases filed by ${s.name} residents in federal court are routinely transferred into MDL-3094 in the Eastern District of Pennsylvania. Whether an individual claim is filed there depends on case strategy and individual facts.`],
-      [`What is the Ozempic lawsuit statute of limitations in ${s.name}?`, `${s.name}'s general personal injury period is ${lim.piYears} years (${lim.citation}), and ${lim.discoveryNote ? lim.discoveryNote.charAt(0).toLowerCase() + lim.discoveryNote.slice(1) : "accrual rules vary."} Only a lawyer can confirm the deadline for a specific situation.`],
+      [`Can ${art(s)} ${s.name} resident join the Ozempic MDL?`, `Possibly. Cases filed by ${s.name} residents in federal court are routinely transferred into MDL-3094 in the Eastern District of Pennsylvania. Whether an individual claim is filed there depends on case strategy and individual facts.`],
+      [`What is the Ozempic lawsuit statute of limitations in ${s.name}?`, `${s.name}'s general personal injury period is ${lim.piYears} years (${lim.citation}). ${lim.discoveryNote || "Accrual rules vary."} Only a lawyer can confirm the deadline for a specific situation.`],
       [`Which drugs are included for ${s.name} claimants?`, "Filed cases involve Ozempic, Wegovy, Rybelsus, and Saxenda (Novo Nordisk) and Mounjaro, Zepbound, and Trulicity (Eli Lilly). Both diabetes and weight-loss prescriptions appear among filed cases."],
-      [`What records matter most for a ${s.name} claim?`, "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."],
+      [`What records matter most for ${art(s)} ${s.name} claim?`, "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."],
       ["Has there been an Ozempic settlement?", "No. As of June 2026 no settlement program exists in the GLP-1 litigation. The Rule 702 hearings set for September 10-18, 2026 and the rulings that follow are the next events expected to shape settlement posture. Bellwether trial dates have not been set, and no outcome is guaranteed."],
       ["Is Ozempic recalled?", "No. GLP-1 medications remain FDA-approved and on the market. The litigation concerns warnings and alleged injuries, not availability. Medication decisions belong with a licensed healthcare professional."],
       ["Does this page provide legal advice?", "No. This page is general legal information for research purposes only and does not create an attorney-client relationship."]
@@ -83,8 +87,8 @@ const cases = [
     process: (s) =>
       `<p>${s.name} residents do not file or appear in ${s.name} courts for these claims. Pending administrative claims are reviewed by the Navy JAG Tort Claims Unit; unresolved claims proceed in the Eastern District of North Carolina, where Track 1 bellwether trials are underway in 2026. Elective Option offers — tiered at roughly $100,000 to $450,000 plus $100,000 for qualifying wrongful-death claims — continue to be extended weekly.</p>`,
     faqs: (s) => [
-      [`Can a ${s.name} resident still file a Camp Lejeune claim?`, "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."],
-      [`What happens to a ${s.name} resident's pending claim?`, "It stays active. Filed administrative claims continue through Navy review and the Elective Option program, and filed lawsuits continue in the Eastern District of North Carolina. Where the claimant lives does not affect the queue."],
+      [`Can ${art(s)} ${s.name} resident still file a Camp Lejeune claim?`, "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."],
+      [`What happens to ${art(s)} ${s.name} resident's pending claim?`, "It stays active. Filed administrative claims continue through Navy review and the Elective Option program, and filed lawsuits continue in the Eastern District of North Carolina. Where the claimant lives does not affect the queue."],
       ["How much are Camp Lejeune settlements paying?", "Elective Option offers are tiered at roughly $100,000 to $450,000 by diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. Per DOJ figures dated May 15, 2026, more than $876 million had been offered and approximately $665 million paid. Individual amounts vary."],
       [`Why is the case in North Carolina if I live in ${s.name}?`, "The Camp Lejeune Justice Act gives exclusive jurisdiction to the Eastern District of North Carolina because the exposure occurred at the base. Claimants generally do not need to travel; their lawyers litigate in that court."],
       ["Do state filing deadlines apply to Camp Lejeune claims?", "No. The CLJA set its own federal deadline — August 10, 2024 — which has passed. State statutes of limitations do not control these claims."],
