@@ -139,7 +139,16 @@ export function composeTitle(core: string): string {
 }
 
 export function lawsuitSeoTitle(lawsuit: string) {
-  return `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
+  const titles: Record<string, string> = {
+    "AFFF Firefighting Foam": "AFFF Lawsuit Update 2026: PFAS Settlement & Claims",
+    "Camp Lejeune Water Contamination": "Camp Lejeune Lawsuit Update 2026: Payouts & Status",
+    "Depo-Provera": "Depo-Provera Lawsuit Update 2026: Brain Tumor MDL",
+    "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL Status & Eligibility",
+    "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: Settlement & Claims",
+    "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement & Deadlines",
+    "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: Dental Injury MDL"
+  };
+  return titles[lawsuit] ?? `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }
 
 export function stateGuideSeoTitle(lawsuit: string, state: string) {
@@ -175,10 +184,29 @@ function fitMetaDescription(description: string, shortSuffix: string) {
       }
     }
   }
-  return text.length > META_MAX ? `${text.slice(0, META_MAX - 3).replace(/\s+\S*$/, "")}.` : text;
+  return text.length > META_MAX
+    ? `${text.slice(0, META_MAX - 3).replace(/\s+\S*$/, "").replace(/[,:;]\s*$/, "")}.`
+    : text;
 }
 
 export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {
+  const descriptions: Record<string, string> = {
+    "AFFF Firefighting Foam":
+      "June 2026 AFFF lawsuit update: PFAS MDL status, public water settlements, personal injury claims, deadlines, evidence, and state pages.",
+    "Camp Lejeune Water Contamination":
+      "June 2026 Camp Lejeune update: closed filing deadline, Elective Option payouts, pending claims, settlement status, and state guides.",
+    "Depo-Provera":
+      "June 2026 Depo-Provera lawsuit update: meningioma MDL status, expert hearing dates, trial schedule, records, deadlines, and state guides.",
+    "Ozempic / GLP-1":
+      "June 2026 Ozempic lawsuit update: GLP-1 MDL status, Rule 702 schedule, alleged stomach injury claims, eligibility, and state guides.",
+    "Paraquat Parkinson's":
+      "June 2026 Paraquat lawsuit update: Parkinson's MDL status, confidential settlement administration, exposure proof, deadlines, and state pages.",
+    "Roundup Cancer":
+      "June 2026 Roundup lawsuit update: settlement status, non-Hodgkin lymphoma claims, Supreme Court issue, deadlines, and state guides.",
+    "Suboxone Tooth Decay":
+      "June 2026 Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides."
+  };
+  if (descriptions[lawsuit]) return fitMetaDescription(descriptions[lawsuit], " for research.");
   const injury = metaInjury(primaryInjury);
   return fitMetaDescription(
     `${lawsuit} lawsuit guide covering alleged ${injury}, eligibility factors, status, deadlines, evidence, and 10 state pages.`,

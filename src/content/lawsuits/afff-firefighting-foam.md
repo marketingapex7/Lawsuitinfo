@@ -33,7 +33,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-11"
+lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -73,8 +73,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>Lawsuits allege that AFFF firefighting foam containing PFAS chemicals exposed firefighters, military personnel, workers, and communities to substances linked in claims to serious disease.</p>
-<p>Claims may involve Aqueous film-forming firefighting foam and PFAS chemicals. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+<p>As of June 2026, AFFF/PFAS litigation remains one of the largest active mass torts, with 15,240 cases pending in MDL No. 2873. Public water-system settlements have been finalized, but individual personal-injury claims remain separate and no personal-injury settlement has been announced.</p>
+<p>AFFF lawsuits allege that PFAS-containing firefighting foam exposed firefighters, military personnel, airport workers, industrial workers, and nearby communities to chemicals linked in claims to serious disease. Claim review usually focuses on exposure source, diagnosis records, water or worksite documentation, and state deadlines. Defendants dispute exposure, causation, warnings, liability, and damages.</p>
 </section>
 
 <section id="latest-update">

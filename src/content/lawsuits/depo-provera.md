@@ -33,7 +33,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-11"
+lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -64,8 +64,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>Lawsuits allege that long-term use of Depo-Provera may be associated with meningioma brain tumors and that users were not adequately warned about the risk.</p>
-<p>Claims may involve Depo-Provera birth control injections. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+<p>As of June 2026, Depo-Provera meningioma litigation is active and growing quickly, with 5,508 cases pending in MDL No. 3140. The next major event is a joint Rule 702 expert hearing scheduled for June 24-26, 2026, followed by the first Pilot bellwether trial currently scheduled for December 7, 2026.</p>
+<p>Depo-Provera lawsuits allege that long-term use of depot medroxyprogesterone acetate injections may be associated with meningioma brain tumors and that users were not adequately warned. Claim review usually focuses on injection records, diagnosis and imaging records, surgery or radiation history, warning timing, and state filing deadlines. Defendants dispute the claims.</p>
 </section>
 
 <section id="latest-update">

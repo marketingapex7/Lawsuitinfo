@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-11"
+lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -74,8 +74,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>Lawsuits allege that Suboxone film or tablets may be linked to severe tooth decay and that warnings about dental risks were not adequate for some users.</p>
-<p>Claims may involve Suboxone medication-assisted treatment products. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+<p>As of June 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,833 pending cases. The court's first 20 core-discovery-pool cases were scheduled for random selection on June 10, 2026, and no settlement program or court-set trial date has been announced.</p>
+<p>Suboxone lawsuits allege that film or other oral buprenorphine/naloxone products dissolved in the mouth may be linked to severe tooth decay, tooth loss, extractions, and other dental injuries, and that warnings were inadequate. Claim review usually focuses on prescription records, dental records before and after use, injury timing, and state filing deadlines. Defendants dispute the claims.</p>
 </section>
 
 <section id="latest-update">

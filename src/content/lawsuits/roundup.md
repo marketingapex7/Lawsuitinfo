@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-11"
+lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -72,8 +72,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>Lawsuits allege that glyphosate-based Roundup exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate.</p>
-<p>Claims may involve Roundup and glyphosate-based herbicide products. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+<p>As of June 2026, Roundup cancer litigation remains active but settlement-focused: 3,909 federal cases are pending in MDL No. 2741, a $7.25 billion proposed class settlement has a July 9, 2026 final approval hearing, and the U.S. Supreme Court is considering a separate failure-to-warn preemption issue in <em>Monsanto v. Durnell</em>.</p>
+<p>Roundup lawsuits allege that glyphosate-based herbicide exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate. Claim review usually turns on exposure history, diagnosis records, prior settlement or release paperwork, and state filing deadlines. Defendants dispute the allegations, and this page cannot determine whether any person qualifies for a claim.</p>
 </section>
 
 <section id="latest-update">

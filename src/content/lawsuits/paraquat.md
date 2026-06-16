@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-11"
+lastUpdated: "2026-06-16"
 lastReviewed: "2026-05-30"
 faqs:
   -
@@ -72,8 +72,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>Lawsuits allege that paraquat exposure may be associated with Parkinson's disease and that users were not adequately warned about neurological risks.</p>
-<p>Claims may involve Paraquat herbicide products. Plaintiffs claim they experienced injuries after use or exposure, while defendants generally dispute allegations, causation, liability, or damages. No page on this site can determine whether a person qualifies for a claim.</p>
+<p>As of June 2026, Paraquat litigation is active but centered on administration of a confidential Master Settlement Agreement signed August 4, 2025. MDL No. 3004 has 6,651 pending cases, and the court has ordered targeted opt-out plaintiff depositions while the settlement process continues.</p>
+<p>Paraquat lawsuits allege that exposure to the restricted-use herbicide may be associated with Parkinson's disease and that warnings were inadequate. Claim review usually turns on paraquat-specific exposure proof, Parkinson's diagnosis records, opt-out or settlement posture, and state filing deadlines. Defendants dispute exposure, causation, warnings, liability, and damages.</p>
 </section>
 
 <section id="latest-update">
