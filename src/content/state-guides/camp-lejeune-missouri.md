@@ -11,9 +11,12 @@ categorySlug: "toxic-exposure"
 status: "Active — Filing Deadline Passed"
 primaryInjury: "Cancers and other illnesses linked to contaminated water"
 exposureContext: "Missouri is home to veterans, military family members, and former civilian workers who served or lived at Marine Corps Base Camp Lejeune between 1953 and 1987. Exposure occurred at the base in North Carolina — where a claimant lives today, including Missouri, does not change eligibility or where the claim is decided."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-15"
+lastReviewed: "2026-06-15"
 faqs:
+  -
+    question: "How many veterans live in Missouri, and where are their Camp Lejeune claims decided?"
+    answer: "Missouri is home to approximately 354,505 veterans (2019&ndash;2023 American Community Survey). Any Missouri veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Missouri state court hears these claims, and no Missouri statute of limitations applies."
   -
     question: "Can a Missouri resident still file a Camp Lejeune claim?"
     answer: "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."
@@ -44,6 +47,12 @@ faqs:
 <h2>What Missouri residents should know</h2>
 <p>Camp Lejeune claims are federal statutory claims under the Camp Lejeune Justice Act, decided exclusively in the <strong>U.S. District Court for the Eastern District of North Carolina</strong> — regardless of whether the claimant lives in Missouri or anywhere else.</p>
 <p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Missouri residents whose claims were filed in time: roughly 407,000 administrative claims and 3,744 lawsuits remain in process. Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid.</p>
+</section>
+
+<section id="state-camp-lejeune-context">
+<h2>Missouri's veteran community and Camp Lejeune claims</h2>
+<p>Missouri is home to approximately 354,505 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data), with a military presence anchored by Fort Leonard Wood and Whiteman Air Force Base. Veterans, family members, and civilian workers from Missouri who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://veteransdata.info/states/2290000/MISSOURI.pdf" target="_blank" rel="noopener noreferrer">Veterans Data Central (Housing Assistance Council) &mdash; Missouri veterans, 2019&ndash;2023 ACS</a>.</p>
 </section>
 
 <section id="eligibility">
