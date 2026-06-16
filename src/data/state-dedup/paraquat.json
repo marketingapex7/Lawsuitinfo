@@ -10,160 +10,344 @@
       "stateName": "California",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in California?",
-      "body": "<p>California is the only state to have enacted a paraquat-specific reevaluation mandate. AB 1963, signed into law on September 27, 2024, requires the California Department of Pesticide Regulation (CDPR) to complete a formal reevaluation of paraquat by January 1, 2029. The 2024 legislative push did not enact an outright ban, but the reevaluation framework is distinct to California.</p>\n<p>California also carries a direct defendant connection: Chevron U.S.A. Inc. &mdash; one of the named paraquat defendants &mdash; is headquartered in San Ramon, California. Paraquat is used in California's almond, grape, and other specialty-crop sectors, and remains a federally restricted-use pesticide that may only be applied by certified applicators.</p>\n<p>Federal paraquat cases filed by California residents in any of the four California federal districts are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings. As of mid-2026, a review of CDPR enforcement news and California Attorney General press releases did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee.</p>",
+      "body": "<p>California is the only state to have enacted a paraquat-specific reevaluation mandate. AB 1963, signed into law on September 27, 2024, requires the California Department of Pesticide Regulation (CDPR) to complete a formal reevaluation of paraquat by January 1, 2029. The 2024 legislative push did not enact an outright ban, but the reevaluation framework is distinct to California.</p>\n<p>California also carries a direct defendant connection: Chevron U.S.A. Inc. &mdash; one of the named paraquat defendants &mdash; is headquartered in San Ramon, California. Paraquat is used in California's almond, grape, and other specialty-crop sectors, and remains a federally restricted-use pesticide that may only be applied by certified applicators.</p>\n<p>Federal paraquat cases filed by California residents in any of the four California federal districts are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings. As of mid-2026, a review of California Department of Pesticide Regulation materials and California Attorney General announcements did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee.</p>",
       "sources": [
-        { "label": "California AB 1963 (chaptered Sept. 27, 2024) &mdash; paraquat reevaluation mandate", "url": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202320240AB1963&showamends=false" },
-        { "label": "CDPR 2022 Pesticide Use Report data summary", "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf" },
-        { "label": "California Attorney General &mdash; press releases", "url": "https://oag.ca.gov/news" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "California AB 1963 (chaptered Sept. 27, 2024) &mdash; paraquat reevaluation mandate",
+          "url": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202320240AB1963&showamends=false"
+        },
+        {
+          "label": "CDPR 2022 Pesticide Use Report data summary",
+          "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf"
+        },
+        {
+          "label": "California Attorney General &mdash; press releases",
+          "url": "https://oag.ca.gov/news"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for California residents coordinated?", "answer": "Federal paraquat cases filed by California residents in any California federal district are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "What is California doing about paraquat?", "answer": "California enacted AB 1963 in September 2024, which requires the California Department of Pesticide Regulation to complete a formal reevaluation of paraquat by January 1, 2029. It is not a ban, but it is a state-specific regulatory track distinct from the federal EPA framework." }
+        {
+          "question": "Where are Paraquat cases for California residents coordinated?",
+          "answer": "Federal paraquat cases filed by California residents in any California federal district are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "What is California doing about paraquat?",
+          "answer": "California enacted AB 1963 in September 2024, which requires the California Department of Pesticide Regulation to complete a formal reevaluation of paraquat by January 1, 2029. It is not a ban, but it is a state-specific regulatory track distinct from the federal EPA framework."
+        }
       ]
     },
     "texas": {
       "stateName": "Texas",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in Texas?",
-      "body": "<p>Texas matters for paraquat litigation primarily because of cotton. Per the USDA NASS 2021 Cotton Chemical Use survey, Texas accounted for roughly 56.7% of U.S. cotton planted acreage (about 6.37 million acres), and paraquat was applied to about 27% of surveyed U.S. cotton acres (~1.7 million pounds applied) as a pre-plant burndown and harvest-aid desiccant. That makes Texas one of the largest documented paraquat-use environments in the country.</p>\n<p>Federal paraquat cases filed by Texas residents in any of the four Texas federal districts are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings. Texas administers the federal restricted-use pesticide program rather than maintaining a state RUP list.</p>\n<p>As of mid-2026, a review of Texas Attorney General press releases and Texas Department of Agriculture enforcement records did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Texas's product-liability statute of limitations is generally two years (Tex. Civ. Prac. &amp; Rem. Code &sect; 16.003), and Texas applies a 15-year statute of repose to many product-liability claims (&sect; 16.012).</p>",
+      "body": "<p>Texas matters for paraquat litigation primarily because of cotton. Per the USDA NASS 2021 Cotton Chemical Use survey, Texas accounted for roughly 56.7% of U.S. cotton planted acreage (about 6.37 million acres), and paraquat was applied to about 27% of surveyed U.S. cotton acres (~1.7 million pounds applied) as a pre-plant burndown and harvest-aid desiccant. That makes Texas one of the largest documented paraquat-use environments in the country.</p>\n<p>Federal paraquat cases filed by Texas residents in any of the four Texas federal districts are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings. Texas administers the federal restricted-use pesticide program rather than maintaining a state RUP list.</p>\n<p>As of mid-2026, a review of Texas Attorney General announcements did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Texas's product-liability statute of limitations is generally two years (Tex. Civ. Prac. &amp; Rem. Code &sect; 16.003), and Texas applies a 15-year statute of repose to many product-liability claims (&sect; 16.012).</p>",
       "sources": [
-        { "label": "USDA NASS 2021 Cotton Chemical Use Highlights (paraquat applied to 27% of U.S. cotton acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf" },
-        { "label": "EPA &mdash; paraquat dichloride (restricted use, certified applicators only)", "url": "https://www.epa.gov/ingredients-used-pesticide-products/paraquat-dichloride" },
-        { "label": "Texas Attorney General &mdash; news", "url": "https://www.texasattorneygeneral.gov/news" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "USDA NASS 2021 Cotton Chemical Use Highlights (paraquat applied to 27% of U.S. cotton acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf"
+        },
+        {
+          "label": "EPA &mdash; paraquat dichloride (restricted use, certified applicators only)",
+          "url": "https://www.epa.gov/ingredients-used-pesticide-products/paraquat-dichloride"
+        },
+        {
+          "label": "Texas Attorney General &mdash; news",
+          "url": "https://www.texasattorneygeneral.gov/news"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Texas residents coordinated?", "answer": "Federal paraquat cases filed by Texas residents in any Texas federal district are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "Why is paraquat a particular issue for Texas?", "answer": "Texas accounts for about 57% of U.S. cotton planted acreage, and paraquat is widely applied to cotton as a pre-plant burndown and harvest-aid desiccant, making Texas one of the largest documented paraquat-use environments in the country (USDA NASS 2021)." }
+        {
+          "question": "Where are Paraquat cases for Texas residents coordinated?",
+          "answer": "Federal paraquat cases filed by Texas residents in any Texas federal district are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Why is paraquat a particular issue for Texas?",
+          "answer": "Texas accounts for about 57% of U.S. cotton planted acreage, and paraquat is widely applied to cotton as a pre-plant burndown and harvest-aid desiccant, making Texas one of the largest documented paraquat-use environments in the country (USDA NASS 2021)."
+        }
       ]
     },
     "florida": {
       "stateName": "Florida",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in Florida?",
-      "body": "<p>Florida's primary paraquat exposure context is citrus. University of Florida IFAS Extension materials identify paraquat (Gramoxone) alongside glyphosate as a standard non-selective post-emergent contact herbicide in Florida citrus weed management. Paraquat remains a federally restricted-use pesticide that may only be applied by certified applicators.</p>\n<p>Federal paraquat cases filed by Florida residents in any of the three Florida federal districts are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>As of mid-2026, a review of Florida Department of Agriculture and Consumer Services (FDACS) records and Florida Attorney General press releases did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Florida's product-liability statute of limitations is generally four years (Fla. Stat. &sect; 95.11(3)(d)); accrual, discovery-rule, and repose questions can still change the controlling deadline in an individual case.</p>",
+      "body": "<p>Florida's primary paraquat exposure context is citrus. University of Florida IFAS Extension materials identify paraquat (Gramoxone) alongside glyphosate as a standard non-selective post-emergent contact herbicide in Florida citrus weed management. Paraquat remains a federally restricted-use pesticide that may only be applied by certified applicators.</p>\n<p>Federal paraquat cases filed by Florida residents in any of the three Florida federal districts are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>As of mid-2026, a review of Florida Attorney General announcements did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Florida's product-liability statute of limitations is generally four years (Fla. Stat. &sect; 95.11(3)(d)); accrual, discovery-rule, and repose questions can still change the controlling deadline in an individual case.</p>",
       "sources": [
-        { "label": "UF/IFAS Florida Citrus Growers' Institute 2021 &mdash; paraquat listed as standard non-selective herbicide", "url": "https://citrusagents.ifas.ufl.edu/media/crecifasufledu/citrus-agents/growers-institutes/2021/Kanissery2021.pdf" },
-        { "label": "EPA &mdash; paraquat dichloride (restricted use, certified applicators only)", "url": "https://www.epa.gov/ingredients-used-pesticide-products/paraquat-dichloride" },
-        { "label": "Florida Attorney General &mdash; news room", "url": "https://www.myfloridalegal.com/newsroom" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "UF/IFAS Florida Citrus Growers' Institute 2021 &mdash; paraquat listed as standard non-selective herbicide",
+          "url": "https://citrusagents.ifas.ufl.edu/media/crecifasufledu/citrus-agents/growers-institutes/2021/Kanissery2021.pdf"
+        },
+        {
+          "label": "EPA &mdash; paraquat dichloride (restricted use, certified applicators only)",
+          "url": "https://www.epa.gov/ingredients-used-pesticide-products/paraquat-dichloride"
+        },
+        {
+          "label": "Florida Attorney General &mdash; news room",
+          "url": "https://www.myfloridalegal.com/newsroom"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Florida residents coordinated?", "answer": "Federal paraquat cases filed by Florida residents in any Florida federal district are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "Where is paraquat used in Florida?", "answer": "Florida's primary documented paraquat exposure context is citrus. University of Florida IFAS Extension materials identify paraquat (Gramoxone) as a standard non-selective contact herbicide in Florida citrus weed management. Paraquat is a federally restricted-use pesticide; only certified applicators may apply it." }
+        {
+          "question": "Where are Paraquat cases for Florida residents coordinated?",
+          "answer": "Federal paraquat cases filed by Florida residents in any Florida federal district are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Where is paraquat used in Florida?",
+          "answer": "Florida's primary documented paraquat exposure context is citrus. University of Florida IFAS Extension materials identify paraquat (Gramoxone) as a standard non-selective contact herbicide in Florida citrus weed management. Paraquat is a federally restricted-use pesticide; only certified applicators may apply it."
+        }
       ]
     },
     "illinois": {
       "stateName": "Illinois",
       "article": "an",
       "h2": "What stands out about Paraquat litigation in Illinois?",
-      "body": "<p>Illinois is uniquely the host state for the federal paraquat MDL. MDL-3004 (<em>In re: Paraquat Products Liability Litigation</em>) sits in the Southern District of Illinois (East St. Louis division), before Chief Judge Nancy J. Rosenstengel. Illinois plaintiffs file in their home federal district and stay in-state for coordinated proceedings; out-of-state plaintiffs are transferred in by the JPML.</p>\n<p>Illinois is also one of the largest documented paraquat-use environments in the country. The USDA NASS 2018 chemical-use surveys ranked Illinois second nationally in both corn (about 11.0 million acres) and soybean (about 10.8 million acres) planted acreage, both crops with widespread paraquat use as a burndown herbicide.</p>\n<p>As of mid-2026, a review of Illinois Department of Agriculture enforcement records and Illinois Attorney General press releases did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee.</p>",
+      "body": "<p>Illinois is uniquely the host state for the federal paraquat MDL. MDL-3004 (<em>In re: Paraquat Products Liability Litigation</em>) sits in the Southern District of Illinois (East St. Louis division), before Chief Judge Nancy J. Rosenstengel. Illinois plaintiffs file in their home federal district and stay in-state for coordinated proceedings; out-of-state plaintiffs are transferred in by the JPML.</p>\n<p>Illinois is also one of the largest documented paraquat-use environments in the country. The USDA NASS 2018 chemical-use surveys ranked Illinois second nationally in both corn (about 11.0 million acres) and soybean (about 10.8 million acres) planted acreage, both crops with widespread paraquat use as a burndown herbicide.</p>\n<p>As of mid-2026, a review of Illinois Attorney General announcements did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee.</p>",
       "sources": [
-        { "label": "USDA NASS 2018 Corn Chemical Use Highlights (Illinois ~11.0M acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" },
-        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Illinois ~10.8M acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
-        { "label": "Illinois Attorney General &mdash; press releases", "url": "https://illinoisattorneygeneral.gov/news/" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "USDA NASS 2018 Corn Chemical Use Highlights (Illinois ~11.0M acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf"
+        },
+        {
+          "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Illinois ~10.8M acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf"
+        },
+        {
+          "label": "Illinois Attorney General &mdash; press releases",
+          "url": "https://illinoisattorneygeneral.gov/news/"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Illinois residents coordinated?", "answer": "Illinois is the MDL host state. MDL-3004 sits in the Southern District of Illinois (East St. Louis division) before Chief Judge Nancy J. Rosenstengel, so Illinois residents' federal paraquat cases are litigated in their home state's federal court rather than transferred elsewhere." },
-        { "question": "Why is Illinois relevant to paraquat exposure?", "answer": "Illinois ranked second nationally in both corn and soybean planted acreage per the USDA NASS 2018 chemical-use surveys (about 11.0 million corn acres, about 10.8 million soybean acres). Paraquat is widely used as a burndown herbicide in both crops." }
+        {
+          "question": "Where are Paraquat cases for Illinois residents coordinated?",
+          "answer": "Illinois is the MDL host state. MDL-3004 sits in the Southern District of Illinois (East St. Louis division) before Chief Judge Nancy J. Rosenstengel, so Illinois residents' federal paraquat cases are litigated in their home state's federal court rather than transferred elsewhere."
+        },
+        {
+          "question": "Why is Illinois relevant to paraquat exposure?",
+          "answer": "Illinois ranked second nationally in both corn and soybean planted acreage per the USDA NASS 2018 chemical-use surveys (about 11.0 million corn acres, about 10.8 million soybean acres). Paraquat is widely used as a burndown herbicide in both crops."
+        }
       ]
     },
     "missouri": {
       "stateName": "Missouri",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in Missouri?",
-      "body": "<p>Missouri is geographically and structurally close to the federal paraquat MDL: MDL-3004 sits in East St. Louis, Illinois &mdash; immediately across the Mississippi from St. Louis &mdash; making the MDL a practical venue for Missouri claimants. Missouri's federal paraquat cases (filed in the Eastern or Western District of Missouri) are transferred by the JPML into MDL-3004 before Chief Judge Nancy J. Rosenstengel.</p>\n<p>Missouri is also a documented paraquat-use state. Per the USDA NASS 2018 Soybean Chemical Use Survey, Missouri ranked among the top soybean states with about 5.9 million planted acres. Missouri is also included in NASS cotton chemical-use surveys (about 315,000 cotton acres in 2021). Paraquat is used in both crops as a burndown and pre-harvest desiccant.</p>\n<p>Missouri pesticide regulation is governed by the Missouri Pesticide Use Act (Ch. 281 RSMo). As of mid-2026, a review of Missouri Attorney General press releases and Missouri Department of Agriculture enforcement records did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Missouri's personal-injury statute of limitations is unusually long &mdash; generally five years (Mo. Rev. Stat. &sect; 516.120).</p>",
+      "body": "<p>Missouri is geographically and structurally close to the federal paraquat MDL: MDL-3004 sits in East St. Louis, Illinois &mdash; immediately across the Mississippi from St. Louis &mdash; making the MDL a practical venue for Missouri claimants. Missouri's federal paraquat cases (filed in the Eastern or Western District of Missouri) are transferred by the JPML into MDL-3004 before Chief Judge Nancy J. Rosenstengel.</p>\n<p>Missouri is also a documented paraquat-use state. Per the USDA NASS 2018 Soybean Chemical Use Survey, Missouri ranked among the top soybean states with about 5.9 million planted acres. Missouri is also included in NASS cotton chemical-use surveys (about 315,000 cotton acres in 2021). Paraquat is used in both crops as a burndown and pre-harvest desiccant.</p>\n<p>Missouri pesticide regulation is governed by the Missouri Pesticide Use Act (Ch. 281 RSMo). As of mid-2026, a review of Missouri Attorney General announcements did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Missouri's personal-injury statute of limitations is unusually long &mdash; generally five years (Mo. Rev. Stat. &sect; 516.120).</p>",
       "sources": [
-        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Missouri ~5.9M acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
-        { "label": "USDA NASS 2021 Cotton Chemical Use Highlights (Missouri ~315,000 acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf" },
-        { "label": "Missouri Attorney General &mdash; news releases", "url": "https://ago.mo.gov/home/news/" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Missouri ~5.9M acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf"
+        },
+        {
+          "label": "USDA NASS 2021 Cotton Chemical Use Highlights (Missouri ~315,000 acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf"
+        },
+        {
+          "label": "Missouri Attorney General &mdash; news releases",
+          "url": "https://ago.mo.gov/home/news/"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Missouri residents coordinated?", "answer": "Federal paraquat cases filed by Missouri residents in the Eastern or Western District of Missouri are transferred by the JPML into MDL-3004 in the Southern District of Illinois (East St. Louis), immediately across the Mississippi from St. Louis, before Chief Judge Nancy J. Rosenstengel." },
-        { "question": "How long do Missouri residents have to file?", "answer": "Missouri's general personal-injury statute of limitations is unusually long at five years (Mo. Rev. Stat. Section 516.120). The deadline that controls a specific paraquat claim depends on diagnosis timing, discovery facts, and other issues; a lawyer can confirm it." }
+        {
+          "question": "Where are Paraquat cases for Missouri residents coordinated?",
+          "answer": "Federal paraquat cases filed by Missouri residents in the Eastern or Western District of Missouri are transferred by the JPML into MDL-3004 in the Southern District of Illinois (East St. Louis), immediately across the Mississippi from St. Louis, before Chief Judge Nancy J. Rosenstengel."
+        },
+        {
+          "question": "How long do Missouri residents have to file?",
+          "answer": "Missouri's general personal-injury statute of limitations is unusually long at five years (Mo. Rev. Stat. Section 516.120). The deadline that controls a specific paraquat claim depends on diagnosis timing, discovery facts, and other issues; a lawyer can confirm it."
+        }
       ]
     },
     "north-carolina": {
       "stateName": "North Carolina",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in North Carolina?",
-      "body": "<p>North Carolina has a uniquely direct connection to the defendants. Syngenta Crop Protection LLC's North American headquarters is in Greensboro (Guilford County), North Carolina, where Syngenta opened a $140 million campus in October 2024. Syngenta's principal U.S. place of business is therefore in-state, while paraquat cases filed by NC residents proceed in the federal MDL.</p>\n<p>NC residents' federal paraquat cases (filed in the Eastern, Middle, or Western District of North Carolina) are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel. Paraquat is documented as an approved restricted-use burndown herbicide in NC crop systems per the NC Agricultural Chemicals Manual (NCSU Extension), and NC residents are included in USDA NASS soybean and cotton chemical-use surveys.</p>\n<p>As of mid-2026, a review of North Carolina Department of Agriculture and Consumer Services records and North Carolina Attorney General press releases did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. North Carolina's product-liability claims are subject to a three-year personal injury period (N.C. Gen. Stat. &sect; 1-52(16)) and a 12-year statute of repose (&sect; 1-46.1).</p>",
+      "body": "<p>North Carolina has a uniquely direct connection to the defendants. Syngenta Crop Protection LLC's North American headquarters is in Greensboro, North Carolina (Guilford County). Syngenta's principal U.S. place of business is therefore in-state, while paraquat cases filed by NC residents proceed in the federal MDL.</p>\n<p>NC residents' federal paraquat cases (filed in the Eastern, Middle, or Western District of North Carolina) are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel. Paraquat is documented as an approved restricted-use burndown herbicide in NC crop systems per the NC Agricultural Chemicals Manual (NCSU Extension), and NC residents are included in USDA NASS soybean and cotton chemical-use surveys.</p>\n<p>As of mid-2026, a review of North Carolina Department of Justice announcements did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. North Carolina's product-liability claims are subject to a three-year personal injury period (N.C. Gen. Stat. &sect; 1-52(16)) and a 12-year statute of repose (&sect; 1-46.1).</p>",
       "sources": [
-        { "label": "Syngenta Crop Protection &mdash; Greensboro NC headquarters listing", "url": "https://directory.ncbiotech.org/company/syngenta-crop-protection-llc-greensboro" },
-        { "label": "NC Agricultural Chemicals Manual (NCSU Extension)", "url": "https://content.ces.ncsu.edu/north-carolina-agricultural-chemicals-manual" },
-        { "label": "NC Department of Justice &mdash; news", "url": "https://ncdoj.gov/news/" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "Syngenta Crop Protection &mdash; Greensboro NC headquarters listing",
+          "url": "https://directory.ncbiotech.org/company/syngenta-crop-protection-llc-greensboro"
+        },
+        {
+          "label": "NC Agricultural Chemicals Manual (NCSU Extension)",
+          "url": "https://content.ces.ncsu.edu/north-carolina-agricultural-chemicals-manual"
+        },
+        {
+          "label": "NC Department of Justice &mdash; news",
+          "url": "https://ncdoj.gov/news/"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for North Carolina residents coordinated?", "answer": "Federal paraquat cases filed by North Carolina residents in the Eastern, Middle, or Western District of North Carolina are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "Why is North Carolina notable in paraquat litigation?", "answer": "Syngenta Crop Protection LLC's North American headquarters is in Greensboro, North Carolina, where Syngenta opened a $140 million campus in October 2024. That gives North Carolina a direct in-state connection to a named paraquat defendant, even though NC residents' federal cases are still transferred to the MDL in Illinois." }
+        {
+          "question": "Where are Paraquat cases for North Carolina residents coordinated?",
+          "answer": "Federal paraquat cases filed by North Carolina residents in the Eastern, Middle, or Western District of North Carolina are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Why is North Carolina notable in paraquat litigation?",
+          "answer": "Syngenta Crop Protection LLC's North American headquarters is in Greensboro, North Carolina. That gives North Carolina a direct in-state connection to a named paraquat defendant, even though NC residents' federal cases are still transferred to the MDL in Illinois."
+        }
       ]
     },
     "georgia": {
       "stateName": "Georgia",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in Georgia?",
-      "body": "<p>Georgia is one of the country's most agriculturally intensive states for paraquat-relevant crops. Per the USDA NASS 2018 Peanuts Chemical Use Survey, Georgia accounted for about 46.7% of U.S. peanut acreage (about 665,000 of 1.43 million planted acres). Per the USDA NASS 2021 Cotton Chemical Use Survey, Georgia carried about 1.17 million cotton acres (about 10.4% of U.S. cotton acreage). Paraquat is used as a burndown herbicide in both crops where state extension materials approve it.</p>\n<p>Federal paraquat cases filed by Georgia residents in the Northern, Middle, or Southern District of Georgia are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>Georgia administers the federal restricted-use pesticide program under the Georgia Pesticide Use and Application Act of 1976. As of mid-2026, a review of Georgia Department of Agriculture records and Georgia Attorney General press releases did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Georgia's personal injury statute of limitations is generally two years (O.C.G.A. &sect; 9-3-33), with a 10-year statute of repose for many product liability claims (&sect; 51-1-11(b)(2)).</p>",
+      "body": "<p>Georgia is one of the country's most agriculturally intensive states for paraquat-relevant crops. Per the USDA NASS 2018 Peanuts Chemical Use Survey, Georgia accounted for about 46.7% of U.S. peanut acreage (about 665,000 of 1.43 million planted acres). Per the USDA NASS 2021 Cotton Chemical Use Survey, Georgia carried about 1.17 million cotton acres (about 10.4% of U.S. cotton acreage). Paraquat is used as a burndown herbicide in both crops where state extension materials approve it.</p>\n<p>Federal paraquat cases filed by Georgia residents in the Northern, Middle, or Southern District of Georgia are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>Georgia administers the federal restricted-use pesticide program under the Georgia Pesticide Use and Application Act of 1976. As of mid-2026, a review of Georgia Attorney General announcements did not surface a state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Georgia's personal injury statute of limitations is generally two years (O.C.G.A. &sect; 9-3-33), with a 10-year statute of repose for many product liability claims (&sect; 51-1-11(b)(2)).</p>",
       "sources": [
-        { "label": "USDA NASS 2018 Peanuts Chemical Use Highlights (Georgia 665,000 acres, 46.7% of U.S.)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Peanuts_2018.pdf" },
-        { "label": "USDA NASS 2021 Cotton Chemical Use Highlights (Georgia 1.17M acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf" },
-        { "label": "Georgia Pesticide Use and Application Act of 1976 (OCGA)", "url": "https://www.agr.georgia.gov/sites/default/files/documents/assets/legal/ocga/ocga-georgia-pesticide-use-and-application-act-of-1976.pdf" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "USDA NASS 2018 Peanuts Chemical Use Highlights (Georgia 665,000 acres, 46.7% of U.S.)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Peanuts_2018.pdf"
+        },
+        {
+          "label": "USDA NASS 2021 Cotton Chemical Use Highlights (Georgia 1.17M acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf"
+        },
+        {
+          "label": "Georgia Attorney General — press releases",
+          "url": "https://law.georgia.gov/press-releases"
+        },
+        {
+          "label": "Georgia Pesticide Use and Application Act of 1976 (OCGA)",
+          "url": "https://www.agr.georgia.gov/sites/default/files/documents/assets/legal/ocga/ocga-georgia-pesticide-use-and-application-act-of-1976.pdf"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Georgia residents coordinated?", "answer": "Federal paraquat cases filed by Georgia residents in the Northern, Middle, or Southern District of Georgia are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "Why is paraquat exposure relevant in Georgia?", "answer": "Georgia is the country's largest peanut-producing state (about 47% of U.S. peanut acreage per USDA NASS 2018) and a top cotton-producing state (about 1.17 million cotton acres per NASS 2021). Paraquat is used as a burndown herbicide in both crops where state extension materials approve it." }
+        {
+          "question": "Where are Paraquat cases for Georgia residents coordinated?",
+          "answer": "Federal paraquat cases filed by Georgia residents in the Northern, Middle, or Southern District of Georgia are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Why is paraquat exposure relevant in Georgia?",
+          "answer": "Georgia is the country's largest peanut-producing state (about 47% of U.S. peanut acreage per USDA NASS 2018) and a top cotton-producing state (about 1.17 million cotton acres per NASS 2021). Paraquat is used as a burndown herbicide in both crops where state extension materials approve it."
+        }
       ]
     },
     "ohio": {
       "stateName": "Ohio",
       "article": "an",
       "h2": "What stands out about Paraquat litigation in Ohio?",
-      "body": "<p>Ohio is a major paraquat-use state in the Corn Belt. The USDA NASS 2018 chemical-use surveys placed Ohio among the larger corn (about 3.5 million planted acres) and soybean (about 5.0 million planted acres) states; paraquat is used in both crops as a burndown herbicide.</p>\n<p>Federal paraquat cases filed by Ohio residents in the Northern or Southern District of Ohio are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>Restricted-use pesticide applicators in Ohio are governed by Ohio Administrative Code Chapter 901:5-11, administered by the Ohio Department of Agriculture. As of mid-2026, a review of the Ohio General Assembly's bill-tracking system, Ohio Department of Agriculture enforcement records, and Ohio Attorney General news did not surface an enacted state paraquat restriction or AG action against Syngenta or Chevron; the CSG Midwest 2026 legislative tracker indicates paraquat-related bills have been introduced in Ohio but had not passed as of late March 2026 (verify current status before relying on it). Ohio's personal injury statute of limitations is generally two years (Ohio Rev. Code &sect; 2305.10(A)), with a 10-year repose for many product liability claims (&sect; 2305.10(C)).</p>",
+      "body": "<p>Ohio is a major paraquat-use state in the Corn Belt. The USDA NASS 2018 chemical-use surveys placed Ohio among the larger corn (about 3.5 million planted acres) and soybean (about 5.0 million planted acres) states; paraquat is used in both crops as a burndown herbicide.</p>\n<p>Federal paraquat cases filed by Ohio residents in the Northern or Southern District of Ohio are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>Restricted-use pesticide applicators in Ohio are governed by Ohio Administrative Code Chapter 901:5-11, administered by the Ohio Department of Agriculture. As of mid-2026, the CSG Midwest legislative tracker indicates paraquat-related bills have been introduced in Ohio but had not passed as of late March 2026 (verify current status before relying on it). Ohio's personal injury statute of limitations is generally two years (Ohio Rev. Code &sect; 2305.10(A)), with a 10-year repose for many product liability claims (&sect; 2305.10(C)).</p>",
       "sources": [
-        { "label": "USDA NASS 2018 Corn Chemical Use Highlights (Ohio ~3.5M acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" },
-        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Ohio ~5.0M acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
-        { "label": "Ohio Administrative Code Ch. 901:5-11 &mdash; restricted-use pesticide applicator rules", "url": "https://codes.ohio.gov/ohio-administrative-code/chapter-901:5-11" },
-        { "label": "CSG Midwest &mdash; state paraquat legislative tracker (March 2026)", "url": "https://csgmidwest.org/2026/03/31/question-what-states-considering-restrictions-or-bans-on-the-sale-and-use-of-the-herbicide-paraquat" }
+        {
+          "label": "USDA NASS 2018 Corn Chemical Use Highlights (Ohio ~3.5M acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf"
+        },
+        {
+          "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Ohio ~5.0M acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf"
+        },
+        {
+          "label": "Ohio Administrative Code Ch. 901:5-11 &mdash; restricted-use pesticide applicator rules",
+          "url": "https://codes.ohio.gov/ohio-administrative-code/chapter-901:5-11"
+        },
+        {
+          "label": "CSG Midwest &mdash; state paraquat legislative tracker (March 2026)",
+          "url": "https://csgmidwest.org/2026/03/31/question-what-states-considering-restrictions-or-bans-on-the-sale-and-use-of-the-herbicide-paraquat"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Ohio residents coordinated?", "answer": "Federal paraquat cases filed by Ohio residents in the Northern or Southern District of Ohio are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "Has Ohio passed a paraquat restriction?", "answer": "As of late March 2026, the CSG Midwest legislative tracker reports paraquat-related bills had been introduced in Ohio but had not passed. The Ohio General Assembly bill-tracking system is the authoritative source for current status; this guide is informational only." }
+        {
+          "question": "Where are Paraquat cases for Ohio residents coordinated?",
+          "answer": "Federal paraquat cases filed by Ohio residents in the Northern or Southern District of Ohio are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Has Ohio passed a paraquat restriction?",
+          "answer": "As of late March 2026, the CSG Midwest legislative tracker reports paraquat-related bills had been introduced in Ohio but had not passed. The Ohio General Assembly bill-tracking system is the authoritative source for current status; this guide is informational only."
+        }
       ]
     },
     "pennsylvania": {
       "stateName": "Pennsylvania",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in Pennsylvania?",
-      "body": "<p>Pennsylvania is one of the most legislatively active non-MDL-host states on paraquat. House Bills 1135 and 2065 (introduced April 2025) propose banning paraquat one year after enactment; both were referred to committee. The Michael J. Fox Foundation has identified Pennsylvania as a priority state in its 2026 paraquat legislative work. As of mid-2026 neither bill had been enacted &mdash; consult the Pennsylvania General Assembly bill-tracking system for current status.</p>\n<p>Federal paraquat cases filed by Pennsylvania residents in the Eastern, Middle, or Western District of Pennsylvania are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings. Paraquat is used in Pennsylvania row crops, orchards, and specialty crops per PennState Extension materials.</p>\n<p>As of mid-2026, a review of Pennsylvania Department of Agriculture records and Pennsylvania Attorney General press releases did not surface a completed state-level paraquat action against Syngenta or Chevron; this is an absence-of-evidence statement rather than a guarantee. Pennsylvania's personal injury statute of limitations is generally two years (42 Pa. Cons. Stat. &sect; 5524).</p>",
+      "body": "<p>Pennsylvania is one of the most legislatively active non-MDL-host states on paraquat. House Bills 1135 and 2065 (introduced April 2025) propose banning paraquat one year after enactment; both were referred to committee. The Michael J. Fox Foundation has identified Pennsylvania as a priority state in its 2026 paraquat legislative work. As of mid-2026 neither bill had been enacted &mdash; consult the Pennsylvania General Assembly bill-tracking system for current status.</p>\n<p>Federal paraquat cases filed by Pennsylvania residents in the Eastern, Middle, or Western District of Pennsylvania are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings. Paraquat is used in Pennsylvania row crops, orchards, and specialty crops per PennState Extension materials.</p>\n<p>As of mid-2026, neither HB 1135 nor HB 2065 had been enacted as of mid-2026 per the Pennsylvania General Assembly bill record and the CSG Midwest legislative tracker; this is an absence-of-evidence statement rather than a guarantee. Pennsylvania's personal injury statute of limitations is generally two years (42 Pa. Cons. Stat. &sect; 5524).</p>",
       "sources": [
-        { "label": "CSG Midwest &mdash; state paraquat legislative tracker (PA HB 1135 / HB 2065 referred to committee)", "url": "https://csgmidwest.org/2026/03/31/question-what-states-considering-restrictions-or-bans-on-the-sale-and-use-of-the-herbicide-paraquat" },
-        { "label": "Michael J. Fox Foundation &mdash; paraquat legislative work (May 2026 update)", "url": "https://www.michaeljfox.org/news/vermont-passes-first-nation-ban-paraquat-pesticide-linked-parkinsons-disease" },
-        { "label": "Pennsylvania General Assembly &mdash; bill tracking", "url": "https://www.legis.state.pa.us/cfdocs/legis/home/bills/index.cfm" },
-        { "label": "JPML &mdash; pending MDL dockets", "url": "https://www.jpml.uscourts.gov/pending-mdls-0" }
+        {
+          "label": "CSG Midwest &mdash; state paraquat legislative tracker (PA HB 1135 / HB 2065 referred to committee)",
+          "url": "https://csgmidwest.org/2026/03/31/question-what-states-considering-restrictions-or-bans-on-the-sale-and-use-of-the-herbicide-paraquat"
+        },
+        {
+          "label": "Michael J. Fox Foundation &mdash; paraquat legislative work (May 2026 update)",
+          "url": "https://www.michaeljfox.org/news/vermont-passes-first-nation-ban-paraquat-pesticide-linked-parkinsons-disease"
+        },
+        {
+          "label": "Pennsylvania General Assembly &mdash; bill tracking",
+          "url": "https://www.legis.state.pa.us/cfdocs/legis/home/bills/index.cfm"
+        },
+        {
+          "label": "JPML &mdash; pending MDL dockets",
+          "url": "https://www.jpml.uscourts.gov/pending-mdls-0"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Pennsylvania residents coordinated?", "answer": "Federal paraquat cases filed by Pennsylvania residents in the Eastern, Middle, or Western District of Pennsylvania are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "Is Pennsylvania considering a paraquat ban?", "answer": "Pennsylvania House Bills 1135 and 2065 (introduced April 2025) propose banning paraquat one year after enactment; both had been referred to committee as of the CSG Midwest March 2026 tracker. Neither bill had been enacted as of mid-2026 &mdash; consult the Pennsylvania General Assembly bill-tracking system for current status." }
+        {
+          "question": "Where are Paraquat cases for Pennsylvania residents coordinated?",
+          "answer": "Federal paraquat cases filed by Pennsylvania residents in the Eastern, Middle, or Western District of Pennsylvania are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Is Pennsylvania considering a paraquat ban?",
+          "answer": "Pennsylvania House Bills 1135 and 2065 (introduced April 2025) propose banning paraquat one year after enactment; both had been referred to committee as of the CSG Midwest March 2026 tracker. Neither bill had been enacted as of mid-2026 &mdash; consult the Pennsylvania General Assembly bill-tracking system for current status."
+        }
       ]
     },
     "michigan": {
       "stateName": "Michigan",
       "article": "a",
       "h2": "What stands out about Paraquat litigation in Michigan?",
-      "body": "<p>Michigan combines diverse paraquat-relevant agriculture with documented applicator-training infrastructure. Michigan is a major soybean state (about 2.3 million planted acres per USDA NASS 2018), the country's leading sugarbeet state, and grows specialty crops where paraquat may be used. Michigan State University Extension has published label-mandated training materials specifically for paraquat applicators in Michigan.</p>\n<p>Federal paraquat cases filed by Michigan residents in the Eastern or Western District of Michigan are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>Restricted-use pesticide applicators are governed by Michigan Administrative Code rules administered by the Michigan Department of Agriculture and Rural Development (MDARD). As of mid-2026, a review of MDARD enforcement records and Michigan Attorney General news did not surface a completed state-level paraquat action against Syngenta or Chevron; the CSG Midwest 2026 legislative tracker indicates paraquat-related bills had been introduced in Michigan during the 2025&ndash;2026 biennium but had not passed as of late March 2026. Michigan's personal injury statute of limitations is generally three years (Mich. Comp. Laws &sect; 600.5805(2)).</p>",
+      "body": "<p>Michigan combines diverse paraquat-relevant agriculture with documented applicator-training infrastructure. Michigan is a major soybean state (about 2.3 million planted acres per USDA NASS 2018), the country's leading sugarbeet state, and grows specialty crops where paraquat may be used. Michigan State University Extension has published label-mandated training materials specifically for paraquat applicators in Michigan.</p>\n<p>Federal paraquat cases filed by Michigan residents in the Eastern or Western District of Michigan are transferred by the JPML into MDL-3004 (S.D. Illinois, Chief Judge Nancy J. Rosenstengel) for coordinated pretrial proceedings.</p>\n<p>Restricted-use pesticide applicators are governed by Michigan Administrative Code rules administered by the Michigan Department of Agriculture and Rural Development (MDARD). As of mid-2026, a review of Michigan Attorney General announcements did not surface a completed state-level paraquat action against Syngenta or Chevron; the CSG Midwest 2026 legislative tracker indicates paraquat-related bills had been introduced in Michigan during the 2025&ndash;2026 biennium but had not passed as of late March 2026. Michigan's personal injury statute of limitations is generally three years (Mich. Comp. Laws &sect; 600.5805(2)).</p>",
       "sources": [
-        { "label": "MSU Extension &mdash; label-mandated paraquat training for Michigan applicators", "url": "https://msu-prod.dotcms.cloud/news/label-mandated-training-in-pesticides-paraquat-and-dicamba" },
-        { "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Michigan ~2.3M acres)", "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" },
-        { "label": "CSG Midwest &mdash; state paraquat legislative tracker (Michigan bills, 2025&ndash;2026)", "url": "https://csgmidwest.org/2026/03/31/question-what-states-considering-restrictions-or-bans-on-the-sale-and-use-of-the-herbicide-paraquat" },
-        { "label": "Michigan Attorney General &mdash; news", "url": "https://www.michigan.gov/ag/news" }
+        {
+          "label": "MSU Extension &mdash; label-mandated paraquat training for Michigan applicators",
+          "url": "https://msu-prod.dotcms.cloud/news/label-mandated-training-in-pesticides-paraquat-and-dicamba"
+        },
+        {
+          "label": "USDA NASS 2018 Soybean Chemical Use Highlights (Michigan ~2.3M acres)",
+          "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf"
+        },
+        {
+          "label": "CSG Midwest &mdash; state paraquat legislative tracker (Michigan bills, 2025&ndash;2026)",
+          "url": "https://csgmidwest.org/2026/03/31/question-what-states-considering-restrictions-or-bans-on-the-sale-and-use-of-the-herbicide-paraquat"
+        },
+        {
+          "label": "Michigan Attorney General &mdash; news",
+          "url": "https://www.michigan.gov/ag/news"
+        }
       ],
       "faqs": [
-        { "question": "Where are Paraquat cases for Michigan residents coordinated?", "answer": "Federal paraquat cases filed by Michigan residents in the Eastern or Western District of Michigan are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings." },
-        { "question": "Is paraquat tracked in Michigan?", "answer": "Yes. Paraquat is a federally restricted-use pesticide; MSU Extension has published label-mandated applicator training materials specifically for Michigan. The Michigan Department of Agriculture and Rural Development administers the federal restricted-use pesticide program." }
+        {
+          "question": "Where are Paraquat cases for Michigan residents coordinated?",
+          "answer": "Federal paraquat cases filed by Michigan residents in the Eastern or Western District of Michigan are transferred by the JPML into MDL-3004 in the Southern District of Illinois, before Chief Judge Nancy J. Rosenstengel, for coordinated pretrial proceedings."
+        },
+        {
+          "question": "Is paraquat tracked in Michigan?",
+          "answer": "Yes. Paraquat is a federally restricted-use pesticide; MSU Extension has published label-mandated applicator training materials specifically for Michigan. The Michigan Department of Agriculture and Rural Development administers the federal restricted-use pesticide program."
+        }
       ]
     }
   }
