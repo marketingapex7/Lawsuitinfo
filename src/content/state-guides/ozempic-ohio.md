@@ -11,23 +11,26 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "Ohio residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
+  -
+    question: "Can pharmacies in Ohio still compound semaglutide or tirzepatide?"
+    answer: "Generally no. In July 2025 the Ohio Board of Pharmacy clarified that pharmacies may no longer compound copies of semaglutide or tirzepatide now that the FDA shortage has ended. These compounding rules are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania."
   -
     question: "What is the Ozempic lawsuit in Ohio about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. Ohio residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."
   -
-    question: "Can a Ohio resident join the Ozempic MDL?"
+    question: "Can an Ohio resident join the Ozempic MDL?"
     answer: "Possibly. Cases filed by Ohio residents in federal court are routinely transferred into MDL-3094 in the Eastern District of Pennsylvania. Whether an individual claim is filed there depends on case strategy and individual facts."
   -
     question: "What is the Ozempic lawsuit statute of limitations in Ohio?"
-    answer: "Ohio's general personal injury period is 2 years (Ohio Rev. Code § 2305.10), and ohio's statute includes discovery-based accrual provisions for certain exposure-related claims. Only a lawyer can confirm the deadline for a specific situation."
+    answer: "Ohio's general personal injury period is 2 years (Ohio Rev. Code § 2305.10). Ohio's statute includes discovery-based accrual provisions for certain exposure-related claims. Only a lawyer can confirm the deadline for a specific situation."
   -
     question: "Which drugs are included for Ohio claimants?"
     answer: "Filed cases involve Ozempic, Wegovy, Rybelsus, and Saxenda (Novo Nordisk) and Mounjaro, Zepbound, and Trulicity (Eli Lilly). Both diabetes and weight-loss prescriptions appear among filed cases."
   -
-    question: "What records matter most for a Ohio claim?"
+    question: "What records matter most for an Ohio claim?"
     answer: "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."
   -
     question: "Has there been an Ozempic settlement?"
@@ -44,6 +47,12 @@ faqs:
 <h2>What Ohio residents should know</h2>
 <p>Ohio residents with GLP-1 injury claims are generally not limited to Ohio state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,763 pending cases as of June 1, 2026.</p>
 <p>Ohio law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
+</section>
+
+<section id="state-ozempic-context">
+<h2>Ohio compounding rules and the Ozempic litigation</h2>
+<p>Ohio residents' federal GLP-1 injury cases are transferred into MDL-3094 in the U.S. District Court for the Eastern District of Pennsylvania for coordinated proceedings. In Ohio, the State Board of Pharmacy issued guidance in July 2025 clarifying that pharmacies may no longer compound copies of semaglutide or tirzepatide now that the FDA shortage has ended. Ohio Attorney General Dave Yost also joined a February 2025 letter from more than three dozen state attorneys general urging the FDA to act against counterfeit and illegally compounded GLP-1 drugs.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://natlawreview.com/article/glp-1-drugs-ohio-board-pharmacy-issues-faqs-compounders" target="_blank" rel="noopener noreferrer">National Law Review &mdash; Ohio Board of Pharmacy GLP-1 compounding FAQs (July 17, 2025)</a>; <a href="https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" target="_blank" rel="noopener noreferrer">Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)</a>.</p>
 </section>
 
 <section id="eligibility">

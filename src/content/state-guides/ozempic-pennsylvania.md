@@ -11,9 +11,12 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "Pennsylvania residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
+  -
+    question: "Why is Pennsylvania important in the Ozempic / GLP-1 litigation?"
+    answer: "MDL-3094, the consolidated federal GLP-1 injury litigation, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court. As of June 1, 2026, MDL-3094 had 3,763 pending cases."
   -
     question: "What is the Ozempic lawsuit in Pennsylvania about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. Pennsylvania residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."
@@ -22,7 +25,7 @@ faqs:
     answer: "Possibly. Cases filed by Pennsylvania residents in federal court are routinely transferred into MDL-3094 in the Eastern District of Pennsylvania. Whether an individual claim is filed there depends on case strategy and individual facts."
   -
     question: "What is the Ozempic lawsuit statute of limitations in Pennsylvania?"
-    answer: "Pennsylvania's general personal injury period is 2 years (42 Pa. Cons. Stat. § 5524), and pennsylvania applies a discovery rule that can delay accrual until the injury and its cause reasonably could have been discovered. Only a lawyer can confirm the deadline for a specific situation."
+    answer: "Pennsylvania's general personal injury period is 2 years (42 Pa. Cons. Stat. § 5524). Pennsylvania applies a discovery rule that can delay accrual until the injury and its cause reasonably could have been discovered. Only a lawyer can confirm the deadline for a specific situation."
   -
     question: "Which drugs are included for Pennsylvania claimants?"
     answer: "Filed cases involve Ozempic, Wegovy, Rybelsus, and Saxenda (Novo Nordisk) and Mounjaro, Zepbound, and Trulicity (Eli Lilly). Both diabetes and weight-loss prescriptions appear among filed cases."
@@ -44,6 +47,12 @@ faqs:
 <h2>What Pennsylvania residents should know</h2>
 <p>Pennsylvania residents with GLP-1 injury claims are generally not limited to Pennsylvania state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,763 pending cases as of June 1, 2026.</p>
 <p>Pennsylvania law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
+</section>
+
+<section id="state-ozempic-context">
+<h2>Pennsylvania: the home of MDL-3094</h2>
+<p>Pennsylvania has a distinctive role in this litigation: MDL-3094, the national GLP-1 injury proceeding, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court without a separate transfer step. On the coverage side, Pennsylvania Medicaid is ending coverage of GLP-1 drugs for the treatment of overweight and obesity effective January 1, 2026. Pennsylvania Attorney General Dave Sunday has also warned consumers about counterfeit GLP-1 drugs and joined a February 2025 multistate letter to the FDA.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/providers/pharmacy-services/documents/clinical-guidelines-sw-pdl/2025-11-26-obesity-treatment-agents.pdf" target="_blank" rel="noopener noreferrer">Pennsylvania DHS &mdash; Medical Assistance bulletin on obesity treatment agents (Nov. 2025)</a>; <a href="https://www.inquirer.com/health/counterfeit-ozempic-wegovy-drugs-pennsylvania-20250602.html" target="_blank" rel="noopener noreferrer">Philadelphia Inquirer &mdash; Pennsylvania warns on counterfeit GLP-1 drugs (June 2025)</a>.</p>
 </section>
 
 <section id="eligibility">
