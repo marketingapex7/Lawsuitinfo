@@ -15,13 +15,13 @@ lastUpdated: "2026-06-15"
 lastReviewed: "2026-06-15"
 faqs:
   -
-    question: "How many veterans live in Ohio, and where are their Camp Lejeune claims decided?"
-    answer: "Ohio had approximately 681,106 veterans as of September 30, 2023 (U.S. Department of Veterans Affairs FY2023 data). Any Ohio veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Ohio state court hears these claims, and no Ohio statute of limitations applies."
+    question: "How large is Ohio's veteran community?"
+    answer: "Ohio had approximately 681,106 veterans as of September 30, 2023, according to U.S. Department of Veterans Affairs FY2023 data reported by Spectrum News. That veteran community is why Ohio-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
   -
-    question: "Can a Ohio resident still file a Camp Lejeune claim?"
+    question: "Can an Ohio resident still file a Camp Lejeune claim?"
     answer: "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."
   -
-    question: "What happens to a Ohio resident's pending claim?"
+    question: "What happens to an Ohio resident's pending claim?"
     answer: "It stays active. Filed administrative claims continue through Navy review and the Elective Option program, and filed lawsuits continue in the Eastern District of North Carolina. Where the claimant lives does not affect the queue."
   -
     question: "How much are Camp Lejeune settlements paying?"
@@ -51,7 +51,7 @@ faqs:
 
 <section id="state-camp-lejeune-context">
 <h2>Ohio's veteran community and Camp Lejeune claims</h2>
-<p>Ohio had approximately 681,106 veterans as of September 30, 2023 (U.S. Department of Veterans Affairs FY2023 data, via Spectrum News), with Wright-Patterson Air Force Base among its largest installations. Veterans, family members, and civilian workers from Ohio who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>
+<p>Ohio had approximately 681,106 veterans as of September 30, 2023 (U.S. Department of Veterans Affairs FY2023 data, via Spectrum News). Veterans, family members, and civilian workers from Ohio who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://spectrumlocalnews.com/product-pages/nyc/news/2025/11/11/veterans-of-ohio-by-numbers" target="_blank" rel="noopener noreferrer">Spectrum News &mdash; Veterans of Ohio by the numbers (U.S. Dept. of Veterans Affairs FY2023 data)</a>.</p>
 </section>
 

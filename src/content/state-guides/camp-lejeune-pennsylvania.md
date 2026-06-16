@@ -15,8 +15,8 @@ lastUpdated: "2026-06-15"
 lastReviewed: "2026-06-15"
 faqs:
   -
-    question: "How many veterans live in Pennsylvania, and where are their Camp Lejeune claims decided?"
-    answer: "Pennsylvania is home to approximately 619,472 veterans (2023 American Community Survey). Any Pennsylvania veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Pennsylvania state court hears these claims, and no Pennsylvania statute of limitations applies."
+    question: "How large is Pennsylvania's veteran community?"
+    answer: "Pennsylvania is home to approximately 619,472 veterans in the 2023 American Community Survey. That veteran community is why Pennsylvania-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
   -
     question: "Can a Pennsylvania resident still file a Camp Lejeune claim?"
     answer: "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."
@@ -51,7 +51,7 @@ faqs:
 
 <section id="state-camp-lejeune-context">
 <h2>Pennsylvania's veteran community and Camp Lejeune claims</h2>
-<p>Pennsylvania is home to approximately 619,472 veterans (2023 Census American Community Survey, via RAND), with a military presence that includes Carlisle Barracks, home of the U.S. Army War College. Service members, family members, and civilian workers from Pennsylvania who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>
+<p>Pennsylvania is home to approximately 619,472 veterans (2023 Census American Community Survey, via RAND). Service members, family members, and civilian workers from Pennsylvania who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.rand.org/pubs/infographics/IGA1363-2-v2.html" target="_blank" rel="noopener noreferrer">RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)</a>.</p>
 </section>
 

@@ -15,13 +15,13 @@ lastUpdated: "2026-06-15"
 lastReviewed: "2026-06-15"
 faqs:
   -
-    question: "How many veterans live in Illinois, and where are their Camp Lejeune claims decided?"
-    answer: "Illinois is home to approximately 493,667 veterans (2019&ndash;2023 American Community Survey). Any Illinois veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Illinois state court hears these claims, and no Illinois statute of limitations applies."
+    question: "How large is Illinois's veteran community?"
+    answer: "Illinois is home to approximately 493,667 veterans, based on 2019&ndash;2023 American Community Survey data analyzed by the Housing Assistance Council. That large veteran community is why Illinois-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
   -
-    question: "Can a Illinois resident still file a Camp Lejeune claim?"
+    question: "Can an Illinois resident still file a Camp Lejeune claim?"
     answer: "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."
   -
-    question: "What happens to a Illinois resident's pending claim?"
+    question: "What happens to an Illinois resident's pending claim?"
     answer: "It stays active. Filed administrative claims continue through Navy review and the Elective Option program, and filed lawsuits continue in the Eastern District of North Carolina. Where the claimant lives does not affect the queue."
   -
     question: "How much are Camp Lejeune settlements paying?"
@@ -51,7 +51,7 @@ faqs:
 
 <section id="state-camp-lejeune-context">
 <h2>Illinois's veteran community and Camp Lejeune claims</h2>
-<p>Illinois is home to approximately 493,667 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data), and its military heritage runs through installations such as Naval Station Great Lakes, the Navy's largest training center. Service members, family members, and civilian workers from Illinois who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>
+<p>Illinois is home to approximately 493,667 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data). Service members, family members, and civilian workers from Illinois who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://veteransdata.info/states/2170000/ILLINOIS.pdf" target="_blank" rel="noopener noreferrer">Veterans Data Central (Housing Assistance Council) &mdash; Illinois veterans, 2019&ndash;2023 ACS</a>.</p>
 </section>
 

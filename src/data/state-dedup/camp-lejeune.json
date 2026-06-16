@@ -11,120 +11,180 @@
       "stateName": "Illinois",
       "article": "an",
       "h2": "Illinois's veteran community and Camp Lejeune claims",
-      "body": "<p>Illinois is home to approximately 493,667 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data), and its military heritage runs through installations such as Naval Station Great Lakes, the Navy's largest training center. Service members, family members, and civilian workers from Illinois who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Illinois is home to approximately 493,667 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data). Service members, family members, and civilian workers from Illinois who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "Veterans Data Central (Housing Assistance Council) &mdash; Illinois veterans, 2019&ndash;2023 ACS", "url": "https://veteransdata.info/states/2170000/ILLINOIS.pdf" }
+        {
+          "label": "Veterans Data Central (Housing Assistance Council) &mdash; Illinois veterans, 2019&ndash;2023 ACS",
+          "url": "https://veteransdata.info/states/2170000/ILLINOIS.pdf"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Illinois, and where are their Camp Lejeune claims decided?", "answer": "Illinois is home to approximately 493,667 veterans (2019&ndash;2023 American Community Survey). Any Illinois veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Illinois state court hears these claims, and no Illinois statute of limitations applies." }
+        {
+          "question": "How large is Illinois's veteran community?",
+          "answer": "Illinois is home to approximately 493,667 veterans, based on 2019&ndash;2023 American Community Survey data analyzed by the Housing Assistance Council. That large veteran community is why Illinois-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "missouri": {
       "stateName": "Missouri",
       "article": "a",
       "h2": "Missouri's veteran community and Camp Lejeune claims",
-      "body": "<p>Missouri is home to approximately 354,505 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data), with a military presence anchored by Fort Leonard Wood and Whiteman Air Force Base. Veterans, family members, and civilian workers from Missouri who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Missouri is home to approximately 354,505 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data). Veterans, family members, and civilian workers from Missouri who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "Veterans Data Central (Housing Assistance Council) &mdash; Missouri veterans, 2019&ndash;2023 ACS", "url": "https://veteransdata.info/states/2290000/MISSOURI.pdf" }
+        {
+          "label": "Veterans Data Central (Housing Assistance Council) &mdash; Missouri veterans, 2019&ndash;2023 ACS",
+          "url": "https://veteransdata.info/states/2290000/MISSOURI.pdf"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Missouri, and where are their Camp Lejeune claims decided?", "answer": "Missouri is home to approximately 354,505 veterans (2019&ndash;2023 American Community Survey). Any Missouri veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Missouri state court hears these claims, and no Missouri statute of limitations applies." }
+        {
+          "question": "How large is Missouri's veteran community?",
+          "answer": "Missouri is home to approximately 354,505 veterans, based on 2019&ndash;2023 American Community Survey data analyzed by the Housing Assistance Council. That veteran community is why Missouri-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "texas": {
       "stateName": "Texas",
       "article": "a",
       "h2": "Texas's veteran community and Camp Lejeune claims",
-      "body": "<p>Texas has the largest veteran population of any U.S. state &mdash; approximately 1,401,252 veterans (2023 Census American Community Survey, via RAND) &mdash; anchored by installations such as Fort Cavazos (formerly Fort Hood) and Joint Base San Antonio. Service members, family members, and civilian workers from Texas who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Texas has the largest veteran population of any U.S. state &mdash; approximately 1,401,252 veterans (2023 Census American Community Survey, via RAND). Service members, family members, and civilian workers from Texas who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)", "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html" }
+        {
+          "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)",
+          "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Texas, and where are their Camp Lejeune claims decided?", "answer": "Texas has the largest veteran population of any U.S. state &mdash; approximately 1,401,252 veterans (2023 American Community Survey). Any Texas veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Texas state court hears these claims, and no Texas statute of limitations applies." }
+        {
+          "question": "How large is Texas's veteran community?",
+          "answer": "Texas has the largest veteran population of any U.S. state, approximately 1,401,252 veterans in the 2023 American Community Survey. That large veteran community is why Texas-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "florida": {
       "stateName": "Florida",
       "article": "a",
       "h2": "Florida's veteran community and Camp Lejeune claims",
-      "body": "<p>Florida has the second-largest veteran population in the nation &mdash; approximately 1,335,546 veterans (2023 Census American Community Survey, via RAND) &mdash; with major installations including MacDill Air Force Base and Naval Air Station Pensacola. Service members, family members, and civilian workers from Florida who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Florida has the second-largest veteran population in the nation &mdash; approximately 1,335,546 veterans (2023 Census American Community Survey, via RAND). Service members, family members, and civilian workers from Florida who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)", "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html" }
+        {
+          "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)",
+          "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Florida, and where are their Camp Lejeune claims decided?", "answer": "Florida has the second-largest veteran population in the nation &mdash; approximately 1,335,546 veterans (2023 American Community Survey). Any Florida veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Florida state court hears these claims, and no Florida statute of limitations applies." }
+        {
+          "question": "How large is Florida's veteran community?",
+          "answer": "Florida has the second-largest veteran population in the nation, approximately 1,335,546 veterans in the 2023 American Community Survey. That large veteran community is why Florida-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "california": {
       "stateName": "California",
       "article": "a",
       "h2": "California's veteran community and Camp Lejeune claims",
-      "body": "<p>California has the third-largest veteran population in the nation &mdash; approximately 1,243,018 veterans (2023 Census American Community Survey, via RAND) &mdash; and is home to Marine Corps Base Camp Pendleton, the Corps' largest West Coast installation. Service members, family members, and civilian workers from California who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>California has the third-largest veteran population in the nation &mdash; approximately 1,243,018 veterans (2023 Census American Community Survey, via RAND). Service members, family members, and civilian workers from California who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)", "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html" }
+        {
+          "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)",
+          "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in California, and where are their Camp Lejeune claims decided?", "answer": "California has the third-largest veteran population in the nation &mdash; approximately 1,243,018 veterans (2023 American Community Survey). Any California veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No California state court hears these claims, and no California statute of limitations applies." }
+        {
+          "question": "How large is California's veteran community?",
+          "answer": "California has the third-largest veteran population in the nation, approximately 1,243,018 veterans in the 2023 American Community Survey. That large veteran community is why California-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "north-carolina": {
       "stateName": "North Carolina",
       "article": "a",
       "h2": "North Carolina's veteran community and Camp Lejeune claims",
-      "body": "<p>North Carolina is home to just over 615,440 veterans (2023 Census American Community Survey, via UNC's Carolina Demography) &mdash; a higher share of its adult population than the national average &mdash; and to Marine Corps Base Camp Lejeune itself, in Jacksonville, along with Fort Liberty and Marine Corps Air Station Cherry Point. North Carolina residents who lived or worked at Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation, and their claims are heard close to home, in the U.S. District Court for the Eastern District of North Carolina &mdash; the federal court the Act gives exclusive jurisdiction.</p>",
+      "body": "<p>North Carolina is home to just over 615,440 veterans (2023 Census American Community Survey, via UNC's Carolina Demography), a higher share of its adult population than the national average. North Carolina residents who lived or worked at Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "UNC Carolina Demography &mdash; North Carolina 2023 Veterans Snapshot", "url": "https://carolinademography.cpc.unc.edu/2024/11/11/north-carolina-in-focus-2020-veterans-snapshot/" }
+        {
+          "label": "UNC Carolina Demography &mdash; North Carolina 2023 Veterans Snapshot",
+          "url": "https://carolinademography.cpc.unc.edu/2024/11/11/north-carolina-in-focus-2020-veterans-snapshot/"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in North Carolina, and where are their Camp Lejeune claims decided?", "answer": "North Carolina is home to just over 615,440 veterans (2023 American Community Survey) and to Camp Lejeune itself. Any North Carolina veteran, family member, or civilian worker who spent at least 30 cumulative days at the base between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No state statute of limitations applies." }
+        {
+          "question": "How large is North Carolina's veteran community?",
+          "answer": "North Carolina is home to just over 615,440 veterans, according to 2023 American Community Survey analysis from UNC's Carolina Demography. That veteran community is why North Carolina-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "georgia": {
       "stateName": "Georgia",
       "article": "a",
       "h2": "Georgia's veteran community and Camp Lejeune claims",
-      "body": "<p>Georgia is home to approximately 608,876 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data), with a military presence anchored by Fort Moore (formerly Fort Benning), Fort Stewart, and Moody Air Force Base. Service members, family members, and civilian workers from Georgia who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Georgia is home to approximately 608,876 veterans (Housing Assistance Council analysis of 2019&ndash;2023 Census American Community Survey data). Service members, family members, and civilian workers from Georgia who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "Veterans Data Central (Housing Assistance Council) &mdash; Georgia veterans, 2019&ndash;2023 ACS", "url": "https://veteransdata.info/states/2130000/GEORGIA.pdf" }
+        {
+          "label": "Veterans Data Central (Housing Assistance Council) &mdash; Georgia veterans, 2019&ndash;2023 ACS",
+          "url": "https://veteransdata.info/states/2130000/GEORGIA.pdf"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Georgia, and where are their Camp Lejeune claims decided?", "answer": "Georgia is home to approximately 608,876 veterans (2019&ndash;2023 American Community Survey). Any Georgia veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Georgia state court hears these claims, and no Georgia statute of limitations applies." }
+        {
+          "question": "How large is Georgia's veteran community?",
+          "answer": "Georgia is home to approximately 608,876 veterans, based on 2019&ndash;2023 American Community Survey data analyzed by the Housing Assistance Council. That veteran community is why Georgia-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "ohio": {
       "stateName": "Ohio",
       "article": "an",
       "h2": "Ohio's veteran community and Camp Lejeune claims",
-      "body": "<p>Ohio had approximately 681,106 veterans as of September 30, 2023 (U.S. Department of Veterans Affairs FY2023 data, via Spectrum News), with Wright-Patterson Air Force Base among its largest installations. Veterans, family members, and civilian workers from Ohio who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Ohio had approximately 681,106 veterans as of September 30, 2023 (U.S. Department of Veterans Affairs FY2023 data, via Spectrum News). Veterans, family members, and civilian workers from Ohio who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "Spectrum News &mdash; Veterans of Ohio by the numbers (U.S. Dept. of Veterans Affairs FY2023 data)", "url": "https://spectrumlocalnews.com/product-pages/nyc/news/2025/11/11/veterans-of-ohio-by-numbers" }
+        {
+          "label": "Spectrum News &mdash; Veterans of Ohio by the numbers (U.S. Dept. of Veterans Affairs FY2023 data)",
+          "url": "https://spectrumlocalnews.com/product-pages/nyc/news/2025/11/11/veterans-of-ohio-by-numbers"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Ohio, and where are their Camp Lejeune claims decided?", "answer": "Ohio had approximately 681,106 veterans as of September 30, 2023 (U.S. Department of Veterans Affairs FY2023 data). Any Ohio veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Ohio state court hears these claims, and no Ohio statute of limitations applies." }
+        {
+          "question": "How large is Ohio's veteran community?",
+          "answer": "Ohio had approximately 681,106 veterans as of September 30, 2023, according to U.S. Department of Veterans Affairs FY2023 data reported by Spectrum News. That veteran community is why Ohio-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "pennsylvania": {
       "stateName": "Pennsylvania",
       "article": "a",
       "h2": "Pennsylvania's veteran community and Camp Lejeune claims",
-      "body": "<p>Pennsylvania is home to approximately 619,472 veterans (2023 Census American Community Survey, via RAND), with a military presence that includes Carlisle Barracks, home of the U.S. Army War College. Service members, family members, and civilian workers from Pennsylvania who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Pennsylvania is home to approximately 619,472 veterans (2023 Census American Community Survey, via RAND). Service members, family members, and civilian workers from Pennsylvania who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)", "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html" }
+        {
+          "label": "RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)",
+          "url": "https://www.rand.org/pubs/infographics/IGA1363-2-v2.html"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Pennsylvania, and where are their Camp Lejeune claims decided?", "answer": "Pennsylvania is home to approximately 619,472 veterans (2023 American Community Survey). Any Pennsylvania veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Pennsylvania state court hears these claims, and no Pennsylvania statute of limitations applies." }
+        {
+          "question": "How large is Pennsylvania's veteran community?",
+          "answer": "Pennsylvania is home to approximately 619,472 veterans in the 2023 American Community Survey. That veteran community is why Pennsylvania-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     },
     "michigan": {
       "stateName": "Michigan",
       "article": "a",
       "h2": "Michigan's veteran community and Camp Lejeune claims",
-      "body": "<p>Michigan is home to more than 441,000 veterans &mdash; about 5.6% of the state's population (2023 Census American Community Survey, via the Michigan Center for Data and Analytics) &mdash; with Selfridge Air National Guard Base among its primary installations. Veterans, family members, and civilian workers from Michigan who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act allows to seek compensation; those who filed in time are now pursuing those claims in federal court in North Carolina.</p>",
+      "body": "<p>Michigan is home to more than 441,000 veterans &mdash; about 5.6% of the state's population (2023 Census American Community Survey, via the Michigan Center for Data and Analytics). Veterans, family members, and civilian workers from Michigan who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>",
       "sources": [
-        { "label": "Michigan Center for Data & Analytics &mdash; Veterans Report (2023 ACS)", "url": "https://www.michigan.gov/mcda/labor-market-information/michigans-labor-market-news/2024/11/08/veterans-report-2023" }
+        {
+          "label": "Michigan Center for Data & Analytics &mdash; Veterans Report (2023 ACS)",
+          "url": "https://www.michigan.gov/mcda/labor-market-information/michigans-labor-market-news/2024/11/08/veterans-report-2023"
+        }
       ],
       "faqs": [
-        { "question": "How many veterans live in Michigan, and where are their Camp Lejeune claims decided?", "answer": "Michigan is home to more than 441,000 veterans &mdash; about 5.6% of the state's population (2023 American Community Survey). Any Michigan veteran, family member, or civilian worker who spent at least 30 cumulative days at Camp Lejeune between 1953 and 1987 and filed a claim before the August 10, 2024 deadline has that claim decided in the U.S. District Court for the Eastern District of North Carolina, which holds exclusive jurisdiction under the Camp Lejeune Justice Act. No Michigan state court hears these claims, and no Michigan statute of limitations applies." }
+        {
+          "question": "How large is Michigan's veteran community?",
+          "answer": "Michigan is home to more than 441,000 veterans, about 5.6% of the state's population, based on 2023 American Community Survey reporting from the Michigan Center for Data and Analytics. That veteran community is why Michigan-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+        }
       ]
     }
   }
