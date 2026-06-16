@@ -36,7 +36,7 @@ timeline:
   -
     label: "Claim filed by August 10, 2024"
     detail: "The CLJA required an administrative claim with the Navy by the statutory deadline. Claims filed in time continue through review, settlement programs, or litigation in the Eastern District of North Carolina."
-lastUpdated: "2026-06-11"
+lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -73,8 +73,8 @@ faqs:
 
 <section id="overview">
 <h2>What the Camp Lejeune claims are about</h2>
-<p>From the 1950s through the 1980s, drinking water at Marine Corps Base Camp Lejeune in North Carolina was contaminated with industrial solvents including TCE, PCE, benzene, and vinyl chloride. Federal health agencies later linked that exposure to cancers and other serious illnesses.</p>
-<p>The <strong>Camp Lejeune Justice Act of 2022</strong> created a federal cause of action allowing anyone exposed for at least 30 days between August 1, 1953 and December 31, 1987 — veterans, family members, and civilian workers — to seek compensation from the United States. Claims are processed through a Navy administrative system and, if not resolved, litigated exclusively in the Eastern District of North Carolina.</p>
+<p>As of June 2026, new Camp Lejeune Justice Act claims are generally barred because the filing window closed on August 10, 2024, but timely filed claims remain active. Public figures show roughly 407,000 Navy administrative claims, 3,744 lawsuits in the Eastern District of North Carolina, and more than $665 million paid through May 15, 2026.</p>
+<p>The claims involve drinking-water contamination at Marine Corps Base Camp Lejeune between 1953 and 1987. Pending claim review usually turns on proof of at least 30 days at the base, medical diagnosis records, Navy claim status, Elective Option documents, and estate or offset issues where applicable. The process is federal and is not reopened by living in a different state now.</p>
 </section>
 
 <section id="latest-update">

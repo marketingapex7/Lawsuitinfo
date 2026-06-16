@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-injury timeline with MDL-3094's litigation posture, state filing deadlines, and the evidence available."
-lastUpdated: "2026-06-11"
+lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -77,8 +77,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>Lawsuits allege that GLP-1 receptor agonist medications — including Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, and Trulicity — can cause gastroparesis (stomach paralysis), ileus, bowel obstruction, and related severe gastrointestinal injuries, and that Novo Nordisk and Eli Lilly did not adequately warn patients and prescribers about those risks.</p>
-<p>Defendants dispute the allegations, including causation and the adequacy of their warnings. The medications remain FDA-approved. No page on this site can determine whether a person qualifies for a claim.</p>
+<p>As of June 2026, GLP-1 litigation is active in MDL No. 3094, with 3,763 gastrointestinal-injury cases pending and a separate NAION proceeding tracking vision-loss claims. The current MDL schedule centers on expert and summary-judgment briefing through August 7, 2026, with Rule 702 hearings set for September 10-18, 2026; bellwether trial dates have not yet been set.</p>
+<p>Ozempic and related GLP-1 lawsuits allege that medications including Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, and Trulicity can cause gastroparesis, ileus, bowel obstruction, and related severe gastrointestinal injuries, and that warnings were inadequate. Defendants dispute causation and warning allegations, and the medications remain FDA-approved.</p>
 </section>
 
 <section id="latest-update">

@@ -33,6 +33,9 @@ const deadlineQuickFact = caseData?.deadlineOverride
   : limitation
     ? `General ${guide.data.state} personal injury period: ${limitation.piYears} years (${limitation.citation}). Exceptions apply.`
     : "Deadlines depend on individual facts and state law.";
+const renderedDeadlineQuickFact = caseData?.deadlineOverride
+  ? "Special federal deadline rules apply - see the deadline section."
+  : deadlineQuickFact;
 const allGuides = await getCollection("state-guides");
 const sameState = allGuides
   .filter((item) => item.data.stateSlug === guide.data.stateSlug && item.data.lawsuitSlug !== guide.data.lawsuitSlug)
@@ -45,6 +48,126 @@ const breadcrumbs = [
 ];
 const seoTitle = stateGuideSeoTitle(guide.data.lawsuit, guide.data.state);
 const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.state, guide.data.primaryInjury);
+
+const recordsByCase: Record<string, string[]> = {
+  "afff-pfas": [
+    "Fire department, airport, military, industrial, or training records showing AFFF or PFAS exposure.",
+    "Incident reports, foam-use logs, safety data sheets, water testing records, address history, or base/worksite records.",
+    "Diagnosis records, pathology reports, oncology or specialist notes, treatment records, and death certificates where applicable.",
+    "Witness names, co-worker statements, photos, calendars, or documents tying the exposure to a specific site and time period."
+  ],
+  "camp-lejeune": [
+    "Navy administrative claim filing confirmation or law-firm claim confirmation from before the August 10, 2024 deadline.",
+    "Military service, base housing, civilian employment, school, or dependent records showing time at Camp Lejeune.",
+    "Medical records for the claimed diagnosis, treatment history, pathology reports, and death or estate records where applicable.",
+    "Elective Option notices, Navy document requests, settlement communications, and any pending court-case information."
+  ],
+  "depo-provera": [
+    "Prescription, pharmacy, OB/GYN, clinic, insurance, or injection records showing Depo-Provera use and dates.",
+    "Brain imaging reports, neurology notes, neurosurgery records, pathology reports, radiation records, and monitoring history.",
+    "Records showing symptoms, diagnosis date, tumor type, surgery, radiation, disability, or ongoing neurological effects.",
+    "Provider names, appointment histories, patient portal downloads, and documents that help reconstruct injection timing."
+  ],
+  "ozempic": [
+    "Prescription, pharmacy, insurance, or provider records showing Ozempic or another GLP-1 medication and dates of use.",
+    "Emergency room, hospital, gastroenterology, imaging, gastric-emptying, surgery, or follow-up records for the alleged injury.",
+    "Records showing diagnosis timing for gastroparesis, bowel obstruction, ileus, aspiration, or related complications.",
+    "Medication history, dose changes, side-effect reports, provider messages, and documents that help connect use and symptoms."
+  ],
+  "paraquat": [
+    "Farm, applicator, co-op, employer, crop, purchase, spray-log, or pesticide-license records showing paraquat exposure.",
+    "Records showing mixing, loading, spraying, equipment cleaning, drift exposure, or work near treated fields.",
+    "Neurology records, movement-disorder specialist notes, medication history, and Parkinson's diagnosis records.",
+    "Co-worker names, witness statements, photos, calendars, safety training, and documents tying exposure to a product and season."
+  ],
+  "roundup": [
+    "Purchase receipts, product photos, farm, landscaping, groundskeeping, municipal, school, golf-course, or property-maintenance records.",
+    "Records showing repeated glyphosate or Roundup use, mixing, spraying, application frequency, and exposure years.",
+    "Oncology records, pathology reports, biopsy records, treatment history, and non-Hodgkin lymphoma subtype records.",
+    "Prior claim forms, settlement paperwork, releases, opt-out documents, or law-firm communications if any exist."
+  ],
+  "suboxone": [
+    "Prescription, pharmacy, treatment-program, provider, insurance, or patient portal records showing Suboxone use.",
+    "Dental charts, X-rays, periodontal records, extraction notes, treatment plans, invoices, and before-and-after records.",
+    "Records showing when dental pain, decay, tooth loss, extractions, dentures, crowns, bridges, or implants began.",
+    "Provider warnings, medication changes, dental cost records, and documents that help compare dental condition before and after use."
+  ]
+};
+
+const lawyerQuestionsByCase: Record<string, string[]> = {
+  "camp-lejeune": [
+    "Was an administrative claim filed for me before the August 10, 2024 CLJA deadline?",
+    "Is my claim in Navy review, the Elective Option process, litigation, or another posture?",
+    "What documents are still missing from my claim file?",
+    "How would accepting or declining an Elective Option offer affect my options?",
+    "Do estate, wrongful-death, VA-benefit, Medicare, or Medicaid offset issues need review?",
+    "What timeline should I realistically expect from here?"
+  ],
+  "afff-pfas": [
+    "Are you reviewing personal injury AFFF/PFAS claims, water-system claims, or both?",
+    "What exposure records do you need for my firefighting, military, airport, industrial, or water-contamination history?",
+    "Is my diagnosis one currently being evaluated in the personal injury litigation?",
+    "How do state filing deadlines affect my diagnosis and exposure timeline?",
+    "Would my claim be handled locally, nationally, or through the MDL?",
+    "Are there upfront costs?"
+  ],
+  "paraquat": [
+    "What proof do you need to connect my farm, applicator, or bystander exposure specifically to paraquat?",
+    "How do Parkinson's diagnosis date, symptom history, and neurology records affect review?",
+    "Does the confidential settlement program affect whether my claim can be evaluated?",
+    "How do state filing deadlines affect my exposure and diagnosis timeline?",
+    "Would my claim be handled locally, nationally, or through the MDL?",
+    "Are there upfront costs?"
+  ],
+  "depo-provera": [
+    "What injection records do you need to evaluate my Depo-Provera use history?",
+    "How do meningioma diagnosis date, imaging, surgery, radiation, or monitoring records affect review?",
+    "Could the pending expert-hearing and preemption rulings affect my claim?",
+    "How do state filing deadlines apply to my diagnosis and discovery timeline?",
+    "Would my claim be handled locally, nationally, or through the MDL?",
+    "Are there upfront costs?"
+  ],
+  "ozempic": [
+    "Which GLP-1 medication and injury records do you need for an initial review?",
+    "Do I need a gastric-emptying study, hospitalization record, imaging report, or specialist diagnosis?",
+    "How do the Rule 702 schedule and lack of bellwether trial dates affect current claim review?",
+    "How do state filing deadlines apply to my medication and symptom timeline?",
+    "Would my claim be handled locally, nationally, or through the MDL?",
+    "Are there upfront costs?"
+  ],
+  "roundup": [
+    "What proof do you need of Roundup or glyphosate exposure and years of use?",
+    "How do lymphoma subtype, diagnosis date, and oncology records affect review?",
+    "Could prior settlement paperwork, releases, or opt-out documents affect my options?",
+    "How do state filing deadlines apply to my diagnosis and discovery timeline?",
+    "Would my claim be handled locally, nationally, or through the MDL?",
+    "Are there upfront costs?"
+  ],
+  "suboxone": [
+    "What prescription or treatment-program records do you need to confirm Suboxone use?",
+    "Do my dental records show a before-and-after change after oral Suboxone use?",
+    "What dental bills, extraction records, X-rays, or treatment plans should I gather?",
+    "How do state filing deadlines apply to gradual dental injury and discovery timing?",
+    "Would my claim be handled locally, nationally, or through the MDL?",
+    "Are there upfront costs?"
+  ]
+};
+
+const recordChecklist = recordsByCase[guide.data.lawsuitSlug] ?? [
+  "Medical records related to diagnosis, treatment, and symptoms.",
+  "Records showing use of, prescription for, or exposure to the product or substance involved.",
+  "Pharmacy, clinic, employment, military, agricultural, or exposure records where relevant.",
+  "Photos, receipts, dental invoices, pathology reports, or specialist records if applicable."
+];
+
+const lawyerQuestions = lawyerQuestionsByCase[guide.data.lawsuitSlug] ?? [
+  `Are you currently reviewing ${guide.data.lawsuit} claims?`,
+  "What records do you need to evaluate my claim?",
+  `How do ${guide.data.state} filing deadlines affect my situation?`,
+  "Would my claim be handled locally, nationally, or through an MDL?",
+  "Do you work directly on this case or refer it to another firm?",
+  "Are there upfront costs?"
+];
 ---
 
 <GuideLayout
@@ -78,7 +201,7 @@ const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.
         { label: "Category", value: guide.data.category },
         { label: "Current status", value: guide.data.status },
         { label: "Federal court context", value: state?.courts.join(", ") ?? "Federal district court context varies." },
-        { label: "Deadline note", value: deadlineQuickFact }
+        { label: "Deadline note", value: renderedDeadlineQuickFact }
       ]}
     />
   </header>
@@ -90,10 +213,7 @@ const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.
       <section id="records">
         <h2>What records support {shortLawsuitName(guide.data.lawsuit)} claims in {guide.data.state}?</h2>
         <ul>
-          <li>Medical records related to diagnosis, treatment, and symptoms.</li>
-          <li>Records showing use of, prescription for, or exposure to the product or substance involved.</li>
-          <li>Pharmacy, clinic, employment, military, agricultural, or exposure records where relevant.</li>
-          <li>Photos, receipts, dental invoices, pathology reports, or specialist records if applicable.</li>
+          {recordChecklist.map((item) => <li>{item}</li>)}
         </ul>
       </section>
 
@@ -124,12 +244,7 @@ const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.
       <section id="questions">
         <h2>What should {guide.data.state} residents ask a lawyer?</h2>
         <ul>
-          <li>Are you currently reviewing {guide.data.lawsuit} claims?</li>
-          <li>What records do you need to evaluate my claim?</li>
-          <li>How do {guide.data.state} filing deadlines affect my situation?</li>
-          <li>Would my claim be handled locally, nationally, or through an MDL?</li>
-          <li>Do you work directly on this case or refer it to another firm?</li>
-          <li>Are there upfront costs?</li>
+          {lawyerQuestions.map((item) => <li>{item}</li>)}
         </ul>
       </section>
     </div>
