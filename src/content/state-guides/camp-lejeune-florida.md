@@ -11,9 +11,12 @@ categorySlug: "toxic-exposure"
 status: "Active — Filing Deadline Passed"
 primaryInjury: "Cancers and other illnesses linked to contaminated water"
 exposureContext: "Florida is home to veterans, military family members, and former civilian workers who served or lived at Marine Corps Base Camp Lejeune between 1953 and 1987. Exposure occurred at the base in North Carolina — where a claimant lives today, including Florida, does not change eligibility or where the claim is decided."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-15"
+lastReviewed: "2026-06-15"
 faqs:
+  -
+    question: "How large is Florida's veteran community?"
+    answer: "Florida has the second-largest veteran population in the nation, approximately 1,335,546 veterans in the 2023 American Community Survey. That large veteran community is why Florida-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
   -
     question: "Can a Florida resident still file a Camp Lejeune claim?"
     answer: "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."
@@ -44,6 +47,12 @@ faqs:
 <h2>What Florida residents should know</h2>
 <p>Camp Lejeune claims are federal statutory claims under the Camp Lejeune Justice Act, decided exclusively in the <strong>U.S. District Court for the Eastern District of North Carolina</strong> — regardless of whether the claimant lives in Florida or anywhere else.</p>
 <p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Florida residents whose claims were filed in time: roughly 407,000 administrative claims and 3,744 lawsuits remain in process. Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid.</p>
+</section>
+
+<section id="state-camp-lejeune-context">
+<h2>Florida's veteran community and Camp Lejeune claims</h2>
+<p>Florida has the second-largest veteran population in the nation &mdash; approximately 1,335,546 veterans (2023 Census American Community Survey, via RAND). Service members, family members, and civilian workers from Florida who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.rand.org/pubs/infographics/IGA1363-2-v2.html" target="_blank" rel="noopener noreferrer">RAND &mdash; Trends in U.S. Veteran Demographics (2023 ACS)</a>.</p>
 </section>
 
 <section id="eligibility">

@@ -11,14 +11,17 @@ categorySlug: "toxic-exposure"
 status: "Active — Filing Deadline Passed"
 primaryInjury: "Cancers and other illnesses linked to contaminated water"
 exposureContext: "Ohio is home to veterans, military family members, and former civilian workers who served or lived at Marine Corps Base Camp Lejeune between 1953 and 1987. Exposure occurred at the base in North Carolina — where a claimant lives today, including Ohio, does not change eligibility or where the claim is decided."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-15"
+lastReviewed: "2026-06-15"
 faqs:
   -
-    question: "Can a Ohio resident still file a Camp Lejeune claim?"
+    question: "How large is Ohio's veteran community?"
+    answer: "Ohio had approximately 681,106 veterans as of September 30, 2023, according to U.S. Department of Veterans Affairs FY2023 data reported by Spectrum News. That veteran community is why Ohio-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
+  -
+    question: "Can an Ohio resident still file a Camp Lejeune claim?"
     answer: "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."
   -
-    question: "What happens to a Ohio resident's pending claim?"
+    question: "What happens to an Ohio resident's pending claim?"
     answer: "It stays active. Filed administrative claims continue through Navy review and the Elective Option program, and filed lawsuits continue in the Eastern District of North Carolina. Where the claimant lives does not affect the queue."
   -
     question: "How much are Camp Lejeune settlements paying?"
@@ -44,6 +47,12 @@ faqs:
 <h2>What Ohio residents should know</h2>
 <p>Camp Lejeune claims are federal statutory claims under the Camp Lejeune Justice Act, decided exclusively in the <strong>U.S. District Court for the Eastern District of North Carolina</strong> — regardless of whether the claimant lives in Ohio or anywhere else.</p>
 <p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Ohio residents whose claims were filed in time: roughly 407,000 administrative claims and 3,744 lawsuits remain in process. Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid.</p>
+</section>
+
+<section id="state-camp-lejeune-context">
+<h2>Ohio's veteran community and Camp Lejeune claims</h2>
+<p>Ohio had approximately 681,106 veterans as of September 30, 2023 (U.S. Department of Veterans Affairs FY2023 data, via Spectrum News). Veterans, family members, and civilian workers from Ohio who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://spectrumlocalnews.com/product-pages/nyc/news/2025/11/11/veterans-of-ohio-by-numbers" target="_blank" rel="noopener noreferrer">Spectrum News &mdash; Veterans of Ohio by the numbers (U.S. Dept. of Veterans Affairs FY2023 data)</a>.</p>
 </section>
 
 <section id="eligibility">

@@ -11,9 +11,12 @@ categorySlug: "toxic-exposure"
 status: "Active — Filing Deadline Passed"
 primaryInjury: "Cancers and other illnesses linked to contaminated water"
 exposureContext: "Michigan is home to veterans, military family members, and former civilian workers who served or lived at Marine Corps Base Camp Lejeune between 1953 and 1987. Exposure occurred at the base in North Carolina — where a claimant lives today, including Michigan, does not change eligibility or where the claim is decided."
-lastUpdated: "2026-06-11"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-15"
+lastReviewed: "2026-06-15"
 faqs:
+  -
+    question: "How large is Michigan's veteran community?"
+    answer: "Michigan is home to more than 441,000 veterans, about 5.6% of the state's population, based on 2023 American Community Survey reporting from the Michigan Center for Data and Analytics. That veteran community is why Michigan-specific Camp Lejeune research pages can be useful for residents with already-filed claims."
   -
     question: "Can a Michigan resident still file a Camp Lejeune claim?"
     answer: "Generally no. The CLJA two-year window closed on August 10, 2024, and new claims are generally barred no matter what state the claimant lives in. Anyone with unusual circumstances should ask a lawyer directly rather than assume a filing right exists."
@@ -44,6 +47,12 @@ faqs:
 <h2>What Michigan residents should know</h2>
 <p>Camp Lejeune claims are federal statutory claims under the Camp Lejeune Justice Act, decided exclusively in the <strong>U.S. District Court for the Eastern District of North Carolina</strong> — regardless of whether the claimant lives in Michigan or anywhere else.</p>
 <p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Michigan residents whose claims were filed in time: roughly 407,000 administrative claims and 3,744 lawsuits remain in process. Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid.</p>
+</section>
+
+<section id="state-camp-lejeune-context">
+<h2>Michigan's veteran community and Camp Lejeune claims</h2>
+<p>Michigan is home to more than 441,000 veterans &mdash; about 5.6% of the state's population (2023 Census American Community Survey, via the Michigan Center for Data and Analytics). Veterans, family members, and civilian workers from Michigan who lived or worked at Marine Corps Base Camp Lejeune for at least 30 cumulative days between 1953 and 1987 are part of the group the Camp Lejeune Justice Act was created to address; those who filed in time are now pursuing claims through the federal Camp Lejeune process.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.michigan.gov/mcda/labor-market-information/michigans-labor-market-news/2024/11/08/veterans-report-2023" target="_blank" rel="noopener noreferrer">Michigan Center for Data & Analytics &mdash; Veterans Report (2023 ACS)</a>.</p>
 </section>
 
 <section id="eligibility">
