@@ -16,7 +16,7 @@ lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Did Florida pass a law requiring GLP-1 coverage in 2026?"
-    answer: "No. Two 2026 bills &mdash; SB 1070 and HB 977 &mdash; that would have required Florida's State Group Insurance Program to cover obesity treatment, including GLP-1 drugs, both died in committee on March 13, 2026. Those bills addressed state-employee coverage and are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania."
+    answer: "No. Two 2026 bills - SB 1070 and HB 977 - that would have required Florida's State Group Insurance Program to cover obesity treatment, including GLP-1 drugs, both died in committee on March 13, 2026. Those bills addressed state-employee coverage and are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania."
   -
     question: "What is the Ozempic lawsuit in Florida about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. Florida residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."

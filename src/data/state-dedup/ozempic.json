@@ -56,7 +56,7 @@
         { "label": "Florida Legislature &mdash; HB 977 (2026), Benefits for Obesity under the State Group Health Insurance Plan", "url": "https://www.flsenate.gov/Session/Bill/2026/977" }
       ],
       "faqs": [
-        { "question": "Did Florida pass a law requiring GLP-1 coverage in 2026?", "answer": "No. Two 2026 bills &mdash; SB 1070 and HB 977 &mdash; that would have required Florida's State Group Insurance Program to cover obesity treatment, including GLP-1 drugs, both died in committee on March 13, 2026. Those bills addressed state-employee coverage and are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
+        { "question": "Did Florida pass a law requiring GLP-1 coverage in 2026?", "answer": "No. Two 2026 bills - SB 1070 and HB 977 - that would have required Florida's State Group Insurance Program to cover obesity treatment, including GLP-1 drugs, both died in committee on March 13, 2026. Those bills addressed state-employee coverage and are separate from the GLP-1 injury lawsuits, which are coordinated in federal MDL-3094 in the Eastern District of Pennsylvania." }
       ]
     },
     "california": {
@@ -115,10 +115,11 @@
       "stateName": "Pennsylvania",
       "article": "a",
       "h2": "Pennsylvania: the home of MDL-3094",
-      "body": "<p>Pennsylvania has a distinctive role in this litigation: MDL-3094, the national GLP-1 injury proceeding, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court without a separate transfer step. On the coverage side, Pennsylvania Medicaid is ending coverage of GLP-1 drugs for the treatment of overweight and obesity effective January 1, 2026. Pennsylvania Attorney General Dave Sunday has also warned consumers about counterfeit GLP-1 drugs and joined a February 2025 multistate letter to the FDA.</p>",
+      "body": "<p>Pennsylvania has a distinctive role in this litigation: MDL-3094, the national GLP-1 injury proceeding, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home state once filed in, or transferred to, MDL-3094. On the coverage side, Pennsylvania Medicaid is ending coverage of GLP-1 drugs for the treatment of overweight and obesity effective January 1, 2026. Pennsylvania Attorney General Dave Sunday has also warned consumers about counterfeit GLP-1 drugs and joined a February 2025 multistate letter to the FDA.</p>",
       "sources": [
         { "label": "Pennsylvania DHS &mdash; Medical Assistance bulletin on obesity treatment agents (Nov. 2025)", "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/providers/pharmacy-services/documents/clinical-guidelines-sw-pdl/2025-11-26-obesity-treatment-agents.pdf" },
-        { "label": "Philadelphia Inquirer &mdash; Pennsylvania warns on counterfeit GLP-1 drugs (June 2025)", "url": "https://www.inquirer.com/health/counterfeit-ozempic-wegovy-drugs-pennsylvania-20250602.html" }
+        { "label": "Philadelphia Inquirer &mdash; Pennsylvania warns on counterfeit GLP-1 drugs (June 2025)", "url": "https://www.inquirer.com/health/counterfeit-ozempic-wegovy-drugs-pennsylvania-20250602.html" },
+        { "label": "Multistate attorneys general letter to the FDA on GLP-1 drugs (Feb. 19, 2025)", "url": "https://illinoisattorneygeneral.gov/News-Room/Current-News/UPDATED%20FDA%20GLP-1%20Ltrhead%20%28e%29.pdf" }
       ],
       "faqs": [
         { "question": "Why is Pennsylvania important in the Ozempic / GLP-1 litigation?", "answer": "MDL-3094, the consolidated federal GLP-1 injury litigation, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court. As of June 1, 2026, MDL-3094 had 3,763 pending cases." }
