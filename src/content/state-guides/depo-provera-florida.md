@@ -16,7 +16,7 @@ lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Where are Florida Depo-Provera cases handled?"
-    answer: "Federal Depo-Provera meningioma cases nationwide are consolidated in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). Because Florida is the MDL's home district, Florida residents' federal cases proceed there without a transfer step."
+    answer: "Federal Depo-Provera meningioma cases nationwide are consolidated in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). Florida cases filed in that district are already in the MDL's home district; federal cases filed elsewhere can still be transferred into the MDL."
   -
     question: "What is the status of the Depo-Provera MDL?"
     answer: "As of mid-2026 the litigation is in pretrial proceedings: a general-causation (Rule 702) expert hearing is set for 2026 and the first Pilot bellwether trial is scheduled for December 2026. No settlement program exists, and no outcome is guaranteed."
@@ -48,7 +48,7 @@ faqs:
 
 <section id="state-depo-provera-context">
 <h2>Florida: the home of the Depo-Provera MDL</h2>
-<p>Florida is the home of this litigation. On February 7, 2025, the Judicial Panel on Multidistrict Litigation centralized the federal Depo-Provera meningioma cases in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). The MDL's key pretrial events &mdash; including the general-causation expert (Rule 702) hearing and the first Pilot bellwether trial, scheduled for December 2026 &mdash; take place there, so Florida residents' federal cases proceed in their home-state forum without a separate transfer step.</p>
+<p>Florida is the home of this litigation. On February 7, 2025, the Judicial Panel on Multidistrict Litigation centralized the federal Depo-Provera meningioma cases in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). The MDL's key pretrial events &mdash; including the general-causation expert (Rule 702) hearing and the first Pilot bellwether trial, scheduled for December 2026 &mdash; take place there. Florida residents' cases may already be in the MDL's home district if filed in the Northern District of Florida, but federal cases filed in other districts can still be transferred into MDL No. 3140.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/2025.02.07%20-%20325md3140%20-%20JPML%20Transfer%20Order.pdf" target="_blank" rel="noopener noreferrer">JPML Transfer Order establishing MDL No. 3140 (Feb. 7, 2025)</a>; <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>.</p>
 </section>
 
