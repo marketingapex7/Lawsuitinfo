@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in California about?"
-    answer: "This guide explains general information for California residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are California Depo-Provera cases handled?"
+    answer: "California residents have two tracks: state-court cases are coordinated in a Judicial Council Coordination Proceeding (JCCP) in Alameda County Superior Court, and federal cases are transferred into MDL No. 3140 in the Northern District of Florida. The two courts hold joint status conferences."
   -
-    question: "Can a California resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Does California have a coordinated Depo-Provera docket?"
+    answer: "Yes. California state-court Depo-Provera cases are consolidated in a Judicial Council Coordination Proceeding in Alameda County; as of a March 2026 federal status report, dozens of California state cases were pending. That coordination is separate from the federal MDL in Florida."
   -
     question: "Do California deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What California residents should know</h2>
 <p>California residents are not necessarily limited to filing only in California state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>California's coordinated state-court Depo-Provera cases</h2>
+<p>California is the only one of these states with a formal coordinated state-court proceeding for Depo-Provera. California state-court cases have been organized into a Judicial Council Coordination Proceeding (JCCP) in Alameda County Superior Court, which runs in parallel with the federal MDL and whose judge takes part in joint status conferences with the federal court. California residents who file in federal court instead are transferred into MDL No. 3140 in the Northern District of Florida; as of a March 2026 federal status report, dozens of California state-court cases were pending.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20325md3140%20CMO%2011%20March%207%202026.pdf" target="_blank" rel="noopener noreferrer">MDL-3140 Case Management Order No. 11 (Mar. 7, 2026) &mdash; California case count and coordination</a>; <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/2026.01.26%20-%20CMO%20No.%2010%20-%20Jan%2023%2026%20CMO%2010.pdf" target="_blank" rel="noopener noreferrer">MDL-3140 Case Management Order No. 10 (Jan. 26, 2026) &mdash; California coordination</a>.</p>
 </section>
 
 <section id="eligibility">

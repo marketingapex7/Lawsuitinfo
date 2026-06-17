@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in North Carolina about?"
-    answer: "This guide explains general information for North Carolina residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are North Carolina Depo-Provera cases handled?"
+    answer: "North Carolina residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. North Carolina cases are generally pursued in the federal MDL rather than a coordinated state-court program."
   -
-    question: "Can a North Carolina resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Does North Carolina's statute of repose affect Depo-Provera claims?"
+    answer: "It can. North Carolina applies a 12-year product-liability statute of repose (N.C. Gen. Stat. § 1-46.1), an outer limit that runs from purchase and can bar claims tied to use that began long ago. Individual timelines vary, so consult a lawyer."
   -
     question: "Do North Carolina deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What North Carolina residents should know</h2>
 <p>North Carolina residents are not necessarily limited to filing only in North Carolina state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>Where North Carolina Depo-Provera cases are proceeding</h2>
+<p>North Carolina residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated North Carolina state-court program. Timing is a key state-specific issue: North Carolina applies a 12-year product-liability statute of repose (N.C. Gen. Stat. § 1-46.1), an outer limit running from purchase that &mdash; because meningioma can develop long after use &mdash; can be decisive for older claims.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>; <a href="https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-46.1.html" target="_blank" rel="noopener noreferrer">North Carolina General Statutes &mdash; § 1-46.1 (12-year statute of repose)</a>.</p>
 </section>
 
 <section id="eligibility">

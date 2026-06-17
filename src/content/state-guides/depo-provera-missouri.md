@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in Missouri about?"
-    answer: "This guide explains general information for Missouri residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are Missouri Depo-Provera cases handled?"
+    answer: "Missouri residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Missouri cases are generally pursued in the federal MDL rather than a coordinated state-court program."
   -
-    question: "Can a Missouri resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "How long do Missouri residents have to file a Depo-Provera claim?"
+    answer: "Missouri's personal-injury limitations period is generally five years (Mo. Rev. Stat. § 516.120) — longer than many states — and Missouri has no general product-liability statute of repose. Accrual still depends on individual facts, so only a lawyer can confirm the deadline that applies."
   -
     question: "Do Missouri deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Missouri residents should know</h2>
 <p>Missouri residents are not necessarily limited to filing only in Missouri state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>Where Missouri Depo-Provera cases are proceeding</h2>
+<p>Missouri residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, and Missouri's cases are generally pursued there rather than in a coordinated state-court program. Missouri also stands out for timing: it has one of the longer personal-injury limitations periods among these states &mdash; five years (Mo. Rev. Stat. § 516.120) &mdash; and no general product-liability statute of repose, which can give claimants more room than in many states for a latent injury like meningioma.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>; <a href="https://revisor.mo.gov/main/OneSection.aspx?section=516.120" target="_blank" rel="noopener noreferrer">Missouri Revisor of Statutes &mdash; RSMo § 516.120</a>.</p>
 </section>
 
 <section id="eligibility">

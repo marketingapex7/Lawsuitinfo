@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in Illinois about?"
-    answer: "This guide explains general information for Illinois residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are Illinois Depo-Provera cases handled?"
+    answer: "Illinois residents' federal cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Illinois state-court cases are also proceeding (about eight, per a March 2026 federal status report), but Illinois has no dedicated coordinated state-court Depo-Provera docket."
   -
-    question: "Can an Illinois resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Why does timing matter for an Illinois Depo-Provera claim?"
+    answer: "Because meningioma is often diagnosed years after Depo-Provera use, the date a claim accrues and Illinois's product-liability deadline rules (summarized in the deadline section on this page) can determine whether a claim is timely. Only a lawyer can confirm the deadline for a specific situation."
   -
     question: "Do Illinois deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Illinois residents should know</h2>
 <p>Illinois residents are not necessarily limited to filing only in Illinois state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>Where Illinois Depo-Provera cases are proceeding</h2>
+<p>Illinois residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Illinois state-court cases (about eight, as of a March 2026 federal status report) are also proceeding, though Illinois has not established a dedicated coordinated state-court docket for Depo-Provera. Because meningioma is often diagnosed years after use, the accrual and product-liability deadline rules summarized in the deadline section on this page can be decisive in an individual case.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>; <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20325md3140%20CMO%2011%20March%207%202026.pdf" target="_blank" rel="noopener noreferrer">MDL-3140 Case Management Order No. 11 (Mar. 7, 2026) &mdash; state-court case counts</a>.</p>
 </section>
 
 <section id="eligibility">

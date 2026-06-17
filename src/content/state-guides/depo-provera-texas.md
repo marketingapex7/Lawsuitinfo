@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in Texas about?"
-    answer: "This guide explains general information for Texas residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are Texas Depo-Provera cases handled?"
+    answer: "Texas residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Texas cases are generally pursued in the federal MDL rather than a coordinated state-court program."
   -
-    question: "Can a Texas resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Could Texas's statute of repose affect a Depo-Provera claim?"
+    answer: "Possibly. Texas applies a 15-year product-liability statute of repose (Tex. Civ. Prac. & Rem. Code § 16.012), a hard outer limit that can matter when use began long before a meningioma diagnosis. A narrow latent-disease exception may apply, so only a lawyer can assess a specific timeline."
   -
     question: "Do Texas deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Texas residents should know</h2>
 <p>Texas residents are not necessarily limited to filing only in Texas state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>Where Texas Depo-Provera cases are proceeding</h2>
+<p>Texas residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated Texas state-court program. Timing can be pivotal: because meningioma may surface years after use, Texas's product-liability statute of repose &mdash; among the longest in the nation at 15 years (Tex. Civ. Prac. & Rem. Code § 16.012), with a narrow latent-disease exception &mdash; can be an outer limit on older claims.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>; <a href="https://statutes.capitol.texas.gov/Docs/CP/htm/CP.16.htm" target="_blank" rel="noopener noreferrer">Texas Civil Practice & Remedies Code § 16.012 (statute of repose)</a>.</p>
 </section>
 
 <section id="eligibility">
