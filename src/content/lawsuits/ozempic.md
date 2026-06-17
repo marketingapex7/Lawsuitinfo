@@ -41,6 +41,12 @@ faqs:
     question: "What is the Ozempic lawsuit about?"
     answer: "Lawsuits allege that GLP-1 receptor agonist medications such as Ozempic can cause gastroparesis, ileus, bowel obstruction, and related severe gastrointestinal injuries, and that the manufacturers did not adequately warn patients and doctors about those risks. Defendants dispute the allegations."
   -
+    question: "How much are Ozempic lawsuit settlements worth?"
+    answer: "No settlements have been reached in the GLP-1 litigation as of June 2026, so there are no official settlement amounts, and any specific payout figures circulating online are speculation. Settlement posture is expected to take shape only after the Rule 702 and summary-judgment rulings that follow the September 2026 hearings. No amount is guaranteed for any individual claim."
+  -
+    question: "Is the Ozempic lawsuit a class action?"
+    answer: "No. The federal Ozempic and GLP-1 cases are consolidated as multidistrict litigation (MDL-3094), not a class action. In an MDL, each plaintiff keeps an individual claim that is coordinated for pretrial proceedings — unlike a class action, where a single outcome binds the whole class."
+  -
     question: "Which drugs are included in the GLP-1 litigation?"
     answer: "Filed cases involve Novo Nordisk products — Ozempic, Wegovy, Rybelsus, and Saxenda — and Eli Lilly products, including Mounjaro, Zepbound, and Trulicity. Whether a specific medication and injury combination fits the litigation depends on individual facts."
   -
@@ -77,8 +83,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>As of June 2026, GLP-1 litigation is active in MDL No. 3094, with 3,763 gastrointestinal-injury cases pending and a separate NAION proceeding tracking vision-loss claims. The current MDL schedule centers on expert and summary-judgment briefing through August 7, 2026, with Rule 702 hearings set for September 10-18, 2026; bellwether trial dates have not yet been set.</p>
-<p>Ozempic and related GLP-1 lawsuits allege that medications including Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, and Trulicity can cause gastroparesis, ileus, bowel obstruction, and related severe gastrointestinal injuries, and that warnings were inadequate. Defendants dispute causation and warning allegations, and the medications remain FDA-approved.</p>
+<p><strong>The Ozempic lawsuit is a federal product-liability case alleging that GLP-1 receptor agonist drugs — including Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, and Trulicity — caused gastroparesis (stomach paralysis), ileus, and bowel obstruction, and that their makers, Novo Nordisk and Eli Lilly, failed to warn patients and doctors.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3094, in the U.S. District Court for the Eastern District of Pennsylvania before Judge Karen S. Marston. The medications remain FDA-approved, defendants dispute the claims, and no settlement has been reached.</p>
+<p>As of June 2026 the litigation is active and growing: thousands of gastrointestinal-injury cases are pending in MDL-3094, a separate proceeding (MDL-3163) tracks NAION vision-loss claims, and the next major milestone is the Rule 702 expert-admissibility hearing window of September 10–18, 2026, with summary-judgment briefing completing August 7, 2026. Bellwether trial dates have not yet been set.</p>
 </section>
 
 <section id="latest-update">
@@ -111,7 +117,17 @@ faqs:
 
 <section id="case-status-snapshot">
 <h2>Case snapshot</h2>
-<p>The federal cases are centralized in <strong>MDL-3094 (In re: Glucagon-like Peptide-1 Receptor Agonists Products Liability Litigation)</strong> before <strong>Judge Karen S. Marston</strong> in the U.S. District Court for the Eastern District of Pennsylvania. The JPML created the MDL on February 2, 2024. As of June 1, 2026 it held 3,763 pending actions, with case counts updated monthly by the JPML.</p>
+<ul>
+<li><strong>Litigation:</strong> federal multidistrict litigation — MDL-3094, In re: Glucagon-like Peptide-1 Receptor Agonists Products Liability Litigation</li>
+<li><strong>Court:</strong> U.S. District Court, Eastern District of Pennsylvania</li>
+<li><strong>Judge:</strong> Karen S. Marston</li>
+<li><strong>MDL created:</strong> February 2, 2024</li>
+<li><strong>Pending actions:</strong> 3,763 (JPML, June 1, 2026); a separate NAION proceeding, MDL-3163, holds 110</li>
+<li><strong>Drugs:</strong> Ozempic, Wegovy, Rybelsus, Saxenda (Novo Nordisk); Mounjaro, Zepbound, Trulicity (Eli Lilly)</li>
+<li><strong>Alleged injuries:</strong> gastroparesis, ileus, bowel obstruction</li>
+<li><strong>Next milestone:</strong> Rule 702 hearings, September 10–18, 2026</li>
+<li><strong>Settlement status:</strong> none as of June 2026; no amount guaranteed</li>
+</ul>
 </section>
 
 <section id="litigation-updates">
