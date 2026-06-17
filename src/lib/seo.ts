@@ -124,7 +124,8 @@ const TITLE_NAMES: Record<string, string> = {
   "Suboxone Tooth Decay": "Suboxone",
   "AFFF Firefighting Foam": "AFFF",
   "Paraquat Parkinson's": "Paraquat",
-  "Depo-Provera": "Depo-Provera"
+  "Depo-Provera": "Depo-Provera",
+  "Talcum Powder": "Talcum Powder"
 };
 
 export function shortLawsuitName(lawsuit: string): string {
@@ -146,7 +147,8 @@ export function lawsuitSeoTitle(lawsuit: string) {
     "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL Status & Eligibility",
     "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: Settlement & Claims",
     "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement & Deadlines",
-    "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: Dental Injury MDL"
+    "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: Dental Injury MDL",
+    "Talcum Powder": "Talcum Powder Lawsuit Update 2026: MDL & Verdicts"
   };
   return titles[lawsuit] ?? `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }
@@ -204,7 +206,9 @@ export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {
     "Roundup Cancer":
       "June 2026 Roundup lawsuit update: settlement status, non-Hodgkin lymphoma claims, Supreme Court issue, deadlines, and state guides.",
     "Suboxone Tooth Decay":
-      "June 2026 Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides."
+      "June 2026 Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides.",
+    "Talcum Powder":
+      "June 2026 talcum powder lawsuit update: J&J ovarian cancer and mesothelioma claims, MDL-2738 status, failed bankruptcies, verdicts, and state guides."
   };
   if (descriptions[lawsuit]) return fitMetaDescription(descriptions[lawsuit], " for research.");
   const injury = metaInjury(primaryInjury);

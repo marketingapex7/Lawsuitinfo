@@ -96,6 +96,40 @@ const cases = [
       ["What should pending claimants do now?", "Confirm the claim is on record, keep medical records current, respond quickly to document requests, and have counsel compare any Elective Option offer against realistic litigated values before deciding."],
       ["Does this page provide legal advice?", "No. This page is general legal information for research purposes only and does not create an attorney-client relationship."]
     ]
+  },
+  {
+    lawsuit: "Talcum Powder",
+    slug: "talcum-powder",
+    title: (s) => `Talcum Powder Lawsuit in ${s.name} (Ovarian Cancer & Mesothelioma)`,
+    category: "Product Liability",
+    categorySlug: "product-liability",
+    status: "Active / Investigating",
+    primaryInjury: "Ovarian cancer and mesothelioma",
+    description: (s) =>
+      `Information for ${s.name} residents researching Johnson & Johnson talcum powder lawsuits: ovarian cancer and mesothelioma allegations, MDL-2738 status, eligibility factors, records, and ${s.name} filing deadlines.`,
+    exposureContext: (s) =>
+      `${s.name} residents may have used talc-based powders such as Johnson's Baby Powder or Shower to Shower for personal hygiene over many years before an ovarian cancer or mesothelioma diagnosis.`,
+    overview: (s) =>
+      `<p>${s.name} residents with talcum powder claims are generally not limited to ${s.name} state court. Most federal ovarian-cancer cases are coordinated in the multidistrict litigation, <strong>MDL-2738</strong>, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, which held about 68,029 pending actions as of June 1, 2026 — the largest active MDL by pending actions.</p>
+<p>${s.name} law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL or in state court.</p>`,
+    eligibilityBullets: (s) => [
+      `Use of a talc-based powder (brand, approximate years, and frequency) by ${s.name} residents or their families.`,
+      "A diagnosis of ovarian cancer or mesothelioma confirmed by pathology and oncology records.",
+      "Diagnosis timing and use history that line up for review.",
+      `Filing within the deadline that applies to the claim under ${s.name} law.`
+    ],
+    process: (s, lim) =>
+      `<p>Most ${s.name} federal talc cases are filed in or transferred to MDL-2738 in the District of New Jersey for coordinated proceedings, while many ovarian-cancer and mesothelioma cases are also tried in state courts. Johnson & Johnson's three "Texas Two-Step" bankruptcy attempts were all rejected — most recently on March 31, 2025 — so cases are again proceeding in the trial system. ${s.name}'s personal injury limitations period is ${lim.piYears} years (${lim.citation}), but accrual and discovery-rule questions are fact-specific for cancers diagnosed years after talc use.</p>`,
+    faqs: (s, lim) => [
+      [`What is the talcum powder lawsuit in ${s.name} about?`, `Lawsuits allege Johnson & Johnson talc-based powders caused ovarian cancer or asbestos-linked mesothelioma and that warnings were inadequate. ${s.name} residents' federal ovarian-cancer cases are generally coordinated in MDL-2738 in the District of New Jersey. Defendants dispute the allegations.`],
+      [`Can ${art(s)} ${s.name} resident file a talcum powder lawsuit?`, `Possibly. ${s.name} residents with documented talc use and an ovarian cancer or mesothelioma diagnosis may be able to file in federal court (transferred into MDL-2738) or in state court. Whether a claim qualifies depends on product use, diagnosis, timing, records, and ${s.name} law.`],
+      [`What is the talcum powder lawsuit statute of limitations in ${s.name}?`, `${s.name}'s personal injury period is ${lim.piYears} years (${lim.citation}). ${lim.discoveryNote || "Accrual rules vary."} Because cancer is often diagnosed years after use, only a lawyer can confirm the deadline for a specific situation.`],
+      [`Which products are involved for ${s.name} claimants?`, "Claims focus on talc-based powders, including Johnson's Baby Powder and Shower to Shower. Johnson & Johnson stopped selling talc-based Baby Powder in North America in 2020 and worldwide in 2023, switching to a cornstarch formula."],
+      [`What records matter most for ${art(s)} ${s.name} claim?`, "Product-use history (brand, years, frequency), pathology and biopsy reports, oncology and surgical records, and the diagnosis date are commonly requested first. Purchase records, photos, or witness statements can help show product use."],
+      ["Has there been a talcum powder settlement?", "No global settlement exists. Johnson & Johnson's three 'Texas Two-Step' bankruptcy attempts were all rejected, most recently on March 31, 2025. Cases are proceeding in the MDL and state courts, and no amount is guaranteed for any individual claim."],
+      ["Is talcum powder still sold?", "Johnson & Johnson stopped selling talc-based Johnson's Baby Powder in North America in 2020 and worldwide in 2023, replacing it with a cornstarch-based product. The litigation concerns past use and alleged injuries."],
+      ["Does this page provide legal advice?", "No. This page is general legal information for research purposes only and does not create an attorney-client relationship."]
+    ]
   }
 ];
 
@@ -152,12 +186,20 @@ ${c.process(s, lim)}
 
 const outDir = join(root, "src/content/state-guides");
 mkdirSync(outDir, { recursive: true });
+// Optional CLI filter: `node scripts/add-case-states.mjs <slug>` regenerates only
+// that case's state guides, so re-running never clobbers other cases' pages.
+const onlySlug = process.argv[2];
+const selectedCases = onlySlug ? cases.filter((c) => c.slug === onlySlug) : cases;
+if (onlySlug && selectedCases.length === 0) {
+  console.error(`No case with slug "${onlySlug}" found in add-case-states.mjs`);
+  process.exit(1);
+}
 let written = 0;
-for (const c of cases) {
+for (const c of selectedCases) {
   for (const s of states) {
     const file = join(outDir, `${c.slug}-${s.slug}.md`);
     writeFileSync(file, buildFile(c, s));
     written += 1;
   }
 }
-console.log(`Wrote ${written} state guides for ${cases.map((c) => c.slug).join(", ")}`);
+console.log(`Wrote ${written} state guides for ${selectedCases.map((c) => c.slug).join(", ")}`);

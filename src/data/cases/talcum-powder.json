@@ -1,0 +1,48 @@
+{
+  "slug": "talcum-powder",
+  "caseName": "Johnson & Johnson Talcum Powder Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-2738",
+    "mdlName": "In re: Johnson & Johnson Talcum Powder Products Marketing, Sales Practices and Products Liability Litigation",
+    "court": "U.S. District Court, District of New Jersey",
+    "courtShort": "D.N.J.",
+    "judge": "Judge Michael A. Shipp",
+    "established": "2016-10-04"
+  },
+  "phase": "Active litigation resuming after the third bankruptcy was rejected",
+  "phaseDetail": "After J&J's third 'Texas Two-Step' bankruptcy (Red River Talc LLC) was denied on March 31, 2025, previously paused cases returned to active dockets. As of June 1, 2026, MDL-2738 is the largest active MDL in the country by pending actions, and trials are proceeding in state courts. No global settlement is in place.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 68029, "scope": "Pending actions in MDL-2738 (largest active MDL by actions pending)", "source": "JPML, Pending MDL Dockets by Actions Pending, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+  ],
+  "defendants": [
+    "Johnson & Johnson",
+    "Kenvue Inc. (consumer-health spinoff; Johnson's Baby Powder brand)",
+    "LLT Management LLC (formerly LTL Management) / Red River Talc LLC (J&J talc-liability subsidiaries)"
+  ],
+  "settlements": [
+    {
+      "label": "No global settlement — three bankruptcy attempts rejected",
+      "status": "none",
+      "detail": "J&J's three 'Texas Two-Step' bankruptcy attempts to cap talc liability were all rejected by the courts. Most recently, Red River Talc LLC's prepackaged Chapter 11 — built around a proposed roughly $9 billion plan — was denied by U.S. Bankruptcy Judge Christopher Lopez in the Southern District of Texas on March 31, 2025. No global settlement is in place; ovarian-cancer claims are coordinated in MDL-2738 and individual cases are being tried in state courts.",
+      "source": "Drugwatch — coverage of the March 31, 2025 Red River dismissal",
+      "sourceUrl": "https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/"
+    }
+  ],
+  "keyDates": [
+    { "date": "2016-10-04", "label": "MDL-2738 established", "detail": "The JPML centralized federal Johnson & Johnson talcum-powder cases before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey." },
+    { "date": "2018-07-12", "label": "Ingham verdict ($4.69B)", "detail": "A St. Louis jury awarded about $4.69 billion to 22 women with ovarian cancer in Ingham v. Johnson & Johnson (Missouri state court)." },
+    { "date": "2020-06-23", "label": "Ingham reduced on appeal (~$2.1B)", "detail": "The Missouri Court of Appeals reduced the Ingham judgment to roughly $2.1 billion and trimmed the plaintiff group on jurisdictional grounds." },
+    { "date": "2021-06-01", "label": "U.S. Supreme Court denied review in Ingham", "detail": "The Supreme Court declined to hear J&J's appeal, leaving the reduced Ingham judgment in place as a final result." },
+    { "date": "2025-03-31", "label": "Third bankruptcy (Red River Talc) denied", "detail": "U.S. Bankruptcy Judge Christopher Lopez (S.D. Texas) denied confirmation of Red River Talc's prepackaged Chapter 11 plan, ending J&J's third 'Texas Two-Step.'" },
+    { "date": "2026-02-13", "label": "Philadelphia plaintiff verdict (on appeal)", "detail": "A Philadelphia jury found J&J liable in Emerson v. Johnson & Johnson and awarded $250,000; J&J said it would appeal." }
+  ],
+  "sources": [
+    { "name": "JPML — Pending MDL Dockets by Actions Pending, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" },
+    { "name": "Missouri Court of Appeals — Ingham v. Johnson & Johnson opinion (June 23, 2020)", "url": "https://storage.courtlistener.com/pdf/2020/06/23/robert_ingham_v._johnson__johnson.pdf" },
+    { "name": "U.S. Supreme Court — Ingham docket No. 20-1223 (cert. denied June 1, 2021)", "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/20-1223.html" },
+    { "name": "Drugwatch — Red River Talc Chapter 11 denied (Mar. 31, 2025)", "url": "https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/" },
+    { "name": "Philadelphia Inquirer — Emerson talc verdict (Feb. 13, 2026)", "url": "https://www.inquirer.com/business/health/johnson-baby-powder-talc-cancer-lawsuit-20260213.html" }
+  ],
+  "dataAsOf": "2026-06-17"
+}
