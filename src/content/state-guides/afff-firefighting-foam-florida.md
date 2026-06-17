@@ -47,8 +47,8 @@ faqs:
 </section>
 
 <section id="state-afff-pfas-context">
-<h2>Florida's AFFF lawsuit and contaminated bases</h2>
-<p>Florida moved early against AFFF manufacturers: in 2022, the state's Attorney General filed a complaint against more than a dozen makers of aqueous film-forming foam, seeking Florida's investigation and cleanup costs. Florida also hosts heavily affected installations such as MacDill Air Force Base in Tampa and Eglin Air Force Base, where decades of AFFF use contaminated groundwater. Federal AFFF personal-injury claims by Florida residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina; the separate nationwide settlements with 3M, DuPont/Chemours/Corteva, Tyco, and BASF compensate public water utilities, not individuals.</p>
+<h2>Florida's AFFF lawsuit and water-system settlement distinction</h2>
+<p>Florida moved early against AFFF manufacturers: in 2022, the state's Attorney General filed a complaint against more than a dozen makers of aqueous film-forming foam, seeking Florida's investigation and cleanup costs for PFAS contamination. Federal AFFF personal-injury claims by Florida residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina; the separate nationwide settlements with 3M, DuPont/Chemours/Corteva, Tyco, and BASF compensate public water utilities, not individuals.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://stateimpactcenter.org/ag-work/ag-actions/florida-ag-sued-manufacturers-for-use-of-pfas-in-firefighting-foam" target="_blank" rel="noopener noreferrer">State Energy & Environmental Impact Center &mdash; Florida AG sued AFFF manufacturers (2022)</a>; <a href="https://www.pfaswatersettlement.com/" target="_blank" rel="noopener noreferrer">Official AFFF water-system settlement administration site</a>.</p>
 </section>
 
