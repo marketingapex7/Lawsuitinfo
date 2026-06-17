@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "PFAS exposure-related cancer and disease claims"
 exposureContext: "State residents may have encountered AFFF or PFAS through fire departments, airports, military bases, industrial facilities, training areas, or water contamination."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the AFFF Firefighting Foam lawsuit in Pennsylvania about?"
-    answer: "This guide explains general information for Pennsylvania residents researching AFFF Firefighting Foam claims involving kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims."
+    question: "Where are Pennsylvania residents' AFFF lawsuits handled?"
+    answer: "Federal AFFF personal-injury claims by Pennsylvania residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. The Commonwealth's 2023 PFAS lawsuit is a separate state-court action seeking cleanup costs."
   -
-    question: "Can a Pennsylvania resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Has Pennsylvania sued PFAS or AFFF manufacturers?"
+    answer: "Yes. In 2023, the Commonwealth of Pennsylvania filed a complaint against DuPont, Chemours, and related companies over PFAS contamination, including chemicals used in firefighting foam. That suit is distinct from individual personal-injury claims."
   -
     question: "Do Pennsylvania deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Pennsylvania residents should know</h2>
 <p>Pennsylvania residents are not necessarily limited to filing only in Pennsylvania state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-afff-pfas-context">
+<h2>Pennsylvania's PFAS lawsuit and the AFFF litigation</h2>
+<p>Pennsylvania has pursued PFAS manufacturers directly: in 2023, the Commonwealth filed a complaint against DuPont, Chemours, and related companies, alleging that PFAS they made or supplied &mdash; including chemicals used in aqueous film-forming foam &mdash; contaminated Pennsylvania's environment at levels well above federal limits. That state action is separate from the federal personal-injury litigation: AFFF injury claims filed by Pennsylvania residents in federal court are transferred into MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.attorneygeneral.gov/wp-content/uploads/2023/06/2023-06-02-Commonwealth-v.-EIDP-Inc-et-al_Filed-copy.pdf" target="_blank" rel="noopener noreferrer">Pennsylvania Office of Attorney General &mdash; Commonwealth PFAS complaint (filed 2023)</a>; <a href="https://www.scd.uscourts.gov/mdl-2873/index.asp" target="_blank" rel="noopener noreferrer">U.S. District Court (D.S.C.) &mdash; AFFF MDL No. 2873</a>.</p>
 </section>
 
 <section id="eligibility">

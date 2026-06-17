@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "PFAS exposure-related cancer and disease claims"
 exposureContext: "State residents may have encountered AFFF or PFAS through fire departments, airports, military bases, industrial facilities, training areas, or water contamination."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the AFFF Firefighting Foam lawsuit in Illinois about?"
-    answer: "This guide explains general information for Illinois residents researching AFFF Firefighting Foam claims involving kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims."
+    question: "Where are Illinois residents' AFFF lawsuits handled?"
+    answer: "Federal AFFF personal-injury claims by Illinois residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Illinois also has a separate state-court environmental lawsuit, filed by the Attorney General in Cook County in April 2023, seeking the state's cleanup costs."
   -
-    question: "Can an Illinois resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Has Illinois sued AFFF manufacturers?"
+    answer: "Yes. On April 6, 2023, Illinois Attorney General Kwame Raoul filed a lawsuit against AFFF manufacturers, alleging they marketed the PFAS-containing firefighting foam while concealing its risks. That suit seeks cleanup and natural-resource costs for the state and is separate from individual personal-injury claims."
   -
     question: "Do Illinois deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Illinois residents should know</h2>
 <p>Illinois residents are not necessarily limited to filing only in Illinois state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-afff-pfas-context">
+<h2>Illinois's attorney general AFFF lawsuit</h2>
+<p>Illinois is among the states that have taken AFFF makers to court. On April 6, 2023, Attorney General Kwame Raoul filed suit in Cook County Circuit Court against multiple manufacturers of aqueous film-forming foam (AFFF), alleging they sold the PFAS-containing foam while concealing its toxicity; the complaint notes PFAS has been detected at scores of Illinois community water supplies. That state action runs on a separate track from the federal personal-injury litigation: AFFF injury claims filed by Illinois residents in federal court are transferred into MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-latest-lawsuit-over-contamination-by-toxic-forever-chemicals" target="_blank" rel="noopener noreferrer">Illinois Attorney General &mdash; Raoul files lawsuit over PFAS contamination (Apr. 6, 2023)</a>; <a href="https://www.scd.uscourts.gov/mdl-2873/index.asp" target="_blank" rel="noopener noreferrer">U.S. District Court (D.S.C.) &mdash; AFFF MDL No. 2873</a>.</p>
 </section>
 
 <section id="eligibility">

@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "PFAS exposure-related cancer and disease claims"
 exposureContext: "State residents may have encountered AFFF or PFAS through fire departments, airports, military bases, industrial facilities, training areas, or water contamination."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the AFFF Firefighting Foam lawsuit in Missouri about?"
-    answer: "This guide explains general information for Missouri residents researching AFFF Firefighting Foam claims involving kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims."
+    question: "Where are Missouri residents' AFFF lawsuits handled?"
+    answer: "Federal AFFF personal-injury claims by Missouri residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Missouri also has local litigation: the City of Kansas City has sued AFFF manufacturers to recover its PFAS cleanup costs."
   -
-    question: "Can a Missouri resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Which Missouri sites have AFFF-related PFAS contamination?"
+    answer: "Whiteman Air Force Base in Johnson County is Missouri's most-documented military PFAS site, with contamination tied to decades of AFFF firefighting-foam use and an ongoing Air Force environmental cleanup response. The City of Kansas City has also cited firefighting-foam use at its airport and water-system facilities."
   -
     question: "Do Missouri deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Missouri residents should know</h2>
 <p>Missouri residents are not necessarily limited to filing only in Missouri state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-afff-pfas-context">
+<h2>Missouri AFFF contamination and Kansas City's lawsuit</h2>
+<p>In Missouri, the City of Kansas City has filed its own lawsuit against AFFF manufacturers, seeking to recover the costs of testing and cleaning up PFAS contamination tied to firefighting-foam use at city facilities, including its airport and water-system infrastructure. The state's most-studied military site, Whiteman Air Force Base in Johnson County, has documented PFAS contamination from decades of AFFF use and is the subject of an Air Force environmental cleanup response. Federal AFFF personal-injury claims by Missouri residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.kcmo.gov/city-hall/departments/law/pfas-litigation" target="_blank" rel="noopener noreferrer">City of Kansas City, Missouri &mdash; PFAS / AFFF litigation FAQ</a>; <a href="https://www.komu.com/target8/target-8-forever-chemicals-at-whiteman-air-force-base-raise-concerns/article_f6c5fefc-6390-11ed-8407-e3d06ad9d7d0.html" target="_blank" rel="noopener noreferrer">KOMU 8 (NBC) &mdash; PFAS contamination at Whiteman Air Force Base</a>.</p>
 </section>
 
 <section id="eligibility">

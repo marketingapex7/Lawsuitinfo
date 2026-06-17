@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "PFAS exposure-related cancer and disease claims"
 exposureContext: "State residents may have encountered AFFF or PFAS through fire departments, airports, military bases, industrial facilities, training areas, or water contamination."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the AFFF Firefighting Foam lawsuit in North Carolina about?"
-    answer: "This guide explains general information for North Carolina residents researching AFFF Firefighting Foam claims involving kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, and other PFAS exposure-related claims."
+    question: "Where are North Carolina residents' AFFF lawsuits handled?"
+    answer: "Federal AFFF personal-injury claims by North Carolina residents are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. North Carolina's attorney-general AFFF suits and the Chemours Cape Fear River litigation are separate state and environmental proceedings."
   -
-    question: "Can a North Carolina resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "What is the Cape Fear River PFAS contamination?"
+    answer: "For decades, the Chemours (formerly DuPont) Fayetteville Works plant discharged GenX and other PFAS into the Cape Fear River, a drinking-water source for hundreds of thousands of North Carolinians. It is the subject of separate state enforcement and litigation, distinct from the federal AFFF personal-injury MDL."
   -
     question: "Do North Carolina deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What North Carolina residents should know</h2>
 <p>North Carolina residents are not necessarily limited to filing only in North Carolina state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-afff-pfas-context">
+<h2>North Carolina: AFFF suits and the Cape Fear PFAS story</h2>
+<p>North Carolina has a dual PFAS story. In November 2021, then-Attorney General Josh Stein filed lawsuits against more than a dozen AFFF manufacturers over contamination at sites including Charlotte-Douglas International Airport and military installations. Separately, the Chemours Fayetteville Works plant discharged GenX and other PFAS into the Cape Fear River &mdash; a drinking-water source for hundreds of thousands of residents &mdash; for decades. Federal AFFF personal-injury claims by North Carolina residents are coordinated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://ncdoj.gov/attorney-general-josh-stein-files-four-lawsuits-against-14-companies-over-toxic-firefighting-foam/" target="_blank" rel="noopener noreferrer">North Carolina DOJ &mdash; AG files four lawsuits over toxic firefighting foam (Nov. 4, 2021)</a>; <a href="https://www.northcarolinahealthnews.org/2023/06/08/critics-skeptical-as-chemical-companies-agree-to-1-19-billion-pfas/" target="_blank" rel="noopener noreferrer">NC Health News &mdash; coverage of the $1.19B PFAS water settlement and Cape Fear contamination (June 2023)</a>.</p>
 </section>
 
 <section id="eligibility">
