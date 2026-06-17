@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in Pennsylvania about?"
-    answer: "This guide explains general information for Pennsylvania residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are Pennsylvania Depo-Provera cases handled?"
+    answer: "Pennsylvania residents' federal cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Pennsylvania state-court cases are also proceeding (about two, per a March 2026 federal status report); Pennsylvania's mass-tort cases typically route through the Philadelphia Court of Common Pleas."
   -
-    question: "Can a Pennsylvania resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Is there a coordinated Pennsylvania Depo-Provera docket?"
+    answer: "Not specifically. As of early 2026 only a couple of Pennsylvania state-court cases were reported, and no dedicated Pennsylvania coordination program for Depo-Provera has been announced. Most Pennsylvania federal cases proceed in MDL No. 3140 in Florida."
   -
     question: "Do Pennsylvania deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Pennsylvania residents should know</h2>
 <p>Pennsylvania residents are not necessarily limited to filing only in Pennsylvania state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>Where Pennsylvania Depo-Provera cases are proceeding</h2>
+<p>Pennsylvania residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Pennsylvania state-court cases (about two, as of a March 2026 federal status report) are also proceeding; Pennsylvania's complex mass-tort cases are typically handled through the Philadelphia Court of Common Pleas, although no dedicated state coordination program for Depo-Provera has been announced.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>; <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20325md3140%20CMO%2011%20March%207%202026.pdf" target="_blank" rel="noopener noreferrer">MDL-3140 Case Management Order No. 11 (Mar. 7, 2026) &mdash; state-court case counts</a>.</p>
 </section>
 
 <section id="eligibility">

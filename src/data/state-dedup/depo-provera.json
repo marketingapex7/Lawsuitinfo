@@ -1,0 +1,149 @@
+{
+  "_meta": {
+    "tortSlug": "depo-provera",
+    "tortName": "Depo-Provera",
+    "filePrefix": "depo-provera",
+    "reviewDate": "2026-06-16"
+  },
+  "states": {
+    "illinois": {
+      "stateName": "Illinois",
+      "article": "an",
+      "h2": "Where Illinois Depo-Provera cases are proceeding",
+      "body": "<p>Illinois residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Illinois state-court cases (about eight, as of a March 2026 federal status report) are also proceeding, though Illinois has not established a dedicated coordinated state-court docket for Depo-Provera. Because meningioma is often diagnosed years after use, the accrual and product-liability deadline rules summarized in the deadline section on this page can be decisive in an individual case.</p>",
+      "sources": [
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" },
+        { "label": "MDL-3140 Case Management Order No. 11 (Mar. 7, 2026) &mdash; state-court case counts", "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20325md3140%20CMO%2011%20March%207%202026.pdf" }
+      ],
+      "faqs": [
+        { "question": "Where are Illinois Depo-Provera cases handled?", "answer": "Illinois residents' federal cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Illinois state-court cases are also proceeding (about eight, per a March 2026 federal status report), but Illinois has no dedicated coordinated state-court Depo-Provera docket." },
+        { "question": "Why does timing matter for an Illinois Depo-Provera claim?", "answer": "Because meningioma is often diagnosed years after Depo-Provera use, the date a claim accrues and Illinois's product-liability deadline rules (summarized in the deadline section on this page) can determine whether a claim is timely. Only a lawyer can confirm the deadline for a specific situation." }
+      ]
+    },
+    "missouri": {
+      "stateName": "Missouri",
+      "article": "a",
+      "h2": "Where Missouri Depo-Provera cases are proceeding",
+      "body": "<p>Missouri residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, and Missouri's cases are generally pursued there rather than in a coordinated state-court program. Missouri also stands out for timing: it has one of the longer personal-injury limitations periods among these states &mdash; five years (Mo. Rev. Stat. § 516.120) &mdash; and no general product-liability statute of repose, which can give claimants more room than in many states for a latent injury like meningioma.</p>",
+      "sources": [
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" },
+        { "label": "Missouri Revisor of Statutes &mdash; RSMo § 516.120", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.120" }
+      ],
+      "faqs": [
+        { "question": "Where are Missouri Depo-Provera cases handled?", "answer": "Missouri residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Missouri cases are generally pursued in the federal MDL rather than a coordinated state-court program." },
+        { "question": "How long do Missouri residents have to file a Depo-Provera claim?", "answer": "Missouri's personal-injury limitations period is generally five years (Mo. Rev. Stat. § 516.120) — longer than many states — and Missouri has no general product-liability statute of repose. Accrual still depends on individual facts, so only a lawyer can confirm the deadline that applies." }
+      ]
+    },
+    "texas": {
+      "stateName": "Texas",
+      "article": "a",
+      "h2": "Where Texas Depo-Provera cases are proceeding",
+      "body": "<p>Texas residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated Texas state-court program. Timing can be pivotal: because meningioma may surface years after use, Texas's product-liability statute of repose &mdash; among the longest in the nation at 15 years (Tex. Civ. Prac. & Rem. Code § 16.012), with a narrow latent-disease exception &mdash; can be an outer limit on older claims.</p>",
+      "sources": [
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" },
+        { "label": "Texas Civil Practice & Remedies Code § 16.012 (statute of repose)", "url": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.16.htm" }
+      ],
+      "faqs": [
+        { "question": "Where are Texas Depo-Provera cases handled?", "answer": "Texas residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Texas cases are generally pursued in the federal MDL rather than a coordinated state-court program." },
+        { "question": "Could Texas's statute of repose affect a Depo-Provera claim?", "answer": "Possibly. Texas applies a 15-year product-liability statute of repose (Tex. Civ. Prac. & Rem. Code § 16.012), a hard outer limit that can matter when use began long before a meningioma diagnosis. A narrow latent-disease exception may apply, so only a lawyer can assess a specific timeline." }
+      ]
+    },
+    "florida": {
+      "stateName": "Florida",
+      "article": "a",
+      "h2": "Florida: the home of the Depo-Provera MDL",
+      "body": "<p>Florida is the home of this litigation. On February 7, 2025, the Judicial Panel on Multidistrict Litigation centralized the federal Depo-Provera meningioma cases in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). The MDL's key pretrial events &mdash; including the general-causation expert (Rule 702) hearing and the first Pilot bellwether trial, scheduled for December 2026 &mdash; take place there, so Florida residents' federal cases proceed in their home-state forum without a separate transfer step.</p>",
+      "sources": [
+        { "label": "JPML Transfer Order establishing MDL No. 3140 (Feb. 7, 2025)", "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/2025.02.07%20-%20325md3140%20-%20JPML%20Transfer%20Order.pdf" },
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" }
+      ],
+      "faqs": [
+        { "question": "Where are Florida Depo-Provera cases handled?", "answer": "Federal Depo-Provera meningioma cases nationwide are consolidated in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). Because Florida is the MDL's home district, Florida residents' federal cases proceed there without a transfer step." },
+        { "question": "What is the status of the Depo-Provera MDL?", "answer": "As of mid-2026 the litigation is in pretrial proceedings: a general-causation (Rule 702) expert hearing is set for 2026 and the first Pilot bellwether trial is scheduled for December 2026. No settlement program exists, and no outcome is guaranteed." }
+      ]
+    },
+    "california": {
+      "stateName": "California",
+      "article": "a",
+      "h2": "California's coordinated state-court Depo-Provera cases",
+      "body": "<p>California is the only one of these states with a formal coordinated state-court proceeding for Depo-Provera. California state-court cases have been organized into a Judicial Council Coordination Proceeding (JCCP) in Alameda County Superior Court, which runs in parallel with the federal MDL and whose judge takes part in joint status conferences with the federal court. California residents who file in federal court instead are transferred into MDL No. 3140 in the Northern District of Florida; as of a March 2026 federal status report, dozens of California state-court cases were pending.</p>",
+      "sources": [
+        { "label": "MDL-3140 Case Management Order No. 11 (Mar. 7, 2026) &mdash; California case count and coordination", "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20325md3140%20CMO%2011%20March%207%202026.pdf" },
+        { "label": "MDL-3140 Case Management Order No. 10 (Jan. 26, 2026) &mdash; California coordination", "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/2026.01.26%20-%20CMO%20No.%2010%20-%20Jan%2023%2026%20CMO%2010.pdf" }
+      ],
+      "faqs": [
+        { "question": "Where are California Depo-Provera cases handled?", "answer": "California residents have two tracks: state-court cases are coordinated in a Judicial Council Coordination Proceeding (JCCP) in Alameda County Superior Court, and federal cases are transferred into MDL No. 3140 in the Northern District of Florida. The two courts hold joint status conferences." },
+        { "question": "Does California have a coordinated Depo-Provera docket?", "answer": "Yes. California state-court Depo-Provera cases are consolidated in a Judicial Council Coordination Proceeding in Alameda County; as of a March 2026 federal status report, dozens of California state cases were pending. That coordination is separate from the federal MDL in Florida." }
+      ]
+    },
+    "north-carolina": {
+      "stateName": "North Carolina",
+      "article": "a",
+      "h2": "Where North Carolina Depo-Provera cases are proceeding",
+      "body": "<p>North Carolina residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated North Carolina state-court program. Timing is a key state-specific issue: North Carolina applies a 12-year product-liability statute of repose (N.C. Gen. Stat. § 1-46.1), an outer limit running from purchase that &mdash; because meningioma can develop long after use &mdash; can be decisive for older claims.</p>",
+      "sources": [
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" },
+        { "label": "North Carolina General Statutes &mdash; § 1-46.1 (12-year statute of repose)", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-46.1.html" }
+      ],
+      "faqs": [
+        { "question": "Where are North Carolina Depo-Provera cases handled?", "answer": "North Carolina residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. North Carolina cases are generally pursued in the federal MDL rather than a coordinated state-court program." },
+        { "question": "Does North Carolina's statute of repose affect Depo-Provera claims?", "answer": "It can. North Carolina applies a 12-year product-liability statute of repose (N.C. Gen. Stat. § 1-46.1), an outer limit that runs from purchase and can bar claims tied to use that began long ago. Individual timelines vary, so consult a lawyer." }
+      ]
+    },
+    "georgia": {
+      "stateName": "Georgia",
+      "article": "a",
+      "h2": "Where Georgia Depo-Provera cases are proceeding",
+      "body": "<p>Georgia residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated Georgia state-court program. Georgia is also among the states whose product-liability claims face a statute of repose &mdash; a 10-year outer time limit shown in the deadline section on this page &mdash; which, because meningioma can be diagnosed years after use, can be decisive for older claims.</p>",
+      "sources": [
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" }
+      ],
+      "faqs": [
+        { "question": "Where are Georgia Depo-Provera cases handled?", "answer": "Georgia residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Georgia cases are generally pursued in the federal MDL rather than a coordinated state-court program." },
+        { "question": "Why does timing matter for a Georgia Depo-Provera claim?", "answer": "Because meningioma is often diagnosed years after use, Georgia's product-liability statute of repose (a 10-year outer limit, summarized in the deadline section on this page) and the discovery rule can determine whether a claim is timely. Only a lawyer can confirm the deadline for a specific situation." }
+      ]
+    },
+    "ohio": {
+      "stateName": "Ohio",
+      "article": "an",
+      "h2": "Where Ohio Depo-Provera cases are proceeding",
+      "body": "<p>Ohio residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated Ohio state-court program. Timing is a key state-specific issue: Ohio applies a 10-year product-liability statute of repose (Ohio Rev. Code § 2305.10(C)), running from first purchase, which &mdash; because meningioma can be diagnosed years after use &mdash; can be an outer limit on older claims.</p>",
+      "sources": [
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" },
+        { "label": "Ohio Revised Code &mdash; § 2305.10 (limitations and 10-year repose)", "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.10" }
+      ],
+      "faqs": [
+        { "question": "Where are Ohio Depo-Provera cases handled?", "answer": "Ohio residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Ohio cases are generally pursued in the federal MDL rather than a coordinated state-court program." },
+        { "question": "Does Ohio have a deadline that could bar older Depo-Provera claims?", "answer": "Ohio applies a 10-year product-liability statute of repose (Ohio Rev. Code § 2305.10(C)) running from first purchase, alongside a 2-year limitations period. A claim tied to use more than 10 years ago could face a repose defense, so only a lawyer can evaluate a specific situation." }
+      ]
+    },
+    "pennsylvania": {
+      "stateName": "Pennsylvania",
+      "article": "a",
+      "h2": "Where Pennsylvania Depo-Provera cases are proceeding",
+      "body": "<p>Pennsylvania residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Pennsylvania state-court cases (about two, as of a March 2026 federal status report) are also proceeding; Pennsylvania's complex mass-tort cases are typically handled through the Philadelphia Court of Common Pleas, although no dedicated state coordination program for Depo-Provera has been announced.</p>",
+      "sources": [
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" },
+        { "label": "MDL-3140 Case Management Order No. 11 (Mar. 7, 2026) &mdash; state-court case counts", "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20325md3140%20CMO%2011%20March%207%202026.pdf" }
+      ],
+      "faqs": [
+        { "question": "Where are Pennsylvania Depo-Provera cases handled?", "answer": "Pennsylvania residents' federal cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. A small number of Pennsylvania state-court cases are also proceeding (about two, per a March 2026 federal status report); Pennsylvania's mass-tort cases typically route through the Philadelphia Court of Common Pleas." },
+        { "question": "Is there a coordinated Pennsylvania Depo-Provera docket?", "answer": "Not specifically. As of early 2026 only a couple of Pennsylvania state-court cases were reported, and no dedicated Pennsylvania coordination program for Depo-Provera has been announced. Most Pennsylvania federal cases proceed in MDL No. 3140 in Florida." }
+      ]
+    },
+    "michigan": {
+      "stateName": "Michigan",
+      "article": "a",
+      "h2": "Michigan's connection to the Depo-Provera MDL",
+      "body": "<p>Michigan has a notable connection to this litigation: the MDL's review of the manufacturers' historical records was conducted at Pfizer / Pharmacia & Upjohn facilities in Kalamazoo, Michigan, where the company has longstanding operations. Michigan residents' own federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated Michigan state-court program.</p>",
+      "sources": [
+        { "label": "MDL-3140 Case Management Order No. 11 (Mar. 7, 2026) &mdash; document review at Kalamazoo", "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20325md3140%20CMO%2011%20March%207%202026.pdf" },
+        { "label": "U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date", "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date" }
+      ],
+      "faqs": [
+        { "question": "Where are Michigan Depo-Provera cases handled?", "answer": "Michigan residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Michigan has no dedicated coordinated state-court Depo-Provera docket reported as of early 2026." },
+        { "question": "What is Michigan's connection to the Depo-Provera litigation?", "answer": "The MDL's review of the manufacturers' historical records was conducted at Pfizer / Pharmacia & Upjohn facilities in Kalamazoo, Michigan. The substantive cases, however, are litigated in the federal MDL in Florida." }
+      ]
+    }
+  }
+}

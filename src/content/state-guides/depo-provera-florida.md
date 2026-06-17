@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in Florida about?"
-    answer: "This guide explains general information for Florida residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are Florida Depo-Provera cases handled?"
+    answer: "Federal Depo-Provera meningioma cases nationwide are consolidated in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). Because Florida is the MDL's home district, Florida residents' federal cases proceed there without a transfer step."
   -
-    question: "Can a Florida resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "What is the status of the Depo-Provera MDL?"
+    answer: "As of mid-2026 the litigation is in pretrial proceedings: a general-causation (Rule 702) expert hearing is set for 2026 and the first Pilot bellwether trial is scheduled for December 2026. No settlement program exists, and no outcome is guaranteed."
   -
     question: "Do Florida deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Florida residents should know</h2>
 <p>Florida residents are not necessarily limited to filing only in Florida state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>Florida: the home of the Depo-Provera MDL</h2>
+<p>Florida is the home of this litigation. On February 7, 2025, the Judicial Panel on Multidistrict Litigation centralized the federal Depo-Provera meningioma cases in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). The MDL's key pretrial events &mdash; including the general-causation expert (Rule 702) hearing and the first Pilot bellwether trial, scheduled for December 2026 &mdash; take place there, so Florida residents' federal cases proceed in their home-state forum without a separate transfer step.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/2025.02.07%20-%20325md3140%20-%20JPML%20Transfer%20Order.pdf" target="_blank" rel="noopener noreferrer">JPML Transfer Order establishing MDL No. 3140 (Feb. 7, 2025)</a>; <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>.</p>
 </section>
 
 <section id="eligibility">

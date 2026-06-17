@@ -11,15 +11,15 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-05-20"
-lastReviewed: "2026-05-20"
+lastUpdated: "2026-06-16"
+lastReviewed: "2026-06-16"
 faqs:
   -
-    question: "What is the Depo-Provera lawsuit in Georgia about?"
-    answer: "This guide explains general information for Georgia residents researching Depo-Provera claims involving meningioma brain tumor allegations."
+    question: "Where are Georgia Depo-Provera cases handled?"
+    answer: "Georgia residents' federal Depo-Provera cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Georgia cases are generally pursued in the federal MDL rather than a coordinated state-court program."
   -
-    question: "Can a Georgia resident join a national lawsuit?"
-    answer: "Possibly. Many mass tort claims are evaluated nationally or coordinated through federal proceedings, but the path depends on individual facts."
+    question: "Why does timing matter for a Georgia Depo-Provera claim?"
+    answer: "Because meningioma is often diagnosed years after use, Georgia's product-liability statute of repose (a 10-year outer limit, summarized in the deadline section on this page) and the discovery rule can determine whether a claim is timely. Only a lawyer can confirm the deadline for a specific situation."
   -
     question: "Do Georgia deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -44,6 +44,12 @@ faqs:
 <h2>What Georgia residents should know</h2>
 <p>Georgia residents are not necessarily limited to filing only in Georgia state court. Many mass tort claims may be evaluated by national firms, filed in federal court, coordinated through MDL proceedings, or handled through another legal process.</p>
 <p>State law may still matter for deadlines, damages, claim evaluation, and certain procedural issues.</p>
+</section>
+
+<section id="state-depo-provera-context">
+<h2>Where Georgia Depo-Provera cases are proceeding</h2>
+<p>Georgia residents' federal Depo-Provera meningioma cases are transferred into MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida, rather than through a coordinated Georgia state-court program. Georgia is also among the states whose product-liability claims face a statute of repose &mdash; a 10-year outer time limit shown in the deadline section on this page &mdash; which, because meningioma can be diagnosed years after use, can be decisive for older claims.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>.</p>
 </section>
 
 <section id="eligibility">
