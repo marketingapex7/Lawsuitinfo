@@ -123,8 +123,11 @@ const TITLE_NAMES: Record<string, string> = {
   "Roundup Cancer": "Roundup",
   "Suboxone Tooth Decay": "Suboxone",
   "AFFF Firefighting Foam": "AFFF",
+  "Bard Hernia Mesh": "Hernia Mesh",
+  "Bard PowerPort": "Bard PowerPort",
   "Paraquat Parkinson's": "Paraquat",
   "Depo-Provera": "Depo-Provera",
+  "Hair Relaxer": "Hair Relaxer",
   "Talcum Powder": "Talcum Powder"
 };
 
@@ -142,8 +145,11 @@ export function composeTitle(core: string): string {
 export function lawsuitSeoTitle(lawsuit: string) {
   const titles: Record<string, string> = {
     "AFFF Firefighting Foam": "AFFF Firefighting Foam Lawsuit Update 2026: Claims",
+    "Bard Hernia Mesh": "Hernia Mesh Lawsuit Update 2026: Bard MDL Status",
+    "Bard PowerPort": "Bard PowerPort Lawsuit Update 2026: MDL Status",
     "Camp Lejeune Water Contamination": "Camp Lejeune Lawsuit Update 2026: Payouts & Status",
     "Depo-Provera": "Depo-Provera Lawsuit Update 2026: Brain Tumor MDL",
+    "Hair Relaxer": "Hair Relaxer Lawsuit Update 2026: Cancer MDL Status",
     "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL Status & Eligibility",
     "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: Settlement & Claims",
     "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement & Deadlines",
@@ -195,10 +201,16 @@ export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {
   const descriptions: Record<string, string> = {
     "AFFF Firefighting Foam":
       "June 2026 AFFF firefighting foam lawsuit update: PFAS MDL status, water-system settlements, personal-injury claims, deadlines, and state pages.",
+    "Bard Hernia Mesh":
+      "June 2026 Bard hernia mesh lawsuit update: MDL-2846 status, pending cases, alleged mesh injuries, evidence, settlement posture, and deadlines.",
+    "Bard PowerPort":
+      "June 2026 Bard PowerPort lawsuit update: MDL-3081 status, catheter fracture and migration claims, records, settlement posture, and deadlines.",
     "Camp Lejeune Water Contamination":
       "June 2026 Camp Lejeune update: closed filing deadline, Elective Option payouts, pending claims, settlement status, and state guides.",
     "Depo-Provera":
       "June 2026 Depo-Provera lawsuit update: meningioma MDL status, expert hearing dates, trial schedule, records, deadlines, and state guides.",
+    "Hair Relaxer":
+      "June 2026 hair relaxer lawsuit update: MDL-3060 status, uterine and ovarian cancer claims, records, settlement posture, and deadlines.",
     "Ozempic / GLP-1":
       "June 2026 Ozempic lawsuit update: GLP-1 MDL status, Rule 702 schedule, alleged stomach injury claims, eligibility, and state guides.",
     "Paraquat Parkinson's":

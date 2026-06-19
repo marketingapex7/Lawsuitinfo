@@ -1,0 +1,98 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import { formatCount, getAllCaseData, latestPendingCount } from "@lib/caseData";
+import { datasetSchema } from "@lib/seo";
+
+const cases = getAllCaseData();
+const updated = cases.map((item) => item.dataAsOf).sort().at(-1) ?? "2026-06-19";
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Settlement Tracker", url: "/settlements/" }
+];
+const rows = cases.map((item) => ({
+  ...item,
+  headlineCount: latestPendingCount(item),
+  primarySettlement: item.settlements[0]
+}));
+---
+
+<BaseLayout
+  title="Mass Tort Settlement Tracker"
+  seoTitle="Mass Tort Settlement Tracker 2026"
+  description="Track settlement posture, public settlement programs, pending MDL counts, and source links for major mass tort and injury lawsuits."
+  canonicalPath="/settlements/"
+  breadcrumbs={breadcrumbs}
+  extraSchemas={[
+    datasetSchema({
+      name: "Mass Tort Settlement Tracker",
+      description: "Settlement status and MDL data for active mass tort and injury lawsuit guides.",
+      url: "https://lawsuitstatusguide.com/settlements/",
+      dateModified: updated,
+      variables: [
+        { name: "Case", value: `${cases.length} lawsuit guides tracked` },
+        { name: "Settlement status", value: "Public settlement posture by case" },
+        { name: "Pending actions", value: "JPML-derived where available" }
+      ]
+    })
+  ]}
+>
+  <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="max-w-3xl">
+      <h1 class="text-4xl font-black tracking-normal text-ink">Mass Tort Settlement Tracker</h1>
+      <p class="mt-4 text-lg leading-8 text-muted">
+        A case-by-case settlement-status view for the lawsuit library. Settlement posture is not a promise of payment; individual outcomes depend on injury proof, deadlines, releases, and court rulings.
+      </p>
+      <p class="mt-3 text-sm font-bold text-muted">Data last aligned: {updated}</p>
+    </header>
+
+    <section class="mt-8 overflow-hidden rounded-lg border border-line bg-white shadow-sm">
+      <div class="overflow-x-auto">
+        <table class="min-w-full divide-y divide-line text-left text-sm">
+          <thead class="bg-panel text-xs uppercase tracking-[0.08em] text-muted">
+            <tr>
+              <th class="px-4 py-3">Case</th>
+              <th class="px-4 py-3">Settlement Posture</th>
+              <th class="px-4 py-3">Pending Actions</th>
+              <th class="px-4 py-3">Source</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-line">
+            {rows.map((row) => (
+              <tr class="align-top">
+                <td class="px-4 py-4">
+                  <a class="font-bold text-accent-dark" href={`/lawsuits/${row.slug}/`}>{row.caseName}</a>
+                  <div class="mt-1 text-xs text-muted">{row.phase}</div>
+                </td>
+                <td class="px-4 py-4">
+                  <div class="font-bold text-ink">{row.primarySettlement?.status ?? "not listed"}</div>
+                  <p class="mt-1 max-w-xl leading-6 text-muted">{row.primarySettlement?.detail ?? "No public settlement entry is listed in the case database."}</p>
+                </td>
+                <td class="px-4 py-4 whitespace-nowrap">
+                  {row.headlineCount ? (
+                    <>
+                      <div class="font-bold text-ink">{formatCount(row.headlineCount.count)}</div>
+                      <div class="text-xs text-muted">{row.headlineCount.date}</div>
+                    </>
+                  ) : (
+                    <span class="text-muted">Not listed</span>
+                  )}
+                </td>
+                <td class="px-4 py-4">
+                  {row.primarySettlement?.sourceUrl ? (
+                    <a class="font-bold text-accent-dark" href={row.primarySettlement.sourceUrl}>{row.primarySettlement.source ?? "Settlement source"}</a>
+                  ) : row.headlineCount?.sourceUrl ? (
+                    <a class="font-bold text-accent-dark" href={row.headlineCount.sourceUrl}>{row.headlineCount.source}</a>
+                  ) : (
+                    <span class="text-muted">See case guide</span>
+                  )}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

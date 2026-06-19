@@ -40,6 +40,9 @@ export async function GET() {
   const entries: SitemapEntry[] = [
     { loc: "/", lastmod: newestContentDate },
     { loc: "/lawsuits/", lastmod: newestContentDate },
+    { loc: "/settlements/", lastmod: newestContentDate },
+    { loc: "/deadlines/", lastmod: newestContentDate },
+    { loc: "/mdl-statistics/", lastmod: newestContentDate },
     { loc: "/states/" },
     { loc: "/editorial-policy/" },
     { loc: "/legal-disclaimer/" },

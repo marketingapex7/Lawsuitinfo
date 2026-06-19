@@ -31,6 +31,11 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
           <a class="rounded-md bg-accent px-5 py-3 text-center text-sm font-bold text-white hover:bg-accent-dark" href="/lawsuits/">View Lawsuit Guides</a>
           <a class="rounded-md border border-line bg-white px-5 py-3 text-center text-sm font-bold text-ink hover:bg-panel" href="/states/">Browse by State</a>
         </div>
+        <div class="mt-5 flex flex-wrap gap-3 text-sm font-bold text-accent-dark">
+          <a href="/settlements/">Settlement tracker</a>
+          <a href="/deadlines/">Deadline tracker</a>
+          <a href="/mdl-statistics/">MDL statistics</a>
+        </div>
       </div>
     </div>
   </section>
@@ -77,6 +82,25 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
         <CategoryCard title="Defective Drugs" description="Medication-focused claims involving alleged injuries after prescription or clinical use." href="/categories/defective-drugs/" />
         <CategoryCard title="Toxic Exposure" description="Claims involving alleged chemical, pesticide, PFAS, or environmental exposure injuries." href="/categories/toxic-exposure/" />
         <CategoryCard title="Product Liability" description="A broad view of product-related injury claims in the launch lawsuit library." href="/categories/product-liability/" />
+      </div>
+    </section>
+
+    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
+      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
+      <h2 class="text-2xl font-bold text-ink">Track Case Data</h2>
+      <div class="mt-5 grid gap-4 md:grid-cols-3">
+        <a class="rounded-lg border border-line bg-panel p-4 hover:border-accent/50" href="/settlements/">
+          <h3 class="text-lg font-bold text-ink">Settlement Tracker</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">Public settlement posture, pending counts, and source links by case.</p>
+        </a>
+        <a class="rounded-lg border border-line bg-panel p-4 hover:border-accent/50" href="/deadlines/">
+          <h3 class="text-lg font-bold text-ink">Deadline Tracker</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">Court dates, filing-window notes, and state deadline reminders.</p>
+        </a>
+        <a class="rounded-lg border border-line bg-panel p-4 hover:border-accent/50" href="/mdl-statistics/">
+          <h3 class="text-lg font-bold text-ink">MDL Statistics</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">Pending-action counts, courts, judges, and JPML source links.</p>
+        </a>
       </div>
     </section>
 

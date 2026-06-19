@@ -1,0 +1,92 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import { getAllCaseData } from "@lib/caseData";
+import { datasetSchema } from "@lib/seo";
+
+const cases = getAllCaseData();
+const today = "2026-06-19";
+const updated = cases.map((item) => item.dataAsOf).sort().at(-1) ?? today;
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Deadline Tracker", url: "/deadlines/" }
+];
+const upcomingDates = cases
+  .flatMap((item) =>
+    item.keyDates
+      .filter((date) => date.date >= today)
+      .map((date) => ({ caseName: item.caseName, slug: item.slug, ...date }))
+  )
+  .sort((a, b) => a.date.localeCompare(b.date));
+---
+
+<BaseLayout
+  title="Mass Tort Deadline Tracker"
+  seoTitle="Mass Tort Deadline Tracker 2026"
+  description="Track major public lawsuit deadlines, filing-window notes, final approval hearings, and state deadline reminders for mass tort lawsuits."
+  canonicalPath="/deadlines/"
+  breadcrumbs={breadcrumbs}
+  extraSchemas={[
+    datasetSchema({
+      name: "Mass Tort Deadline Tracker",
+      description: "Public deadline and key-date tracker for active mass tort and injury lawsuit guides.",
+      url: "https://lawsuitstatusguide.com/deadlines/",
+      dateModified: updated,
+      variables: [
+        { name: "Upcoming key dates", value: `${upcomingDates.length} future public dates listed` },
+        { name: "State deadlines", value: "Varies by state and individual facts" }
+      ]
+    })
+  ]}
+>
+  <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="max-w-3xl">
+      <h1 class="text-4xl font-black tracking-normal text-ink">Mass Tort Deadline Tracker</h1>
+      <p class="mt-4 text-lg leading-8 text-muted">
+        A research page for major public litigation dates and deadline warnings. State statutes of limitations can be separate from MDL court dates and may depend on diagnosis, discovery, death, or prior settlement history.
+      </p>
+      <p class="mt-3 text-sm font-bold text-muted">Data last aligned: {updated}</p>
+    </header>
+
+    <section class="mt-8 grid gap-4 md:grid-cols-2">
+      <div class="rounded-lg border border-line bg-white p-5 shadow-sm">
+        <h2 class="text-2xl font-bold text-ink">Upcoming Public Dates</h2>
+        <div class="mt-4 space-y-4">
+          {upcomingDates.length > 0 ? upcomingDates.map((item) => (
+            <article class="border-b border-line pb-4 last:border-0 last:pb-0">
+              <p class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{item.date}</p>
+              <h3 class="mt-1 text-base font-bold text-ink">
+                <a class="text-accent-dark" href={`/lawsuits/${item.slug}/`}>{item.caseName}</a>: {item.label}
+              </h3>
+              {item.detail && <p class="mt-1 text-sm leading-6 text-muted">{item.detail}</p>}
+            </article>
+          )) : (
+            <p class="text-sm leading-6 text-muted">No future public court dates are currently listed in the case database.</p>
+          )}
+        </div>
+      </div>
+
+      <div class="rounded-lg border border-line bg-white p-5 shadow-sm">
+        <h2 class="text-2xl font-bold text-ink">State Deadline Reminder</h2>
+        <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
+          <p>Most injury claims do not have one national filing deadline. A deadline may depend on state law, diagnosis date, discovery facts, exposure location, product-use history, wrongful-death status, and prior settlement or release paperwork.</p>
+          <p>Camp Lejeune is different from many open mass torts because the administrative filing window closed in August 2024. Other cases may still require state-by-state deadline review.</p>
+          <p>Use this page as an issue spotter, then review the case guide and relevant state guide for local context.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="mt-8 rounded-lg border border-line bg-white p-5 shadow-sm">
+      <h2 class="text-2xl font-bold text-ink">Case-by-Case Deadline Notes</h2>
+      <div class="mt-5 grid gap-4 md:grid-cols-2">
+        {cases.map((item) => (
+          <article class="rounded-lg border border-line bg-panel p-4">
+            <h3 class="text-base font-bold text-ink"><a class="text-accent-dark" href={`/lawsuits/${item.slug}/`}>{item.caseName}</a></h3>
+            <p class="mt-2 text-sm leading-6 text-muted">{item.deadlineOverride ?? "Filing deadlines generally vary by state and individual facts; review diagnosis, exposure or implant dates, discovery facts, wrongful-death issues, and prior claim paperwork."}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>

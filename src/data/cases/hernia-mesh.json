@@ -1,0 +1,56 @@
+{
+  "slug": "hernia-mesh",
+  "caseName": "Bard Hernia Mesh Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-2846",
+    "mdlName": "In re: Davol, Inc./C.R. Bard, Inc., Polypropylene Hernia Mesh Products Liability Litigation",
+    "court": "U.S. District Court, Southern District of Ohio",
+    "courtShort": "S.D. Ohio",
+    "judge": "Judge Edmund A. Sargus, Jr.",
+    "established": "2018-08-02"
+  },
+  "phase": "Large active MDL with settlement and trial activity",
+  "phaseDetail": "Federal Bard polypropylene hernia mesh cases are coordinated in MDL-2846 in the Southern District of Ohio. Claims generally allege chronic pain, infection, adhesions, recurrence, bowel complications, mesh failure, or revision surgery after hernia mesh implantation. Defendants dispute liability and causation.",
+  "pendingCounts": [
+    {
+      "date": "2026-06-01",
+      "count": 23573,
+      "scope": "Pending actions in MDL-2846",
+      "source": "JPML MDL Statistics Report, June 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf",
+      "primary": true
+    }
+  ],
+  "defendants": [
+    "Davol, Inc.",
+    "C.R. Bard, Inc.",
+    "Becton, Dickinson and Company"
+  ],
+  "settlements": [
+    {
+      "label": "Settlement posture",
+      "status": "case-specific / no single public global amount",
+      "detail": "The litigation has involved settlement activity and individual case resolution, but no single court-approved global public settlement amount resolves all claims. Individual outcomes depend on product, injury, revision surgery, and proof."
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2018-08-02",
+      "label": "MDL-2846 established",
+      "detail": "JPML centralized federal Bard polypropylene hernia mesh cases in the Southern District of Ohio."
+    },
+    {
+      "date": "2026-06-01",
+      "label": "23,573 actions pending",
+      "detail": "JPML's June 2026 monthly report listed 23,573 pending actions in MDL-2846."
+    }
+  ],
+  "sources": [
+    {
+      "name": "JPML - Pending MDL Dockets, June 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    }
+  ],
+  "dataAsOf": "2026-06-19"
+}
