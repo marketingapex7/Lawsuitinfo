@@ -36,6 +36,12 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-05-30"
 faqs:
   -
+    question: "How much are Paraquat lawsuit settlements worth?"
+    answer: "A confidential Master Settlement Agreement was signed in August 2025, but its terms, tiers, and per-claim values are not public — any specific payout figures circulating online are speculation. Whether a person participates, opts out, or qualifies depends on exposure proof, Parkinson's diagnosis records, and counsel's advice. No amount is guaranteed."
+  -
+    question: "Is the Paraquat lawsuit a class action?"
+    answer: "No. Federal paraquat cases are coordinated as multidistrict litigation (MDL-3004) in the Southern District of Illinois, where each plaintiff keeps an individual claim. A confidential master settlement is being administered, but each claimant decides whether to participate or opt out."
+  -
     question: "What is the Paraquat lawsuit about?"
     answer: "Lawsuits allege that paraquat exposure may be linked to Parkinson's disease and that warnings may have been inadequate."
   -
@@ -72,6 +78,7 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
+<p><strong>The Paraquat lawsuit alleges that exposure to the weed killer paraquat causes Parkinson's disease and that the makers failed to warn users.</strong> Federal cases are consolidated in MDL-3004 before Chief Judge Nancy J. Rosenstengel in the U.S. District Court for the Southern District of Illinois. A confidential Master Settlement Agreement signed in August 2025 is being administered under court supervision; its terms are confidential, participation is individual, and the defendants — Syngenta and Chevron — dispute the claims.</p>
 <p>As of June 2026, Paraquat litigation is active but centered on administration of a confidential Master Settlement Agreement signed August 4, 2025. MDL No. 3004 has 6,651 pending cases, and the court has ordered targeted opt-out plaintiff depositions while the settlement process continues.</p>
 <p>Paraquat lawsuits allege that exposure to the restricted-use herbicide may be associated with Parkinson's disease and that warnings were inadequate. Claim review usually turns on paraquat-specific exposure proof, Parkinson's diagnosis records, opt-out or settlement posture, and state filing deadlines. Defendants dispute exposure, causation, warnings, liability, and damages.</p>
 </section>

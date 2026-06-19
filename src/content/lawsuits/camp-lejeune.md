@@ -73,6 +73,7 @@ faqs:
 
 <section id="overview">
 <h2>What the Camp Lejeune claims are about</h2>
+<p><strong>Camp Lejeune claims seek compensation from the U.S. government, under the Camp Lejeune Justice Act, for people exposed to contaminated drinking water at Marine Corps Base Camp Lejeune between 1953 and 1987 who later developed cancer or other illnesses.</strong> The filing deadline closed on August 10, 2024, so the focus now is on claims already filed: about 407,000 administrative claims were filed with the Navy, 3,744 lawsuits are pending in the U.S. District Court for the Eastern District of North Carolina, and the government's Elective Option has paid out hundreds of millions of dollars in settlements.</p>
 <p>As of June 2026, new Camp Lejeune Justice Act claims are generally barred because the filing window closed on August 10, 2024, but timely filed claims remain active. Public figures show roughly 407,000 Navy administrative claims, 3,744 lawsuits in the Eastern District of North Carolina, and more than $665 million paid through May 15, 2026.</p>
 <p>The claims involve drinking-water contamination at Marine Corps Base Camp Lejeune between 1953 and 1987. Pending claim review usually turns on proof of at least 30 days at the base, medical diagnosis records, Navy claim status, Elective Option documents, and estate or offset issues where applicable. The process is federal and is not reopened by living in a different state now.</p>
 </section>

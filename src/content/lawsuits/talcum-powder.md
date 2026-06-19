@@ -66,6 +66,7 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
+<p><strong>The talcum powder lawsuit alleges that Johnson & Johnson talc products such as Johnson's Baby Powder caused ovarian cancer and mesothelioma, and that the company failed to warn users.</strong> Federal ovarian-cancer cases are consolidated in MDL-2738 before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, and no global settlement exists after three failed "Texas Two-Step" bankruptcies. Johnson & Johnson disputes the claims and says its talc is asbestos-free.</p>
 <p>As of June 2026, the Johnson & Johnson talcum powder litigation is one of the largest mass torts in the country: about 68,029 cases were pending in MDL-2738 as of June 1, 2026 — the largest active multidistrict litigation by pending actions — and individual cases are again going to trial after J&J's third bankruptcy attempt collapsed.</p>
 <p>Talcum powder lawsuits allege that talc-based products such as Johnson's Baby Powder and Shower to Shower caused ovarian cancer, or mesothelioma linked to asbestos that can be found with talc, and that the companies failed to warn users. Johnson & Johnson disputes the claims and maintains its talc is safe and does not contain asbestos. Claim review usually turns on product-use history, pathology and diagnosis records, timing, and state filing deadlines.</p>
 </section>

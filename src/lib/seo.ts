@@ -141,7 +141,7 @@ export function composeTitle(core: string): string {
 
 export function lawsuitSeoTitle(lawsuit: string) {
   const titles: Record<string, string> = {
-    "AFFF Firefighting Foam": "AFFF Lawsuit Update 2026: PFAS Settlement & Claims",
+    "AFFF Firefighting Foam": "AFFF Firefighting Foam Lawsuit Update 2026: Claims",
     "Camp Lejeune Water Contamination": "Camp Lejeune Lawsuit Update 2026: Payouts & Status",
     "Depo-Provera": "Depo-Provera Lawsuit Update 2026: Brain Tumor MDL",
     "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL Status & Eligibility",
@@ -194,7 +194,7 @@ function fitMetaDescription(description: string, shortSuffix: string) {
 export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {
   const descriptions: Record<string, string> = {
     "AFFF Firefighting Foam":
-      "June 2026 AFFF lawsuit update: PFAS MDL status, public water settlements, personal injury claims, deadlines, evidence, and state pages.",
+      "June 2026 AFFF firefighting foam lawsuit update: PFAS MDL status, water-system settlements, personal-injury claims, deadlines, and state pages.",
     "Camp Lejeune Water Contamination":
       "June 2026 Camp Lejeune update: closed filing deadline, Elective Option payouts, pending claims, settlement status, and state guides.",
     "Depo-Provera":

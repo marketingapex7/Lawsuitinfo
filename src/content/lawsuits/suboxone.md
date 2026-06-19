@@ -38,6 +38,12 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
+    question: "How much are Suboxone tooth-decay settlements worth?"
+    answer: "No settlement has been reached in the Suboxone dental-injury MDL as of June 2026, so there are no settlement amounts, and any figures circulating online are speculation. The case is in bellwether discovery; settlement posture typically takes shape after early trials. No amount is guaranteed for any individual claim."
+  -
+    question: "Is the Suboxone lawsuit a class action?"
+    answer: "No. The federal Suboxone tooth-decay cases are coordinated as multidistrict litigation (MDL-3092), not a class action; each plaintiff keeps an individual claim coordinated for pretrial proceedings."
+  -
     question: "What is the Suboxone tooth decay lawsuit about?"
     answer: "Lawsuits allege that some users suffered severe dental injuries after Suboxone use and that warnings may have been inadequate."
   -
@@ -74,6 +80,7 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
+<p><strong>The Suboxone lawsuit alleges that the dissolvable Suboxone film (buprenorphine/naloxone) caused severe tooth decay and dental injuries, and that the maker, Indivior, failed to warn patients.</strong> Federal cases are consolidated in MDL-3092 before Judge J. Philip Calabrese in the U.S. District Court for the Northern District of Ohio, where bellwether selection is underway. No settlement has been announced, and defendants dispute the claims.</p>
 <p>As of June 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,833 pending cases. The court's first 20 core-discovery-pool cases were scheduled for random selection on June 10, 2026, and no settlement program or court-set trial date has been announced.</p>
 <p>Suboxone lawsuits allege that film or other oral buprenorphine/naloxone products dissolved in the mouth may be linked to severe tooth decay, tooth loss, extractions, and other dental injuries, and that warnings were inadequate. Claim review usually focuses on prescription records, dental records before and after use, injury timing, and state filing deadlines. Defendants dispute the claims.</p>
 </section>

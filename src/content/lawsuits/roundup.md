@@ -36,6 +36,12 @@ lastUpdated: "2026-06-16"
 lastReviewed: "2026-06-11"
 faqs:
   -
+    question: "How much are Roundup lawsuit settlements worth?"
+    answer: "Roundup settlements and verdicts have varied widely by case; Bayer has paid billions across earlier programs since 2020, and a proposed $7.25 billion nationwide class settlement is pending final approval. Any per-person figure depends on diagnosis, exposure, and individual facts — no amount is guaranteed, and figures circulating online are not promises."
+  -
+    question: "Is the Roundup lawsuit a class action or an MDL?"
+    answer: "Both exist. Federal Roundup cases are coordinated as multidistrict litigation (MDL-2741) in the Northern District of California, where each plaintiff keeps an individual claim, while a separate proposed nationwide class settlement is pending court approval. Many earlier cases were also tried individually in state courts."
+  -
     question: "What is the Roundup lawsuit about?"
     answer: "Lawsuits allege that glyphosate-based Roundup exposure may be linked to non-Hodgkin lymphoma and that warnings were inadequate."
   -
@@ -72,6 +78,7 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
+<p><strong>The Roundup lawsuit alleges that Bayer's Monsanto weed killer Roundup (glyphosate) causes non-Hodgkin lymphoma and that the company failed to warn users.</strong> Federal cases are consolidated in MDL-2741 before Judge Vince Chhabria in the U.S. District Court for the Northern District of California; a proposed $7.25 billion nationwide class settlement is pending final approval, and the U.S. Supreme Court is weighing a related failure-to-warn preemption question in <em>Monsanto v. Durnell</em>. Bayer disputes the cancer claims, and Roundup remains on the market.</p>
 <p>As of June 2026, Roundup cancer litigation remains active but settlement-focused: 3,909 federal cases are pending in MDL No. 2741, a $7.25 billion proposed class settlement has a July 9, 2026 final approval hearing, and the U.S. Supreme Court is considering a separate failure-to-warn preemption issue in <em>Monsanto v. Durnell</em>.</p>
 <p>Roundup lawsuits allege that glyphosate-based herbicide exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate. Claim review usually turns on exposure history, diagnosis records, prior settlement or release paperwork, and state filing deadlines. Defendants dispute the allegations, and this page cannot determine whether any person qualifies for a claim.</p>
 </section>
