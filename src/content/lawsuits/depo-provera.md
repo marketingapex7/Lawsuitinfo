@@ -38,7 +38,19 @@ lastReviewed: "2026-06-11"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
-    answer: "Lawsuits allege that some users developed meningioma brain tumors after Depo-Provera use and that warnings may have been inadequate."
+    answer: "Lawsuits allege that long-term use of the birth-control injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to adequately warn users. Federal cases are consolidated in MDL-3140 before Judge M. Casey Rodgers in the Northern District of Florida. Defendants dispute the claims."
+  -
+    question: "Who qualifies for a Depo-Provera lawsuit?"
+    answer: "There is no automatic qualification rule. Claim review commonly looks for documented Depo-Provera use (injection or pharmacy records), a meningioma diagnosis confirmed by imaging or pathology, the timing between use and diagnosis, and the state filing deadline. Long-term use is a recurring theme in filed cases."
+  -
+    question: "How much are Depo-Provera lawsuit settlements worth?"
+    answer: "No settlements have been reached as of June 2026, so there are no official settlement amounts, and any payout figures circulating online are speculation. MDL-3140 is still in pretrial proceedings, with a general-causation hearing in June 2026 and the first bellwether trial set for December 2026. No amount is guaranteed for any individual claim."
+  -
+    question: "Where is the Depo-Provera MDL, and is it a class action?"
+    answer: "Federal Depo-Provera cases are consolidated as multidistrict litigation — MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). It is not a class action: each plaintiff keeps an individual claim that is coordinated for pretrial proceedings."
+  -
+    question: "When are the first Depo-Provera trials?"
+    answer: "Under Case Management Order No. 9, the first Pilot bellwether trial is scheduled for December 7, 2026. Before then, a joint general-causation (Rule 702 / Daubert) expert hearing is set for June 24-26, 2026, and a federal-preemption ruling is pending; both are gateway decisions for the MDL."
   -
     question: "Does a Depo-Provera diagnosis mean I have a claim?"
     answer: "No. Eligibility depends on individual facts, records, timing, diagnosis, and applicable law."
@@ -64,8 +76,8 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p>As of June 2026, Depo-Provera meningioma litigation is active and growing quickly, with 5,508 cases pending in MDL No. 3140. The next major event is a joint Rule 702 expert hearing scheduled for June 24-26, 2026, followed by the first Pilot bellwether trial currently scheduled for December 7, 2026.</p>
-<p>Depo-Provera lawsuits allege that long-term use of depot medroxyprogesterone acetate injections may be associated with meningioma brain tumors and that users were not adequately warned. Claim review usually focuses on injection records, diagnosis and imaging records, surgery or radiation history, warning timing, and state filing deadlines. Defendants dispute the claims.</p>
+<p><strong>The Depo-Provera lawsuit is a federal product-liability case alleging that the birth-control injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to warn users.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Defendants dispute the claims, and no settlement has been reached.</p>
+<p>As of June 2026 it is one of the fastest-growing active MDLs, with thousands of cases pending. The next milestones are a joint general-causation (Rule 702 / Daubert) expert hearing on June 24–26, 2026 and the first Pilot bellwether trial, scheduled for December 7, 2026; a pending federal-preemption ruling could also reshape the litigation. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
 </section>
 
 <section id="latest-update">
@@ -78,13 +90,15 @@ faqs:
 <section id="case-status-snapshot">
 <h2>Case Status Snapshot</h2>
 <ul>
-<li><strong>Status:</strong> Active / Investigating</li>
-<li><strong>Primary injury:</strong> Meningioma brain tumors</li>
-<li><strong>Main product/exposure:</strong> Depo-Provera and related depot medroxyprogesterone acetate injections</li>
-<li><strong>MDL or court context:</strong> MDL No. 3140, Northern District of Florida</li>
-<li><strong>Settlement status:</strong> No confirmed global settlement; litigation appears to be in active pretrial development</li>
-<li><strong>Key deadline:</strong> Filing deadlines vary by state, diagnosis date, discovery facts, and other claim-specific issues</li>
-<li><strong>State law relevance:</strong> State law may affect limitations periods, warning claims, damages, and wrongful death issues</li>
+<li><strong>Litigation:</strong> federal multidistrict litigation — MDL-3140 (the Depo-Provera meningioma litigation)</li>
+<li><strong>Court:</strong> U.S. District Court, Northern District of Florida (Pensacola)</li>
+<li><strong>Judge:</strong> M. Casey Rodgers</li>
+<li><strong>MDL created:</strong> February 7, 2025</li>
+<li><strong>Pending actions:</strong> 5,508 (JPML, June 1, 2026) — among the fastest-growing active MDLs</li>
+<li><strong>Defendants:</strong> Pfizer Inc.; Pharmacia &amp; Upjohn</li>
+<li><strong>Primary injury:</strong> intracranial meningioma brain tumors</li>
+<li><strong>Next milestones:</strong> Rule 702 hearing June 24–26, 2026; first Pilot trial December 7, 2026</li>
+<li><strong>Settlement status:</strong> none as of June 2026; no amount guaranteed</li>
 </ul>
 </section>
 
