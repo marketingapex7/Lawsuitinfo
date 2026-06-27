@@ -144,14 +144,14 @@ export function composeTitle(core: string): string {
 
 export function lawsuitSeoTitle(lawsuit: string) {
   const titles: Record<string, string> = {
-    "AFFF Firefighting Foam": "AFFF Firefighting Foam Lawsuit Update 2026: Claims",
+    "AFFF Firefighting Foam": "AFFF Lawsuit Update 2026: MDL 2873 & Settlements",
     "Bard Hernia Mesh": "Hernia Mesh Lawsuit Update 2026: Bard MDL Status",
     "Bard PowerPort": "Bard PowerPort Lawsuit Update 2026: MDL Status",
     "Camp Lejeune Water Contamination": "Camp Lejeune Lawsuit Update 2026: Payouts & Status",
     "Depo-Provera": "Depo-Provera Lawsuit Update 2026: Brain Tumor MDL",
     "Hair Relaxer": "Hair Relaxer Lawsuit Update 2026: Cancer MDL Status",
     "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL Status & Eligibility",
-    "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: Settlement & Claims",
+    "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: Settlement & Parkinson's",
     "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement & Deadlines",
     "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: Dental Injury MDL",
     "Talcum Powder": "Talcum Powder Lawsuit Update 2026: MDL & Verdicts"
@@ -200,7 +200,7 @@ function fitMetaDescription(description: string, shortSuffix: string) {
 export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {
   const descriptions: Record<string, string> = {
     "AFFF Firefighting Foam":
-      "June 2026 AFFF firefighting foam lawsuit update: PFAS MDL status, water-system settlements, personal-injury claims, deadlines, and state pages.",
+      "June 2026 AFFF lawsuit update: MDL 2873 status, PFAS claims, water-system settlements, personal-injury deadlines, and state pages.",
     "Bard Hernia Mesh":
       "June 2026 Bard hernia mesh lawsuit update: MDL-2846 status, pending cases, alleged mesh injuries, evidence, settlement posture, and deadlines.",
     "Bard PowerPort":

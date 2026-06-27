@@ -1,6 +1,6 @@
 ---
 title: "Paraquat Parkinson's Lawsuit Guide"
-description: "Plain-English guide to Paraquat Parkinson's lawsuits, alleged herbicide exposure claims, qualifications, settlement status, deadlines, and state resources."
+description: "June 2026 Paraquat lawsuit update covering Parkinson's claims, confidential settlement administration, exposure proof, deadlines, and state resources."
 lawsuit: "Paraquat Parkinson's"
 urlSlug: "paraquat"
 category: "Toxic Exposure"
@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-16"
+lastUpdated: "2026-06-27"
 lastReviewed: "2026-05-30"
 faqs:
   -
@@ -88,6 +88,12 @@ faqs:
 <p>The dominant development in MDL No. 3004 is settlement administration. A <strong>confidential Master Settlement Agreement was signed on August 4, 2025</strong>, a qualified settlement fund is being established, and a lien-resolution administrator was appointed in early 2026. As of June 1, 2026, <strong>6,651 cases</strong> remained pending in the MDL per the JPML's monthly report, and new cases continue to transfer in.</p>
 <p>In early June 2026, Chief Judge Nancy J. Rosenstengel ordered depositions of opt-out plaintiffs at several firms amid reported high opt-out rates — a sign that participation decisions, not trial dates, are the litigation's current battleground. Bellwether trial settings remain vacated while the program is administered.</p>
 <p>For people researching the case, the practical point is unchanged: documentation drives everything. Records or witness information tying a person to paraquat mixing, loading, spraying, drift, equipment cleaning, or nearby application — plus Parkinson's diagnosis records — matter more than settlement headlines, because the settlement's terms are confidential and individual qualification is fact-specific.</p>
+</section>
+
+<section id="paraquat-settlement-amounts">
+<h2>Are Paraquat lawsuit settlement amounts public?</h2>
+<p>No public Paraquat settlement amount, payout grid, or average per-person value has been released for individual Parkinson's claims. The current settlement program is confidential, so online figures describing specific Paraquat settlement amounts should be treated as speculation unless they are tied to a filed court record or a claimant's own counsel.</p>
+<p>For claim review, the more useful question is whether the person can document paraquat exposure and Parkinson's disease in a way that fits the current litigation posture. Farm, applicator, co-op, employer, spray-log, product-use, neurology, and diagnosis records are often more important than an advertised settlement estimate.</p>
 </section>
 
 <section id="case-status-snapshot">

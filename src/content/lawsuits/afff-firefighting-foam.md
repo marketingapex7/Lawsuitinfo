@@ -1,6 +1,6 @@
 ---
 title: "AFFF Firefighting Foam Lawsuit Guide"
-description: "Plain-English guide to AFFF firefighting foam lawsuits, PFAS exposure claims, qualifying injuries, settlement status, deadlines, and state resources."
+description: "June 2026 AFFF lawsuit update covering MDL 2873, PFAS claims, water-system settlements, personal-injury status, deadlines, and state resources."
 lawsuit: "AFFF Firefighting Foam"
 urlSlug: "afff-pfas"
 category: "Toxic Exposure"
@@ -33,7 +33,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-16"
+lastUpdated: "2026-06-27"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -82,6 +82,12 @@ faqs:
 <p><strong>The AFFF firefighting foam lawsuit alleges that PFAS &ldquo;forever chemicals&rdquo; in aqueous film-forming foam caused cancers and other diseases in firefighters, military personnel, airport and industrial workers, and people near contaminated water.</strong> Federal personal-injury cases are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Multibillion-dollar settlements with 3M, DuPont/Chemours/Corteva, Tyco, and BASF compensate public water systems &mdash; not individuals &mdash; so personal-injury claims remain separate and ongoing, and defendants dispute them.</p>
 <p>As of June 2026, AFFF/PFAS litigation remains one of the largest active mass torts, with 15,240 cases pending in MDL No. 2873. Public water-system settlements have been finalized, but individual personal-injury claims remain separate and no personal-injury settlement has been announced.</p>
 <p>AFFF lawsuits allege that PFAS-containing firefighting foam exposed firefighters, military personnel, airport workers, industrial workers, and nearby communities to chemicals linked in claims to serious disease. Claim review usually focuses on exposure source, diagnosis records, water or worksite documentation, and state deadlines. Defendants dispute exposure, causation, warnings, liability, and damages.</p>
+</section>
+
+<section id="mdl-2873-settlement-update">
+<h2>What is the latest MDL 2873 settlement update?</h2>
+<p>MDL No. 2873 includes both public water-system contamination claims and individual personal-injury claims, and those tracks should not be treated as the same settlement. The public water-system settlements are large and documented, but they resolve utility contamination claims rather than firefighter, military, airport, industrial, or resident injury claims.</p>
+<p>For individual AFFF personal-injury claims, the practical June 2026 update is that no global personal-injury settlement has been announced. Claim review still turns on exposure documentation, disease category, diagnosis timing, medical proof, and the state deadline that applies to the person's facts.</p>
 </section>
 
 <section id="latest-update">
