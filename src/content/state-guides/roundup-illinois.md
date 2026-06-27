@@ -11,7 +11,7 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-06-16"
+lastUpdated: "2026-06-19"
 lastReviewed: "2026-06-16"
 faqs:
   -
@@ -55,12 +55,18 @@ faqs:
 
 <section id="eligibility">
 <h2>Possible eligibility factors</h2>
-<p>Illinois residents may want to speak with a lawyer if they used or were exposed to Roundup and glyphosate-based herbicide products and later experienced non-Hodgkin lymphoma.</p>
+<p>Illinois residents researching a Roundup cancer lawsuit often have agricultural, applicator, landscaping, municipal, or residential exposure questions. Claim review usually starts with a clear product-use timeline and medical records confirming non-Hodgkin lymphoma or a related lymphoma subtype.</p>
 <ul>
-<li>Use, prescription, employment, service, or exposure history.</li>
-<li>Medical diagnosis and treatment records.</li>
+<li>Roundup use, pesticide-application, farm, landscaping, groundskeeping, golf-course, school, park, municipal, or residential exposure history.</li>
+<li>Medical diagnosis, pathology, oncology, and treatment records.</li>
 <li>Approximate dates of use, exposure, diagnosis, and treatment.</li>
-<li>Information about prior conditions, alternative exposures, or other facts a lawyer may need to evaluate.</li>
+<li>Information about prior settlements, releases, opt-out paperwork, other pesticide exposure, or other facts a lawyer may need to evaluate.</li>
 </ul>
+</section>
+
+<section id="illinois-roundup-deadlines">
+<h2>How do Illinois Roundup lawsuit deadlines work?</h2>
+<p>Illinois deadline review can depend on diagnosis date, discovery facts, exposure history, death date in a wrongful-death matter, and any prior claim or settlement paperwork. Because Roundup litigation has been public for years, diagnosis timing and discovery facts can matter in older claims.</p>
+<p>Illinois residents should gather first and last exposure dates, work or applicator records, diagnosis date, treatment records, and any prior Roundup paperwork before assuming a claim is timely or expired.</p>
 </section>
 

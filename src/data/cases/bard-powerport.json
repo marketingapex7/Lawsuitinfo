@@ -1,0 +1,56 @@
+{
+  "slug": "bard-powerport",
+  "caseName": "Bard PowerPort Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3081",
+    "mdlName": "In re: Bard Implanted Port Catheter Products Liability Litigation",
+    "court": "U.S. District Court, District of Arizona",
+    "courtShort": "D. Ariz.",
+    "judge": "Senior Judge David G. Campbell",
+    "established": "2023-08-08"
+  },
+  "phase": "Active pretrial coordination",
+  "phaseDetail": "Federal Bard implanted port catheter cases are coordinated in MDL-3081 in the District of Arizona. Claims generally allege catheter fracture, migration, infection, thrombosis, embolization, or removal complications involving implanted port devices. Defendants dispute the allegations.",
+  "pendingCounts": [
+    {
+      "date": "2026-06-01",
+      "count": 3376,
+      "scope": "Pending actions in MDL-3081",
+      "source": "JPML MDL Statistics Report, June 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf",
+      "primary": true
+    }
+  ],
+  "defendants": [
+    "Becton, Dickinson and Company",
+    "C.R. Bard, Inc.",
+    "Bard Access Systems, Inc."
+  ],
+  "settlements": [
+    {
+      "label": "Global settlement",
+      "status": "none announced",
+      "detail": "No global public settlement has been announced for the federal MDL. Case value and eligibility depend on device proof, injury proof, causation, and individual facts."
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2023-08-08",
+      "label": "MDL-3081 established",
+      "detail": "JPML centralized federal Bard implanted port catheter cases in the District of Arizona."
+    },
+    {
+      "date": "2026-06-01",
+      "label": "3,376 actions pending",
+      "detail": "JPML's June 2026 monthly report listed 3,376 pending actions in MDL-3081."
+    }
+  ],
+  "sources": [
+    {
+      "name": "JPML - Pending MDL Dockets, June 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    }
+  ],
+  "dataAsOf": "2026-06-19"
+}

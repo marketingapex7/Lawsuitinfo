@@ -66,6 +66,10 @@ export function getCaseData(slug: string): CaseData | undefined {
   return cases.get(slug);
 }
 
+export function getAllCaseData(): CaseData[] {
+  return Array.from(cases.values()).sort((a, b) => a.caseName.localeCompare(b.caseName));
+}
+
 export function latestPendingCount(data: CaseData) {
   // Deterministic headline selection: an explicit `primary: true` entry wins;
   // otherwise the newest date wins, with ties going to the earliest array entry.

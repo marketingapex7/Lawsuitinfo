@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-16"
+lastUpdated: "2026-06-19"
 lastReviewed: "2026-06-11"
 faqs:
   -
@@ -161,6 +161,24 @@ faqs:
 <p>A Roundup claim review usually begins with exposure history. Relevant records may include purchase receipts, employment records, landscaping or groundskeeping job descriptions, farm records, pesticide application logs, photographs of product containers, invoices, property maintenance records, and witness statements. The review may look at how many years the person used Roundup, how often it was applied, whether concentrate was mixed, and whether exposure involved skin contact, inhalation, spills, or overspray.</p>
 <p>Medical records are equally important. Oncology records, pathology reports, biopsy records, chemotherapy records, radiation records, transplant records, recurrence history, and records identifying the type of non-Hodgkin lymphoma may be needed. A lawyer may also ask about diagnosis date, symptoms, treatment course, remission, recurrence, and long-term effects.</p>
 <p>Causation review may consider latency, duration of exposure, intensity of exposure, other pesticide or chemical exposure, family history, immune conditions, age, prior cancers, and other medical risk factors. A strong claim review usually depends on both documented exposure and confirmed diagnosis.</p>
+</section>
+
+<section id="roundup-proof-needed">
+<h2>What proof do you need for a Roundup lawsuit?</h2>
+<p>People often ask what proof is needed for a Roundup lawsuit. The short answer is that a reviewer usually needs both sides of the claim: records showing Roundup or glyphosate exposure and medical records confirming non-Hodgkin lymphoma or another diagnosis being evaluated.</p>
+<ul>
+<li><strong>Exposure proof:</strong> Purchase receipts, product photos, pesticide application logs, farm records, landscaping records, groundskeeping duties, employer records, invoices, or witness statements.</li>
+<li><strong>Use details:</strong> Approximate years of use, frequency, whether concentrate was mixed, whether protective equipment was used, and whether exposure happened at work, home, or both.</li>
+<li><strong>Medical proof:</strong> Diagnosis records, pathology reports, oncology records, treatment records, recurrence records, and documents identifying the lymphoma subtype.</li>
+<li><strong>Timing proof:</strong> First and last known exposure dates, diagnosis date, treatment timeline, death date if applicable, and any prior settlement or release paperwork.</li>
+</ul>
+<p>Missing receipts do not always end the analysis, but vague exposure history can make review harder. A person with no product records may still gather job descriptions, co-worker statements, photographs, property-maintenance documents, or family statements that explain repeated Roundup use.</p>
+</section>
+
+<section id="roundup-settlement-timing">
+<h2>When will Roundup settlements be paid?</h2>
+<p>There is no single payment date for all Roundup claims. Earlier settlements, individual state-court cases, MDL cases, and the pending 2026 proposed nationwide class settlement may follow different timelines. The proposed class settlement has a final approval hearing scheduled for July 9, 2026, but court approval, objections, appeals, eligibility review, claim administration, releases, and individual documentation can all affect timing.</p>
+<p>For individual claims, a payment timeline may depend on whether the claim is already resolved, whether a release was signed, whether lien resolution is required, and whether the person is participating in a specific settlement program. Search results that promise a universal payout date should be treated cautiously unless they cite the settlement administrator, court order, or docket.</p>
 </section>
 
 <section id="fact-patterns">

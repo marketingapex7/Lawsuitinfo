@@ -249,6 +249,28 @@ const lawyerQuestions = lawyerQuestionsByCase[guide.data.lawsuitSlug] ?? [
         )}
       </section>
 
+      <section id="filing-deadline-review">
+        <h2>What is the filing deadline for {shortLawsuitName(guide.data.lawsuit)} lawsuits in {guide.data.state}?</h2>
+        {caseData?.deadlineOverride ? (
+          <p>{caseData.deadlineOverride}</p>
+        ) : limitation ? (
+          <>
+            <p>
+              For a {guide.data.state} resident researching {shortLawsuitName(guide.data.lawsuit)} claims, the starting point is usually {guide.data.state}'s general personal injury period:
+              <strong> {limitation.piYears} years</strong> under {limitation.citation}. That is only a starting point, not a final legal deadline for every person.
+            </p>
+            <p>
+              The real filing deadline can depend on diagnosis date, when the injury and possible cause were discovered, exposure location, wrongful-death issues, prior claim paperwork, and whether the case is filed directly, transferred to an MDL, or handled through another process.
+            </p>
+            {limitation.discoveryNote && <p><strong>Discovery-rule note:</strong> {limitation.discoveryNote}</p>}
+          </>
+        ) : (
+          <p>
+            Filing deadlines vary by state and depend on individual facts. A lawyer can compare the diagnosis, exposure, and discovery timeline with the rules that apply to a specific claim.
+          </p>
+        )}
+      </section>
+
       <StateLimitationsCard
         stateName={guide.data.state}
         limitation={limitation}

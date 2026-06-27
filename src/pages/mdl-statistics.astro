@@ -1,0 +1,99 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import { formatCount, getAllCaseData, latestPendingCount } from "@lib/caseData";
+import { datasetSchema } from "@lib/seo";
+
+const cases = getAllCaseData();
+const mdlRows = cases
+  .filter((item) => item.litigation.mdlNumber)
+  .map((item) => ({ ...item, headlineCount: latestPendingCount(item) }))
+  .sort((a, b) => (b.headlineCount?.count ?? 0) - (a.headlineCount?.count ?? 0));
+const updated = cases.map((item) => item.dataAsOf).sort().at(-1) ?? "2026-06-19";
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "MDL Statistics", url: "/mdl-statistics/" }
+];
+---
+
+<BaseLayout
+  title="Mass Tort MDL Statistics"
+  seoTitle="Mass Tort MDL Statistics 2026"
+  description="Compare pending MDL counts, courts, judges, and source links for major mass tort and product-liability lawsuits."
+  canonicalPath="/mdl-statistics/"
+  breadcrumbs={breadcrumbs}
+  extraSchemas={[
+    datasetSchema({
+      name: "Mass Tort MDL Statistics",
+      description: "Pending action counts, courts, judges, and source links for active mass tort MDLs tracked by Lawsuit Status Guide.",
+      url: "https://lawsuitstatusguide.com/mdl-statistics/",
+      dateModified: updated,
+      variables: [
+        { name: "MDLs tracked", value: `${mdlRows.length}` },
+        { name: "Pending action count", value: "JPML-derived where available" },
+        { name: "Court and judge", value: "Federal MDL court assignment" }
+      ]
+    })
+  ]}
+>
+  <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="max-w-3xl">
+      <h1 class="text-4xl font-black tracking-normal text-ink">Mass Tort MDL Statistics</h1>
+      <p class="mt-4 text-lg leading-8 text-muted">
+        A quick comparison of the federal multidistrict litigations tracked in the case database. Counts are snapshots, not live dockets, and can change monthly.
+      </p>
+      <p class="mt-3 text-sm font-bold text-muted">Data last aligned: {updated}</p>
+    </header>
+
+    <section class="mt-8 overflow-hidden rounded-lg border border-line bg-white shadow-sm">
+      <div class="overflow-x-auto">
+        <table class="min-w-full divide-y divide-line text-left text-sm">
+          <thead class="bg-panel text-xs uppercase tracking-[0.08em] text-muted">
+            <tr>
+              <th class="px-4 py-3">Rank</th>
+              <th class="px-4 py-3">Case</th>
+              <th class="px-4 py-3">MDL</th>
+              <th class="px-4 py-3">Pending Actions</th>
+              <th class="px-4 py-3">Court / Judge</th>
+              <th class="px-4 py-3">Source</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-line">
+            {mdlRows.map((row, index) => (
+              <tr class="align-top">
+                <td class="px-4 py-4 font-bold text-muted">{index + 1}</td>
+                <td class="px-4 py-4">
+                  <a class="font-bold text-accent-dark" href={`/lawsuits/${row.slug}/`}>{row.caseName}</a>
+                  <div class="mt-1 text-xs text-muted">{row.phase}</div>
+                </td>
+                <td class="px-4 py-4 whitespace-nowrap">{row.litigation.mdlNumber}</td>
+                <td class="px-4 py-4 whitespace-nowrap">
+                  {row.headlineCount ? (
+                    <>
+                      <div class="font-bold text-ink">{formatCount(row.headlineCount.count)}</div>
+                      <div class="text-xs text-muted">{row.headlineCount.date}</div>
+                    </>
+                  ) : (
+                    <span class="text-muted">Not listed</span>
+                  )}
+                </td>
+                <td class="px-4 py-4">
+                  <div class="font-bold text-ink">{row.litigation.courtShort ?? row.litigation.court}</div>
+                  <div class="mt-1 text-xs text-muted">{row.litigation.judge}</div>
+                </td>
+                <td class="px-4 py-4">
+                  {row.headlineCount?.sourceUrl ? (
+                    <a class="font-bold text-accent-dark" href={row.headlineCount.sourceUrl}>{row.headlineCount.source}</a>
+                  ) : (
+                    <span class="text-muted">See case guide</span>
+                  )}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

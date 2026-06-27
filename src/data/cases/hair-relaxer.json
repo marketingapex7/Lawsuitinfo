@@ -1,0 +1,62 @@
+{
+  "slug": "hair-relaxer",
+  "caseName": "Hair Relaxer Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3060",
+    "mdlName": "In re: Hair Relaxer Marketing, Sales Practices, and Products Liability Litigation",
+    "court": "U.S. District Court, Northern District of Illinois",
+    "courtShort": "N.D. Ill.",
+    "judge": "Judge Mary M. Rowland",
+    "established": "2023-02-06"
+  },
+  "phase": "Active discovery and pretrial coordination",
+  "phaseDetail": "Federal hair relaxer cases are coordinated in MDL-3060 in the Northern District of Illinois. Claims generally allege that chemical hair straightener and relaxer products are linked to uterine cancer, ovarian cancer, endometrial cancer, or related gynecologic injuries. Defendants dispute liability and causation.",
+  "pendingCounts": [
+    {
+      "date": "2026-06-01",
+      "count": 11723,
+      "scope": "Pending actions in MDL-3060",
+      "source": "JPML MDL Statistics Report, June 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf",
+      "primary": true
+    }
+  ],
+  "defendants": [
+    "L'Oreal USA, Inc.",
+    "Revlon, Inc.",
+    "Namaste Laboratories, LLC",
+    "Strength of Nature Global, LLC",
+    "SoftSheen-Carson LLC"
+  ],
+  "settlements": [
+    {
+      "label": "Global settlement",
+      "status": "none announced",
+      "detail": "No global public settlement has been announced for the federal MDL. Individual outcomes, if any, depend on facts, proof, and court rulings."
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2023-02-06",
+      "label": "MDL-3060 established",
+      "detail": "JPML centralized federal hair relaxer product liability cases in the Northern District of Illinois."
+    },
+    {
+      "date": "2026-06-01",
+      "label": "11,723 actions pending",
+      "detail": "JPML's June 2026 monthly report listed 11,723 pending actions in MDL-3060."
+    }
+  ],
+  "sources": [
+    {
+      "name": "JPML - Pending MDL Dockets, June 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    },
+    {
+      "name": "NIH - Hair straightening chemicals associated with higher uterine cancer risk",
+      "url": "https://www.nih.gov/news-events/news-releases/hair-straightening-chemicals-associated-higher-uterine-cancer-risk"
+    }
+  ],
+  "dataAsOf": "2026-06-19"
+}

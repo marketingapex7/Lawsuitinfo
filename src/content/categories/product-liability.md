@@ -4,13 +4,16 @@ description: "A broad category page linking all launch injury lawsuit guides whi
 urlSlug: "product-liability"
 name: "Product Liability"
 lawsuitSlugs:
+  - "bard-powerport"
+  - "hair-relaxer"
+  - "hernia-mesh"
   - "talcum-powder"
   - "depo-provera"
   - "suboxone"
   - "afff-pfas"
   - "paraquat"
   - "roundup"
-lastUpdated: "2026-06-17"
+lastUpdated: "2026-06-19"
 ---
 
-<p>This MVP category links to all launch guides. Future versions can separate drug, device, consumer product, and exposure claims as the library grows.</p>
+<p>This category links product, device, consumer-product, and exposure-related injury guides. Product identification, use history, medical records, and state deadlines are usually central to review.</p>
