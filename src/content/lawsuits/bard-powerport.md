@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the device and injury timeline with MDL-3081 status and filing deadlines."
-lastUpdated: "2026-06-19"
-lastReviewed: "2026-06-19"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "What is the Bard PowerPort lawsuit about?"
@@ -60,7 +60,7 @@ faqs:
     answer: "There is no FDA recall covering the catheter fracture, migration, or degradation problems at the center of MDL-3081. Bard has issued narrower recalls for unrelated issues in some port products in the past, but the current litigation is about alleged design and warning defects, not a general recall — the devices were not broadly pulled from the market."
   -
     question: "When will the Bard PowerPort lawsuit be settled?"
-    answer: "There is no settlement and no set date. The litigation is in its bellwether-trial phase: the first bellwether (Cook v. Becton Dickinson) reached a split verdict in May 2026, the next trial is set for August 2026, and more are expected into 2027. Those outcomes typically shape any later settlement posture, and nothing is guaranteed for any individual claim."
+    answer: "There is no settlement and no set date. The litigation remains active in coordinated federal proceedings, and bellwether planning, case-management orders, and dispositive or expert rulings may shape any later settlement posture. No amount or timing is guaranteed for any individual claim."
   -
     question: "What records may help a Bard PowerPort claim?"
     answer: "Helpful records may include implant records, device stickers or product labels, operative reports, imaging reports, blood clot or infection records, and removal or revision surgery records."
@@ -115,7 +115,6 @@ faqs:
 <h2>Sources and status notes</h2>
 <ul>
 <li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML Pending MDL Dockets report dated June 1, 2026</a>.</li>
-<li><strong>Trial status:</strong> MDL-3081 is in its bellwether-trial phase; the first bellwether trial reached a split verdict in 2026, with additional trials scheduled. Trial dockets are maintained by the U.S. District Court for the District of Arizona.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public information and should not be treated as a live docket report or legal advice.</li>
 <li><strong>Review note:</strong> Device identification and medical records are especially important in implanted-port claims.</li>
 </ul>

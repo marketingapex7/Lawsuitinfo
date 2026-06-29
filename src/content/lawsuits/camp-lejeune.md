@@ -36,8 +36,8 @@ timeline:
   -
     label: "Claim filed by August 10, 2024"
     detail: "The CLJA required an administrative claim with the Navy by the statutory deadline. Claims filed in time continue through review, settlement programs, or litigation in the Eastern District of North Carolina."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "Can I still file a Camp Lejeune claim in 2026?"

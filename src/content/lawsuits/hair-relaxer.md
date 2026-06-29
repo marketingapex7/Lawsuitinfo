@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare use history and diagnosis timing with MDL-3060 status and state filing deadlines."
-lastUpdated: "2026-06-19"
-lastReviewed: "2026-06-19"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "What is the hair relaxer lawsuit about?"

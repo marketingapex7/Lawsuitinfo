@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-injury timeline with MDL-3094's litigation posture, state filing deadlines, and the evidence available."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "What is the Ozempic lawsuit about?"

@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-diagnosis timeline with MDL-2738's posture, state filing deadlines, and the available evidence."
-lastUpdated: "2026-06-17"
-lastReviewed: "2026-06-17"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "What is the talcum powder lawsuit about?"
@@ -179,7 +179,7 @@ faqs:
 <li><strong>Bankruptcy context:</strong> Coverage of the March 31, 2025 Red River Talc dismissal is available via <a href="https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/">Drugwatch</a>.</li>
 <li><strong>Imerys talc trust:</strong> Imerys Talc America's Chapter 11 reorganization established the Imerys Talc Personal Injury Trust, a separate compensation path; case and plan documents are available through the <a href="https://iandctalc.com/" target="_blank" rel="noopener noreferrer">Imerys Talc and Cyprus Mines bankruptcy information site</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status and should not be treated as a live court docket. The science, the asbestos question, and causation are disputed.</li>
-<li><strong>Last reviewed:</strong> June 17, 2026.</li>
+<li><strong>Last reviewed:</strong> June 29, 2026.</li>
 </ul>
 </section>
 

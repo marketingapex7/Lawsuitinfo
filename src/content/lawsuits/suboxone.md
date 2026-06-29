@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "How much are Suboxone tooth-decay settlements worth?"
@@ -45,7 +45,7 @@ faqs:
     answer: "No. The federal Suboxone tooth-decay cases are coordinated as multidistrict litigation (MDL-3092), not a class action; each plaintiff keeps an individual claim coordinated for pretrial proceedings."
   -
     question: "Is the tooth-decay lawsuit the same as the Suboxone antitrust settlement?"
-    answer: "No — they are separate matters. The cases on this page are product-liability claims about dental injuries, coordinated in MDL-3092. The 'Suboxone antitrust' cases were different: they accused Indivior and Reckitt Benckiser of trying to block generic competition (an alleged 'product hopping' scheme) and were resolved through separate antitrust proceedings — including a $385 million direct-purchaser settlement, a $102.5 million multistate settlement, and FTC actions ($50 million against Reckitt, $10 million against Indivior). Those antitrust resolutions are unrelated to the tooth-decay injury cases, which remain in active litigation with no settlement."
+    answer: "No — they are separate matters. The cases on this page are product-liability claims about dental injuries, coordinated in MDL-3092. The 'Suboxone antitrust' cases were different: they accused Indivior and Reckitt Benckiser of trying to block generic competition (an alleged 'product hopping' scheme) and were resolved through separate antitrust proceedings, including FTC actions against Reckitt ($50 million) and Indivior ($10 million). Those antitrust resolutions are unrelated to the tooth-decay injury cases, which remain in active litigation with no settlement."
   -
     question: "What is the Suboxone tooth decay lawsuit about?"
     answer: "Lawsuits allege that some users suffered severe dental injuries after Suboxone use and that warnings may have been inadequate."
@@ -233,7 +233,7 @@ faqs:
 <li><strong>Separate antitrust matters:</strong> The unrelated Suboxone antitrust cases are documented in the FTC's actions against <a href="https://www.ftc.gov/news-events/news/press-releases/2019/07/reckitt-benckiser-group-plc-pay-50-million-consumers-settling-ftc-charges-company-illegally" target="_blank" rel="noopener noreferrer">Reckitt Benckiser ($50 million)</a> and <a href="https://www.ftc.gov/news-events/news/press-releases/2020/07/indivior-inc-pay-10-million-consumers-settling-ftc-charges-company-illegally-maintained-monopoly" target="_blank" rel="noopener noreferrer">Indivior ($10 million)</a>; these concern alleged generic-suppression, not the dental-injury MDL.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation remains active, and individual review may depend on use history, dental injury records, and timing.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 30, 2026.</li>
+<li><strong>Last reviewed:</strong> June 29, 2026.</li>
 </ul>
 </section>
 

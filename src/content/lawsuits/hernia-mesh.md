@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare product identification and injury records with MDL-2846 status and state filing deadlines."
-lastUpdated: "2026-06-19"
-lastReviewed: "2026-06-19"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "What is the Bard hernia mesh lawsuit about?"

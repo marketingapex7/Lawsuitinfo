@@ -33,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
@@ -175,7 +175,7 @@ faqs:
 <li><strong>Agency or medical context:</strong> Claim review may involve product labeling, injection records, brain imaging, pathology, neurology, neurosurgery, and other medical records. FDA drug-label information can be checked through the <a href="https://labels.fda.gov/">FDA Online Label Repository</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation appears to be in active pretrial development rather than a mature settlement stage.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 23, 2026.</li>
+<li><strong>Last reviewed:</strong> June 29, 2026.</li>
 </ul>
 </section>
 
