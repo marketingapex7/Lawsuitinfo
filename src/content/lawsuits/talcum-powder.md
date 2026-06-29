@@ -48,6 +48,12 @@ faqs:
     question: "Is there a talcum powder settlement?"
     answer: "No global settlement is in place. Johnson & Johnson's three 'Texas Two-Step' bankruptcy attempts were all rejected — most recently Red River Talc LLC's roughly $9 billion plan, denied on March 31, 2025 — so cases are proceeding in court. No amount is guaranteed for any individual claim."
   -
+    question: "What is the Imerys talc trust, and is it separate from the J&J cases?"
+    answer: "It is separate. Imerys Talc America — a longtime talc supplier to Johnson & Johnson — filed for Chapter 11 bankruptcy in 2019, and its confirmed reorganization plan established the Imerys Talc Personal Injury Trust to resolve talc injury claims against Imerys. That trust pays approved claimants under court-approved Trust Distribution Procedures, which set scheduled values by disease category (such as ovarian cancer or mesothelioma) and apply a 'payment percentage' based on the trust's available funds. It is a different process from the J&J / LLT / Red River litigation, and which path applies depends on a person's facts. No payout is guaranteed."
+  -
+    question: "When will the talcum powder lawsuit be settled, and has anyone been paid?"
+    answer: "There is no global J&J settlement and no set settlement date; with the bankruptcy route closed, individual cases are being tried or resolved one at a time, so timing is case-specific. Some plaintiffs have been paid after verdicts became final on appeal (for example, the reduced Ingham judgment), and the separate Imerys trust pays approved claims under its own procedures. Any figure presented online as an 'average talcum powder settlement' is speculation — no amount is guaranteed."
+  -
     question: "How much have talcum powder verdicts been?"
     answer: "Results have been mixed. A Missouri jury awarded about $4.69 billion in Ingham v. Johnson & Johnson (2018), later reduced to roughly $2.1 billion on appeal, with the U.S. Supreme Court declining review in 2021. Other juries have returned defense verdicts. Past verdicts do not predict any individual outcome."
   -
@@ -171,6 +177,7 @@ faqs:
 <li><strong>Federal court context:</strong> Federal talc cases are coordinated in MDL-2738 before Judge Michael A. Shipp in the District of New Jersey; pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML's monthly Pending MDL Dockets report (June 1, 2026)</a>.</li>
 <li><strong>Verdict context:</strong> The <em>Ingham</em> reduction is documented in the <a href="https://storage.courtlistener.com/pdf/2020/06/23/robert_ingham_v._johnson__johnson.pdf">Missouri Court of Appeals opinion (June 23, 2020)</a>, with the U.S. Supreme Court's <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/20-1223.html">denial of review (docket 20-1223)</a> leaving it final.</li>
 <li><strong>Bankruptcy context:</strong> Coverage of the March 31, 2025 Red River Talc dismissal is available via <a href="https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/">Drugwatch</a>.</li>
+<li><strong>Imerys talc trust:</strong> Imerys Talc America's Chapter 11 reorganization established the Imerys Talc Personal Injury Trust, a separate compensation path; case and plan documents are available through the <a href="https://iandctalc.com/" target="_blank" rel="noopener noreferrer">Imerys Talc and Cyprus Mines bankruptcy information site</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status and should not be treated as a live court docket. The science, the asbestos question, and causation are disputed.</li>
 <li><strong>Last reviewed:</strong> June 17, 2026.</li>
 </ul>

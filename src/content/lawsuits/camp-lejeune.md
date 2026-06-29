@@ -52,6 +52,9 @@ faqs:
     question: "When will my Camp Lejeune claim be paid?"
     answer: "There is no universal timeline. Elective Option offers continue weekly, Track 1 trials are underway, and settlement masters are negotiating a global framework. Timing depends on diagnosis tier, documentation completeness, and whether a claim is in the administrative queue or in court."
   -
+    question: "How do I check the status of my Camp Lejeune claim?"
+    answer: "Timely administrative claims are tracked by the Navy's Tort Claims Unit, and claimants or their attorneys can check status through the Navy CLJA claims portal (clclaims.jag.navy.mil). If a law firm filed on your behalf, that firm is usually the fastest source for status updates and document requests. If you are unsure whether a claim was ever filed for you, confirming that filing status is the most important step, because the August 10, 2024 window has closed for new claims."
+  -
     question: "What conditions qualify for Camp Lejeune compensation?"
     answer: "The Elective Option tiers cover diagnoses including kidney, bladder, and liver cancers, leukemia, non-Hodgkin lymphoma, multiple myeloma, Parkinson's disease, and kidney disease. Other conditions tied to the contaminated water can support claims with stronger causation evidence."
   -

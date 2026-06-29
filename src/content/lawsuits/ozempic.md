@@ -63,7 +63,7 @@ faqs:
     answer: "Gastroparesis means delayed gastric emptying — the stomach empties too slowly or stops moving food normally. Symptoms can include persistent vomiting, nausea, early fullness, pain, and malnutrition. Diagnosis is often confirmed with a gastric emptying study."
   -
     question: "What is the NAION vision-loss claim?"
-    answer: "NAION (non-arteritic anterior ischemic optic neuropathy) is a sudden optic-nerve injury that can cause permanent vision loss. NAION claims proceed in their own federal proceeding — MDL-3163, with 110 pending actions as of June 1, 2026 — separate from the gastrointestinal-injury MDL-3094."
+    answer: "NAION (non-arteritic anterior ischemic optic neuropathy) is a sudden optic-nerve injury that can cause permanent vision loss or blindness in the affected eye. NAION claims proceed in their own federal proceeding — MDL-3163, with 110 pending actions as of June 1, 2026 — separate from the gastrointestinal-injury MDL-3094."
   -
     question: "When are the first Ozempic trials?"
     answer: "Bellwether trial dates have not been set as of June 2026. The court's Case Management Order No. 32 schedules Rule 702 expert-admissibility hearings for September 10-18, 2026, with summary judgment briefing completing in August; trial scheduling is expected to follow those rulings."

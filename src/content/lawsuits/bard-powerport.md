@@ -50,6 +50,18 @@ faqs:
     question: "Is there a Bard PowerPort settlement?"
     answer: "No global public settlement has been announced. Individual outcomes depend on the device, injury, records, causation, and litigation posture."
   -
+    question: "How much are Bard PowerPort settlements worth?"
+    answer: "No global settlement has been announced, so there is no official payout amount, and figures circulating online are speculation. Value in an individual case would depend on device identification, injury type (such as catheter fracture, migration, infection, or thrombosis), whether removal or revision surgery was needed, causation proof, and state law. No amount is guaranteed."
+  -
+    question: "Is the Bard PowerPort lawsuit a class action?"
+    answer: "No. Federal Bard implanted-port cases are coordinated as multidistrict litigation (MDL-3081), where each plaintiff keeps an individual claim grouped for pretrial proceedings — not a class action in which one outcome binds everyone."
+  -
+    question: "Is the Bard PowerPort recalled?"
+    answer: "There is no FDA recall covering the catheter fracture, migration, or degradation problems at the center of MDL-3081. Bard has issued narrower recalls for unrelated issues in some port products in the past, but the current litigation is about alleged design and warning defects, not a general recall — the devices were not broadly pulled from the market."
+  -
+    question: "When will the Bard PowerPort lawsuit be settled?"
+    answer: "There is no settlement and no set date. The litigation is in its bellwether-trial phase: the first bellwether (Cook v. Becton Dickinson) reached a split verdict in May 2026, the next trial is set for August 2026, and more are expected into 2027. Those outcomes typically shape any later settlement posture, and nothing is guaranteed for any individual claim."
+  -
     question: "What records may help a Bard PowerPort claim?"
     answer: "Helpful records may include implant records, device stickers or product labels, operative reports, imaging reports, blood clot or infection records, and removal or revision surgery records."
   -
@@ -59,7 +71,7 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p><strong>The Bard PowerPort lawsuit alleges that implanted port catheter devices caused complications such as catheter fracture, migration, infection, thrombosis, embolization, or removal surgery, and that warnings were inadequate.</strong> Federal cases are coordinated in MDL-3081 before Senior Judge David G. Campbell in the U.S. District Court for the District of Arizona. Defendants dispute the allegations.</p>
+<p><strong>The Bard PowerPort lawsuit — also written "power port" and searched as the port catheter lawsuit — alleges that implanted port catheter devices caused complications such as catheter fracture, migration, infection, thrombosis, embolization, or removal surgery, and that warnings were inadequate.</strong> Federal cases are coordinated in MDL-3081 before Senior Judge David G. Campbell in the U.S. District Court for the District of Arizona. Defendants dispute the allegations.</p>
 <p>As of June 1, 2026, the JPML reported <strong>3,376 pending actions</strong> in MDL-3081. This guide explains status, evidence, deadlines, and common claim-review issues in plain English.</p>
 </section>
 
@@ -103,6 +115,7 @@ faqs:
 <h2>Sources and status notes</h2>
 <ul>
 <li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML Pending MDL Dockets report dated June 1, 2026</a>.</li>
+<li><strong>Trial status:</strong> MDL-3081 is in its bellwether-trial phase; the first bellwether trial reached a split verdict in 2026, with additional trials scheduled. Trial dockets are maintained by the U.S. District Court for the District of Arizona.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public information and should not be treated as a live docket report or legal advice.</li>
 <li><strong>Review note:</strong> Device identification and medical records are especially important in implanted-port claims.</li>
 </ul>

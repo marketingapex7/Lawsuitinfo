@@ -48,6 +48,15 @@ faqs:
     question: "Is there a hair relaxer settlement?"
     answer: "No global public settlement has been announced. Settlement status, eligibility, and any individual outcome depend on the facts and the current litigation posture."
   -
+    question: "How much are hair relaxer settlements worth?"
+    answer: "No settlement has been announced, so there are no official payout amounts, and any 'average hair relaxer settlement' figures circulating online are speculation. Value in an individual case would depend on the diagnosis (such as uterine or ovarian cancer), product and use history, causation proof, and state law. No amount is guaranteed."
+  -
+    question: "Is the hair relaxer lawsuit a class action?"
+    answer: "No. Federal hair relaxer cases are coordinated as multidistrict litigation (MDL-3060), where each plaintiff keeps an individual claim grouped for pretrial proceedings — unlike a class action, where a single outcome binds everyone."
+  -
+    question: "When will the hair relaxer lawsuit be settled?"
+    answer: "There is no settlement and no set date. As of 2026 the MDL is working through gateway rulings: general-causation (Daubert) expert briefing was completed in May 2026, and summary-judgment and case-specific expert motions are due in November 2026. Bellwether trials are broadly expected to begin in 2027. Settlement posture usually takes shape only after those rulings, and nothing is guaranteed."
+  -
     question: "What proof may help a hair relaxer claim?"
     answer: "Useful records may include product brand history, salon records, purchase receipts, photos of products, witness statements, diagnosis records, pathology reports, and oncology records."
   -
@@ -102,6 +111,7 @@ faqs:
 <ul>
 <li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML Pending MDL Dockets report dated June 1, 2026</a>.</li>
 <li><strong>Medical research context:</strong> NIH reported a Sister Study analysis finding higher uterine-cancer risk among women who reported chemical hair straightener use; the study did not decide legal causation for any individual case.</li>
+<li><strong>Schedule context:</strong> Expert and trial milestones (general-causation Daubert briefing completed in 2026; summary-judgment and case-specific motions due November 2026; bellwether trials expected in 2027) come from the MDL-3060 case-management docket in the Northern District of Illinois.</li>
 <li><strong>Review note:</strong> This guide summarizes public information and should not be treated as a live docket or legal advice.</li>
 </ul>
 </section>
