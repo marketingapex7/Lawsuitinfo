@@ -1,0 +1,44 @@
+{
+  "slug": "social-media",
+  "caseName": "Social Media Adolescent Addiction Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3047",
+    "mdlName": "In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation",
+    "court": "U.S. District Court, Northern District of California",
+    "courtShort": "N.D. Cal.",
+    "judge": "Judge Yvonne Gonzalez Rogers",
+    "established": "2022-10-06"
+  },
+  "phase": "Active — bellwether trials underway",
+  "phaseDetail": "MDL-3047 is in active litigation with bellwether trials proceeding in 2026, alongside a parallel California state-court coordination (JCCP 5255) in Los Angeles. There is no global settlement; defendants have reached only confidential settlements in individual bellwether cases.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 2664, "scope": "Pending actions in MDL-3047 (N.D. Cal.)", "source": "JPML, Pending MDL Dockets by Actions Pending, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+  ],
+  "defendants": [
+    "Meta Platforms (Facebook, Instagram)",
+    "Google LLC / YouTube (Alphabet)",
+    "TikTok / ByteDance",
+    "Snap Inc. (Snapchat)"
+  ],
+  "settlements": [
+    {
+      "label": "No global settlement — confidential individual bellwether deals only",
+      "status": "none",
+      "detail": "There is no global or program settlement in MDL-3047 or the California JCCP. Some defendants have reached confidential settlements in individual bellwether cases: in the first Los Angeles JCCP personal-injury bellwether, a jury awarded $6 million in March 2026 against Meta and YouTube, while Snap and TikTok had settled that case before trial; ahead of the second personal-injury bellwether set for July 27, 2026, YouTube reached a confidential settlement in June 2026. No amount is guaranteed for any individual claim.",
+      "source": "Law.com (The Recorder) — YouTube settles second bellwether (June 24, 2026)",
+      "sourceUrl": "https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/"
+    }
+  ],
+  "keyDates": [
+    { "date": "2022-10-06", "label": "MDL-3047 established", "detail": "The JPML centralized federal social-media adolescent-injury cases before Judge Yvonne Gonzalez Rogers in the U.S. District Court for the Northern District of California." },
+    { "date": "2026-06-15", "label": "Federal school-district bellwether trial begins", "detail": "The MDL's school-district bellwether (Breathitt County, Kentucky) went to trial in June 2026; school-district and personal-injury plaintiffs allege harms from addictive platform design." },
+    { "date": "2026-07-27", "label": "Second Los Angeles JCCP personal-injury bellwether set", "detail": "A second personal-injury bellwether is scheduled in the California JCCP; YouTube settled out in June 2026, while Meta, Snap, and TikTok remain defendants." }
+  ],
+  "sources": [
+    { "name": "U.S. District Court, N.D. Cal. — MDL-3047 case page (4:22-md-03047-YGR)", "url": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products" },
+    { "name": "JPML — Pending MDL Dockets by Actions Pending, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" },
+    { "name": "Law.com (The Recorder) — YouTube settles second bellwether (June 24, 2026)", "url": "https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/" }
+  ],
+  "dataAsOf": "2026-06-29"
+}
