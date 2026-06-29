@@ -33,12 +33,15 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-06-29"
+lastReviewed: "2026-06-29"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
     answer: "Lawsuits allege that long-term use of the birth-control injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to adequately warn users. Federal cases are consolidated in MDL-3140 before Judge M. Casey Rodgers in the Northern District of Florida. Defendants dispute the claims."
+  -
+    question: "Is the 'depo shot' lawsuit the same as the Depo-Provera lawsuit?"
+    answer: "Yes. 'Depo shot,' 'depo birth control shot,' and 'depo lawsuit' are everyday nicknames for the same litigation. Depo-Provera is the brand name for the depot medroxyprogesterone acetate contraceptive injection, usually given every three months, and the cases consolidated in MDL-3140 allege that injection caused intracranial meningioma brain tumors. The nickname does not change the claim, the records needed, or the court handling the cases."
   -
     question: "Who qualifies for a Depo-Provera lawsuit?"
     answer: "There is no automatic qualification rule. Claim review commonly looks for documented Depo-Provera use (injection or pharmacy records), a meningioma diagnosis confirmed by imaging or pathology, the timing between use and diagnosis, and the state filing deadline. Long-term use is a recurring theme in filed cases."
@@ -76,7 +79,7 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p><strong>The Depo-Provera lawsuit is a federal product-liability case alleging that the birth-control injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to warn users.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Defendants dispute the claims, and no settlement has been reached.</p>
+<p><strong>The Depo-Provera lawsuit — also searched as the "depo shot," "depo birth control shot," or simply "depo" lawsuit — is a federal product-liability case alleging that the contraceptive injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to warn users.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Defendants dispute the claims, and no settlement has been reached.</p>
 <p>As of June 2026 it is one of the fastest-growing active MDLs, with thousands of cases pending. The next milestones are a joint general-causation (Rule 702 / Daubert) expert hearing on June 24–26, 2026 and the first Pilot bellwether trial, scheduled for December 7, 2026; a pending federal-preemption ruling could also reshape the litigation. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
 </section>
 
@@ -172,7 +175,7 @@ faqs:
 <li><strong>Agency or medical context:</strong> Claim review may involve product labeling, injection records, brain imaging, pathology, neurology, neurosurgery, and other medical records. FDA drug-label information can be checked through the <a href="https://labels.fda.gov/">FDA Online Label Repository</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation appears to be in active pretrial development rather than a mature settlement stage.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 23, 2026.</li>
+<li><strong>Last reviewed:</strong> June 29, 2026.</li>
 </ul>
 </section>
 
