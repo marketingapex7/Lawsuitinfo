@@ -13,7 +13,7 @@
   "phase": "Confidential settlement program administration",
   "phaseDetail": "A confidential Master Settlement Agreement was signed August 4, 2025. A qualified settlement fund is being established, a lien-resolution administrator was appointed in early 2026, and in June 2026 the court ordered depositions of opt-out plaintiffs at several firms amid high opt-out rates. Bellwether trials remain vacated while the program is administered; new cases continue to transfer into the MDL.",
   "pendingCounts": [
-    { "date": "2026-06-01", "count": 6651, "scope": "Pending actions in MDL-3004", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+    { "date": "2026-07-01", "count": 6665, "scope": "Pending actions in MDL-3004", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true }
   ],
   "defendants": [
     "Syngenta Crop Protection LLC / Syngenta AG",
@@ -37,5 +37,5 @@
     { "name": "S.D. Ill. — MDL 3004 court page", "url": "https://www.ilsd.uscourts.gov/mdl3004.aspx" },
     { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" }
   ],
-  "dataAsOf": "2026-06-11"
+  "dataAsOf": "2026-07-11"
 }

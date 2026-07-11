@@ -13,8 +13,8 @@
   "phase": "Rule 702 (expert) and summary judgment briefing",
   "phaseDetail": "Under Case Management Order No. 32 (April 30, 2026), expert-admissibility and summary judgment briefing runs through August 7, 2026, with Rule 702 hearings set for September 10-18, 2026. Bellwether trial dates have not yet been set and are expected to follow those rulings. NAION vision-loss claims proceed separately in MDL-3163.",
   "pendingCounts": [
-    { "date": "2026-06-01", "count": 3763, "scope": "Pending actions in MDL-3094 (gastrointestinal injuries)", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/pending-mdls-0", "primary": true },
-    { "date": "2026-06-01", "count": 110, "scope": "Pending actions in separate NAION vision-loss MDL (MDL-3163)", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/pending-mdls-0" },
+    { "date": "2026-07-01", "count": 3848, "scope": "Pending actions in MDL-3094 (gastrointestinal injuries)", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true },
+    { "date": "2026-07-01", "count": 146, "scope": "Pending actions in separate NAION vision-loss MDL (MDL-3163)", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf" },
     { "date": "2026-06-01", "count": 1200, "scope": "Approximate additional state-court cases (coordinated proceedings)", "source": "Litigation industry reporting, June 2026" }
   ],
   "defendants": [
@@ -31,7 +31,7 @@
   "keyDates": [
     { "date": "2024-02-02", "label": "MDL-3094 created", "detail": "JPML centralized federal GLP-1 cases before Judge Karen Spencer Marston in the Eastern District of Pennsylvania." },
     { "date": "2026-04-30", "label": "CMO No. 32 sets expert and summary judgment schedule", "detail": "Fifth amended scheduling order for cross-cutting issues: briefing through August 7, 2026." },
-    { "date": "2026-06-01", "label": "3,763 pending federal cases", "detail": "MDL continued steady monthly growth through the first half of 2026 (JPML)." },
+    { "date": "2026-07-01", "label": "3,848 pending federal cases", "detail": "MDL continued steady monthly growth through the first half of 2026 (JPML)." },
     { "date": "2026-09-10", "label": "Rule 702 (Daubert) hearings: September 10-18, 2026", "detail": "Hearings on expert-admissibility motions per CMO No. 32. Bellwether trial dates have not yet been set and are expected to follow these rulings." }
   ],
   "sources": [

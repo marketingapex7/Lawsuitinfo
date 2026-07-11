@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-injury timeline with MDL-3094's litigation posture, state filing deadlines, and the evidence available."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-07-11"
+lastReviewed: "2026-07-11"
 faqs:
   -
     question: "What is the Ozempic lawsuit about?"
@@ -51,7 +51,7 @@ faqs:
     answer: "Filed cases involve Novo Nordisk products — Ozempic, Wegovy, Rybelsus, and Saxenda — and Eli Lilly products, including Mounjaro, Zepbound, and Trulicity. Whether a specific medication and injury combination fits the litigation depends on individual facts."
   -
     question: "What is MDL-3094 and where is it pending?"
-    answer: "MDL-3094 is the federal multidistrict litigation consolidating GLP-1 injury cases. It was created in February 2024 and is pending in the U.S. District Court for the Eastern District of Pennsylvania before Judge Karen S. Marston, with 3,763 pending cases as of June 1, 2026."
+    answer: "MDL-3094 is the federal multidistrict litigation consolidating GLP-1 injury cases. It was created in February 2024 and is pending in the U.S. District Court for the Eastern District of Pennsylvania before Judge Karen S. Marston, with 3,848 pending actions as of July 1, 2026."
   -
     question: "Who may qualify for an Ozempic lawsuit?"
     answer: "There is no automatic qualification rule. Lawyers commonly look for documented GLP-1 use followed by a diagnosis such as gastroparesis, ileus, or bowel obstruction — often confirmed by a gastric emptying study or hospitalization — plus timing, records, and state deadline factors."
@@ -63,7 +63,7 @@ faqs:
     answer: "Gastroparesis means delayed gastric emptying — the stomach empties too slowly or stops moving food normally. Symptoms can include persistent vomiting, nausea, early fullness, pain, and malnutrition. Diagnosis is often confirmed with a gastric emptying study."
   -
     question: "What is the NAION vision-loss claim?"
-    answer: "NAION (non-arteritic anterior ischemic optic neuropathy) is a sudden optic-nerve injury that can cause permanent vision loss or blindness in the affected eye. NAION claims proceed in their own federal proceeding — MDL-3163, with 110 pending actions as of June 1, 2026 — separate from the gastrointestinal-injury MDL-3094."
+    answer: "NAION (non-arteritic anterior ischemic optic neuropathy) is a sudden optic-nerve injury that can cause permanent vision loss or blindness in the affected eye. NAION claims proceed in their own federal proceeding — MDL-3163, with 146 pending actions as of July 1, 2026 — separate from the gastrointestinal-injury MDL-3094."
   -
     question: "When are the first Ozempic trials?"
     answer: "Bellwether trial dates have not been set as of June 2026. The court's Case Management Order No. 32 schedules Rule 702 expert-admissibility hearings for September 10-18, 2026, with summary judgment briefing completing in August; trial scheduling is expected to follow those rulings."
@@ -88,8 +88,8 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Ozempic Lawsuit Update: June 2026</h2>
-<p>As of June 1, 2026, <strong>3,763 cases</strong> were pending in the federal GLP-1 multidistrict litigation (MDL-3094) according to the JPML's monthly statistics report, with roughly 1,200 additional cases reported in coordinated state-court proceedings. The MDL has grown steadily each month since its creation in February 2024. A separate federal proceeding, <strong>MDL-3163</strong>, consolidates NAION vision-loss claims and held <strong>110 pending actions</strong> as of the same report.</p>
+<h2>Ozempic Lawsuit Update: July 2026</h2>
+<p>As of July 1, 2026, <strong>3,848 actions</strong> were pending in the federal GLP-1 multidistrict litigation (MDL-3094) according to the JPML's monthly statistics report, with roughly 1,200 additional cases reported in coordinated state-court proceedings. The MDL has grown steadily each month since its creation in February 2024. A separate federal proceeding, <strong>MDL-3163</strong>, consolidates NAION vision-loss claims and held <strong>146 pending actions</strong> as of the same report.</p>
 <p>The litigation's most important near-term event is the <strong>Rule 702 (expert admissibility) hearing window, September 10–18, 2026</strong>, set by Case Management Order No. 32, with summary judgment briefing completing August 7, 2026. Bellwether trial dates have not yet been set and are expected to follow those rulings.</p>
 </section>
 
@@ -122,7 +122,7 @@ faqs:
 <li><strong>Court:</strong> U.S. District Court, Eastern District of Pennsylvania</li>
 <li><strong>Judge:</strong> Karen S. Marston</li>
 <li><strong>MDL created:</strong> February 2, 2024</li>
-<li><strong>Pending actions:</strong> 3,763 (JPML, June 1, 2026); a separate NAION proceeding, MDL-3163, holds 110</li>
+<li><strong>Pending actions:</strong> 3,848 (JPML, July 1, 2026); a separate NAION proceeding, MDL-3163, holds 146</li>
 <li><strong>Drugs:</strong> Ozempic, Wegovy, Rybelsus, Saxenda (Novo Nordisk); Mounjaro, Zepbound, Trulicity (Eli Lilly)</li>
 <li><strong>Alleged injuries:</strong> gastroparesis, ileus, bowel obstruction</li>
 <li><strong>Next milestone:</strong> Rule 702 hearings, September 10–18, 2026</li>
@@ -133,7 +133,7 @@ faqs:
 <section id="litigation-updates">
 <h2>Litigation updates</h2>
 <ul>
-<li><strong>June 2026:</strong> 3,763 cases pending in MDL-3094 and 110 in the separate NAION proceeding (MDL-3163) per the JPML's June 1 report; filings continue monthly.</li>
+<li><strong>July 2026:</strong> 3,848 actions pending in MDL-3094 and 146 in the separate NAION proceeding (MDL-3163) per the JPML's July 1 report; filings continue monthly.</li>
 <li><strong>April 30, 2026:</strong> Case Management Order No. 32 set the amended expert and summary judgment schedule — briefing through August 7, 2026, and Rule 702 hearings September 10–18, 2026.</li>
 <li><strong>2025:</strong> The MDL grew past 1,500 cases; the court organized cross-cutting expert discovery and a streamlined docket (CMO No. 30, January 2026).</li>
 <li><strong>February 2024:</strong> JPML centralized federal GLP-1 cases in the Eastern District of Pennsylvania, creating MDL-3094.</li>
@@ -158,7 +158,7 @@ faqs:
 
 <section id="ozempic-injury-details">
 <h2>Injuries alleged in filed cases</h2>
-<p><strong>Gastroparesis</strong> — delayed gastric emptying that can cause persistent vomiting, malnutrition, and long-term complications. <strong>Ileus and bowel obstruction</strong> — intestinal blockage or paralysis that can require hospitalization or surgery. <strong>NAION</strong> — a sudden optic-nerve injury associated in some studies with semaglutide use, capable of causing permanent vision loss; NAION claims are consolidated in their own proceeding, MDL-3163 (110 pending actions as of June 1, 2026). Filed complaints also describe severe dehydration, aspiration events, and related complications.</p>
+<p><strong>Gastroparesis</strong> — delayed gastric emptying that can cause persistent vomiting, malnutrition, and long-term complications. <strong>Ileus and bowel obstruction</strong> — intestinal blockage or paralysis that can require hospitalization or surgery. <strong>NAION</strong> — a sudden optic-nerve injury associated in some studies with semaglutide use, capable of causing permanent vision loss; NAION claims are consolidated in their own proceeding, MDL-3163 (146 pending actions as of July 1, 2026). Filed complaints also describe severe dehydration, aspiration events, and related complications.</p>
 </section>
 
 <section id="ozempic-deadlines">
@@ -168,5 +168,5 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and notes</h2>
-<p>Case counts on this page come from the <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML's monthly pending-MDL statistics</a> (June 1, 2026 report). Court and assignment details come from Eastern District of Pennsylvania records. Drug approval and label information comes from FDA resources. This page summarizes allegations and public litigation data; it does not assert that any defendant is liable, and defendants dispute the claims.</p>
+<p>Case counts on this page come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf" target="_blank" rel="noopener noreferrer">JPML's July 1, 2026 pending-MDL statistics</a>. Court and assignment details come from Eastern District of Pennsylvania records. Drug approval and label information comes from FDA resources. This page summarizes allegations and public litigation data; it does not assert that any defendant is liable, and defendants dispute the claims.</p>
 </section>

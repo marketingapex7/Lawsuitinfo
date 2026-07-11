@@ -13,7 +13,7 @@
   "phase": "Personal-injury bellwether reset; water-system settlements paying out",
   "phaseDetail": "Case Management Order No. 35 (August 15, 2025) vacated the October 2025 kidney-cancer bellwether trial and opened a claim-verification window; tens of thousands of new claims were filed during it. No new personal-injury trial date had been set as of June 2026. The first personal-injury bellwether track is kidney cancer.",
   "pendingCounts": [
-    { "date": "2026-06-01", "count": 15240, "scope": "Pending actions in MDL-2873", "source": "JPML MDL Statistics Report, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+    { "date": "2026-07-01", "count": 15244, "scope": "Pending actions in MDL-2873", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true }
   ],
   "defendants": [
     "3M",

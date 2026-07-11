@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-07-11"
+lastReviewed: "2026-07-11"
 faqs:
   -
     question: "How much are Suboxone tooth-decay settlements worth?"
@@ -84,13 +84,13 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The Suboxone lawsuit alleges that the dissolvable Suboxone film (buprenorphine/naloxone) caused severe tooth decay and dental injuries, and that the maker, Indivior, failed to warn patients.</strong> Federal cases are consolidated in MDL-3092 before Judge J. Philip Calabrese in the U.S. District Court for the Northern District of Ohio, where bellwether selection is underway. No settlement has been announced, and defendants dispute the claims.</p>
-<p>As of June 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,833 pending cases. The court's first 20 core-discovery-pool cases were scheduled for random selection on June 10, 2026, and no settlement program or court-set trial date has been announced.</p>
+<p>As of July 1, 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,832 pending actions. The court's core-discovery-pool process is underway, and no settlement program or court-set trial date has been announced.</p>
 <p>Suboxone lawsuits allege that film or other oral buprenorphine/naloxone products dissolved in the mouth may be linked to severe tooth decay, tooth loss, extractions, and other dental injuries, and that warnings were inadequate. Claim review usually focuses on prescription records, dental records before and after use, injury timing, and state filing deadlines. Defendants dispute the claims.</p>
 </section>
 
 <section id="latest-update">
-<h2>Suboxone Tooth Decay Lawsuit Update: June 2026</h2>
-<p>Bellwether selection is the primary focus of Suboxone tooth-decay litigation in MDL No. 3092 before Judge J. Philip Calabrese in the Northern District of Ohio. Under the Second Amended Case Management Order No. 15, entered March 27, 2026, the court's random selection of the first 20 core-discovery-pool cases was scheduled for June 10, 2026. As of June 1, 2026, 1,833 cases are pending in the MDL.</p>
+<h2>Suboxone Tooth Decay Lawsuit Update: July 2026</h2>
+<p>Bellwether selection is the primary focus of Suboxone tooth-decay litigation in MDL No. 3092 before Judge J. Philip Calabrese in the Northern District of Ohio. Under the Second Amended Case Management Order No. 15, the court began the core-discovery-pool process in June. As of July 1, 2026, 1,832 actions are pending in the MDL.</p>
 <p>The defendants are Indivior Inc., Indivior Solutions, and Aquestive Therapeutics. Reckitt was dismissed from the litigation in September 2024. No settlement program has been announced. Industry observers have projected that a first bellwether trial could occur around 2028, but no trial date has been entered in any court order.</p>
 <p>This litigation is at an early stage. Individuals researching this case should focus on preserving relevant dental and prescription records, as discovery in these cases is likely to turn heavily on medical documentation.</p>
 </section>

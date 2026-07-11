@@ -1,6 +1,6 @@
 ---
 title: "Paraquat Parkinson's Lawsuit Guide"
-description: "June 2026 Paraquat lawsuit update covering Parkinson's claims, confidential settlement administration, exposure proof, deadlines, and state resources."
+description: "July 2026 Paraquat lawsuit update covering Parkinson's claims, confidential settlement administration, exposure proof, deadlines, and state resources."
 lawsuit: "Paraquat Parkinson's"
 urlSlug: "paraquat"
 category: "Toxic Exposure"
@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-27"
-lastReviewed: "2026-05-30"
+lastUpdated: "2026-07-11"
+lastReviewed: "2026-07-11"
 faqs:
   -
     question: "How much are Paraquat lawsuit settlements worth?"
@@ -79,13 +79,13 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The Paraquat lawsuit alleges that exposure to the weed killer paraquat causes Parkinson's disease and that the makers failed to warn users.</strong> Federal cases are consolidated in MDL-3004 before Chief Judge Nancy J. Rosenstengel in the U.S. District Court for the Southern District of Illinois. A confidential Master Settlement Agreement signed in August 2025 is being administered under court supervision; its terms are confidential, participation is individual, and the defendants — Syngenta and Chevron — dispute the claims.</p>
-<p>As of June 2026, Paraquat litigation is active but centered on administration of a confidential Master Settlement Agreement signed August 4, 2025. MDL No. 3004 has 6,651 pending cases, and the court has ordered targeted opt-out plaintiff depositions while the settlement process continues.</p>
+<p>As of July 2026, Paraquat litigation is active but centered on administration of a confidential Master Settlement Agreement signed August 4, 2025. MDL No. 3004 has 6,665 pending actions, and the court has ordered targeted opt-out plaintiff depositions while the settlement process continues.</p>
 <p>Paraquat lawsuits allege that exposure to the restricted-use herbicide may be associated with Parkinson's disease and that warnings were inadequate. Claim review usually turns on paraquat-specific exposure proof, Parkinson's diagnosis records, opt-out or settlement posture, and state filing deadlines. Defendants dispute exposure, causation, warnings, liability, and damages.</p>
 </section>
 
 <section id="latest-update">
-<h2>Paraquat Parkinson's Lawsuit Update: June 2026</h2>
-<p>The dominant development in MDL No. 3004 is settlement administration. A <strong>confidential Master Settlement Agreement was signed on August 4, 2025</strong>, a qualified settlement fund is being established, and a lien-resolution administrator was appointed in early 2026. As of June 1, 2026, <strong>6,651 cases</strong> remained pending in the MDL per the JPML's monthly report, and new cases continue to transfer in.</p>
+<h2>Paraquat Parkinson's Lawsuit Update: July 2026</h2>
+<p>The dominant development in MDL No. 3004 is settlement administration. A <strong>confidential Master Settlement Agreement was signed on August 4, 2025</strong>, a qualified settlement fund is being established, and a lien-resolution administrator was appointed in early 2026. As of July 1, 2026, <strong>6,665 actions</strong> remained pending in the MDL per the JPML's monthly report, and new cases continue to transfer in.</p>
 <p>In early June 2026, Chief Judge Nancy J. Rosenstengel ordered depositions of opt-out plaintiffs at several firms amid reported high opt-out rates — a sign that participation decisions, not trial dates, are the litigation's current battleground. Bellwether trial settings remain vacated while the program is administered.</p>
 <p>For people researching the case, the practical point is unchanged: documentation drives everything. Records or witness information tying a person to paraquat mixing, loading, spraying, drift, equipment cleaning, or nearby application — plus Parkinson's diagnosis records — matter more than settlement headlines, because the settlement's terms are confidential and individual qualification is fact-specific.</p>
 </section>
