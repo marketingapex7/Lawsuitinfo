@@ -128,7 +128,9 @@ const TITLE_NAMES: Record<string, string> = {
   "Paraquat Parkinson's": "Paraquat",
   "Depo-Provera": "Depo-Provera",
   "Hair Relaxer": "Hair Relaxer",
-  "Talcum Powder": "Talcum Powder"
+  "Talcum Powder": "Talcum Powder",
+  "Paragard IUD": "Paragard",
+  "Social Media Addiction": "Social Media"
 };
 
 export function shortLawsuitName(lawsuit: string): string {
@@ -151,8 +153,10 @@ export function lawsuitSeoTitle(lawsuit: string) {
     "Depo-Provera": "Depo-Provera Lawsuit Update 2026: Brain Tumor MDL",
     "Hair Relaxer": "Hair Relaxer Lawsuit Update 2026: Cancer MDL Status",
     "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL Status & Eligibility",
+    "Paragard IUD": "Paragard Lawsuit Update 2026: IUD MDL 2974 Status",
     "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: Settlement & Parkinson's",
     "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement & Deadlines",
+    "Social Media Addiction": "Social Media Lawsuit Update 2026: MDL 3047 Status",
     "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: Dental Injury MDL",
     "Talcum Powder": "Talcum Powder Lawsuit Update 2026: MDL & Verdicts"
   };
@@ -213,10 +217,14 @@ export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {
       "June 2026 hair relaxer lawsuit update: MDL-3060 status, uterine and ovarian cancer claims, records, settlement posture, and deadlines.",
     "Ozempic / GLP-1":
       "June 2026 Ozempic lawsuit update: GLP-1 MDL status, Rule 702 schedule, alleged stomach injury claims, eligibility, and state guides.",
+    "Paragard IUD":
+      "June 2026 Paragard IUD lawsuit update: MDL-2974 status, device-breakage claims, bellwether trials, eligibility, deadlines, and state guides.",
     "Paraquat Parkinson's":
       "June 2026 Paraquat lawsuit update: Parkinson's MDL status, confidential settlement administration, exposure proof, deadlines, and state pages.",
     "Roundup Cancer":
       "June 2026 Roundup lawsuit update: settlement status, non-Hodgkin lymphoma claims, Supreme Court issue, deadlines, and state guides.",
+    "Social Media Addiction":
+      "June 2026 social media addiction lawsuit update: MDL 3047 status, teen mental-health claims, bellwether trials, eligibility, and state guides.",
     "Suboxone Tooth Decay":
       "June 2026 Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides.",
     "Talcum Powder":

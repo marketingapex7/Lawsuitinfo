@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-07-11"
+lastReviewed: "2026-07-11"
 faqs:
   -
     question: "How much are Suboxone tooth-decay settlements worth?"
@@ -43,6 +43,9 @@ faqs:
   -
     question: "Is the Suboxone lawsuit a class action?"
     answer: "No. The federal Suboxone tooth-decay cases are coordinated as multidistrict litigation (MDL-3092), not a class action; each plaintiff keeps an individual claim coordinated for pretrial proceedings."
+  -
+    question: "Is the tooth-decay lawsuit the same as the Suboxone antitrust settlement?"
+    answer: "No — they are separate matters. The cases on this page are product-liability claims about dental injuries, coordinated in MDL-3092. The 'Suboxone antitrust' cases were different: they accused Indivior and Reckitt Benckiser of trying to block generic competition (an alleged 'product hopping' scheme) and were resolved through separate antitrust proceedings, including FTC actions against Reckitt ($50 million) and Indivior ($10 million). Those antitrust resolutions are unrelated to the tooth-decay injury cases, which remain in active litigation with no settlement."
   -
     question: "What is the Suboxone tooth decay lawsuit about?"
     answer: "Lawsuits allege that some users suffered severe dental injuries after Suboxone use and that warnings may have been inadequate."
@@ -81,13 +84,13 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The Suboxone lawsuit alleges that the dissolvable Suboxone film (buprenorphine/naloxone) caused severe tooth decay and dental injuries, and that the maker, Indivior, failed to warn patients.</strong> Federal cases are consolidated in MDL-3092 before Judge J. Philip Calabrese in the U.S. District Court for the Northern District of Ohio, where bellwether selection is underway. No settlement has been announced, and defendants dispute the claims.</p>
-<p>As of June 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,833 pending cases. The court's first 20 core-discovery-pool cases were scheduled for random selection on June 10, 2026, and no settlement program or court-set trial date has been announced.</p>
+<p>As of July 1, 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,832 pending actions. The court's core-discovery-pool process is underway, and no settlement program or court-set trial date has been announced.</p>
 <p>Suboxone lawsuits allege that film or other oral buprenorphine/naloxone products dissolved in the mouth may be linked to severe tooth decay, tooth loss, extractions, and other dental injuries, and that warnings were inadequate. Claim review usually focuses on prescription records, dental records before and after use, injury timing, and state filing deadlines. Defendants dispute the claims.</p>
 </section>
 
 <section id="latest-update">
-<h2>Suboxone Tooth Decay Lawsuit Update: June 2026</h2>
-<p>Bellwether selection is the primary focus of Suboxone tooth-decay litigation in MDL No. 3092 before Judge J. Philip Calabrese in the Northern District of Ohio. Under the Second Amended Case Management Order No. 15, entered March 27, 2026, the court's random selection of the first 20 core-discovery-pool cases was scheduled for June 10, 2026. As of June 1, 2026, 1,833 cases are pending in the MDL.</p>
+<h2>Suboxone Tooth Decay Lawsuit Update: July 2026</h2>
+<p>Bellwether selection is the primary focus of Suboxone tooth-decay litigation in MDL No. 3092 before Judge J. Philip Calabrese in the Northern District of Ohio. Under the Second Amended Case Management Order No. 15, the court began the core-discovery-pool process in June. As of July 1, 2026, 1,832 actions are pending in the MDL.</p>
 <p>The defendants are Indivior Inc., Indivior Solutions, and Aquestive Therapeutics. Reckitt was dismissed from the litigation in September 2024. No settlement program has been announced. Industry observers have projected that a first bellwether trial could occur around 2028, but no trial date has been entered in any court order.</p>
 <p>This litigation is at an early stage. Individuals researching this case should focus on preserving relevant dental and prescription records, as discovery in these cases is likely to turn heavily on medical documentation.</p>
 </section>
@@ -227,9 +230,10 @@ faqs:
 <ul>
 <li><strong>Federal court context:</strong> Federal Suboxone tooth decay cases have been coordinated in multidistrict litigation for common pretrial issues. The JPML transfer materials for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3092-Transfer_Order-1-24.pdf">MDL No. 3092</a> describe the coordinated federal proceeding.</li>
 <li><strong>Agency or medical context:</strong> Claim review may involve prescription records, dental records, pharmacy records, warnings, and records showing tooth decay, extractions, or restorative treatment. The FDA has published a <a href="https://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-about-dental-problems-buprenorphine-medicines-dissolved-mouth-treat-opioid-use-disorder">buprenorphine dental-problems safety communication</a> for medicines dissolved in the mouth.</li>
+<li><strong>Separate antitrust matters:</strong> The unrelated Suboxone antitrust cases are documented in the FTC's actions against <a href="https://www.ftc.gov/news-events/news/press-releases/2019/07/reckitt-benckiser-group-plc-pay-50-million-consumers-settling-ftc-charges-company-illegally" target="_blank" rel="noopener noreferrer">Reckitt Benckiser ($50 million)</a> and <a href="https://www.ftc.gov/news-events/news/press-releases/2020/07/indivior-inc-pay-10-million-consumers-settling-ftc-charges-company-illegally-maintained-monopoly" target="_blank" rel="noopener noreferrer">Indivior ($10 million)</a>; these concern alleged generic-suppression, not the dental-injury MDL.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation remains active, and individual review may depend on use history, dental injury records, and timing.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 30, 2026.</li>
+<li><strong>Last reviewed:</strong> June 29, 2026.</li>
 </ul>
 </section>
 

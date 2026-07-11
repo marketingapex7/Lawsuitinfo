@@ -130,6 +130,72 @@ const cases = [
       ["Is talcum powder still sold?", "Johnson & Johnson stopped selling talc-based Johnson's Baby Powder in North America in 2020 and worldwide in 2023, replacing it with a cornstarch-based product. The litigation concerns past use and alleged injuries."],
       ["Does this page provide legal advice?", "No. This page is general legal information for research purposes only and does not create an attorney-client relationship."]
     ]
+  },
+  {
+    lawsuit: "Social Media Addiction",
+    slug: "social-media",
+    title: (s) => `Social Media Lawsuit in ${s.name} (Teen Mental-Health Claims)`,
+    category: "Product Liability",
+    categorySlug: "product-liability",
+    status: "Active / Investigating",
+    primaryInjury: "Adolescent mental-health harms",
+    description: (s) =>
+      `Information for ${s.name} families researching the social media addiction lawsuits: MDL-3047 status, teen mental-health allegations against Meta, TikTok, Snap, and YouTube, eligibility, records, and ${s.name} filing deadlines.`,
+    exposureContext: (s) =>
+      `${s.name} children and teens may have used Instagram, Facebook, TikTok, Snapchat, or YouTube heavily during adolescence before developing mental-health harms now being reviewed in the litigation.`,
+    overview: (s) =>
+      `<p>${s.name} families with social media injury claims are generally not limited to ${s.name} state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 2,664 pending cases as of June 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
+<p>${s.name} law still matters: the state's filing deadline — including rules that pause the clock while a claimant is a minor — plus its damages and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>`,
+    eligibilityBullets: (s) => [
+      `A child or teen in ${s.name} who used Instagram, Facebook, TikTok, Snapchat, or YouTube.`,
+      "A documented mental-health harm — such as depression, anxiety, an eating disorder, self-harm, or a suicide attempt — during or after a period of heavy use.",
+      "Medical or treatment records connecting the harm to the period of use.",
+      `Filing within the deadline that applies under ${s.name} law, accounting for rules that pause deadlines for minors.`
+    ],
+    process: (s, lim) =>
+      `<p>Most ${s.name} social media injury cases are filed in or transferred to MDL-3047 in the Northern District of California, while many individual cases also proceed in the California JCCP (JCCP 5255). Bellwether trials are underway in 2026, and there is no global settlement. ${s.name}'s general personal injury limitations period is ${lim.piYears} years (${lim.citation}), but many states pause that clock while a claimant is a minor — a fact-specific question for ${s.name} claims.</p>`,
+    faqs: (s, lim) => [
+      [`What is the social media lawsuit in ${s.name} about?`, `Lawsuits allege Meta (Instagram, Facebook), TikTok, Snapchat, and YouTube were designed to be addictive to young users and caused mental-health harms, and that families were not adequately warned. ${s.name} residents' federal cases are generally transferred into MDL-3047; many also proceed in the California JCCP. The companies dispute the allegations.`],
+      [`Can ${art(s)} ${s.name} family join the social media MDL?`, `Possibly. Cases filed by ${s.name} residents in federal court are generally transferred into MDL-3047 in the Northern District of California, and some cases proceed instead in the California state-court JCCP. Where a claim is filed depends on strategy and individual facts.`],
+      [`What is the statute of limitations for ${art(s)} ${s.name} social media claim?`, `${s.name}'s general personal injury period is ${lim.piYears} years (${lim.citation}). ${lim.discoveryNote || "Accrual rules vary."} Many states also pause the deadline while a claimant is a minor, so only a lawyer can confirm the deadline for a specific situation.`],
+      [`Which companies are involved for ${s.name} claimants?`, "The main defendants are Meta (Instagram, Facebook), TikTok/ByteDance, Snap (Snapchat), and Google/YouTube. Which companies are relevant depends on which platforms the young person actually used."],
+      [`What records matter most for ${art(s)} ${s.name} claim?`, "Records of which platforms were used and at what ages, plus mental-health diagnosis, therapy, hospitalization, or school records connecting the harm to the period of use, are commonly reviewed first."],
+      ["Has there been a social media settlement?", "No global settlement exists as of June 2026. Some defendants have reached confidential settlements in individual bellwether cases, and a California bellwether returned a $6 million verdict against Meta and YouTube in March 2026. No amount is guaranteed for any individual claim."],
+      ["Is this page legal or medical advice?", "No. This page is general legal information for research only and is not medical advice. If you or someone you know is in crisis, you can call or text the 988 Suicide & Crisis Lifeline (U.S.)."]
+    ]
+  },
+  {
+    lawsuit: "Paragard IUD",
+    slug: "paragard",
+    title: (s) => `Paragard IUD Lawsuit in ${s.name} (Device Breakage Claims)`,
+    category: "Product Liability",
+    categorySlug: "product-liability",
+    status: "Active / Investigating",
+    primaryInjury: "Device breakage on removal and removal surgery",
+    description: (s) =>
+      `Information for ${s.name} residents researching Paragard IUD lawsuits: MDL-2974 status, allegations the device breaks on removal, eligibility, evidence, and ${s.name} filing deadlines.`,
+    exposureContext: (s) =>
+      `${s.name} residents may have had a Paragard copper IUD that broke during removal, leaving fragments that required imaging or additional procedures to remove.`,
+    overview: (s) =>
+      `<p>${s.name} residents with Paragard claims are generally not limited to ${s.name} state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-2974</strong>, before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia, which held about 4,071 pending cases as of June 1, 2026.</p>
+<p>${s.name} law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>`,
+    eligibilityBullets: (s) => [
+      `A Paragard copper IUD used by ${s.name} residents that broke or fractured during removal.`,
+      "Records identifying the device as Paragard and an operative note describing the breakage.",
+      "Documentation of retained fragments, migration, or surgery to remove them.",
+      `Filing within the deadline that applies to the claim under ${s.name} law.`
+    ],
+    process: (s, lim) =>
+      `<p>Most ${s.name} Paragard cases are filed in or transferred to MDL-2974 in the Northern District of Georgia for coordinated proceedings. The first bellwether trial ended in a defense verdict for Teva in February 2026, and additional bellwether trials are scheduled in 2026; no global settlement exists. ${s.name}'s personal injury limitations period is ${lim.piYears} years (${lim.citation}), but accrual and discovery-rule questions can be fact-specific when breakage is discovered at the time of removal.</p>`,
+    faqs: (s, lim) => [
+      [`What is the Paragard lawsuit in ${s.name} about?`, `Lawsuits allege the Paragard copper IUD can break during removal, leaving fragments that may require surgery, and that the makers failed to warn. ${s.name} residents' federal cases are generally transferred into MDL-2974 in the Northern District of Georgia. Teva and CooperSurgical dispute the allegations.`],
+      [`Can ${art(s)} ${s.name} resident file a Paragard lawsuit?`, `Possibly. ${s.name} residents whose Paragard IUD broke on removal, with records documenting the breakage and any follow-up procedures, may be able to file in federal court (transferred into MDL-2974). Whether a claim qualifies depends on the device records, injury, timing, and ${s.name} law.`],
+      [`What is the statute of limitations for ${art(s)} ${s.name} Paragard claim?`, `${s.name}'s personal injury period is ${lim.piYears} years (${lim.citation}). ${lim.discoveryNote || "Accrual rules vary."} Only a lawyer can confirm the deadline for a specific situation.`],
+      [`What records matter most for ${art(s)} ${s.name} claim?`, "Insertion and removal records, anything identifying the device as Paragard, the operative report describing the breakage, imaging locating retained fragments, and records of any surgery to remove them are commonly requested first."],
+      ["Has there been a Paragard settlement?", "No. There is no global settlement, and the first bellwether trial ended in a defense verdict for Teva in February 2026. Additional bellwether trials are scheduled in 2026, and no amount is guaranteed for any individual claim."],
+      ["Is Paragard still on the market?", "Yes. Paragard remains an FDA-approved copper IUD that is still marketed. The lawsuits concern alleged breakage on removal and warnings, not a market withdrawal. Contraception decisions belong with a healthcare professional."],
+      ["Does this page provide legal advice?", "No. This page is general legal information for research purposes only and does not create an attorney-client relationship."]
+    ]
   }
 ];
 

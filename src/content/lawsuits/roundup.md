@@ -32,15 +32,15 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-06-19"
-lastReviewed: "2026-06-11"
+lastUpdated: "2026-07-11"
+lastReviewed: "2026-07-11"
 faqs:
   -
     question: "How much are Roundup lawsuit settlements worth?"
-    answer: "Roundup settlements and verdicts have varied widely by case; Bayer has paid billions across earlier programs since 2020, and a proposed $7.25 billion nationwide class settlement is pending final approval. Any per-person figure depends on diagnosis, exposure, and individual facts — no amount is guaranteed, and figures circulating online are not promises."
+    answer: "Roundup settlements and verdicts have varied widely by case. A proposed $7.25 billion nationwide class settlement has been through court-approval proceedings, but this guide does not assume the outcome of any post-hearing order or appeal. Any per-person figure depends on diagnosis, exposure, and individual facts; no amount is guaranteed."
   -
     question: "Is the Roundup lawsuit a class action or an MDL?"
-    answer: "Both exist. Federal Roundup cases are coordinated as multidistrict litigation (MDL-2741) in the Northern District of California, where each plaintiff keeps an individual claim, while a separate proposed nationwide class settlement is pending court approval. Many earlier cases were also tried individually in state courts."
+    answer: "Both exist. Federal Roundup cases are coordinated as multidistrict litigation (MDL-2741) in the Northern District of California, where each plaintiff keeps an individual claim. A separate proposed nationwide class settlement has also been through state-court approval proceedings. Many earlier cases were tried individually in state courts."
   -
     question: "What is the Roundup lawsuit about?"
     answer: "Lawsuits allege that glyphosate-based Roundup exposure may be linked to non-Hodgkin lymphoma and that warnings were inadequate."
@@ -78,16 +78,16 @@ faqs:
 
 <section id="overview">
 <h2>What the lawsuit is about</h2>
-<p><strong>The Roundup lawsuit alleges that Bayer's Monsanto weed killer Roundup (glyphosate) causes non-Hodgkin lymphoma and that the company failed to warn users.</strong> Federal cases are consolidated in MDL-2741 before Judge Vince Chhabria in the U.S. District Court for the Northern District of California; a proposed $7.25 billion nationwide class settlement is pending final approval, and the U.S. Supreme Court is weighing a related failure-to-warn preemption question in <em>Monsanto v. Durnell</em>. Bayer disputes the cancer claims, and Roundup remains on the market.</p>
-<p>As of June 2026, Roundup cancer litigation remains active but settlement-focused: 3,909 federal cases are pending in MDL No. 2741, a $7.25 billion proposed class settlement has a July 9, 2026 final approval hearing, and the U.S. Supreme Court is considering a separate failure-to-warn preemption issue in <em>Monsanto v. Durnell</em>.</p>
+<p><strong>The Roundup lawsuit alleges that Bayer's Monsanto weed killer Roundup (glyphosate) causes non-Hodgkin lymphoma and that the company failed to warn users.</strong> Federal cases are consolidated in MDL-2741 before Judge Vince Chhabria in the U.S. District Court for the Northern District of California. A proposed nationwide class settlement has been through state-court approval proceedings, and the U.S. Supreme Court has decided a related failure-to-warn preemption question in <em>Monsanto v. Durnell</em>. Bayer disputes the cancer claims, and Roundup remains on the market.</p>
+<p>As of July 1, 2026, Roundup cancer litigation remains active but settlement-focused, with 3,920 actions pending in MDL No. 2741. On June 25, the U.S. Supreme Court held that FIFRA preempted the label-based failure-to-warn claim at issue in <em>Monsanto v. Durnell</em>. The effect on any specific claim depends on the claim's facts and legal theory.</p>
 <p>Roundup lawsuits allege that glyphosate-based herbicide exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate. Claim review usually turns on exposure history, diagnosis records, prior settlement or release paperwork, and state filing deadlines. Defendants dispute the allegations, and this page cannot determine whether any person qualifies for a claim.</p>
 </section>
 
 <section id="latest-update">
-<h2>Roundup Cancer Lawsuit Update: June 2026</h2>
-<p>The most significant current development is the $7.25 billion nationwide class settlement, <em>King v. Monsanto</em>, pending before Judge Timothy Boyer in Missouri's 22nd Judicial Circuit. Judge Boyer granted preliminary approval on March 4, 2026; the deadline for class members to object or opt out was set for June 4, 2026 (a motion to extend that deadline was filed shortly beforehand), and a final approval hearing is scheduled for July 9, 2026. As of June 1, 2026, 3,909 federal cases remain pending in MDL No. 2741 before Judge Vince Chhabria in the Northern District of California, with additional Roundup cases proceeding in state courts.</p>
-<p>A separate legal question is before the U.S. Supreme Court. On April 27, 2026, the Court heard oral argument in <em>Monsanto Co. v. Durnell</em> (No. 24-1068), which asks whether federal pesticide law preempts state failure-to-warn claims. A decision is expected before the end of the current term. Monsanto/Bayer disputes the plaintiffs' claims.</p>
-<p>The class settlement's structure does not determine individual eligibility. Because the opt-out and objection deadline fell in early June 2026 — and was the subject of a pending motion to extend — anyone who was a potential class member should confirm the current deadline status with counsel rather than assume it; the July 9 final approval hearing is the next key procedural date to watch.</p>
+<h2>Roundup Cancer Lawsuit Update: July 2026</h2>
+<p>The proposed $7.25 billion nationwide class settlement in <em>King v. Monsanto</em> received preliminary approval in Missouri state court on March 4, 2026. A federal court remanded a related removal attempt back to Missouri state court on June 17. The preliminary approval order set a July 9 hearing; this guide does not assume the outcome of any post-hearing order or appeal without a current court record.</p>
+<p>On June 25, 2026, the U.S. Supreme Court decided <em>Monsanto Co. v. Durnell</em> (No. 24-1068). The Court held that FIFRA preempted the label-based failure-to-warn claim at issue there. That decision does not itself decide every Roundup claim, including claims based on different facts or legal theories.</p>
+<p>As of July 1, 2026, 3,920 actions remained pending in federal MDL No. 2741 before Judge Vince Chhabria. Settlement participation, releases, deadlines, and the legal effect of court rulings remain individual questions.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -177,7 +177,7 @@ faqs:
 
 <section id="roundup-settlement-timing">
 <h2>When will Roundup settlements be paid?</h2>
-<p>There is no single payment date for all Roundup claims. Earlier settlements, individual state-court cases, MDL cases, and the pending 2026 proposed nationwide class settlement may follow different timelines. The proposed class settlement has a final approval hearing scheduled for July 9, 2026, but court approval, objections, appeals, eligibility review, claim administration, releases, and individual documentation can all affect timing.</p>
+<p>There is no single payment date for all Roundup claims. Earlier settlements, individual state-court cases, MDL cases, and the proposed 2026 nationwide class settlement may follow different timelines. The preliminary approval order set a July 9 hearing; any final order, appeal, eligibility review, claim administration, release, and individual documentation can affect timing.</p>
 <p>For individual claims, a payment timeline may depend on whether the claim is already resolved, whether a release was signed, whether lien resolution is required, and whether the person is participating in a specific settlement program. Search results that promise a universal payout date should be treated cautiously unless they cite the settlement administrator, court order, or docket.</p>
 </section>
 
