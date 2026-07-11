@@ -7,13 +7,15 @@ lawsuitSlugs:
   - "bard-powerport"
   - "hair-relaxer"
   - "hernia-mesh"
+  - "paragard"
+  - "social-media"
   - "talcum-powder"
   - "depo-provera"
   - "suboxone"
   - "afff-pfas"
   - "paraquat"
   - "roundup"
-lastUpdated: "2026-06-19"
+lastUpdated: "2026-06-29"
 ---
 
 <p>This category links product, device, consumer-product, and exposure-related injury guides. Product identification, use history, medical records, and state deadlines are usually central to review.</p>

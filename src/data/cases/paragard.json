@@ -1,0 +1,44 @@
+{
+  "slug": "paragard",
+  "caseName": "Paragard IUD Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-2974",
+    "mdlName": "In re: Paragard IUD Products Liability Litigation",
+    "court": "U.S. District Court, Northern District of Georgia",
+    "courtShort": "N.D. Ga.",
+    "judge": "Judge Leigh Martin May",
+    "established": "2020-12-16"
+  },
+  "phase": "Active — bellwether trials underway",
+  "phaseDetail": "MDL-2974 is in active litigation. The first bellwether trial ended in a defense verdict for Teva in February 2026, after which the court weighed revising the bellwether plan; additional bellwether trials are scheduled in 2026. No global settlement is in place.",
+  "pendingCounts": [
+    { "date": "2026-06-01", "count": 4071, "scope": "Pending actions in MDL-2974 (N.D. Ga.)", "source": "JPML, Pending MDL Dockets by Actions Pending, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+  ],
+  "defendants": [
+    "Teva Pharmaceuticals USA, Inc.",
+    "Teva Women's Health, LLC",
+    "CooperSurgical, Inc. (acquired Paragard in 2017)",
+    "The Cooper Companies, Inc."
+  ],
+  "settlements": [
+    {
+      "label": "No settlement — first bellwether was a defense verdict",
+      "status": "none",
+      "detail": "No global settlement is in place. The first bellwether trial ended in a defense verdict for Teva in February 2026, and the court then weighed revising the bellwether plan. Additional bellwether trials are scheduled in 2026, and individual eligibility and any future settlement posture remain fact-specific. No amount is guaranteed for any individual claim.",
+      "source": "Law.com (Daily Report) — Georgia judge weighs bellwether plan after first Paragard verdict (Feb. 17, 2026)",
+      "sourceUrl": "https://www.law.com/dailyreportonline/2026/02/17/after-first-paragard-iud-bellwether-trial-georgia-judge-considers-revising-bellwether-plan/"
+    }
+  ],
+  "keyDates": [
+    { "date": "2020-12-16", "label": "MDL-2974 established", "detail": "The JPML centralized federal Paragard IUD cases before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia." },
+    { "date": "2026-02-17", "label": "First bellwether trial — defense verdict (Teva)", "detail": "The first Paragard bellwether trial ended in a defense verdict for Teva; the court then considered revising the bellwether plan before later trials." }
+  ],
+  "sources": [
+    { "name": "U.S. District Court, N.D. Ga. — In re Paragard IUD Products Liability Litigation (MDL-2974)", "url": "https://www.gand.uscourts.gov/20md2974" },
+    { "name": "JPML — Transfer Order establishing MDL-2974 (December 2020, PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-2974-Transfer%20Order-12-20.pdf" },
+    { "name": "JPML — Pending MDL Dockets by Actions Pending, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" },
+    { "name": "Law.com (Daily Report) — judge weighs bellwether plan after first verdict (Feb. 17, 2026)", "url": "https://www.law.com/dailyreportonline/2026/02/17/after-first-paragard-iud-bellwether-trial-georgia-judge-considers-revising-bellwether-plan/" }
+  ],
+  "dataAsOf": "2026-06-29"
+}
