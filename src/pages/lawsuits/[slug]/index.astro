@@ -36,7 +36,7 @@ const related = (await getCollection("lawsuits"))
   .sort((a, b) => Number(b.data.category === lawsuit.data.category) - Number(a.data.category === lawsuit.data.category))
   .slice(0, 4);
 const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
-const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury);
+const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
 const breadcrumbs = [
   { name: "Home", url: "/" },
@@ -212,5 +212,10 @@ if (slug === "suboxone") {
   <FAQSection faqs={lawsuit.data.faqs} />
   <RelatedStateGuides guides={stateGuides.slice(0, 6)} title={`${lawsuit.data.lawsuit} State Guides`} />
   <RelatedLawsuits lawsuits={related} title={relatedTitle} />
-  <SourceUpdateLog lastReviewed={lawsuit.data.lastReviewed} lastUpdated={lawsuit.data.lastUpdated} />
+  <SourceUpdateLog
+    lastReviewed={lawsuit.data.lastReviewed}
+    lastUpdated={lawsuit.data.lastUpdated}
+    sources={caseData?.sources ?? []}
+    updateNote={caseData?.updateNote}
+  />
 </GuideLayout>

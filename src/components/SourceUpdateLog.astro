@@ -1,7 +1,7 @@
 ---
 import { formatDate } from "@lib/site";
 
-const { lastReviewed, lastUpdated } = Astro.props;
+const { lastReviewed, lastUpdated, sources = [], updateNote } = Astro.props;
 ---
 
 <section class="mt-10 rounded-lg border border-line bg-[#f1f5f9] p-4">
@@ -16,10 +16,27 @@ const { lastReviewed, lastUpdated } = Astro.props;
       <dd class="mt-1 text-ink">{formatDate(lastUpdated)}</dd>
     </div>
   </dl>
-  <p class="mt-4 text-sm leading-6 text-muted">
-    Sources reviewed may include court filings, MDL notices, public agency materials, manufacturer disclosures, and law firm case-status updates where applicable.
-  </p>
-  <p class="mt-2 text-sm leading-6 text-muted">
-    Recent updates focus on lawsuit status, state-specific context, eligibility factors, records, deadlines, and editorial disclosures.
-  </p>
+  {updateNote && (
+    <p class="mt-4 text-sm leading-6 text-muted">
+      <strong class="text-ink">Latest recorded change:</strong> {updateNote}
+    </p>
+  )}
+  {sources.length > 0 ? (
+    <div class="mt-4">
+      <h3 class="text-sm font-bold text-ink">Case-level sources reviewed for this guide</h3>
+      <ul class="mt-2 grid gap-2 text-sm leading-6">
+        {sources.map((source) => (
+          <li>
+            <a class="font-semibold text-accent-dark underline underline-offset-3" href={source.url}>
+              {source.name}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ) : (
+    <p class="mt-4 text-sm leading-6 text-muted">
+      Source links and case-specific status notes appear in the guide above.
+    </p>
+  )}
 </section>

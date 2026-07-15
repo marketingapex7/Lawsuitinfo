@@ -11,15 +11,15 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-16"
+lastUpdated: "2026-07-14"
+lastReviewed: "2026-07-14"
 faqs:
   -
     question: "Where are Roundup cases for Missouri residents coordinated?"
     answer: "Federal Roundup cases filed by Missouri residents are transferred into MDL No. 2741 in the Northern District of California. Separately, the proposed $7.25 billion King v. Monsanto class settlement is pending in St. Louis state court."
   -
     question: "Why is Missouri central to the Roundup litigation?"
-    answer: "St. Louis is Monsanto's historic home and the venue for the proposed $7.25 billion King v. Monsanto class settlement (preliminary approval March 2026; final hearing July 9, 2026). Missouri courts also produced the Anderson verdict, reduced to $611 million and upheld in 2025."
+    answer: "St. Louis is Monsanto's historic home and the venue for the proposed $7.25 billion King v. Monsanto class settlement. It received preliminary approval in March 2026; the official settlement website lists an August 19, 2026 fairness hearing and says final approval has not been granted."
   -
     question: "Do Missouri deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,9 +48,9 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Missouri?</h2>
-<p>Missouri is central to Roundup litigation because St. Louis is Monsanto's historic home, and the city's 22nd Judicial Circuit is where Bayer's proposed <strong>$7.25 billion nationwide class settlement</strong> (<em>King v. Monsanto</em>) received preliminary approval on March 4, 2026, with a final approval hearing set for July 9, 2026.</p>
+<p>Missouri is central to Roundup litigation because St. Louis is Monsanto's historic home, and the city's 22nd Judicial Circuit is where Bayer's proposed <strong>$7.25 billion nationwide class settlement</strong> (<em>King v. Monsanto</em>) received preliminary approval on March 4, 2026. The official settlement website says the fairness hearing was rescheduled to August 19, 2026, and final approval has not been granted.</p>
 <p>Missouri courts have also produced major trial verdicts. In <em>Anderson v. Monsanto</em> (Cole County, November 2023), a jury awarded about $1.56 billion; the award was later reduced to $611 million and upheld by a Missouri appellate court in 2025.</p>
-<p>A separate Missouri case, <em>Durnell v. Monsanto</em>, became the vehicle for the U.S. Supreme Court's review of whether federal pesticide law preempts state failure-to-warn claims, argued April 27, 2026 &mdash; a ruling that could reshape Roundup litigation nationwide. Federal Missouri cases are transferred into MDL No. 2741 in the Northern District of California.</p>
+<p>A separate Missouri case, <em>Durnell v. Monsanto</em>, became the vehicle for the U.S. Supreme Court's review of federal pesticide-label preemption. On June 25, 2026, the Court held that FIFRA expressly preempted the state-law label-based failure-to-warn claim at issue. Federal Missouri cases are transferred into MDL No. 2741 in the Northern District of California.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>; <a href="https://www.drugwatch.com/news/2023/11/20/bayer-hit-with-1b-loss-in-latest-roundup-cancer-trial-verdict/" target="_blank" rel="noopener noreferrer">Drugwatch — Cole County $1.5B verdict (Nov. 2023)</a>; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24-1068.html" target="_blank" rel="noopener noreferrer">U.S. Supreme Court docket — Monsanto v. Durnell (No. 24-1068)</a>.</p>
 </section>
 

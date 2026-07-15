@@ -1,6 +1,6 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
-import { site, states } from "@lib/site";
+import { minimumIndexableStateGuides, site, states } from "@lib/site";
 
 export const prerender = true;
 
@@ -48,7 +48,9 @@ export async function GET() {
     { loc: "/legal-disclaimer/" },
     { loc: "/advertising-disclosure/" },
     { loc: "/contact/" },
-    ...states.map((state) => {
+    ...states.filter((state) =>
+      stateGuides.filter((guide) => guide.data.stateSlug === state.slug).length >= minimumIndexableStateGuides
+    ).map((state) => {
       const stateUpdate = stateGuides
         .filter((guide) => guide.data.stateSlug === state.slug)
         .map((guide) => guide.data.lastUpdated)

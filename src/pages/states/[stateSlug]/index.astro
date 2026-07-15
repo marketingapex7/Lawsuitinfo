@@ -4,7 +4,7 @@ import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
 import CaseStatusBadge from "@components/CaseStatusBadge.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
-import { states, formatDate } from "@lib/site";
+import { states, formatDate, minimumIndexableStateGuides } from "@lib/site";
 import { getStateLimitation } from "@lib/caseData";
 import { absoluteUrl, datasetSchema } from "@lib/seo";
 
@@ -95,6 +95,7 @@ const extraSchemas = limitation
   description={description}
   breadcrumbs={breadcrumbs}
   faqs={faqs}
+  noindex={guides.length < minimumIndexableStateGuides}
   speakableSelectors={[".state-hub-answer", "h1"]}
   extraSchemas={extraSchemas}
 >

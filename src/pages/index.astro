@@ -5,10 +5,13 @@ import LawsuitCard from "@components/LawsuitCard.astro";
 import CategoryCard from "@components/CategoryCard.astro";
 import StateGrid from "@components/StateGrid.astro";
 import { entrySlug } from "@lib/content";
-import { formatDate, states } from "@lib/site";
+import { formatDate } from "@lib/site";
 
 const lawsuits = (await getCollection("lawsuits")).sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
 const stateGuides = await getCollection("state-guides");
+const recentlyUpdated = [...lawsuits]
+  .sort((a, b) => b.data.lastUpdated.localeCompare(a.data.lastUpdated) || a.data.lawsuit.localeCompare(b.data.lawsuit))
+  .slice(0, 6);
 const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1) ?? "2026-05-20";
 ---
 
@@ -46,37 +49,28 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       <div class="flex items-end justify-between gap-4">
         <div>
           <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
-          <h2 class="text-2xl font-bold text-ink">Featured Active Lawsuits</h2>
-          <p class="mt-2 text-sm leading-6 text-muted">Neutral summaries of the lawsuits currently covered.</p>
+          <h2 class="text-2xl font-bold text-ink">Recently Updated Lawsuits</h2>
+          <p class="mt-2 text-sm leading-6 text-muted">The six national guides with the most recent recorded review dates.</p>
         </div>
         <a class="hidden text-sm font-bold text-accent-dark sm:inline" href="/lawsuits/">All guides</a>
       </div>
       <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {lawsuits.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
+        {recentlyUpdated.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
       </div>
       <div class="mt-6 rounded-lg border border-line bg-[#f1f5f9] p-4">
-        <h3 class="text-base font-bold text-ink">State Guides</h3>
-        <div class="mt-4 space-y-4">
-          {lawsuits.map((lawsuit) => {
-            const slug = entrySlug(lawsuit);
-            const availableStates = states.filter((state) =>
-              stateGuides.some((guide) =>
-                guide.data.lawsuitSlug === slug && guide.data.stateSlug === state.slug
-              )
-            );
-            return (
-              <div>
-                <a class="text-sm font-bold text-accent-dark" href={`/lawsuits/${slug}/`}>{lawsuit.data.lawsuit}</a>
-                <div class="mt-2 flex flex-wrap gap-2">
-                  {availableStates.map((state) => (
-                    <a class="rounded-md border border-line bg-white px-2.5 py-1.5 text-xs font-bold text-muted hover:border-accent/50 hover:text-ink" href={`/lawsuits/${slug}/${state.slug}/`}>
-                      {state.name}
-                    </a>
-                  ))}
-                </div>
-              </div>
-            );
-          })}
+        <div class="flex flex-wrap items-end justify-between gap-3">
+          <div>
+            <h3 class="text-base font-bold text-ink">All National Lawsuit Guides</h3>
+            <p class="mt-1 text-sm leading-6 text-muted">{lawsuits.length} national guides and {stateGuides.length} state-specific guides are currently published.</p>
+          </div>
+          <a class="text-sm font-bold text-accent-dark" href="/states/">Browse state guides</a>
+        </div>
+        <div class="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+          {lawsuits.map((lawsuit) => (
+            <a class="rounded-md border border-line bg-white px-3 py-2.5 text-sm font-bold text-ink hover:border-accent/50" href={`/lawsuits/${entrySlug(lawsuit)}/`}>
+              {lawsuit.data.lawsuit}
+            </a>
+          ))}
         </div>
       </div>
     </section>
@@ -87,7 +81,7 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       <div class="mt-5 grid gap-4 md:grid-cols-3">
         <CategoryCard title="Defective Drugs" description="Medication-focused claims involving alleged injuries after prescription or clinical use." href="/categories/defective-drugs/" />
         <CategoryCard title="Toxic Exposure" description="Claims involving alleged chemical, pesticide, PFAS, or environmental exposure injuries." href="/categories/toxic-exposure/" />
-        <CategoryCard title="Product Liability" description="A broad view of product-related injury claims in the launch lawsuit library." href="/categories/product-liability/" />
+        <CategoryCard title="Product Liability" description="A broad view of product-related injury claims in the current lawsuit library." href="/categories/product-liability/" />
       </div>
     </section>
 

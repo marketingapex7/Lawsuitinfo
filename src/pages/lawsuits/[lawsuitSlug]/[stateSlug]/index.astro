@@ -294,5 +294,10 @@ const lawyerQuestions = lawyerQuestionsByCase[guide.data.lawsuitSlug] ?? [
 
   <FAQSection faqs={guide.data.faqs} />
   <RelatedStateGuides guides={sameState} title={`Other Lawsuit Guides in ${guide.data.state}`} />
-  <SourceUpdateLog lastReviewed={guide.data.lastReviewed} lastUpdated={guide.data.lastUpdated} />
+  <SourceUpdateLog
+    lastReviewed={guide.data.lastReviewed}
+    lastUpdated={guide.data.lastUpdated}
+    sources={caseData?.sources ?? []}
+    updateNote={caseData?.updateNote}
+  />
 </GuideLayout>

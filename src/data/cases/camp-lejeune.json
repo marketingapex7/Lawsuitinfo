@@ -13,7 +13,7 @@
   "phase": "Settlement processing and first trials — filing window closed",
   "phaseDetail": "The two-year CLJA filing window closed on August 10, 2024. Pending administrative claims and filed lawsuits continue to move through the DOJ/Navy Elective Option settlement program and Track 1 bellwether trial preparation in the Eastern District of North Carolina.",
   "pendingCounts": [
-    { "date": "2026-06-01", "count": 3744, "scope": "Lawsuits filed in E.D.N.C.", "source": "E.D.N.C. docket reporting, June 2026", "primary": true },
+    { "date": "2026-06-01", "count": 3744, "scope": "Lawsuits filed in E.D.N.C.", "source": "E.D.N.C. Camp Lejeune litigation information, June 2026", "sourceUrl": "https://www.nced.uscourts.gov/", "primary": true },
     { "date": "2026-04-15", "count": 407000, "scope": "Administrative claims filed with the Navy (approximate)", "source": "DOJ / Navy claims reporting, spring 2026", "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims" }
   ],
   "defendants": [

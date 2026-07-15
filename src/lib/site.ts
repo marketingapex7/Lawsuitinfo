@@ -6,6 +6,8 @@ export const site = {
   email: import.meta.env.PUBLIC_CONTACT_EMAIL ?? "contact@lawsuitstatusguide.com"
 };
 
+export const minimumIndexableStateGuides = 3;
+
 export const states = [
   {
     name: "Illinois",

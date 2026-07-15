@@ -24,6 +24,7 @@ const caseDataSchema = z.object({
   }),
   phase: z.string(),
   phaseDetail: z.string().optional(),
+  updateNote: z.string().optional(),
   pendingCounts: z.array(pendingCountSchema).default([]),
   defendants: z.array(z.string()).default([]),
   settlements: z
