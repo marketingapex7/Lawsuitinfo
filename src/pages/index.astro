@@ -8,6 +8,7 @@ import { entrySlug } from "@lib/content";
 import { formatDate, states } from "@lib/site";
 
 const lawsuits = (await getCollection("lawsuits")).sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
+const stateGuides = await getCollection("state-guides");
 const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1) ?? "2026-05-20";
 ---
 
@@ -46,7 +47,7 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
         <div>
           <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
           <h2 class="text-2xl font-bold text-ink">Featured Active Lawsuits</h2>
-          <p class="mt-2 text-sm leading-6 text-muted">Neutral summaries for the five launch lawsuit guides.</p>
+          <p class="mt-2 text-sm leading-6 text-muted">Neutral summaries of the lawsuits currently covered.</p>
         </div>
         <a class="hidden text-sm font-bold text-accent-dark sm:inline" href="/lawsuits/">All guides</a>
       </div>
@@ -54,15 +55,20 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
         {lawsuits.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
       </div>
       <div class="mt-6 rounded-lg border border-line bg-[#f1f5f9] p-4">
-        <h3 class="text-base font-bold text-ink">Launch State Pages</h3>
+        <h3 class="text-base font-bold text-ink">State Guides</h3>
         <div class="mt-4 space-y-4">
           {lawsuits.map((lawsuit) => {
             const slug = entrySlug(lawsuit);
+            const availableStates = states.filter((state) =>
+              stateGuides.some((guide) =>
+                guide.data.lawsuitSlug === slug && guide.data.stateSlug === state.slug
+              )
+            );
             return (
               <div>
                 <a class="text-sm font-bold text-accent-dark" href={`/lawsuits/${slug}/`}>{lawsuit.data.lawsuit}</a>
                 <div class="mt-2 flex flex-wrap gap-2">
-                  {states.map((state) => (
+                  {availableStates.map((state) => (
                     <a class="rounded-md border border-line bg-white px-2.5 py-1.5 text-xs font-bold text-muted hover:border-accent/50 hover:text-ink" href={`/lawsuits/${slug}/${state.slug}/`}>
                       {state.name}
                     </a>
@@ -107,7 +113,7 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
     <section class="rounded-lg border border-line bg-[#eef7f8] p-5">
       <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
       <h2 class="text-2xl font-bold text-ink">Browse by State</h2>
-      <p class="mt-2 text-sm leading-6 text-muted">Launch state pages include state deadline considerations, records to gather, and federal court context.</p>
+      <p class="mt-2 text-sm leading-6 text-muted">State pages include deadline considerations, records to gather, and federal court context.</p>
       <div class="mt-5">
         <StateGrid />
       </div>
@@ -117,7 +123,7 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
       <h2 class="text-2xl font-bold text-ink">How These Guides Work</h2>
       <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
-        <p>Each lawsuit guide starts with a national overview, then links to state-specific context for the launch states.</p>
+        <p>Each lawsuit guide starts with a national overview, then links to the state-specific guides currently available for that case.</p>
         <p>The pages explain alleged injuries, possible eligibility factors, common evidence, deadline considerations, and litigation status in cautious plain English.</p>
         <p>This site provides general legal information only and does not provide legal advice.</p>
       </div>
@@ -127,7 +133,7 @@ const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1
       <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
       <h2 class="text-2xl font-bold text-ink">Latest Update and Editorial Trust</h2>
       <p class="mt-3 text-sm leading-6 text-muted">
-        Launch content was last updated {formatDate(latestUpdated)}. Each guide includes review dates, cautious legal language, source/update notes, and links to editorial policy.
+        Site content was last updated {formatDate(latestUpdated)}. Each guide includes review dates, cautious legal language, source/update notes, and links to editorial policy.
       </p>
       <div class="mt-4 flex flex-wrap gap-3 text-sm font-bold text-accent-dark">
         <a href="/editorial-policy/">Editorial Policy</a>

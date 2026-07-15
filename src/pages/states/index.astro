@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
 import { states } from "@lib/site";
+import { entrySlug } from "@lib/content";
 
 const stateGuides = await getCollection("state-guides");
 const lawsuits = await getCollection("lawsuits");
@@ -40,7 +41,7 @@ const faqs = [
     <header class="max-w-3xl">
       <h1 class="text-4xl font-black tracking-normal text-ink">State Lawsuit Guides</h1>
       <p class="mt-4 text-lg leading-8 text-muted">
-        Browse state-specific lawsuit guide collections for active injury and mass tort claims. These pages explain lawsuit status, possible eligibility factors, records commonly reviewed, deadline considerations, and federal court context for each launch state.
+        Browse state-specific lawsuit guide collections for active injury and mass tort claims. These pages explain lawsuit status, possible eligibility factors, records commonly reviewed, deadline considerations, and federal court context for each covered state.
       </p>
     </header>
 
@@ -66,7 +67,7 @@ const faqs = [
     </section>
 
     <section class="mt-8 rounded-lg border border-line bg-white p-5 shadow-sm">
-      <h2 class="guide-section-title text-xl font-bold text-ink">Browse Launch States</h2>
+      <h2 class="guide-section-title text-xl font-bold text-ink">Browse States</h2>
       <div class="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
         {states.map((state) => (
           <a class="rounded-md border border-line bg-panel px-3 py-3 text-sm font-bold text-ink hover:border-accent/50 hover:bg-white" href={`/states/${state.slug}/`}>
@@ -130,7 +131,7 @@ const faqs = [
           {lawsuits
             .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit))
             .map((lawsuit) => (
-              <a class="rounded-md border border-line bg-panel px-3 py-3 text-sm font-bold text-ink hover:border-accent/50 hover:bg-white" href={`/lawsuits/${lawsuit.data.slug}/`}>
+              <a class="rounded-md border border-line bg-panel px-3 py-3 text-sm font-bold text-ink hover:border-accent/50 hover:bg-white" href={`/lawsuits/${entrySlug(lawsuit)}/`}>
                 {lawsuit.data.lawsuit} Lawsuit Guide
               </a>
             ))}
