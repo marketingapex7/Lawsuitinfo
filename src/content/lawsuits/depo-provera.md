@@ -33,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-11"
-lastReviewed: "2026-07-11"
+lastUpdated: "2026-07-14"
+lastReviewed: "2026-07-14"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
@@ -47,13 +47,13 @@ faqs:
     answer: "There is no automatic qualification rule. Claim review commonly looks for documented Depo-Provera use (injection or pharmacy records), a meningioma diagnosis confirmed by imaging or pathology, the timing between use and diagnosis, and the state filing deadline. Long-term use is a recurring theme in filed cases."
   -
     question: "How much are Depo-Provera lawsuit settlements worth?"
-    answer: "No settlements have been reached as of June 2026, so there are no official settlement amounts, and any payout figures circulating online are speculation. MDL-3140 is still in pretrial proceedings, with a general-causation hearing in June 2026 and the first bellwether trial set for December 2026. No amount is guaranteed for any individual claim."
+    answer: "No settlements have been reached as of July 2026, so there are no official settlement amounts, and any payout figures circulating online are speculation. MDL-3140 is still in pretrial proceedings, with the Rule 702 general-causation hearing listed for September 18, 2026 and the first Pilot trial set for December 2026. No amount is guaranteed for any individual claim."
   -
     question: "Where is the Depo-Provera MDL, and is it a class action?"
     answer: "Federal Depo-Provera cases are consolidated as multidistrict litigation — MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). It is not a class action: each plaintiff keeps an individual claim that is coordinated for pretrial proceedings."
   -
     question: "When are the first Depo-Provera trials?"
-    answer: "Under Case Management Order No. 9, the first Pilot bellwether trial is scheduled for December 7, 2026. The court continued the Rule 702 expert hearing to July 27, 2026 and postponed a ruling on the federal-preemption motion; both are gateway decisions for the MDL."
+    answer: "Under Case Management Order No. 9, the first Pilot bellwether trial is scheduled for December 7, 2026. The court's public MDL calendar now lists the Rule 702 expert hearing for September 18, 2026; the expert and federal-preemption rulings are gateway decisions for the MDL."
   -
     question: "Does a Depo-Provera diagnosis mean I have a claim?"
     answer: "No. Eligibility depends on individual facts, records, timing, diagnosis, and applicable law."
@@ -80,14 +80,14 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The Depo-Provera lawsuit — also searched as the "depo shot," "depo birth control shot," or simply "depo" lawsuit — is a federal product-liability case alleging that the contraceptive injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to warn users.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Defendants dispute the claims, and no settlement has been reached.</p>
-<p>As of July 2026 it is one of the fastest-growing active MDLs, with 5,830 actions pending. The court moved the Rule 702 expert hearing to July 27, 2026 and postponed a ruling on the federal-preemption motion. The first Pilot bellwether trial remains scheduled for December 7, 2026. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
+<p>As of July 2026 it is one of the fastest-growing active MDLs, with 5,830 actions pending. The court's public MDL calendar lists the Rule 702 expert hearing for September 18, 2026, and a ruling on the federal-preemption motion remains pending. The first Pilot bellwether trial remains scheduled for December 7, 2026. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
 </section>
 
 <section id="latest-update">
 <h2>Depo-Provera Lawsuit Update: July 2026</h2>
-<p>On June 15, 2026, the court continued the Rule 702 hearing from June 24-25 to July 27, 2026 in Pensacola and postponed ruling on Pfizer's pending federal-preemption motion. The order says that a global agreement, once finalized, would not resolve all MDL cases because participation depends on agreed eligibility criteria. It does not establish an individual payment amount or automatic eligibility.</p>
+<p>The court's current public MDL calendar lists the Rule 702 hearing for September 18, 2026, following the case-management conference. A previous June 15 order had continued the hearing to July 27; the current court calendar controls this guide's schedule. The federal-preemption motion also remains a key pending issue.</p>
 <p>As of July 1, 2026, 5,830 actions were pending in MDL No. 3140, up from 3,490 on March 31. The first Pilot bellwether trial remains scheduled for December 7, 2026, per Case Management Order No. 9. Pfizer and the Pharmacia entities dispute the plaintiffs' claims.</p>
-<p>The July 27 Rule 702 hearing and the pending preemption ruling are gateway decisions that may affect the trajectory of the MDL. Individuals researching this litigation should monitor court orders rather than rely on settlement-value estimates.</p>
+<p>The September 18 Rule 702 hearing and the pending preemption ruling are gateway decisions that may affect the trajectory of the MDL. Individuals researching this litigation should monitor court orders rather than rely on settlement-value estimates.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -100,8 +100,8 @@ faqs:
 <li><strong>Pending actions:</strong> 5,830 (JPML, July 1, 2026) — among the fastest-growing active MDLs</li>
 <li><strong>Defendants:</strong> Pfizer Inc.; Pharmacia &amp; Upjohn</li>
 <li><strong>Primary injury:</strong> intracranial meningioma brain tumors</li>
-<li><strong>Next milestones:</strong> Rule 702 hearing July 27, 2026; first Pilot trial December 7, 2026</li>
-<li><strong>Settlement status:</strong> none as of June 2026; no amount guaranteed</li>
+<li><strong>Next milestones:</strong> Rule 702 hearing September 18, 2026; first Pilot trial December 7, 2026</li>
+<li><strong>Settlement status:</strong> none as of July 2026; no amount guaranteed</li>
 </ul>
 </section>
 
