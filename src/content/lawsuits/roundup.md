@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-14"
-lastReviewed: "2026-07-14"
+lastUpdated: "2026-07-19"
+lastReviewed: "2026-07-19"
 faqs:
   -
     question: "How much are Roundup lawsuit settlements worth?"
@@ -55,7 +55,7 @@ faqs:
     answer: "Not automatically. Eligibility depends on exposure details, diagnosis, timing, records, and applicable law."
   -
     question: "Who qualifies for the Roundup lawsuit?"
-    answer: "There is no automatic qualification rule. Claim review may consider Roundup or glyphosate exposure history, non-Hodgkin lymphoma diagnosis details, timing, records, prior settlement paperwork, and state deadline rules."
+    answer: "There is no single qualification rule for every Roundup claim. An individual lawsuit review may consider Roundup or glyphosate exposure, non-Hodgkin lymphoma diagnosis details, timing, records, prior settlement paperwork, and state law. The proposed King class has its own court-defined class terms, which are different from deciding whether someone has a viable individual lawsuit."
   -
     question: "What is the Roundup lawsuit statute of limitations?"
     answer: "The statute of limitations varies by state and may depend on diagnosis date, discovery facts, exposure history, wrongful death issues, and prior claim activity."
@@ -73,7 +73,7 @@ faqs:
     answer: "No. Settlement status and outcomes vary."
   -
     question: "Do state deadlines matter?"
-    answer: "Yes. Filing deadlines vary by state and depend on individual facts."
+    answer: "Yes. State filing deadlines can apply to individual lawsuits and depend on the claim and facts. Those deadlines are separate from the objection, exclusion, registration, and claim-submission dates listed for the proposed King class settlement."
 ---
 
 <section id="overview">
@@ -212,6 +212,7 @@ faqs:
 <section id="roundup-deadline-questions">
 <h2>Roundup lawsuit deadline questions</h2>
 <p>Deadline questions often overlap with eligibility questions. A person may have relevant exposure and a relevant diagnosis but still need a careful review of state law and timing. Conversely, a person may not know whether a deadline has passed without reviewing diagnosis records, discovery facts, and prior claim documents.</p>
+<p>The proposed <em>King v. Monsanto</em> class settlement has a separate schedule. Its official website says the June 4, 2026 objection and exclusion deadline has passed and lists a fairness hearing for August 19, 2026. It also describes registration and claim-submission periods that would operate only if the settlement receives final approval. Those class dates do not replace a state statute of limitations for an individual lawsuit.</p>
 <ul>
 <li>When was non-Hodgkin lymphoma first diagnosed?</li>
 <li>When did Roundup or glyphosate exposure begin and end?</li>
@@ -243,8 +244,9 @@ faqs:
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. Roundup litigation is mature and settlement-focused compared with newer mass torts, but individual claim status remains fact-specific.</li>
 <li><strong>Supreme Court ruling:</strong> The <a href="https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf"><em>Monsanto Co. v. Durnell</em> opinion</a> was issued June 25, 2026.</li>
 <li><strong>Proposed class settlement:</strong> The <a href="https://www.weedkillerclass.com/">official settlement website</a> lists the current hearing date and approval status.</li>
+<li><strong>Class definitions and options:</strong> The official settlement site's <a href="https://www.weedkillerclass.com/Home/FAQs">frequently asked questions</a> explain the proposed class definition, the treatment of pending MDL plaintiffs, and the settlement-specific deadlines.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> July 14, 2026.</li>
+<li><strong>Last reviewed:</strong> July 19, 2026.</li>
 </ul>
 </section>
 

@@ -12,7 +12,7 @@
   },
   "phase": "Class settlement final approval pending; Supreme Court preemption ruling issued",
   "phaseDetail": "A proposed $7.25 billion nationwide class settlement in King v. Monsanto received preliminary approval in Missouri's 22nd Judicial Circuit on March 4, 2026. The official settlement website says the fairness hearing was rescheduled from July 9 to August 19, 2026, and that final approval has not been granted. Separately, the U.S. Supreme Court decided Monsanto Co. v. Durnell (No. 24-1068) on June 25, 2026, holding that FIFRA expressly preempted the state-law label-based failure-to-warn claim at issue.",
-  "updateNote": "Updated the Durnell preemption result and the rescheduled August 19 settlement fairness hearing from primary sources.",
+  "updateNote": "Clarified that proposed class-settlement deadlines and definitions are separate from state filing deadlines and eligibility analysis for individual lawsuits.",
   "pendingCounts": [
     { "date": "2026-07-01", "count": 3920, "scope": "Pending actions in MDL-2741", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true },
     { "date": "2026-06-01", "count": 30000, "scope": "Reported state-court cases outside the MDL (approximate)", "source": "Litigation industry reporting, 2026" }
@@ -47,7 +47,8 @@
     { "name": "JPML - Pending MDL Dockets, July 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf" },
     { "name": "U.S. Supreme Court - Monsanto Co. v. Durnell opinion (June 25, 2026)", "url": "https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf" },
     { "name": "King v. Monsanto official settlement website", "url": "https://www.weedkillerclass.com/" },
+    { "name": "King v. Monsanto official settlement FAQs", "url": "https://www.weedkillerclass.com/Home/FAQs" },
     { "name": "King v. Monsanto preliminary approval order (PDF)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" }
   ],
-  "dataAsOf": "2026-07-14"
+  "dataAsOf": "2026-07-19"
 }

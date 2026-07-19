@@ -21,7 +21,7 @@ injuries:
   - "Neurological symptoms"
   - "Agricultural exposure history"
   - "Pesticide applicator exposure"
-settlementStatus: "A confidential Master Settlement Agreement was signed on August 4, 2025, and the court is now supervising its administration: a qualified settlement fund is being established, a lien-resolution administrator was appointed in early 2026, and in June 2026 the court ordered depositions of opt-out plaintiffs amid reported high opt-out rates. The settlement's terms, tiers, and per-claim values are confidential — specific payout figures circulating online are speculation. Whether any individual participates, opts out, or qualifies at all depends on their own exposure proof, Parkinson's diagnosis records, and counsel's advice. No amount is guaranteed for any claim, and new cases continue to transfer into the MDL."
+settlementStatus: "A confidential Master Settlement Agreement was executed on September 3, 2025. The court is supervising administration through a special master, including qualification, eligibility, and opt-out issues, and ordered limited discovery involving selected opt-out cases in June 2026. The public court orders do not publish settlement tiers, a payout grid, or an average per-claim value. Whether any individual participates, opts out, or qualifies depends on exposure proof, Parkinson's diagnosis records, settlement terms, and counsel's advice. No amount is guaranteed."
 timeline:
   -
     label: "Product use or exposure"
@@ -32,12 +32,12 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-11"
-lastReviewed: "2026-07-11"
+lastUpdated: "2026-07-19"
+lastReviewed: "2026-07-19"
 faqs:
   -
     question: "How much are Paraquat lawsuit settlements worth?"
-    answer: "A confidential Master Settlement Agreement was signed in August 2025, but its terms, tiers, and per-claim values are not public — any specific payout figures circulating online are speculation. Whether a person participates, opts out, or qualifies depends on exposure proof, Parkinson's diagnosis records, and counsel's advice. No amount is guaranteed."
+    answer: "A confidential Master Settlement Agreement was executed September 3, 2025, but the public court orders do not provide settlement tiers, a payout grid, or an average per-claim value. Specific figures circulating online should not be treated as official. Participation and eligibility depend on the settlement terms, exposure proof, diagnosis records, and individual legal advice; no amount is guaranteed."
   -
     question: "Is the Paraquat lawsuit a class action?"
     answer: "No. Federal paraquat cases are coordinated as multidistrict litigation (MDL-3004) in the Southern District of Illinois, where each plaintiff keeps an individual claim. A confidential master settlement is being administered, but each claimant decides whether to participate or opt out."
@@ -55,7 +55,7 @@ faqs:
     answer: "Possible claim review may involve people with documented paraquat exposure who later developed Parkinson's disease, but qualification depends on exposure proof, diagnosis records, timing, state law, and litigation posture."
   -
     question: "What is the Paraquat lawsuit settlement status?"
-    answer: "A confidential Master Settlement Agreement was signed August 4, 2025 and is being administered under court supervision, with a lien-resolution administrator appointed in early 2026. Terms and per-claim values are confidential, participation is individual, and no amount is guaranteed for any claim."
+    answer: "A confidential Master Settlement Agreement was executed September 3, 2025 and is being administered under court supervision. Case Management Order No. 24 describes the special master's role in settlement qualification, eligibility, and opt-out information, while June 2026 orders selected certain opt-out cases for limited discovery. Public court orders do not provide per-claim values, and no amount is guaranteed."
   -
     question: "What Paraquat exposure records may matter?"
     answer: "Applicator records, farm employment records, pesticide purchase records, spray logs, crop records, co-worker statements, safety training records, and equipment-cleaning records may be relevant."
@@ -79,20 +79,20 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The Paraquat lawsuit alleges that exposure to the weed killer paraquat causes Parkinson's disease and that the makers failed to warn users.</strong> Federal cases are consolidated in MDL-3004 before Chief Judge Nancy J. Rosenstengel in the U.S. District Court for the Southern District of Illinois. A confidential Master Settlement Agreement signed in August 2025 is being administered under court supervision; its terms are confidential, participation is individual, and the defendants — Syngenta and Chevron — dispute the claims.</p>
-<p>As of July 2026, Paraquat litigation is active but centered on administration of a confidential Master Settlement Agreement signed August 4, 2025. MDL No. 3004 has 6,665 pending actions, and the court has ordered targeted opt-out plaintiff depositions while the settlement process continues.</p>
+<p>As of July 2026, Paraquat litigation is active but centered on administration of a confidential Master Settlement Agreement executed September 3, 2025. MDL No. 3004 has 6,665 pending actions, and the court has ordered targeted discovery involving selected opt-out cases while the settlement process continues.</p>
 <p>Paraquat lawsuits allege that exposure to the restricted-use herbicide may be associated with Parkinson's disease and that warnings were inadequate. Claim review usually turns on paraquat-specific exposure proof, Parkinson's diagnosis records, opt-out or settlement posture, and state filing deadlines. Defendants dispute exposure, causation, warnings, liability, and damages.</p>
 </section>
 
 <section id="latest-update">
 <h2>Paraquat Parkinson's Lawsuit Update: July 2026</h2>
-<p>The dominant development in MDL No. 3004 is settlement administration. A <strong>confidential Master Settlement Agreement was signed on August 4, 2025</strong>, a qualified settlement fund is being established, and a lien-resolution administrator was appointed in early 2026. As of July 1, 2026, <strong>6,665 actions</strong> remained pending in the MDL per the JPML's monthly report, and new cases continue to transfer in.</p>
+<p>The dominant development in MDL No. 3004 is settlement administration. The court's Case Management Order No. 24 says a <strong>confidential Master Settlement Agreement was executed on September 3, 2025</strong> and assigned the special master responsibilities involving settlement qualification and eligibility. As of July 1, 2026, <strong>6,665 actions</strong> remained pending in the MDL per the JPML's monthly report, and new cases continue to transfer in.</p>
 <p>In early June 2026, Chief Judge Nancy J. Rosenstengel ordered depositions of opt-out plaintiffs at several firms amid reported high opt-out rates — a sign that participation decisions, not trial dates, are the litigation's current battleground. Bellwether trial settings remain vacated while the program is administered.</p>
 <p>For people researching the case, the practical point is unchanged: documentation drives everything. Records or witness information tying a person to paraquat mixing, loading, spraying, drift, equipment cleaning, or nearby application — plus Parkinson's diagnosis records — matter more than settlement headlines, because the settlement's terms are confidential and individual qualification is fact-specific.</p>
 </section>
 
 <section id="paraquat-settlement-amounts">
 <h2>Are Paraquat lawsuit settlement amounts public?</h2>
-<p>No public Paraquat settlement amount, payout grid, or average per-person value has been released for individual Parkinson's claims. The current settlement program is confidential, so online figures describing specific Paraquat settlement amounts should be treated as speculation unless they are tied to a filed court record or a claimant's own counsel.</p>
+<p>The public MDL orders do not provide a Paraquat payout grid, settlement tiers, or an average per-person value for individual Parkinson's claims. Online figures describing specific Paraquat settlement amounts should therefore be treated as unofficial unless they are supported by a filed court record or information from a claimant's own counsel.</p>
 <p>For claim review, the more useful question is whether the person can document paraquat exposure and Parkinson's disease in a way that fits the current litigation posture. Farm, applicator, co-op, employer, spray-log, product-use, neurology, and diagnosis records are often more important than an advertised settlement estimate.</p>
 </section>
 
@@ -142,8 +142,8 @@ faqs:
 
 <section id="paraquat-settlement-status">
 <h2>Paraquat settlement status</h2>
-<p>A confidential <strong>Master Settlement Agreement was signed on August 4, 2025</strong> — the agreement is referenced in the parties' joint motion to establish a qualified settlement fund. The court is supervising administration: a lien-resolution administrator was appointed in early 2026, and in June 2026 the court ordered depositions of opt-out plaintiffs at several firms amid reported high opt-out rates.</p>
-<p>The settlement's terms, tiers, and per-claim values are <strong>confidential</strong>. Specific payout figures circulating online are speculation, and this site does not provide settlement calculators, estimates, or guaranteed payout ranges. Whether to participate or opt out is an individual legal decision that depends on documented paraquat exposure (use records, work setting, application history), Parkinson's diagnosis records, and counsel's advice.</p>
+<p>A confidential <strong>Master Settlement Agreement was executed on September 3, 2025</strong>. Case Management Order No. 24 says the settlement assigned the special master responsibilities involving settlement administration, qualification, and eligibility. In June 2026, the court selected certain opt-out cases for limited discovery.</p>
+<p>The public court orders do not disclose settlement tiers, a payout grid, or an average per-claim value. This site therefore does not provide settlement calculators, estimates, or guaranteed payout ranges. Whether to participate or opt out is an individual legal decision that depends on the settlement terms, documented paraquat exposure, Parkinson's diagnosis records, and counsel's advice.</p>
 <p>A signed settlement program does not mean every claim qualifies or that any amount is guaranteed. New cases continue to be filed and transferred into the MDL, and individual eligibility remains fact-specific.</p>
 </section>
 
@@ -220,8 +220,10 @@ faqs:
 <li><strong>Federal court context:</strong> Paraquat product liability claims have been coordinated in federal multidistrict litigation involving Parkinson's disease allegations. The Southern District of Illinois maintains public information for <a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">MDL No. 3004</a>.</li>
 <li><strong>Agency or medical context:</strong> Claim review may involve pesticide exposure records, agricultural work history, applicator records, medical diagnosis records, and public pesticide-regulation materials. EPA maintains public information on <a href="https://www.epa.gov/ingredients-used-pesticide-products/paraquat-dichloride">paraquat dichloride</a> and <a href="https://www.epa.gov/pesticide-worker-safety/paraquat-dichloride-training-certified-applicators">paraquat applicator training</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation involves disputed scientific, causation, exposure, and warning issues.</li>
+<li><strong>Settlement administration:</strong> The Southern District of Illinois publishes <a href="https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO24.pdf">Case Management Order No. 24</a>, which states the agreement's execution date and describes the special master's access to qualification, eligibility, and opt-out information.</li>
+<li><strong>Current court orders:</strong> The court's <a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">Paraquat MDL page</a> lists the June 2026 limited-discovery orders involving selected opt-out cases.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 30, 2026.</li>
+<li><strong>Last reviewed:</strong> July 19, 2026.</li>
 </ul>
 </section>
 
