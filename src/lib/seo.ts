@@ -86,23 +86,30 @@ export function articleSchema({
   dateModified?: string;
   datePublished?: string;
 }) {
-  return {
+  const schema: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: title,
     description,
     url,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": url
+    },
     dateModified,
-    datePublished: datePublished ?? dateModified,
     author: {
       "@type": "Organization",
-      name: site.name
+      name: site.name,
+      url: site.url
     },
     publisher: {
       "@type": "Organization",
-      name: site.name
+      name: site.name,
+      url: site.url
     }
   };
+  if (datePublished) schema.datePublished = datePublished;
+  return schema;
 }
 
 export function webSiteSchema() {
@@ -201,34 +208,44 @@ function fitMetaDescription(description: string, shortSuffix: string) {
     : text;
 }
 
-export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string) {
+function monthYear(date?: string) {
+  if (!date) return "2026";
+  return new Intl.DateTimeFormat("en-US", {
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC"
+  }).format(new Date(`${date}T00:00:00Z`));
+}
+
+export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string, lastUpdated?: string) {
+  const period = monthYear(lastUpdated);
   const descriptions: Record<string, string> = {
     "AFFF Firefighting Foam":
-      "June 2026 AFFF lawsuit update: MDL 2873 status, PFAS claims, water-system settlements, personal-injury deadlines, and state pages.",
+      `${period} AFFF lawsuit update: MDL 2873 status, PFAS claims, water-system settlements, personal-injury deadlines, and state pages.`,
     "Bard Hernia Mesh":
-      "June 2026 Bard hernia mesh lawsuit update: MDL-2846 status, pending cases, alleged mesh injuries, evidence, settlement posture, and deadlines.",
+      `${period} Bard hernia mesh lawsuit update: MDL-2846 status, pending cases, alleged mesh injuries, evidence, settlement posture, and deadlines.`,
     "Bard PowerPort":
-      "June 2026 Bard PowerPort lawsuit update: MDL-3081 status, catheter fracture and migration claims, records, settlement posture, and deadlines.",
+      `${period} Bard PowerPort lawsuit update: MDL-3081 status, catheter fracture and migration claims, records, settlement posture, and deadlines.`,
     "Camp Lejeune Water Contamination":
-      "June 2026 Camp Lejeune update: closed filing deadline, Elective Option payouts, pending claims, settlement status, and state guides.",
+      `${period} Camp Lejeune update: closed filing deadline, Elective Option payouts, pending claims, settlement status, and state guides.`,
     "Depo-Provera":
-      "June 2026 Depo-Provera lawsuit update: meningioma MDL status, expert hearing dates, trial schedule, records, deadlines, and state guides.",
+      `${period} Depo-Provera lawsuit update: meningioma MDL status, expert hearing dates, trial schedule, records, deadlines, and state guides.`,
     "Hair Relaxer":
-      "June 2026 hair relaxer lawsuit update: MDL-3060 status, uterine and ovarian cancer claims, records, settlement posture, and deadlines.",
+      `${period} hair relaxer lawsuit update: MDL-3060 status, uterine and ovarian cancer claims, records, settlement posture, and deadlines.`,
     "Ozempic / GLP-1":
-      "June 2026 Ozempic lawsuit update: GLP-1 MDL status, Rule 702 schedule, alleged stomach injury claims, eligibility, and state guides.",
+      `${period} Ozempic lawsuit update: GLP-1 MDL status, Rule 702 schedule, alleged stomach injury claims, eligibility, and state guides.`,
     "Paragard IUD":
-      "June 2026 Paragard IUD lawsuit update: MDL-2974 status, device-breakage claims, bellwether trials, eligibility, deadlines, and state guides.",
+      `${period} Paragard IUD lawsuit update: MDL-2974 status, device-breakage claims, bellwether trials, eligibility, deadlines, and state guides.`,
     "Paraquat Parkinson's":
-      "June 2026 Paraquat lawsuit update: Parkinson's MDL status, confidential settlement administration, exposure proof, deadlines, and state pages.",
+      `${period} Paraquat lawsuit update: Parkinson's MDL status, confidential settlement administration, exposure proof, deadlines, and state pages.`,
     "Roundup Cancer":
-      "June 2026 Roundup lawsuit update: settlement status, non-Hodgkin lymphoma claims, Supreme Court issue, deadlines, and state guides.",
+      `${period} Roundup lawsuit update: August settlement hearing, Durnell preemption ruling, MDL status, deadlines, and state guides.`,
     "Social Media Addiction":
-      "June 2026 social media addiction lawsuit update: MDL 3047 status, teen mental-health claims, bellwether trials, eligibility, and state guides.",
+      `${period} social media addiction lawsuit update: MDL 3047 status, teen mental-health claims, bellwether trials, eligibility, and state guides.`,
     "Suboxone Tooth Decay":
-      "June 2026 Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides.",
+      `${period} Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides.`,
     "Talcum Powder":
-      "June 2026 talcum powder lawsuit update: J&J ovarian cancer and mesothelioma claims, MDL-2738 status, failed bankruptcies, verdicts, and state guides."
+      `${period} talcum powder lawsuit update: J&J ovarian cancer and mesothelioma claims, MDL-2738 status, failed bankruptcies, verdicts, and state guides.`
   };
   if (descriptions[lawsuit]) return fitMetaDescription(descriptions[lawsuit], " for research.");
   const injury = metaInjury(primaryInjury);

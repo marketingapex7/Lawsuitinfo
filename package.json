@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev --host 127.0.0.1",
-    "build": "astro build",
+    "build": "npm run validate:content && astro build && npm run validate:links",
     "preview": "astro preview --host 127.0.0.1",
-    "generate:content": "node scripts/generate-content.mjs"
+    "generate:content": "node scripts/generate-content.mjs",
+    "validate:content": "node scripts/validate-content.mjs",
+    "validate:links": "node scripts/check-internal-links.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",

@@ -59,5 +59,35 @@
     "citation": "Mich. Comp. Laws § 600.5805(2)",
     "discoveryNote": "Michigan applies limited discovery-based accrual rules; latent-injury treatment varies by claim type.",
     "reposeNote": null
+  },
+  "new-york": {
+    "piYears": 3,
+    "citation": "N.Y. C.P.L.R. 214",
+    "discoveryNote": "For injuries caused by the latent effects of exposure to a substance, C.P.L.R. 214-c generally measures the three-year period from discovery of the injury, subject to additional requirements and exceptions.",
+    "reposeNote": null
+  },
+  "new-jersey": {
+    "piYears": 2,
+    "citation": "N.J. Stat. 2A:14-2",
+    "discoveryNote": "Accrual and discovery-rule questions depend on when the injury and its possible cause were or reasonably should have been known.",
+    "reposeNote": null
+  },
+  "colorado": {
+    "piYears": 2,
+    "citation": "Colo. Rev. Stat. 13-80-102",
+    "discoveryNote": "Colorado accrual rules can turn on when the injury and its cause were known or reasonably should have been known.",
+    "reposeNote": null
+  },
+  "washington": {
+    "piYears": 3,
+    "citation": "Wash. Rev. Code 4.16.080",
+    "discoveryNote": "Accrual and discovery-rule questions are claim-specific, particularly for latent disease or exposure allegations.",
+    "reposeNote": null
+  },
+  "delaware": {
+    "piYears": 2,
+    "citation": "10 Del. C. 8119",
+    "discoveryNote": "Delaware's time-of-discovery doctrine is narrow and fact-specific; the general two-year period is only a starting point.",
+    "reposeNote": null
   }
 }

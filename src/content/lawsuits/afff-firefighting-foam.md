@@ -33,12 +33,12 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-11"
-lastReviewed: "2026-07-11"
+lastUpdated: "2026-07-19"
+lastReviewed: "2026-07-19"
 faqs:
   -
     question: "How much are firefighting foam (AFFF) settlements worth?"
-    answer: "The multibillion-dollar AFFF settlements announced so far — 3M ($10.5-$12.5 billion), DuPont/Chemours/Corteva ($1.185 billion), Tyco ($750 million), and BASF ($316.5 million) — compensate public water systems for cleanup, not individuals. No personal-injury settlement has been reached, so there are no individual AFFF payout amounts yet, and figures circulating online are speculation. Nothing is guaranteed for any individual claim."
+    answer: "The four court-approved settlements identified by the official claims administrator compensate eligible public water systems, not individual injury claimants. As of July 19, 2026, the official MDL and settlement-administration pages do not announce a global personal-injury settlement or publish individual AFFF payout amounts. Figures presented as standard personal-injury payouts should not be treated as official, and no recovery is guaranteed."
   -
     question: "Is the AFFF lawsuit a class action?"
     answer: "The personal-injury cases are coordinated as multidistrict litigation (MDL-2873), where each plaintiff keeps an individual claim. The separate public water-system settlements resolved class-style claims for water utilities — not individuals' injury claims."
@@ -62,7 +62,7 @@ faqs:
     answer: "Possible claim review may involve firefighters, military personnel, airport workers, industrial workers, or residents with documented AFFF or PFAS exposure and a diagnosis being reviewed in the litigation."
   -
     question: "What is the AFFF lawsuit settlement status?"
-    answer: "Some public water system claims have involved settlements, but individual personal injury claims are separate and fact-specific. No settlement or recovery is guaranteed."
+    answer: "The official claims administrator identifies four finally approved public-water-system settlements involving 3M, DuPont-related companies, Tyco/Chemguard, and BASF. Those settlements address eligible water-system contamination claims. Personal-injury cases remain on separate MDL tracks, and the official court pages do not announce a global personal-injury settlement as of July 19, 2026."
   -
     question: "What PFAS exposure records may matter?"
     answer: "Fire department records, military records, airport or industrial employment records, training logs, incident reports, foam-use records, water testing records, address history, and medical records may be relevant."
@@ -87,14 +87,14 @@ faqs:
 <section id="mdl-2873-settlement-update">
 <h2>What is the latest MDL 2873 settlement update?</h2>
 <p>MDL No. 2873 includes both public water-system contamination claims and individual personal-injury claims, and those tracks should not be treated as the same settlement. The public water-system settlements are large and documented, but they resolve utility contamination claims rather than firefighter, military, airport, industrial, or resident injury claims.</p>
-<p>For individual AFFF personal-injury claims, the practical July 2026 update is that no global personal-injury settlement has been announced. Claim review still turns on exposure documentation, disease category, diagnosis timing, medical proof, and the state deadline that applies to the person's facts.</p>
+<p>The official claims administrator says the current settlements with 3M, DuPont-related companies, Tyco/Chemguard, and BASF have final approval and are designed for eligible public water systems. For individual AFFF personal-injury claims, the practical July 2026 update is that the official MDL and settlement-administration pages do not announce a global personal-injury settlement. Claim review still turns on exposure documentation, disease category, diagnosis timing, medical proof, and applicable state law.</p>
 </section>
 
 <section id="latest-update">
 <h2>AFFF Firefighting Foam Lawsuit Update: July 2026</h2>
 <p>The personal-injury track of AFFF/PFAS MDL No. 2873 before Judge Richard Gergel in the District of South Carolina is currently without a trial date. Case Management Order No. 35, entered August 15, 2025, vacated the previously scheduled October 2025 kidney-cancer bellwether trial, and no replacement personal-injury trial date has been set. As of July 1, 2026, 15,244 actions are pending in the MDL.</p>
-<p>Separately, several water-system contamination settlements have been finalized and are in the payment process: 3M ($10.5-$12.5 billion), DuPont/Chemours/Corteva ($1.185 billion), Tyco ($750 million), and BASF ($316.5 million). These settlements compensate public water utilities for contamination remediation. They do not constitute a settlement for individual personal-injury claimants, and no personal-injury settlement exists.</p>
-<p>Anyone researching AFFF claims should clearly distinguish between the closed water-utility settlements and the unresolved individual injury litigation. The kidney-cancer bellwether track remains the leading personal-injury focus, but its schedule has been reset and no new hearing or trial dates are currently on record.</p>
+<p>Separately, several water-system contamination settlements have final approval and remain in claims administration: 3M ($10.5-$12.5 billion), DuPont/Chemours/Corteva ($1.185 billion), Tyco ($750 million), and BASF ($316.5 million). These settlements compensate eligible public water systems for defined contamination claims. They do not constitute a global settlement for individual personal-injury claimants.</p>
+<p>Anyone researching AFFF claims should clearly distinguish between the court-approved water-utility settlements and the separately managed individual injury litigation. Case Management Order No. 35 vacated the October 20, 2025 bellwether trial and identified six personal-injury categories being pursued in the MDL: kidney cancer, testicular cancer, ulcerative colitis, thyroid disease, liver cancer, and thyroid cancer. Case Management Order No. 26N sets a July 20, 2026 deadline for Group B bellwether selections and expert-discovery proposals involving thyroid-disease and ulcerative-colitis plaintiffs; it does not set a new trial date.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -143,9 +143,9 @@ faqs:
 
 <section id="afff-settlement-status">
 <h2>AFFF lawsuit settlement status</h2>
-<p>AFFF settlement status should be read carefully because different parts of the litigation can move on different tracks. Public water system settlements may address contamination-related costs for water providers, but those settlements do not automatically decide whether an individual firefighter, service member, airport worker, industrial worker, or resident has a personal injury claim.</p>
+<p>AFFF settlement status should be read carefully because different parts of the litigation move on different tracks. The official claims administrator identifies four finally approved settlements designed to resolve defined PFAS drinking-water claims for eligible public water systems. Those settlements do not decide whether an individual firefighter, service member, airport worker, industrial worker, or resident has a personal-injury claim.</p>
 <p>Personal injury claims may depend on disease category, exposure pathway, diagnosis records, expert rulings, bellwether planning, state law, and whether the person can connect exposure to AFFF or a relevant PFAS-contaminated site. Settlement discussions or public settlement reports do not mean every personal injury claim is resolved or that any individual outcome is guaranteed.</p>
-<p>This site does not provide settlement calculators, estimated payouts, or claim-value rankings. AFFF personal injury settlement posture can change as court rulings, disease-category review, and claim-specific evidence develop.</p>
+<p>As of July 19, 2026, the official MDL and settlement-administration pages do not announce a global personal-injury settlement or an individual payout schedule. This site does not provide settlement calculators, estimated payouts, or claim-value rankings. Personal-injury settlement posture can change as court rulings, disease-category review, and claim-specific evidence develop.</p>
 </section>
 
 <section id="status">
@@ -230,10 +230,13 @@ faqs:
 <h2>Sources and status notes</h2>
 <ul>
 <li><strong>Federal court context:</strong> AFFF firefighting foam / PFAS claims have been coordinated in federal multidistrict litigation involving PFAS-containing firefighting foam. The District of South Carolina maintains public information for <a href="https://www.scd.uscourts.gov/mdl-2873/index.asp">MDL No. 2873</a>.</li>
+<li><strong>Water-system settlements:</strong> The court-supervised <a href="https://www.pfaswatersettlement.com/">PFAS Water Settlement website</a> identifies the four current public-water-system settlements, their final-approval status, and claims-administration deadlines.</li>
+<li><strong>Personal-injury management:</strong> The court's <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2035%20ECF%207823.pdf">Case Management Order No. 35</a> vacated the October 2025 bellwether trial and set filing and proof requirements for six listed personal-injury categories.</li>
+<li><strong>Group B schedule:</strong> <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.N%20ECF%208932.pdf">Case Management Order No. 26N</a> sets the July 20, 2026 selection and expert-discovery proposal deadline for thyroid-disease and ulcerative-colitis bellwether cases.</li>
 <li><strong>Agency or medical context:</strong> PFAS health and environmental context may involve EPA, CDC, ATSDR, state environmental agencies, and water-testing information. Public background is available from the <a href="https://www.epa.gov/pfas">EPA PFAS information page</a> and <a href="https://www.atsdr.cdc.gov/pfas/index.html">ATSDR PFAS and Your Health</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. AFFF claims may involve firefighters, military personnel, airport workers, industrial workers, or residents near contaminated sites.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 30, 2026.</li>
+<li><strong>Last reviewed:</strong> July 19, 2026.</li>
 </ul>
 </section>
 

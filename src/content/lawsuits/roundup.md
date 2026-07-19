@@ -21,7 +21,7 @@ injuries:
   - "Glyphosate exposure"
   - "Agricultural exposure"
   - "Landscaping or groundskeeping exposure"
-settlementStatus: "Roundup litigation is more mature and more settlement-focused than many newer mass torts, but that does not mean every claim is resolved or that any person has a guaranteed recovery. Public reports in 2026 described proposed settlement activity and legal disputes over how a broader settlement might proceed. For people researching Roundup settlement status, the key point is that settlement posture is not the same as individual eligibility. Individual options may depend on diagnosis type, exposure history, prior settlement paperwork, opt-out or release issues, state deadlines, and ongoing court or appellate rulings."
+settlementStatus: "A proposed $7.25 billion nationwide class settlement received preliminary approval in King v. Monsanto. The official settlement website says the fairness hearing was rescheduled to August 19, 2026, and final approval has not been granted. That proposed class settlement is separate from earlier individual settlements and verdicts. Individual options may depend on diagnosis type, exposure history, prior settlement paperwork, opt-out or release issues, state deadlines, and ongoing court rulings; no recovery is guaranteed."
 timeline:
   -
     label: "Product use or exposure"
@@ -32,12 +32,12 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-11"
-lastReviewed: "2026-07-11"
+lastUpdated: "2026-07-19"
+lastReviewed: "2026-07-19"
 faqs:
   -
     question: "How much are Roundup lawsuit settlements worth?"
-    answer: "Roundup settlements and verdicts have varied widely by case. A proposed $7.25 billion nationwide class settlement has been through court-approval proceedings, but this guide does not assume the outcome of any post-hearing order or appeal. Any per-person figure depends on diagnosis, exposure, and individual facts; no amount is guaranteed."
+    answer: "Roundup settlements and verdicts have varied widely by case. A proposed $7.25 billion nationwide class settlement received preliminary approval, but the official settlement website says final approval has not been granted and lists an August 19, 2026 fairness hearing. Any per-person figure depends on diagnosis, exposure, and individual facts; no amount is guaranteed."
   -
     question: "Is the Roundup lawsuit a class action or an MDL?"
     answer: "Both exist. Federal Roundup cases are coordinated as multidistrict litigation (MDL-2741) in the Northern District of California, where each plaintiff keeps an individual claim. A separate proposed nationwide class settlement has also been through state-court approval proceedings. Many earlier cases were tried individually in state courts."
@@ -55,7 +55,7 @@ faqs:
     answer: "Not automatically. Eligibility depends on exposure details, diagnosis, timing, records, and applicable law."
   -
     question: "Who qualifies for the Roundup lawsuit?"
-    answer: "There is no automatic qualification rule. Claim review may consider Roundup or glyphosate exposure history, non-Hodgkin lymphoma diagnosis details, timing, records, prior settlement paperwork, and state deadline rules."
+    answer: "There is no single qualification rule for every Roundup claim. An individual lawsuit review may consider Roundup or glyphosate exposure, non-Hodgkin lymphoma diagnosis details, timing, records, prior settlement paperwork, and state law. The proposed King class has its own court-defined class terms, which are different from deciding whether someone has a viable individual lawsuit."
   -
     question: "What is the Roundup lawsuit statute of limitations?"
     answer: "The statute of limitations varies by state and may depend on diagnosis date, discovery facts, exposure history, wrongful death issues, and prior claim activity."
@@ -73,7 +73,7 @@ faqs:
     answer: "No. Settlement status and outcomes vary."
   -
     question: "Do state deadlines matter?"
-    answer: "Yes. Filing deadlines vary by state and depend on individual facts."
+    answer: "Yes. State filing deadlines can apply to individual lawsuits and depend on the claim and facts. Those deadlines are separate from the objection, exclusion, registration, and claim-submission dates listed for the proposed King class settlement."
 ---
 
 <section id="overview">
@@ -85,7 +85,7 @@ faqs:
 
 <section id="latest-update">
 <h2>Roundup Cancer Lawsuit Update: July 2026</h2>
-<p>The proposed $7.25 billion nationwide class settlement in <em>King v. Monsanto</em> received preliminary approval in Missouri state court on March 4, 2026. A federal court remanded a related removal attempt back to Missouri state court on June 17. The preliminary approval order set a July 9 hearing; this guide does not assume the outcome of any post-hearing order or appeal without a current court record.</p>
+<p>The proposed $7.25 billion nationwide class settlement in <em>King v. Monsanto</em> received preliminary approval in Missouri state court on March 4, 2026. A federal court remanded a related removal attempt back to Missouri state court on June 17. The official settlement website says the fairness hearing originally set for July 9 was rescheduled to August 19, 2026, and that the court has not granted final approval.</p>
 <p>On June 25, 2026, the U.S. Supreme Court decided <em>Monsanto Co. v. Durnell</em> (No. 24-1068). The Court held that FIFRA preempted the label-based failure-to-warn claim at issue there. That decision does not itself decide every Roundup claim, including claims based on different facts or legal theories.</p>
 <p>As of July 1, 2026, 3,920 actions remained pending in federal MDL No. 2741 before Judge Vince Chhabria. Settlement participation, releases, deadlines, and the legal effect of court rulings remain individual questions.</p>
 </section>
@@ -97,7 +97,7 @@ faqs:
 <li><strong>Primary injury:</strong> Non-Hodgkin lymphoma</li>
 <li><strong>Main product/exposure:</strong> Roundup and other glyphosate-based herbicide products</li>
 <li><strong>MDL or court context:</strong> MDL No. 2741, Northern District of California, with related state court and settlement activity</li>
-<li><strong>Settlement status:</strong> Public proposed settlement activity exists, but approval, eligibility, timing, and individual outcomes remain fact-specific</li>
+<li><strong>Settlement status:</strong> Proposed class settlement has preliminary approval; fairness hearing listed for August 19, 2026; final approval has not been granted</li>
 <li><strong>Key deadline:</strong> Varies by state, diagnosis date, exposure history, discovery facts, prior settlement participation, and court orders</li>
 <li><strong>State law relevance:</strong> State law may affect warnings claims, damages, limitations periods, release issues, and wrongful death claims</li>
 </ul>
@@ -177,7 +177,7 @@ faqs:
 
 <section id="roundup-settlement-timing">
 <h2>When will Roundup settlements be paid?</h2>
-<p>There is no single payment date for all Roundup claims. Earlier settlements, individual state-court cases, MDL cases, and the proposed 2026 nationwide class settlement may follow different timelines. The preliminary approval order set a July 9 hearing; any final order, appeal, eligibility review, claim administration, release, and individual documentation can affect timing.</p>
+<p>There is no single payment date for all Roundup claims. Earlier settlements, individual state-court cases, MDL cases, and the proposed 2026 nationwide class settlement may follow different timelines. The official settlement website lists an August 19, 2026 fairness hearing and says final approval has not been granted. Any final order, appeal, eligibility review, claim administration, release, and individual documentation can affect timing.</p>
 <p>For individual claims, a payment timeline may depend on whether the claim is already resolved, whether a release was signed, whether lien resolution is required, and whether the person is participating in a specific settlement program. Search results that promise a universal payout date should be treated cautiously unless they cite the settlement administrator, court order, or docket.</p>
 </section>
 
@@ -212,6 +212,7 @@ faqs:
 <section id="roundup-deadline-questions">
 <h2>Roundup lawsuit deadline questions</h2>
 <p>Deadline questions often overlap with eligibility questions. A person may have relevant exposure and a relevant diagnosis but still need a careful review of state law and timing. Conversely, a person may not know whether a deadline has passed without reviewing diagnosis records, discovery facts, and prior claim documents.</p>
+<p>The proposed <em>King v. Monsanto</em> class settlement has a separate schedule. Its official website says the June 4, 2026 objection and exclusion deadline has passed and lists a fairness hearing for August 19, 2026. It also describes registration and claim-submission periods that would operate only if the settlement receives final approval. Those class dates do not replace a state statute of limitations for an individual lawsuit.</p>
 <ul>
 <li>When was non-Hodgkin lymphoma first diagnosed?</li>
 <li>When did Roundup or glyphosate exposure begin and end?</li>
@@ -241,8 +242,11 @@ faqs:
 <li><strong>Federal court context:</strong> Federal Roundup product liability cases have been coordinated in <a href="https://cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">MDL No. 2741 in the Northern District of California</a>, with related state-court and settlement activity.</li>
 <li><strong>Agency or medical context:</strong> Public context may involve glyphosate regulatory materials, product-labeling issues, and court materials addressing warnings, causation, settlement, and appeal issues. EPA maintains public information on <a href="https://www.epa.gov/ingredients-used-pesticide-products/glyphosate">glyphosate</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. Roundup litigation is mature and settlement-focused compared with newer mass torts, but individual claim status remains fact-specific.</li>
+<li><strong>Supreme Court ruling:</strong> The <a href="https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf"><em>Monsanto Co. v. Durnell</em> opinion</a> was issued June 25, 2026.</li>
+<li><strong>Proposed class settlement:</strong> The <a href="https://www.weedkillerclass.com/">official settlement website</a> lists the current hearing date and approval status.</li>
+<li><strong>Class definitions and options:</strong> The official settlement site's <a href="https://www.weedkillerclass.com/Home/FAQs">frequently asked questions</a> explain the proposed class definition, the treatment of pending MDL plaintiffs, and the settlement-specific deadlines.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> May 23, 2026.</li>
+<li><strong>Last reviewed:</strong> July 19, 2026.</li>
 </ul>
 </section>
 

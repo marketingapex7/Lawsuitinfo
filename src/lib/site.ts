@@ -6,6 +6,8 @@ export const site = {
   email: import.meta.env.PUBLIC_CONTACT_EMAIL ?? "contact@lawsuitstatusguide.com"
 };
 
+export const minimumIndexableStateGuides = 3;
+
 export const states = [
   {
     name: "Illinois",
@@ -66,6 +68,36 @@ export const states = [
     slug: "michigan",
     abbr: "MI",
     courts: ["Eastern District of Michigan", "Western District of Michigan"]
+  },
+  {
+    name: "New York",
+    slug: "new-york",
+    abbr: "NY",
+    courts: ["Northern District of New York", "Southern District of New York", "Eastern District of New York", "Western District of New York"]
+  },
+  {
+    name: "New Jersey",
+    slug: "new-jersey",
+    abbr: "NJ",
+    courts: ["District of New Jersey"]
+  },
+  {
+    name: "Colorado",
+    slug: "colorado",
+    abbr: "CO",
+    courts: ["District of Colorado"]
+  },
+  {
+    name: "Washington",
+    slug: "washington",
+    abbr: "WA",
+    courts: ["Eastern District of Washington", "Western District of Washington"]
+  },
+  {
+    name: "Delaware",
+    slug: "delaware",
+    abbr: "DE",
+    courts: ["District of Delaware"]
   }
 ] as const;
 
