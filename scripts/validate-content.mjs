@@ -121,6 +121,12 @@ async function validateNationalGuideFreshness() {
 async function validateRoundupDeadlineAndQualificationContent() {
   const file = path.join(root, "src", "content", "lawsuits", "roundup.md");
   const content = await readFile(file, "utf8");
+  const frontmatter = content.match(/^---\s*([\s\S]*?)\s*---/)?.[1] ?? "";
+  const deadlineFaqAnswer =
+    "There is no single national filing deadline. Applicable state statutes of limitation and repose vary.";
+  if (!frontmatter.includes(deadlineFaqAnswer)) {
+    report(file, `deadline FAQ is missing: "${deadlineFaqAnswer}"`);
+  }
   const requiredSections = [
     [
       "roundup-eligibility",

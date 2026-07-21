@@ -52,7 +52,7 @@ faqs:
     answer: "Roundup use alone does not establish a viable individual claim. A review may consider identifiable Roundup or glyphosate exposure, frequency and duration, a documented non-Hodgkin lymphoma diagnosis and subtype, timing, prior claim or release paperwork, and applicable state law. The proposed King class uses separate court-defined membership and award rules."
   -
     question: "What is the deadline to file a Roundup lawsuit?"
-    answer: "There is no single national filing deadline or statute of limitations for individual Roundup lawsuits. State law may make diagnosis, discovery, death, claim type, prior filings, settlements, or releases relevant. The proposed class settlement's objection, exclusion, registration, and claim-submission dates are different deadlines."
+    answer: "There is no single national filing deadline. Applicable state statutes of limitation and repose vary. Diagnosis, discovery, death, claim type, prior filings, settlements, or releases may be relevant. The proposed class settlement's objection, exclusion, registration, and claim-submission dates are different deadlines."
   -
     question: "When did the Roundup lawsuit start?"
     answer: "Roundup claims developed over several years, and federal cases were centralized in MDL No. 2741 in 2016. Earlier product use, diagnosis dates, and state filing deadlines still matter for individual review."
