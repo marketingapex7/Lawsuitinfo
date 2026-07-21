@@ -118,9 +118,64 @@ async function validateNationalGuideFreshness() {
   }
 }
 
+async function validateRoundupDeadlineAndQualificationContent() {
+  const file = path.join(root, "src", "content", "lawsuits", "roundup.md");
+  const content = await readFile(file, "utf8");
+  const frontmatter = content.match(/^---\s*([\s\S]*?)\s*---/)?.[1] ?? "";
+  const deadlineFaqAnswer =
+    "There is no single national filing deadline. Applicable state statutes of limitation and repose vary.";
+  if (!frontmatter.includes(deadlineFaqAnswer)) {
+    report(file, `deadline FAQ is missing: "${deadlineFaqAnswer}"`);
+  }
+  const requiredSections = [
+    [
+      "roundup-eligibility",
+      [
+        "<h2>Who may qualify for a Roundup lawsuit?</h2>",
+        "Being included in that proposed class is not the same legal question"
+      ]
+    ],
+    ["roundup-proof-needed", ["<h2>What proof do you need for a Roundup lawsuit?</h2>"]],
+    [
+      "roundup-deadline-questions",
+      [
+        "<h2>What is the deadline to file a Roundup lawsuit?</h2>",
+        "There is no single national deadline for an individual Roundup lawsuit.",
+        "Class-settlement dates do not replace an individual lawsuit deadline.",
+        "If the proposed settlement receives final approval and becomes effective",
+        "final approval has not been granted"
+      ]
+    ]
+  ];
+
+  for (const [id, requiredText] of requiredSections) {
+    const pattern = new RegExp(`<section id=["']${id}["']>([\\s\\S]*?)<\\/section>`, "g");
+    const matches = [...content.matchAll(pattern)];
+    if (matches.length !== 1) {
+      report(file, `expected exactly one ${id} section; found ${matches.length}`);
+      continue;
+    }
+    for (const text of requiredText) {
+      if (!matches[0][1].includes(text)) report(file, `${id} section is missing: "${text}"`);
+    }
+  }
+
+  for (const id of [
+    "roundup-eligibility-factors",
+    "claim-evaluation",
+    "harder-claims",
+    "state-law",
+    "roundup-statute-limitations",
+    "eligibility"
+  ]) {
+    if (content.includes(`<section id="${id}">`)) report(file, `obsolete overlapping section remains: ${id}`);
+  }
+}
+
 await validateCaseData();
 await validateContentDates();
 await validateNationalGuideFreshness();
+await validateRoundupDeadlineAndQualificationContent();
 
 if (errors.length) {
   console.error(`Content validation failed with ${errors.length} issue(s):`);

@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-19"
-lastReviewed: "2026-07-19"
+lastUpdated: "2026-07-21"
+lastReviewed: "2026-07-21"
 faqs:
   -
     question: "How much are Roundup lawsuit settlements worth?"
@@ -48,32 +48,23 @@ faqs:
     question: "What injury is commonly involved?"
     answer: "Roundup claims commonly involve non-Hodgkin lymphoma allegations."
   -
-    question: "Who may have relevant exposure?"
-    answer: "Agricultural workers, landscapers, groundskeepers, homeowners, and others with repeated product exposure may have relevant histories."
+    question: "Who may qualify for a Roundup lawsuit?"
+    answer: "Roundup use alone does not establish a viable individual claim. A review may consider identifiable Roundup or glyphosate exposure, frequency and duration, a documented non-Hodgkin lymphoma diagnosis and subtype, timing, prior claim or release paperwork, and applicable state law. The proposed King class uses separate court-defined membership and award rules."
   -
-    question: "Do I qualify if I used Roundup?"
-    answer: "Not automatically. Eligibility depends on exposure details, diagnosis, timing, records, and applicable law."
-  -
-    question: "Who qualifies for the Roundup lawsuit?"
-    answer: "There is no single qualification rule for every Roundup claim. An individual lawsuit review may consider Roundup or glyphosate exposure, non-Hodgkin lymphoma diagnosis details, timing, records, prior settlement paperwork, and state law. The proposed King class has its own court-defined class terms, which are different from deciding whether someone has a viable individual lawsuit."
-  -
-    question: "What is the Roundup lawsuit statute of limitations?"
-    answer: "The statute of limitations varies by state and may depend on diagnosis date, discovery facts, exposure history, wrongful death issues, and prior claim activity."
+    question: "What is the deadline to file a Roundup lawsuit?"
+    answer: "There is no single national filing deadline. Applicable state statutes of limitation and repose vary. Diagnosis, discovery, death, claim type, prior filings, settlements, or releases may be relevant. The proposed class settlement's objection, exclusion, registration, and claim-submission dates are different deadlines."
   -
     question: "When did the Roundup lawsuit start?"
     answer: "Roundup claims developed over several years, and federal cases were centralized in MDL No. 2741 in 2016. Earlier product use, diagnosis dates, and state filing deadlines still matter for individual review."
   -
-    question: "What records may help?"
-    answer: "Use records, purchase records, employment records, diagnosis records, oncology records, and treatment records may be useful."
+    question: "What proof do you need for a Roundup lawsuit?"
+    answer: "A review commonly starts with evidence identifying the product and exposure history, pathology or oncology records confirming the diagnosis and subtype, a dated exposure-to-treatment timeline, and any prior Roundup claim, settlement, release, or opt-out paperwork. No single document proves eligibility by itself."
   -
     question: "Are defendants disputing claims?"
     answer: "Defendants may dispute causation, warnings, exposure, liability, or damages."
   -
     question: "Is a settlement guaranteed?"
     answer: "No. Settlement status and outcomes vary."
-  -
-    question: "Do state deadlines matter?"
-    answer: "Yes. State filing deadlines can apply to individual lawsuits and depend on the claim and facts. Those deadlines are separate from the objection, exclusion, registration, and claim-submission dates listed for the proposed King class settlement."
 ---
 
 <section id="overview">
@@ -82,7 +73,6 @@ faqs:
 <p>As of July 1, 2026, Roundup cancer litigation remains active but settlement-focused, with 3,920 actions pending in MDL No. 2741. On June 25, the U.S. Supreme Court held that FIFRA preempted the label-based failure-to-warn claim at issue in <em>Monsanto v. Durnell</em>. The effect on any specific claim depends on the claim's facts and legal theory.</p>
 <p>Roundup lawsuits allege that glyphosate-based herbicide exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate. Claim review usually turns on exposure history, diagnosis records, prior settlement or release paperwork, and state filing deadlines. Defendants dispute the allegations, and this page cannot determine whether any person qualifies for a claim.</p>
 </section>
-
 <section id="latest-update">
 <h2>Roundup Cancer Lawsuit Update: July 2026</h2>
 <p>The proposed $7.25 billion nationwide class settlement in <em>King v. Monsanto</em> received preliminary approval in Missouri state court on March 4, 2026. A federal court remanded a related removal attempt back to Missouri state court on June 17. The official settlement website says the fairness hearing originally set for July 9 was rescheduled to August 19, 2026, and that the court has not granted final approval.</p>
@@ -104,24 +94,19 @@ faqs:
 </section>
 
 <section id="roundup-eligibility">
-<h2>Who qualifies for the Roundup lawsuit?</h2>
-<p>People often search for who qualifies for a Roundup lawsuit, but qualification cannot be answered from product use alone. A claim review usually looks at both sides of the story: the person's Roundup or glyphosate exposure history and the medical history showing a diagnosis of non-Hodgkin lymphoma or a related lymphoma subtype being evaluated in the litigation.</p>
-<p>Possible eligibility factors may include repeated use of Roundup or another glyphosate-based herbicide, occupational or residential exposure over time, a medically documented non-Hodgkin lymphoma diagnosis, and a timeline that fits the claim being reviewed. Records can matter because Roundup litigation is mature, and some people may already have signed settlement paperwork, releases, opt-out forms, or other documents that affect future options.</p>
-<p>Commonly reviewed exposure settings may include farm work, landscaping, groundskeeping, nursery work, golf course maintenance, parks or school maintenance, municipal weed control, large-property maintenance, and repeated homeowner use. A one-time or uncertain exposure history may be harder to evaluate than repeated, documented use over multiple seasons.</p>
-<p>This site cannot decide whether a person qualifies. A lawyer reviewing Roundup claims may ask for product details, use frequency, years of exposure, diagnosis records, treatment records, and information about any prior Roundup claim, settlement, or release.</p>
-</section>
-
-<section id="roundup-eligibility-factors">
-<h2>Roundup lawsuit eligibility factors</h2>
-<p>Roundup lawsuit eligibility is usually fact-specific. The strongest starting point is a clear product and diagnosis timeline. For example, a person who can identify years of repeated Roundup use, the type of work performed, the approximate diagnosis date, the lymphoma subtype, and the treatment history gives a reviewer more to evaluate than a person with only a general memory of weed killer use.</p>
+<h2>Who may qualify for a Roundup lawsuit?</h2>
+<p><strong>Roundup use by itself does not establish that someone has a viable individual lawsuit.</strong> A claim review generally considers whether the product and exposure can be identified, whether medical records document non-Hodgkin lymphoma, whether the timeline fits the claim being evaluated, and whether state law or earlier Roundup paperwork affects the person's options.</p>
+<p>The proposed <em>King v. Monsanto</em> class uses its own court-defined membership and award rules. Being included in that proposed class is not the same legal question as whether someone can file or continue an individual personal-injury or wrongful-death lawsuit. The official settlement FAQ also treats certain people with pending MDL claims, earlier settlements, releases, judgments, or dismissals differently.</p>
+<p>Common individual-claim review factors include:</p>
 <ul>
-<li><strong>Product history:</strong> Whether the person used Roundup, another glyphosate-based herbicide, concentrate, ready-to-use spray, or a product supplied by an employer.</li>
-<li><strong>Exposure frequency:</strong> Whether use occurred daily, weekly, seasonally, occasionally, or only once or twice.</li>
-<li><strong>Exposure setting:</strong> Whether use was agricultural, landscaping-related, groundskeeping-related, residential, municipal, school, park, or golf-course related.</li>
-<li><strong>Diagnosis details:</strong> Whether medical records show non-Hodgkin lymphoma, the subtype, diagnosis date, treatment course, recurrence history, or wrongful death facts.</li>
-<li><strong>Timing and deadlines:</strong> Whether state filing deadlines, discovery rules, prior settlements, or releases may affect the claim.</li>
+<li><strong>Identifiable exposure:</strong> The Roundup or glyphosate-containing product, approximate years of use, frequency, duration, and whether exposure occurred at work, at home, or both.</li>
+<li><strong>Exposure circumstances:</strong> Applying or mixing the product, cleaning equipment, handling concentrate, spills, overspray, skin contact, inhalation, and protective equipment.</li>
+<li><strong>Documented diagnosis:</strong> Pathology and oncology records showing non-Hodgkin lymphoma, the subtype, diagnosis date, treatment, recurrence, or death where relevant.</li>
+<li><strong>Complete timeline:</strong> First and last exposure, diagnosis, treatment, recurrence, death, and the date the person first connected the diagnosis with the alleged exposure.</li>
+<li><strong>Prior legal activity:</strong> Earlier lawsuits, tolling agreements, settlements, releases, judgments, dismissals, class notices, or opt-out paperwork.</li>
+<li><strong>Applicable law:</strong> The state and claim type that may control filing deadlines, available legal theories, and wrongful-death or survival issues.</li>
 </ul>
-<p>Eligibility language should be treated cautiously. Public information can explain common review factors, but only a licensed attorney can evaluate how the facts, deadlines, and litigation posture may apply to one person's situation.</p>
+<p>Agricultural work, landscaping, groundskeeping, nursery work, golf-course maintenance, municipal weed control, parks or school maintenance, and repeated homeowner use can produce different exposure records. These factors help organize a review; they are not an automatic qualification formula, and this site cannot decide whether a person has a claim.</p>
 </section>
 
 <section id="litigation-updates">
@@ -156,23 +141,16 @@ faqs:
 <p>Roundup claims can also turn on the difference between casual product use and repeated exposure. A homeowner who sprayed weeds once or twice may present a different review than a worker who mixed concentrate, sprayed large areas, cleaned equipment, or handled the product as part of routine job duties over many seasons.</p>
 </section>
 
-<section id="claim-evaluation">
-<h2>How claims may be evaluated</h2>
-<p>A Roundup claim review usually begins with exposure history. Relevant records may include purchase receipts, employment records, landscaping or groundskeeping job descriptions, farm records, pesticide application logs, photographs of product containers, invoices, property maintenance records, and witness statements. The review may look at how many years the person used Roundup, how often it was applied, whether concentrate was mixed, and whether exposure involved skin contact, inhalation, spills, or overspray.</p>
-<p>Medical records are equally important. Oncology records, pathology reports, biopsy records, chemotherapy records, radiation records, transplant records, recurrence history, and records identifying the type of non-Hodgkin lymphoma may be needed. A lawyer may also ask about diagnosis date, symptoms, treatment course, remission, recurrence, and long-term effects.</p>
-<p>Causation review may consider latency, duration of exposure, intensity of exposure, other pesticide or chemical exposure, family history, immune conditions, age, prior cancers, and other medical risk factors. A strong claim review usually depends on both documented exposure and confirmed diagnosis.</p>
-</section>
-
 <section id="roundup-proof-needed">
 <h2>What proof do you need for a Roundup lawsuit?</h2>
-<p>People often ask what proof is needed for a Roundup lawsuit. The short answer is that a reviewer usually needs both sides of the claim: records showing Roundup or glyphosate exposure and medical records confirming non-Hodgkin lymphoma or another diagnosis being evaluated.</p>
+<p><strong>No single receipt, photograph, or medical record proves that someone qualifies.</strong> A useful review usually combines evidence identifying the product and exposure with records confirming the diagnosis and dates that may control timeliness.</p>
 <ul>
-<li><strong>Exposure proof:</strong> Purchase receipts, product photos, pesticide application logs, farm records, landscaping records, groundskeeping duties, employer records, invoices, or witness statements.</li>
-<li><strong>Use details:</strong> Approximate years of use, frequency, whether concentrate was mixed, whether protective equipment was used, and whether exposure happened at work, home, or both.</li>
-<li><strong>Medical proof:</strong> Diagnosis records, pathology reports, oncology records, treatment records, recurrence records, and documents identifying the lymphoma subtype.</li>
-<li><strong>Timing proof:</strong> First and last known exposure dates, diagnosis date, treatment timeline, death date if applicable, and any prior settlement or release paperwork.</li>
+<li><strong>Product and exposure records:</strong> Purchase receipts, product or container photographs, EPA registration numbers, application logs, invoices, farm records, property-maintenance records, job descriptions, payroll records, employer records, and witness statements.</li>
+<li><strong>Exposure details:</strong> Approximate first and last use, frequency, hours or days of use, whether concentrate was mixed, tasks performed, protective equipment, and whether exposure occurred at work or home.</li>
+<li><strong>Medical records:</strong> Pathology reports, biopsy results, oncology records, records naming the lymphoma subtype, treatment records, recurrence records, and death records where applicable.</li>
+<li><strong>Timing and legal documents:</strong> Diagnosis and treatment dates plus any lawsuit, tolling agreement, settlement, release, judgment, dismissal, class notice, or opt-out record.</li>
 </ul>
-<p>Missing receipts do not always end the analysis, but vague exposure history can make review harder. A person with no product records may still gather job descriptions, co-worker statements, photographs, property-maintenance documents, or family statements that explain repeated Roundup use.</p>
+<p>Missing receipts do not automatically decide the issue. Other records may help document product use, but vague memories or unidentified weed-killer exposure can make review more difficult. A person gathering records should preserve the originals and avoid guessing at dates or product names.</p>
 </section>
 
 <section id="roundup-settlement-timing">
@@ -181,47 +159,22 @@ faqs:
 <p>For individual claims, a payment timeline may depend on whether the claim is already resolved, whether a release was signed, whether lien resolution is required, and whether the person is participating in a specific settlement program. Search results that promise a universal payout date should be treated cautiously unless they cite the settlement administrator, court order, or docket.</p>
 </section>
 
-<section id="fact-patterns">
-<h2>Common fact patterns</h2>
-<p>One common fact pattern may involve a groundskeeper, landscaper, farmer, or maintenance worker who used Roundup regularly for years and later developed non-Hodgkin lymphoma. Another may involve a homeowner or property owner who used Roundup repeatedly around driveways, fence lines, gardens, fields, or large properties over an extended period.</p>
-<p>Some people may have direct purchase records or photographs showing the products they used. Others may rely on employment records, co-worker statements, maintenance logs, or testimony about routine use. A claim may be easier to evaluate when the person can identify the product, approximate years of use, frequency of application, whether concentrate was mixed, and the diagnosis subtype.</p>
-<p>For workplace histories, job titles alone may not tell the full story. A school employee, municipal worker, landscaper, farmhand, or groundskeeper may need to describe the actual tasks performed, who supplied the product, whether safety equipment was available, and whether application happened seasonally or year-round.</p>
-<p>Roundup claims may also involve people who have already participated in a settlement program or received prior claim paperwork. In those situations, any release, settlement agreement, or claim form should be reviewed before assuming another legal option exists.</p>
-</section>
-
-<section id="harder-claims">
-<h2>What can make a claim harder to evaluate</h2>
-<p>Roundup claims can be harder when exposure is occasional, poorly documented, or limited to a short period. Vague memories of weed killer use may not be enough if the person cannot identify Roundup or another glyphosate-based product. Missing purchase records, uncertain job duties, or lack of witnesses can also complicate exposure proof.</p>
-<p>Medical factors may also affect review. Non-Hodgkin lymphoma includes multiple subtypes, and some diagnoses may be evaluated differently than others. Prior cancer history, immune disorders, family history, other chemical exposures, or incomplete pathology records may require closer review.</p>
-<p>Legal issues can be significant in Roundup cases because the litigation has been active for years. Prior settlements, releases, opt-out decisions, appeal issues, or expired state deadlines may affect whether a new or additional claim can be pursued. These questions require individualized legal advice.</p>
-</section>
-
-<section id="state-law">
-<h2>Why state law may still matter</h2>
-<p>Roundup litigation has involved both federal coordination and state court proceedings, so state law can be especially important. The state where exposure occurred, the state where the person lived or worked, and the state where a case is filed can affect deadlines, warning-law arguments, damages, evidence rules, and wrongful death claims.</p>
-<p>State discovery rules may affect when a deadline begins to run, particularly if a person was diagnosed years before learning about possible litigation. State law may also affect whether prior settlement paperwork or releases limit additional claims. National litigation history does not replace state-specific legal analysis.</p>
-</section>
-
-<section id="roundup-statute-limitations">
-<h2>Roundup lawsuit statute of limitations</h2>
-<p>The Roundup lawsuit statute of limitations is not one national deadline. Filing deadlines vary by state and may depend on diagnosis date, discovery date, exposure history, death date in wrongful death matters, prior claim activity, and the specific legal claims being evaluated. A statute of limitations problem can be one of the most important issues in an older mass tort because Roundup litigation has been public for years.</p>
-<p>Some people may wonder whether the deadline starts when they first used Roundup, when symptoms appeared, when non-Hodgkin lymphoma was diagnosed, when they learned about possible litigation, or when a loved one died. Those questions are legal questions that can vary by state. In some situations, discovery rules may matter; in others, prior settlement documents, releases, or court orders may be more important.</p>
-<p>Anyone researching a Roundup lawsuit deadline should gather the earliest possible dates: first known product use, last known use, diagnosis date, treatment dates, recurrence dates, death date if applicable, and any prior claim or settlement paperwork. Those dates can help an attorney evaluate timeliness.</p>
-</section>
-
 <section id="roundup-deadline-questions">
-<h2>Roundup lawsuit deadline questions</h2>
-<p>Deadline questions often overlap with eligibility questions. A person may have relevant exposure and a relevant diagnosis but still need a careful review of state law and timing. Conversely, a person may not know whether a deadline has passed without reviewing diagnosis records, discovery facts, and prior claim documents.</p>
-<p>The proposed <em>King v. Monsanto</em> class settlement has a separate schedule. Its official website says the June 4, 2026 objection and exclusion deadline has passed and lists a fairness hearing for August 19, 2026. It also describes registration and claim-submission periods that would operate only if the settlement receives final approval. Those class dates do not replace a state statute of limitations for an individual lawsuit.</p>
+<h2>What is the deadline to file a Roundup lawsuit?</h2>
+<p><strong>There is no single national deadline for an individual Roundup lawsuit.</strong> A filing deadline may depend on the governing state's statute of limitations or repose, the legal claim, diagnosis and discovery facts, a death date in wrongful-death or survival matters, and any earlier lawsuit, tolling agreement, settlement, release, judgment, or dismissal.</p>
+<p>The federal MDL does not create one filing period for every person nationwide. Questions about whether time runs from product use, symptoms, diagnosis, discovery, or death require state-specific legal analysis. Because Roundup litigation has been public for years, waiting to identify the relevant dates can create additional risk.</p>
+<p><strong>Class-settlement dates do not replace an individual lawsuit deadline.</strong> The proposed <em>King v. Monsanto</em> settlement has a separate court-controlled schedule. Its official website says the June 4, 2026 deadline to object or request exclusion has passed, the fairness hearing is scheduled for August 19, 2026, and registration and claim submission are not yet open because final approval has not been granted.</p>
+<p>If the proposed settlement receives final approval and becomes effective, people who are class members and did not opt out may be bound by its release and may lose the ability to pursue covered claims outside the settlement program, subject to the settlement's terms and exceptions. That possible consequence is separate from whether a state statute of limitations has expired.</p>
+<p>The proposed class also describes later registration and claim-submission periods if the settlement becomes final. Those program dates concern settlement participation; they do not establish whether an individual personal-injury, wrongful-death, or survival claim was timely filed under applicable state law.</p>
+<p>To prepare for a deadline review, gather the earliest supportable dates for:</p>
 <ul>
-<li>When was non-Hodgkin lymphoma first diagnosed?</li>
-<li>When did Roundup or glyphosate exposure begin and end?</li>
-<li>Did exposure happen in one state or multiple states?</li>
-<li>Was the person working for an employer, using the product at home, or both?</li>
-<li>Was a prior Roundup claim submitted, settled, released, or rejected?</li>
-<li>Is the claim being evaluated as a personal injury claim, survival claim, or wrongful death claim?</li>
+<li>first and last Roundup or glyphosate-product exposure;</li>
+<li>symptoms, diagnosis, pathology, treatment, and recurrence;</li>
+<li>death and appointment of an estate representative, where applicable;</li>
+<li>states where exposure, residence, diagnosis, and treatment occurred; and</li>
+<li>prior claims, tolling agreements, settlements, releases, judgments, dismissals, or class notices.</li>
 </ul>
-<p>Because deadlines can be unforgiving, this guide uses general language rather than giving a state-specific deadline. The state guide links below provide state context, but they still do not replace individualized legal advice.</p>
+<p>The state guide links on this page provide general state context, but they cannot calculate a deadline for a particular person. A licensed attorney must determine which law and date apply.</p>
 </section>
 
 <section id="lawyer-questions">
@@ -246,16 +199,6 @@ faqs:
 <li><strong>Proposed class settlement:</strong> The <a href="https://www.weedkillerclass.com/">official settlement website</a> lists the current hearing date and approval status.</li>
 <li><strong>Class definitions and options:</strong> The official settlement site's <a href="https://www.weedkillerclass.com/Home/FAQs">frequently asked questions</a> explain the proposed class definition, the treatment of pending MDL plaintiffs, and the settlement-specific deadlines.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> July 19, 2026.</li>
-</ul>
-</section>
-
-<section id="eligibility">
-<h2>Who may be affected</h2>
-<ul>
-<li>People with documented use of or exposure to Roundup and glyphosate-based herbicide products.</li>
-<li>People later diagnosed with non-Hodgkin lymphoma.</li>
-<li>People who can identify approximate dates, locations, providers, employers, or exposure circumstances.</li>
-<li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
+<li><strong>Last reviewed:</strong> July 21, 2026.</li>
 </ul>
 </section>
