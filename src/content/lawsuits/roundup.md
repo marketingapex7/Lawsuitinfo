@@ -48,14 +48,11 @@ faqs:
     question: "What injury is commonly involved?"
     answer: "Roundup claims commonly involve non-Hodgkin lymphoma allegations."
   -
-    question: "Who may have relevant exposure?"
-    answer: "Agricultural workers, landscapers, groundskeepers, homeowners, and others with repeated product exposure may have relevant histories."
-  -
     question: "Who may qualify for a Roundup lawsuit?"
     answer: "Roundup use alone does not establish a viable individual claim. A review may consider identifiable Roundup or glyphosate exposure, frequency and duration, a documented non-Hodgkin lymphoma diagnosis and subtype, timing, prior claim or release paperwork, and applicable state law. The proposed King class uses separate court-defined membership and award rules."
   -
     question: "What is the deadline to file a Roundup lawsuit?"
-    answer: "There is no single national filing deadline for individual Roundup lawsuits. State law may make diagnosis, discovery, death, claim type, prior filings, settlements, or releases relevant. The proposed class settlement's objection, exclusion, registration, and claim-submission dates are different deadlines."
+    answer: "There is no single national filing deadline or statute of limitations for individual Roundup lawsuits. State law may make diagnosis, discovery, death, claim type, prior filings, settlements, or releases relevant. The proposed class settlement's objection, exclusion, registration, and claim-submission dates are different deadlines."
   -
     question: "When did the Roundup lawsuit start?"
     answer: "Roundup claims developed over several years, and federal cases were centralized in MDL No. 2741 in 2016. Earlier product use, diagnosis dates, and state filing deadlines still matter for individual review."
@@ -76,7 +73,6 @@ faqs:
 <p>As of July 1, 2026, Roundup cancer litigation remains active but settlement-focused, with 3,920 actions pending in MDL No. 2741. On June 25, the U.S. Supreme Court held that FIFRA preempted the label-based failure-to-warn claim at issue in <em>Monsanto v. Durnell</em>. The effect on any specific claim depends on the claim's facts and legal theory.</p>
 <p>Roundup lawsuits allege that glyphosate-based herbicide exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate. Claim review usually turns on exposure history, diagnosis records, prior settlement or release paperwork, and state filing deadlines. Defendants dispute the allegations, and this page cannot determine whether any person qualifies for a claim.</p>
 </section>
-
 <section id="latest-update">
 <h2>Roundup Cancer Lawsuit Update: July 2026</h2>
 <p>The proposed $7.25 billion nationwide class settlement in <em>King v. Monsanto</em> received preliminary approval in Missouri state court on March 4, 2026. A federal court remanded a related removal attempt back to Missouri state court on June 17. The official settlement website says the fairness hearing originally set for July 9 was rescheduled to August 19, 2026, and that the court has not granted final approval.</p>
@@ -168,6 +164,7 @@ faqs:
 <p><strong>There is no single national deadline for an individual Roundup lawsuit.</strong> A filing deadline may depend on the governing state's statute of limitations or repose, the legal claim, diagnosis and discovery facts, a death date in wrongful-death or survival matters, and any earlier lawsuit, tolling agreement, settlement, release, judgment, or dismissal.</p>
 <p>The federal MDL does not create one filing period for every person nationwide. Questions about whether time runs from product use, symptoms, diagnosis, discovery, or death require state-specific legal analysis. Because Roundup litigation has been public for years, waiting to identify the relevant dates can create additional risk.</p>
 <p><strong>Class-settlement dates do not replace an individual lawsuit deadline.</strong> The proposed <em>King v. Monsanto</em> settlement has a separate court-controlled schedule. Its official website says the June 4, 2026 deadline to object or request exclusion has passed, the fairness hearing is scheduled for August 19, 2026, and registration and claim submission are not yet open because final approval has not been granted.</p>
+<p>If the proposed settlement receives final approval and becomes effective, people who are class members and did not opt out may be bound by its release and may lose the ability to pursue covered claims outside the settlement program, subject to the settlement's terms and exceptions. That possible consequence is separate from whether a state statute of limitations has expired.</p>
 <p>The proposed class also describes later registration and claim-submission periods if the settlement becomes final. Those program dates concern settlement participation; they do not establish whether an individual personal-injury, wrongful-death, or survival claim was timely filed under applicable state law.</p>
 <p>To prepare for a deadline review, gather the earliest supportable dates for:</p>
 <ul>
@@ -203,15 +200,5 @@ faqs:
 <li><strong>Class definitions and options:</strong> The official settlement site's <a href="https://www.weedkillerclass.com/Home/FAQs">frequently asked questions</a> explain the proposed class definition, the treatment of pending MDL plaintiffs, and the settlement-specific deadlines.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
 <li><strong>Last reviewed:</strong> July 21, 2026.</li>
-</ul>
-</section>
-
-<section id="eligibility">
-<h2>Who may be affected</h2>
-<ul>
-<li>People with documented use of or exposure to Roundup and glyphosate-based herbicide products.</li>
-<li>People later diagnosed with non-Hodgkin lymphoma.</li>
-<li>People who can identify approximate dates, locations, providers, employers, or exposure circumstances.</li>
-<li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
 </ul>
 </section>
