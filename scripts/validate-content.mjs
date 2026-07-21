@@ -118,9 +118,26 @@ async function validateNationalGuideFreshness() {
   }
 }
 
+async function validateRoundupDeadlineAndQualificationContent() {
+  const file = path.join(root, "src", "content", "lawsuits", "roundup.md");
+  const content = await readFile(file, "utf8");
+  const required = [
+    ["What is the deadline to file a Roundup lawsuit?", "missing direct deadline heading"],
+    ["There is no single national deadline for an individual Roundup lawsuit.", "missing no-national-deadline answer"],
+    ["Who may qualify for a Roundup lawsuit?", "missing qualified eligibility heading"],
+    ["Class-settlement dates do not replace an individual lawsuit deadline.", "missing class-versus-individual deadline distinction"],
+    ["What proof do you need for a Roundup lawsuit?", "missing proof heading"]
+  ];
+
+  for (const [text, message] of required) {
+    if (!content.includes(text)) report(file, message);
+  }
+}
+
 await validateCaseData();
 await validateContentDates();
 await validateNationalGuideFreshness();
+await validateRoundupDeadlineAndQualificationContent();
 
 if (errors.length) {
   console.error(`Content validation failed with ${errors.length} issue(s):`);
