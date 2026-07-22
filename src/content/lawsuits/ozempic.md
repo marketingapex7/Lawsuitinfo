@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-injury timeline with MDL-3094's litigation posture, state filing deadlines, and the evidence available."
-lastUpdated: "2026-07-11"
-lastReviewed: "2026-07-11"
+lastUpdated: "2026-07-22"
+lastReviewed: "2026-07-22"
 faqs:
   -
     question: "What is the Ozempic lawsuit about?"
@@ -113,6 +113,19 @@ faqs:
 <li>State filing deadlines and individual procedural facts.</li>
 </ul>
 <p>Severe, medically documented injuries — particularly those involving hospitalization — have been the focus of filed cases.</p>
+</section>
+
+<section id="ozempic-evidence">
+<h2>What evidence can support an Ozempic lawsuit review?</h2>
+<p><strong>A useful review usually starts with records that identify the GLP-1 medication, show when and how long it was used, document the diagnosed injury, and establish the timing between use, symptoms, and treatment.</strong> The evidence needed depends on the alleged injury and individual medical history; possessing a particular record does not guarantee that a claim qualifies.</p>
+<ul>
+<li><strong>Medication proof:</strong> prescription records, pharmacy fills, product name, dose changes, and dates of use.</li>
+<li><strong>Diagnosis proof:</strong> gastroenterology records, discharge summaries, and records identifying gastroparesis, ileus, bowel obstruction, or another alleged injury.</li>
+<li><strong>Testing and treatment:</strong> gastric-emptying studies, imaging, endoscopy, emergency care, hospitalization, surgery, and follow-up treatment when relevant.</li>
+<li><strong>Timeline:</strong> dates of medication use, first symptoms, diagnosis, treatment, and any decision to stop or change medication under medical supervision.</li>
+<li><strong>Other medical context:</strong> records concerning alternative explanations, prior gastrointestinal history, and other medications may also matter.</li>
+</ul>
+<p>The federal proceeding's current schedule and orders are available from the <a href="https://www.paed.uscourts.gov/mdl/mdl3094" target="_blank" rel="noopener noreferrer">Eastern District of Pennsylvania's MDL-3094 page</a>. Court coordination does not create a universal qualification checklist, and state filing deadlines still require individual review.</p>
 </section>
 
 <section id="case-status-snapshot">
