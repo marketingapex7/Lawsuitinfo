@@ -78,7 +78,7 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What the lawsuit is about</h2>
+<h2>What is the AFFF firefighting foam lawsuit?</h2>
 <p><strong>The AFFF firefighting foam lawsuit alleges that PFAS &ldquo;forever chemicals&rdquo; in aqueous film-forming foam caused cancers and other diseases in firefighters, military personnel, airport and industrial workers, and people near contaminated water.</strong> Federal personal-injury cases are consolidated in MDL-2873 before Judge Richard M. Gergel in the U.S. District Court for the District of South Carolina. Multibillion-dollar settlements with 3M, DuPont/Chemours/Corteva, Tyco, and BASF compensate public water systems &mdash; not individuals &mdash; so personal-injury claims remain separate and ongoing, and defendants dispute them.</p>
 <p>As of July 1, 2026, AFFF/PFAS litigation remains one of the largest active mass torts, with 15,244 actions pending in MDL No. 2873. Public water-system settlements have been finalized, but individual personal-injury claims remain separate and no personal-injury settlement has been announced.</p>
 <p>AFFF lawsuits allege that PFAS-containing firefighting foam exposed firefighters, military personnel, airport workers, industrial workers, and nearby communities to chemicals linked in claims to serious disease. Claim review usually focuses on exposure source, diagnosis records, water or worksite documentation, and state deadlines. Defendants dispute exposure, causation, warnings, liability, and damages.</p>

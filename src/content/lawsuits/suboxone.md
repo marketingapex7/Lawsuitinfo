@@ -82,7 +82,7 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What the lawsuit is about</h2>
+<h2>What is the Suboxone tooth decay lawsuit?</h2>
 <p><strong>The Suboxone lawsuit alleges that the dissolvable Suboxone film (buprenorphine/naloxone) caused severe tooth decay and dental injuries, and that the maker, Indivior, failed to warn patients.</strong> Federal cases are consolidated in MDL-3092 before Judge J. Philip Calabrese in the U.S. District Court for the Northern District of Ohio, where bellwether selection is underway. No settlement has been announced, and defendants dispute the claims.</p>
 <p>As of July 1, 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,832 pending actions. The court's core-discovery-pool process is underway, and no settlement program or court-set trial date has been announced.</p>
 <p>Suboxone lawsuits allege that film or other oral buprenorphine/naloxone products dissolved in the mouth may be linked to severe tooth decay, tooth loss, extractions, and other dental injuries, and that warnings were inadequate. Claim review usually focuses on prescription records, dental records before and after use, injury timing, and state filing deadlines. Defendants dispute the claims.</p>

@@ -38,6 +38,10 @@ const related = (await getCollection("lawsuits"))
 const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
 const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
+const contentSettlementSlugs = new Set(["paragard", "social-media", "suboxone"]);
+const contentDeadlineSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh"]);
+const contentEvidenceSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh", "paragard", "social-media"]);
+const compactContentSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh"]);
 const breadcrumbs = [
   { name: "Home", url: "/" },
   { name: "Lawsuits", url: "/lawsuits/" },
@@ -61,7 +65,9 @@ const toc = [
 if (slug === "roundup") {
   toc.splice(3, 0, { id: "roundup-eligibility", label: "Who qualifies" });
   toc.splice(6, 0, { id: "when-roundup-lawsuit-started", label: "When it started" });
-  toc.splice(12, 0, { id: "roundup-statute-limitations", label: "Statute of limitations" });
+  toc.splice(12, 0, { id: "roundup-deadline-questions", label: "Statute of limitations" });
+  const genericEligibilityIndex = toc.findIndex((item) => item.id === "eligibility");
+  if (genericEligibilityIndex >= 0) toc.splice(genericEligibilityIndex, 1);
 }
 
 if (slug === "paraquat") {
@@ -106,6 +112,23 @@ if (slug === "suboxone") {
   toc.splice(16, 0, { id: "suboxone-deadlines", label: "Deadline considerations" });
   const genericSettlementIndex = toc.findIndex((item) => item.id === "settlement");
   if (genericSettlementIndex >= 0) toc.splice(genericSettlementIndex, 1);
+}
+
+if (compactContentSlugs.has(slug)) {
+  for (const id of ["litigation-updates", "status", "eligibility"]) {
+    const index = toc.findIndex((item) => item.id === id);
+    if (index >= 0) toc.splice(index, 1);
+  }
+  toc.splice(3, 0, { id: "qualification", label: "Who may qualify" });
+  const sourcesIndex = toc.findIndex((item) => item.id === "sources-status-notes");
+  toc.splice(sourcesIndex, 0, { id: "deadlines", label: "Deadline considerations" });
+}
+
+if (slug === "talcum-powder") {
+  const litigationIndex = toc.findIndex((item) => item.id === "litigation-updates");
+  if (litigationIndex >= 0) toc.splice(litigationIndex, 1);
+  toc.splice(3, 0, { id: "talcum-powder-lawsuit", label: "Lawsuit overview" });
+  toc.splice(4, 0, { id: "talcum-powder-qualifications", label: "Qualifications" });
 }
 ---
 
@@ -162,6 +185,17 @@ if (slug === "suboxone") {
     <div class="prose-legal max-w-none lg:order-2">
       <Content />
 
+      <section id="research-resources">
+        <h2>Where can I track the {lawsuit.data.lawsuit} lawsuit?</h2>
+        <p>
+          Use the <a href="/settlements/">mass tort settlement tracker</a> to compare public settlement posture,
+          the <a href="/deadlines/">deadline tracker</a> for filing-window and key-date notes
+          {caseData?.litigation.mdlNumber && (
+            <>, and the <a href="/mdl-statistics/">MDL statistics tracker</a> for federal case counts and court assignments</>
+          )}.
+        </p>
+      </section>
+
       <section id="injuries">
         <h2>What injuries does the {lawsuit.data.lawsuit} lawsuit involve?</h2>
         <ul>
@@ -169,12 +203,14 @@ if (slug === "suboxone") {
         </ul>
       </section>
 
-      <section id="evidence">
-        <h2>What evidence is needed for {lawsuit.data.lawsuit} claims?</h2>
-        <ul>
-          {lawsuit.data.evidence.map((item) => <li>{item}</li>)}
-        </ul>
-      </section>
+      {!contentEvidenceSlugs.has(slug) && (
+        <section id="evidence">
+          <h2>What evidence is needed for {lawsuit.data.lawsuit} claims?</h2>
+          <ul>
+            {lawsuit.data.evidence.map((item) => <li>{item}</li>)}
+          </ul>
+        </section>
+      )}
 
       <section id="timeline">
         <h2>How has the {lawsuit.data.lawsuit} lawsuit progressed?</h2>
@@ -188,17 +224,19 @@ if (slug === "suboxone") {
         </div>
       </section>
 
-      {slug !== "suboxone" && (
+      {!contentSettlementSlugs.has(slug) && (
         <section id="settlement">
           <h2>What is the {lawsuit.data.lawsuit} settlement status?</h2>
           <p>{lawsuit.data.settlementStatus}</p>
         </section>
       )}
 
-      <section id="deadlines">
-        <h2>What are the {lawsuit.data.lawsuit} lawsuit filing deadlines?</h2>
-        <p>Deadlines vary by state and may depend on diagnosis date, discovery date, exposure history, wrongful death issues, and other facts. A lawyer can evaluate how the relevant deadline rules may apply.</p>
-      </section>
+      {!contentDeadlineSlugs.has(slug) && (
+        <section id="deadlines">
+          <h2>What are the {lawsuit.data.lawsuit} lawsuit filing deadlines?</h2>
+          <p>Deadlines vary by state and may depend on diagnosis date, discovery date, exposure history, wrongful death issues, and other facts. A lawyer can evaluate how the relevant deadline rules may apply.</p>
+        </section>
+      )}
 
       <section id="states">
         <h2>State-by-state guide links</h2>

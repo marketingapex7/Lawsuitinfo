@@ -2,6 +2,7 @@
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
 import { formatCount, getAllCaseData, latestPendingCount } from "@lib/caseData";
+import { caseIntentHref } from "@lib/caseLinks";
 import { datasetSchema } from "@lib/seo";
 
 const cases = getAllCaseData();
@@ -62,7 +63,7 @@ const rows = cases.map((item) => ({
             {rows.map((row) => (
               <tr class="align-top">
                 <td class="px-4 py-4">
-                  <a class="font-bold text-accent-dark" href={`/lawsuits/${row.slug}/`}>{row.caseName}</a>
+                  <a class="font-bold text-accent-dark" href={caseIntentHref(row.slug, "settlement")}>{row.caseName}</a>
                   <div class="mt-1 text-xs text-muted">{row.phase}</div>
                 </td>
                 <td class="px-4 py-4">

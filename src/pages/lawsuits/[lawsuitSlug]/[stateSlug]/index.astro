@@ -9,6 +9,7 @@ import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
 import StateLimitationsCard from "@components/StateLimitationsCard.astro";
 import { getCaseData, getStateLimitation } from "@lib/caseData";
+import { caseIntentHref } from "@lib/caseLinks";
 import { formatDate, getStateBySlug } from "@lib/site";
 import { shortLawsuitName, stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
 
@@ -198,6 +199,13 @@ const lawyerQuestions = lawyerQuestionsByCase[guide.data.lawsuitSlug] ?? [
       <CaseStatusBadge status={guide.data.status} />
       <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{guide.data.title}</h1>
       <p class="mt-4 text-lg leading-8 text-muted">{guide.data.description}</p>
+      <p class="mt-4 text-base leading-7 text-muted">
+        For national case status, settlement posture, and court milestones, start with the
+        <a class="font-bold text-accent-dark" href={caseIntentHref(guide.data.lawsuitSlug, "update")}>
+          current national {guide.data.lawsuit} lawsuit update
+        </a>.
+        This state guide focuses on filing rules and claim context that may differ by location.
+      </p>
       <p class="mt-4 rounded-lg border border-line bg-panel p-3 text-sm leading-6 text-muted">
         This guide is for general information only. It does not provide legal advice, does not create an attorney-client relationship, and case status can change.
       </p>

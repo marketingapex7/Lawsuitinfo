@@ -68,7 +68,7 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What the lawsuit is about</h2>
+<h2>What is the Roundup lawsuit?</h2>
 <p><strong>The Roundup lawsuit alleges that Bayer's Monsanto weed killer Roundup (glyphosate) causes non-Hodgkin lymphoma and that the company failed to warn users.</strong> Federal cases are consolidated in MDL-2741 before Judge Vince Chhabria in the U.S. District Court for the Northern District of California. A proposed nationwide class settlement has been through state-court approval proceedings, and the U.S. Supreme Court has decided a related failure-to-warn preemption question in <em>Monsanto v. Durnell</em>. Bayer disputes the cancer claims, and Roundup remains on the market.</p>
 <p>As of July 1, 2026, Roundup cancer litigation remains active but settlement-focused, with 3,920 actions pending in MDL No. 2741. On June 25, the U.S. Supreme Court held that FIFRA preempted the label-based failure-to-warn claim at issue in <em>Monsanto v. Durnell</em>. The effect on any specific claim depends on the claim's facts and legal theory.</p>
 <p>Roundup lawsuits allege that glyphosate-based herbicide exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate. Claim review usually turns on exposure history, diagnosis records, prior settlement or release paperwork, and state filing deadlines. Defendants dispute the allegations, and this page cannot determine whether any person qualifies for a claim.</p>
