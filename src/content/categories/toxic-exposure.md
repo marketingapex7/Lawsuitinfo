@@ -11,4 +11,4 @@ lawsuitSlugs:
 lastUpdated: "2026-06-11"
 ---
 
-<p>This category includes claims involving alleged exposure to chemicals, pesticides, herbicides, PFAS, or other substances. Exposure history and medical diagnosis records are usually central to review.</p>
+<p>This category includes claims involving alleged exposure to chemicals, pesticides, herbicides, PFAS, or other substances. Exposure history and medical diagnosis records are usually central to review. Current federal-litigation research includes the <a href="/lawsuits/afff-pfas/">AFFF MDL 2873 update</a>, the <a href="/lawsuits/paraquat/">Paraquat Parkinson's lawsuit guide</a>, and the <a href="/lawsuits/roundup/">Roundup deadlines and settlement status</a>.</p>
