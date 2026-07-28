@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-11"
+lastUpdated: "2026-07-28"
 lastReviewed: "2026-07-11"
 faqs:
   -
@@ -109,8 +109,8 @@ faqs:
 </section>
 
 <section id="suboxone-dental-lawsuit">
-<h2>Suboxone dental lawsuit overview</h2>
-<p>The Suboxone dental lawsuit involves allegations that Suboxone film and other buprenorphine medicines dissolved in the mouth contributed to serious dental problems and that warnings about those risks were inadequate for some users. Claims often focus on tooth decay, cavities, tooth loss, extractions, gum damage, and expensive restorative care.</p>
+<h2>What is the buprenorphine tooth decay lawsuit?</h2>
+<p>The phrase "buprenorphine tooth decay lawsuit" generally refers to product-liability claims involving Suboxone film and other buprenorphine medicines designed to dissolve in the mouth. The lawsuits allege that these products contributed to serious dental problems and that warnings about those risks were inadequate for some users. Claims often focus on tooth decay, cavities, tooth loss, extractions, gum damage, and expensive restorative care. Defendants dispute the allegations.</p>
 <p>Suboxone is used in medication-assisted treatment for opioid use disorder. This guide treats that medical context carefully: the legal question is not whether treatment was appropriate for a person, but whether product warnings, product form, dental injury timing, and individual records may support a product liability claim. Medical decisions should always be discussed with a healthcare professional.</p>
 <p>For legal research, the important facts usually include which Suboxone product was used, whether it dissolved in the mouth, how long it was used, what warnings were provided, when dental problems began, and whether dental records show a meaningful before-and-after change.</p>
 </section>

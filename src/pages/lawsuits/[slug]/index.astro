@@ -104,6 +104,8 @@ if (slug === "suboxone") {
   toc.splice(12, 0, { id: "suboxone-dental-records", label: "Dental records" });
   toc.splice(13, 0, { id: "suboxone-timing", label: "Use and injury timing" });
   toc.splice(16, 0, { id: "suboxone-deadlines", label: "Deadline considerations" });
+  const genericSettlementIndex = toc.findIndex((item) => item.id === "settlement");
+  if (genericSettlementIndex >= 0) toc.splice(genericSettlementIndex, 1);
 }
 ---
 
@@ -186,10 +188,12 @@ if (slug === "suboxone") {
         </div>
       </section>
 
-      <section id="settlement">
-        <h2>What is the {lawsuit.data.lawsuit} settlement status?</h2>
-        <p>{lawsuit.data.settlementStatus}</p>
-      </section>
+      {slug !== "suboxone" && (
+        <section id="settlement">
+          <h2>What is the {lawsuit.data.lawsuit} settlement status?</h2>
+          <p>{lawsuit.data.settlementStatus}</p>
+        </section>
+      )}
 
       <section id="deadlines">
         <h2>What are the {lawsuit.data.lawsuit} lawsuit filing deadlines?</h2>
