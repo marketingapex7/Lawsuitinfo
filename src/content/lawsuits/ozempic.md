@@ -82,7 +82,7 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What the lawsuit is about</h2>
+<h2>What is the Ozempic and GLP-1 lawsuit?</h2>
 <p><strong>The Ozempic lawsuit is a federal product-liability case alleging that GLP-1 receptor agonist drugs — including Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, and Trulicity — caused gastroparesis (stomach paralysis), ileus, and bowel obstruction, and that their makers, Novo Nordisk and Eli Lilly, failed to warn patients and doctors.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3094, in the U.S. District Court for the Eastern District of Pennsylvania before Judge Karen S. Marston. The medications remain FDA-approved, defendants dispute the claims, and no settlement has been reached.</p>
 <p>As of June 2026 the litigation is active and growing: thousands of gastrointestinal-injury cases are pending in MDL-3094, a separate proceeding (MDL-3163) tracks NAION vision-loss claims, and the next major milestone is the Rule 702 expert-admissibility hearing window of September 10–18, 2026, with summary-judgment briefing completing August 7, 2026. Bellwether trial dates have not yet been set.</p>
 </section>

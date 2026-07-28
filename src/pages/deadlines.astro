@@ -2,6 +2,7 @@
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
 import { getAllCaseData } from "@lib/caseData";
+import { caseIntentHref } from "@lib/caseLinks";
 import { datasetSchema } from "@lib/seo";
 
 const cases = getAllCaseData();
@@ -57,7 +58,7 @@ const upcomingDates = cases
             <article class="border-b border-line pb-4 last:border-0 last:pb-0">
               <p class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{item.date}</p>
               <h3 class="mt-1 text-base font-bold text-ink">
-                <a class="text-accent-dark" href={`/lawsuits/${item.slug}/`}>{item.caseName}</a>: {item.label}
+                <a class="text-accent-dark" href={caseIntentHref(item.slug, "update")}>{item.caseName}</a>: {item.label}
               </h3>
               {item.detail && <p class="mt-1 text-sm leading-6 text-muted">{item.detail}</p>}
             </article>
@@ -72,7 +73,7 @@ const upcomingDates = cases
         <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
           <p>Most injury claims do not have one national filing deadline. A deadline may depend on state law, diagnosis date, discovery facts, exposure location, product-use history, wrongful-death status, and prior settlement or release paperwork.</p>
           <p>Camp Lejeune is different from many open mass torts because the administrative filing window closed in August 2024. Other cases may still require state-by-state deadline review.</p>
-          <p>Use this page as an issue spotter, then review the case guide and relevant state guide for local context. The <a class="font-bold text-accent-dark" href="/lawsuits/roundup/">Roundup filing-deadline guide</a> illustrates why an individual lawsuit deadline can differ from a proposed settlement schedule.</p>
+          <p>Use this page as an issue spotter, then review the case guide and relevant state guide for local context. The <a class="font-bold text-accent-dark" href={caseIntentHref("roundup", "deadline")}>Roundup filing-deadline guide</a> illustrates why an individual lawsuit deadline can differ from a proposed settlement schedule.</p>
         </div>
       </div>
     </section>
@@ -82,7 +83,7 @@ const upcomingDates = cases
       <div class="mt-5 grid gap-4 md:grid-cols-2">
         {cases.map((item) => (
           <article class="rounded-lg border border-line bg-panel p-4">
-            <h3 class="text-base font-bold text-ink"><a class="text-accent-dark" href={`/lawsuits/${item.slug}/`}>{item.caseName}</a></h3>
+            <h3 class="text-base font-bold text-ink"><a class="text-accent-dark" href={caseIntentHref(item.slug, "deadline")}>{item.caseName}</a></h3>
             <p class="mt-2 text-sm leading-6 text-muted">{item.deadlineOverride ?? "Filing deadlines generally vary by state and individual facts; review diagnosis, exposure or implant dates, discovery facts, wrongful-death issues, and prior claim paperwork."}</p>
           </article>
         ))}

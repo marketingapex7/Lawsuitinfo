@@ -78,7 +78,7 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What the lawsuit is about</h2>
+<h2>What is the Depo-Provera lawsuit?</h2>
 <p><strong>The Depo-Provera lawsuit — also searched as the "depo shot," "depo birth control shot," or simply "depo" lawsuit — is a federal product-liability case alleging that the contraceptive injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to warn users.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Defendants dispute the claims, and no settlement has been reached.</p>
 <p>As of July 2026 it is one of the fastest-growing active MDLs, with 5,830 actions pending. The court's public MDL calendar lists the Rule 702 expert hearing for September 18, 2026, and a ruling on the federal-preemption motion remains pending. The first Pilot bellwether trial remains scheduled for December 7, 2026. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
 </section>
