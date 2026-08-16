@@ -88,6 +88,34 @@ export function secondaryPendingCounts(data: CaseData) {
   return data.pendingCounts.filter((entry) => entry !== headline);
 }
 
+export function nextPublicDate(
+  data: CaseData,
+  fromDate = new Date().toISOString().slice(0, 10)
+) {
+  return data.keyDates.filter((entry) => entry.date >= fromDate).sort((a, b) => a.date.localeCompare(b.date))[0];
+}
+
+export function previousComparablePendingCount(data: CaseData) {
+  const current = latestPendingCount(data);
+  if (!current) return undefined;
+  return data.pendingCounts
+    .filter((entry) => entry !== current && entry.scope === current.scope && entry.date < current.date)
+    .sort((a, b) => b.date.localeCompare(a.date))[0];
+}
+
+export function pendingCountChange(data: CaseData) {
+  const current = latestPendingCount(data);
+  const previous = previousComparablePendingCount(data);
+  if (!current || !previous) return undefined;
+  const delta = current.count - previous.count;
+  return {
+    current,
+    previous,
+    delta,
+    percent: previous.count === 0 ? undefined : (delta / previous.count) * 100,
+  };
+}
+
 const limitationSchema = z.object({
   piYears: z.number(),
   citation: z.string(),

@@ -1,6 +1,8 @@
 ---
 title: "Social Media Lawsuit in Texas (Teen Mental-Health Claims)"
 description: "Information for Texas families researching the social media addiction lawsuits: MDL-3047 status, teen mental-health allegations against Meta, TikTok, Snap, and YouTube, eligibility, records, and Texas filing deadlines."
+seoTitle: "Texas Social Media Lawsuit: Teen Claims & Deadlines"
+seoDescription: "Texas social media lawsuit guide covering teen mental-health allegations, MDL 3047 status, platform-use records, and deadline factors."
 lawsuit: "Social Media Addiction"
 lawsuitSlug: "social-media"
 state: "Texas"
@@ -11,8 +13,8 @@ categorySlug: "product-liability"
 status: "Active / Investigating"
 primaryInjury: "Adolescent mental-health harms"
 exposureContext: "Texas children and teens may have used Instagram, Facebook, TikTok, Snapchat, or YouTube heavily during adolescence before developing mental-health harms now being reviewed in the litigation."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Where are Texas social media addiction cases handled?"
@@ -34,7 +36,7 @@ faqs:
     answer: "Records of which platforms were used and at what ages, plus mental-health diagnosis, therapy, hospitalization, or school records connecting the harm to the period of use, are commonly reviewed first."
   -
     question: "Has there been a social media settlement?"
-    answer: "No global settlement exists as of June 2026. Some defendants have reached confidential settlements in individual bellwether cases, and a California bellwether returned a $6 million verdict against Meta and YouTube in March 2026. No amount is guaranteed for any individual claim."
+    answer: "The official federal MDL page reviewed for this August 2026 update does not list a public global settlement program. Any individual resolution is case-specific, and no amount is guaranteed."
   -
     question: "Is this page legal or medical advice?"
     answer: "No. This page is general legal information for research only and is not medical advice. If you or someone you know is in crisis, you can call or text the 988 Suicide & Crisis Lifeline (U.S.)."
@@ -42,13 +44,13 @@ faqs:
 
 <section id="state-overview">
 <h2>What Texas residents should know</h2>
-<p>Texas families with social media injury claims are generally not limited to Texas state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 2,664 pending cases as of June 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
+<p>Texas families with social media injury claims are generally not limited to Texas state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 3,137 pending actions as of August 3, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
 <p>Texas law still matters: the state's filing deadline — including rules that pause the clock while a claimant is a minor — plus its damages and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 
 <section id="state-social-media-context">
 <h2>What Texas families should know about the social media lawsuits</h2>
-<p>Cases filed by Texas residents in federal court are transferred into <strong>MDL-3047</strong> before Judge Yvonne Gonzalez Rogers in the Northern District of California, where 2,664 cases were pending as of June 1, 2026; many individual cases also proceed in California&rsquo;s JCCP 5255. Where a Texas family lives does not change the addictive-design and failure-to-warn theories at the center of the cases.</p>
+<p>Cases filed by Texas residents in federal court are transferred into <strong>MDL-3047</strong> before Judge Yvonne Gonzalez Rogers in the Northern District of California, where 3,137 actions were pending as of August 3, 2026; many individual cases also proceed in California&rsquo;s JCCP 5255. Where a Texas family lives does not change the addictive-design and failure-to-warn theories at the center of the cases.</p>
 <p>Texas&rsquo;s general personal injury deadline is 2 years (Tex. Civ. Prac. & Rem. Code § 16.003). Because these claims usually involve harm that began when the user was a child or teenager, how Texas treats a minor&rsquo;s filing deadline is often decisive — many states pause the clock until a young person reaches adulthood. Texas recognizes a discovery rule in limited circumstances involving inherently undiscoverable injuries. Texas applies a 15-year statute of repose to many product liability claims (§ 16.012). A lawyer can confirm how the deadline applies to a specific Texas claim.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products" target="_blank" rel="noopener noreferrer">U.S. District Court, N.D. Cal. — MDL-3047 case page</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
@@ -65,5 +67,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How Texas claims proceed</h2>
-<p>Most Texas social media injury cases are filed in or transferred to MDL-3047 in the Northern District of California, while many individual cases also proceed in the California JCCP (JCCP 5255). Bellwether trials are underway in 2026, and there is no global settlement. Texas's general personal injury limitations period is 2 years (Tex. Civ. Prac. & Rem. Code § 16.003), but many states pause that clock while a claimant is a minor — a fact-specific question for Texas claims.</p>
+<p>Most Texas social media injury cases are filed in or transferred to MDL-3047 in the Northern District of California, while other proceedings may follow separate dockets. The official federal MDL page reviewed for this update does not list a public global settlement program. Texas's general personal injury limitations period is 2 years (Tex. Civ. Prac. &amp; Rem. Code § 16.003), but a lawyer should confirm how minority and other deadline rules apply to a specific claim.</p>
 </section>

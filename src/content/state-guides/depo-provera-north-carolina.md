@@ -1,6 +1,8 @@
 ---
 title: "Depo-Provera Lawsuit in North Carolina"
 description: "Information for North Carolina residents researching Depo-Provera lawsuits, meningioma brain tumor allegations, possible eligibility factors, records, deadlines, and legal options."
+seoTitle: "North Carolina Depo-Provera Lawsuit: MDL & Deadlines"
+seoDescription: "North Carolina Depo-Provera lawsuit guide covering MDL 3140 status, meningioma records, and state deadline and product-repose issues."
 lawsuit: "Depo-Provera"
 lawsuitSlug: "depo-provera"
 state: "North Carolina"
@@ -11,8 +13,8 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-16"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Where are North Carolina Depo-Provera cases handled?"
@@ -62,4 +64,3 @@ faqs:
 <li>Information about prior conditions, alternative exposures, or other facts a lawyer may need to evaluate.</li>
 </ul>
 </section>
-

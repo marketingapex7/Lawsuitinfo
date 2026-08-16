@@ -33,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-14"
-lastReviewed: "2026-07-14"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
@@ -80,13 +80,13 @@ faqs:
 <section id="overview">
 <h2>What is the Depo-Provera lawsuit?</h2>
 <p><strong>The Depo-Provera lawsuit — also searched as the "depo shot," "depo birth control shot," or simply "depo" lawsuit — is a federal product-liability case alleging that the contraceptive injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to warn users.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Defendants dispute the claims, and no settlement has been reached.</p>
-<p>As of July 2026 it is one of the fastest-growing active MDLs, with 5,830 actions pending. The court's public MDL calendar lists the Rule 702 expert hearing for September 18, 2026, and a ruling on the federal-preemption motion remains pending. The first Pilot bellwether trial remains scheduled for December 7, 2026. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
+<p>As of August 2026 it is one of the fastest-growing active MDLs, with 6,294 actions pending. The court's public MDL calendar lists the Rule 702 expert hearing for September 18, 2026, and a ruling on the federal-preemption motion remains pending. The first Pilot bellwether trial remains scheduled for December 7, 2026. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
 </section>
 
 <section id="latest-update">
-<h2>Depo-Provera Lawsuit Update: July 2026</h2>
+<h2>Depo-Provera Lawsuit Update: August 2026</h2>
 <p>The court's current public MDL calendar lists the Rule 702 hearing for September 18, 2026, following the case-management conference. A previous June 15 order had continued the hearing to July 27; the current court calendar controls this guide's schedule. The federal-preemption motion also remains a key pending issue.</p>
-<p>As of July 1, 2026, 5,830 actions were pending in MDL No. 3140, up from 3,490 on March 31. The first Pilot bellwether trial remains scheduled for December 7, 2026, per Case Management Order No. 9. Pfizer and the Pharmacia entities dispute the plaintiffs' claims.</p>
+<p>As of August 3, 2026, 6,294 actions were pending in MDL No. 3140, up from 3,490 on March 31. The first Pilot bellwether trial remains scheduled for December 7, 2026, per Case Management Order No. 9. Pfizer and the Pharmacia entities dispute the plaintiffs' claims.</p>
 <p>The September 18 Rule 702 hearing and the pending preemption ruling are gateway decisions that may affect the trajectory of the MDL. Individuals researching this litigation should monitor court orders rather than rely on settlement-value estimates.</p>
 </section>
 
@@ -97,7 +97,7 @@ faqs:
 <li><strong>Court:</strong> U.S. District Court, Northern District of Florida (Pensacola)</li>
 <li><strong>Judge:</strong> M. Casey Rodgers</li>
 <li><strong>MDL created:</strong> February 7, 2025</li>
-<li><strong>Pending actions:</strong> 5,830 (JPML, July 1, 2026) — among the fastest-growing active MDLs</li>
+<li><strong>Pending actions:</strong> 6,294 (JPML, August 3, 2026) — among the fastest-growing active MDLs</li>
 <li><strong>Defendants:</strong> Pfizer Inc.; Pharmacia &amp; Upjohn</li>
 <li><strong>Primary injury:</strong> intracranial meningioma brain tumors</li>
 <li><strong>Next milestones:</strong> Rule 702 hearing September 18, 2026; first Pilot trial December 7, 2026</li>
@@ -175,7 +175,7 @@ faqs:
 <li><strong>Agency or medical context:</strong> Claim review may involve product labeling, injection records, brain imaging, pathology, neurology, neurosurgery, and other medical records. FDA drug-label information can be checked through the <a href="https://labels.fda.gov/">FDA Online Label Repository</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation appears to be in active pretrial development rather than a mature settlement stage.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> June 29, 2026.</li>
+<li><strong>Last reviewed:</strong> August 16, 2026.</li>
 </ul>
 </section>
 

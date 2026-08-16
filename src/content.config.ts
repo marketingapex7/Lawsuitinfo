@@ -36,6 +36,8 @@ const stateGuides = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
     lawsuit: z.string(),
     lawsuitSlug: z.string(),
     state: z.string(),

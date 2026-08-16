@@ -10,10 +10,24 @@
     "judge": "Judge Yvonne Gonzalez Rogers",
     "established": "2022-10-06"
   },
-  "phase": "Active — bellwether trials underway",
-  "phaseDetail": "MDL-3047 is in active litigation with bellwether trials proceeding in 2026, alongside a parallel California state-court coordination (JCCP 5255) in Los Angeles. There is no global settlement; defendants have reached only confidential settlements in individual bellwether cases.",
+  "phase": "Active federal MDL",
+  "phaseDetail": "MDL-3047 remains active in the Northern District of California. The official court page publishes case orders and scheduling materials, and the August 3, 2026 JPML report lists 3,137 pending actions.",
   "pendingCounts": [
-    { "date": "2026-06-01", "count": 2664, "scope": "Pending actions in MDL-3047 (N.D. Cal.)", "source": "JPML, Pending MDL Dockets by Actions Pending, June 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf", "primary": true }
+    {
+      "date": "2026-08-03",
+      "count": 3137,
+      "scope": "Pending actions in MDL-3047 (N.D. Cal.)",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-06-01",
+      "count": 2664,
+      "scope": "Pending actions in MDL-3047 (N.D. Cal.)",
+      "source": "JPML, Pending MDL Dockets by Actions Pending, June 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    }
   ],
   "defendants": [
     "Meta Platforms (Facebook, Instagram)",
@@ -23,22 +37,34 @@
   ],
   "settlements": [
     {
-      "label": "No global settlement — confidential individual bellwether deals only",
+      "label": "No public global settlement program listed",
       "status": "none",
-      "detail": "There is no global or program settlement in MDL-3047 or the California JCCP. Some defendants have reached confidential settlements in individual bellwether cases: in the first Los Angeles JCCP personal-injury bellwether, a jury awarded $6 million in March 2026 against Meta and YouTube, while Snap and TikTok had settled that case before trial; ahead of the second personal-injury bellwether set for July 27, 2026, YouTube reached a confidential settlement in June 2026. No amount is guaranteed for any individual claim.",
-      "source": "Law.com (The Recorder) — YouTube settles second bellwether (June 24, 2026)",
-      "sourceUrl": "https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/"
+      "detail": "The official federal MDL page reviewed for this update does not list a public global settlement program. Any individual resolution is case-specific, and no amount is guaranteed.",
+      "source": "U.S. District Court, N.D. Cal. — MDL-3047 case page",
+      "sourceUrl": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products"
     }
   ],
   "keyDates": [
-    { "date": "2022-10-06", "label": "MDL-3047 established", "detail": "The JPML centralized federal social-media adolescent-injury cases before Judge Yvonne Gonzalez Rogers in the U.S. District Court for the Northern District of California." },
-    { "date": "2026-06-15", "label": "Federal school-district bellwether trial begins", "detail": "The MDL's school-district bellwether (Breathitt County, Kentucky) went to trial in June 2026; school-district and personal-injury plaintiffs allege harms from addictive platform design." },
-    { "date": "2026-07-27", "label": "Second Los Angeles JCCP personal-injury bellwether set", "detail": "A second personal-injury bellwether is scheduled in the California JCCP; YouTube settled out in June 2026, while Meta, Snap, and TikTok remain defendants." }
+    {
+      "date": "2022-10-06",
+      "label": "MDL-3047 established",
+      "detail": "The JPML centralized federal social-media adolescent-injury cases before Judge Yvonne Gonzalez Rogers in the U.S. District Court for the Northern District of California."
+    }
   ],
   "sources": [
-    { "name": "U.S. District Court, N.D. Cal. — MDL-3047 case page (4:22-md-03047-YGR)", "url": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products" },
-    { "name": "JPML — Pending MDL Dockets by Actions Pending, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" },
-    { "name": "Law.com (The Recorder) — YouTube settles second bellwether (June 24, 2026)", "url": "https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/" }
+    {
+      "name": "JPML — Pending MDL Dockets by Actions Pending (August 3, 2026)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "U.S. District Court, N.D. Cal. — MDL-3047 case page (4:22-md-03047-YGR)",
+      "url": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products"
+    },
+    {
+      "name": "JPML — Pending MDL Dockets by Actions Pending, June 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    }
   ],
-  "dataAsOf": "2026-06-29"
+  "dataAsOf": "2026-08-03",
+  "updateNote": "August 3, 2026 JPML pending-action count added; the prior snapshot remains listed for month-to-month comparison."
 }

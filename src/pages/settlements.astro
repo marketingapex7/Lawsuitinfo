@@ -2,6 +2,7 @@
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
 import { formatCount, getAllCaseData, latestPendingCount } from "@lib/caseData";
+import { isOfficialSourceUrl } from "@lib/sourceClassification";
 import { caseIntentHref } from "@lib/caseLinks";
 import { datasetSchema } from "@lib/seo";
 
@@ -16,6 +17,9 @@ const rows = cases.map((item) => ({
   headlineCount: latestPendingCount(item),
   primarySettlement: item.settlements[0]
 }));
+const noAnnouncedProgram = rows.filter((row) => row.primarySettlement?.status.toLowerCase().startsWith("none")).length;
+const listedActivity = rows.filter((row) => row.primarySettlement && !row.primarySettlement.status.toLowerCase().startsWith("none")).length;
+const currentMonthRecords = rows.filter((row) => row.dataAsOf.slice(0, 7) === updated.slice(0, 7)).length;
 ---
 
 <BaseLayout
@@ -47,6 +51,16 @@ const rows = cases.map((item) => ({
       </p>
       <p class="mt-3 text-sm font-bold text-muted">Data last aligned: {updated}</p>
     </header>
+
+    <section data-monthly-change-summary class="mt-8 rounded-lg border border-line bg-panel p-5">
+      <h2 class="text-2xl font-bold text-ink">Current case-record summary</h2>
+      <div class="mt-4 grid gap-4 sm:grid-cols-3">
+        <p><strong class="block text-2xl text-ink">{listedActivity}</strong><span class="text-sm text-muted">cases with public settlement activity or a listed program/status</span></p>
+        <p><strong class="block text-2xl text-ink">{noAnnouncedProgram}</strong><span class="text-sm text-muted">cases with no announced global program in the cited sources</span></p>
+        <p><strong class="block text-2xl text-ink">{currentMonthRecords}</strong><span class="text-sm text-muted">case records dated in the latest source month</span></p>
+      </div>
+      <p class="mt-3 text-xs leading-5 text-muted">These categories do not imply payment, eligibility, settlement value, or legal outcome.</p>
+    </section>
 
     <section class="mt-8 overflow-hidden rounded-lg border border-line bg-white shadow-sm">
       <div class="overflow-x-auto">
@@ -82,9 +96,9 @@ const rows = cases.map((item) => ({
                 </td>
                 <td class="px-4 py-4">
                   {row.primarySettlement?.sourceUrl ? (
-                    <a class="font-bold text-accent-dark" href={row.primarySettlement.sourceUrl}>{row.primarySettlement.source ?? "Settlement source"}</a>
+                    <div><a class="font-bold text-accent-dark" href={row.primarySettlement.sourceUrl} data-official-source={isOfficialSourceUrl(row.primarySettlement.sourceUrl) ? "" : undefined} data-component-location="settlement_tracker" data-case-slug={row.slug}>{row.primarySettlement.source ?? "Settlement source"}</a><span class="mt-1 block text-xs text-muted">{isOfficialSourceUrl(row.primarySettlement.sourceUrl) ? "Official source" : "Secondary context"}</span></div>
                   ) : row.headlineCount?.sourceUrl ? (
-                    <a class="font-bold text-accent-dark" href={row.headlineCount.sourceUrl}>{row.headlineCount.source}</a>
+                    <div><a class="font-bold text-accent-dark" href={row.headlineCount.sourceUrl} data-official-source={isOfficialSourceUrl(row.headlineCount.sourceUrl) ? "" : undefined} data-component-location="settlement_tracker" data-case-slug={row.slug}>{row.headlineCount.source}</a><span class="mt-1 block text-xs text-muted">{isOfficialSourceUrl(row.headlineCount.sourceUrl) ? "Official source" : "Secondary context"}</span></div>
                   ) : (
                     <span class="text-muted">See case guide</span>
                   )}

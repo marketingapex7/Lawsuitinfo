@@ -1,6 +1,8 @@
 ---
 title: "Roundup Cancer Lawsuit in Missouri"
 description: "Information for Missouri residents researching Roundup Cancer lawsuits, non-Hodgkin lymphoma allegations, possible eligibility factors, records, deadlines, and legal options."
+seoTitle: "Missouri Roundup Lawsuit: Settlement & Deadlines"
+seoDescription: "Missouri Roundup lawsuit guide covering the proposed class settlement, MDL 2741 status, lymphoma records, and state deadline factors."
 lawsuit: "Roundup Cancer"
 lawsuitSlug: "roundup"
 state: "Missouri"
@@ -11,8 +13,8 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-07-14"
-lastReviewed: "2026-07-14"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Where are Roundup cases for Missouri residents coordinated?"
@@ -64,4 +66,3 @@ faqs:
 <li>Information about prior conditions, alternative exposures, or other facts a lawyer may need to evaluate.</li>
 </ul>
 </section>
-

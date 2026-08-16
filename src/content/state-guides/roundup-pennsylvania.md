@@ -1,6 +1,8 @@
 ---
 title: "Roundup Cancer Lawsuit in Pennsylvania"
 description: "Information for Pennsylvania residents researching Roundup Cancer lawsuits, non-Hodgkin lymphoma allegations, possible eligibility factors, records, deadlines, and legal options."
+seoTitle: "Pennsylvania Roundup Lawsuit: Verdicts & Deadlines"
+seoDescription: "Pennsylvania Roundup lawsuit guide covering lymphoma allegations, notable state verdicts, MDL 2741 status, records, and deadline factors."
 lawsuit: "Roundup Cancer"
 lawsuitSlug: "roundup"
 state: "Pennsylvania"
@@ -11,8 +13,8 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Non-Hodgkin lymphoma"
 exposureContext: "State residents may have encountered Roundup through agricultural use, residential use, landscaping, groundskeeping, parks, schools, golf courses, or similar settings."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-16"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Where are Roundup cases for Pennsylvania residents coordinated?"
@@ -64,4 +66,3 @@ faqs:
 <li>Information about prior conditions, alternative exposures, or other facts a lawyer may need to evaluate.</li>
 </ul>
 </section>
-

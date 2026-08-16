@@ -395,5 +395,3 @@ Include the analytics evidence, source reconciliation table, commit map, verific
 - [ ] **Step 6: Re-read the PR diff and checks**
 
 Verify the base is `main`, the head is `seo/august-traffic-improvements`, the PR is draft, no unrelated files are included, and no merge/deploy occurred.
-
-

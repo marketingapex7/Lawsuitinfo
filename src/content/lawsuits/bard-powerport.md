@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the device and injury timeline with MDL-3081 status and filing deadlines."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "What is the Bard PowerPort lawsuit about?"
@@ -45,7 +45,7 @@ faqs:
     answer: "Federal Bard implanted port catheter cases are coordinated in MDL-3081 before Senior Judge David G. Campbell in the District of Arizona."
   -
     question: "How many Bard PowerPort lawsuits are pending?"
-    answer: "The JPML's June 1, 2026 report listed 3,376 pending actions in MDL-3081. The count can change monthly."
+    answer: "The JPML's August 3, 2026 report listed 3,734 pending actions in MDL-3081. The count can change monthly."
   -
     question: "Is there a Bard PowerPort settlement?"
     answer: "No global public settlement has been announced. Individual outcomes depend on the device, injury, records, causation, and litigation posture."
@@ -72,12 +72,12 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The Bard PowerPort lawsuit — also written "power port" and searched as the port catheter lawsuit — alleges that implanted port catheter devices caused complications such as catheter fracture, migration, infection, thrombosis, embolization, or removal surgery, and that warnings were inadequate.</strong> Federal cases are coordinated in MDL-3081 before Senior Judge David G. Campbell in the U.S. District Court for the District of Arizona. Defendants dispute the allegations.</p>
-<p>As of June 1, 2026, the JPML reported <strong>3,376 pending actions</strong> in MDL-3081. This guide explains status, evidence, deadlines, and common claim-review issues in plain English.</p>
+<p>As of August 3, 2026, the JPML reported <strong>3,734 pending actions</strong> in MDL-3081. This guide explains status, evidence, deadlines, and common claim-review issues in plain English.</p>
 </section>
 
 <section id="latest-update">
-<h2>Bard PowerPort Lawsuit Update: June 2026</h2>
-<p>The federal MDL remains active in Arizona. Public case-volume data from the JPML's June 1, 2026 report lists 3,376 pending actions. The litigation remains in pretrial coordination, and no global public settlement has been announced.</p>
+<h2>Bard PowerPort Lawsuit Update: August 2026</h2>
+<p>The federal MDL remains active in Arizona. Public case-volume data from the JPML's August 3, 2026 report lists 3,734 pending actions. The litigation remains in pretrial coordination, and no global public settlement has been announced.</p>
 <p>Because port cases are device-specific, the most important early question is usually identification: what device was implanted, when it was implanted, what complication occurred, and whether imaging, operative, or removal records connect the complication to the device.</p>
 </section>
 
@@ -87,7 +87,7 @@ faqs:
 <li><strong>Status:</strong> Active / Investigating</li>
 <li><strong>Primary injuries:</strong> Fracture, migration, infection, thrombosis, embolization, and removal complications</li>
 <li><strong>MDL:</strong> MDL-3081, District of Arizona</li>
-<li><strong>Pending actions:</strong> 3,376 as of June 1, 2026</li>
+<li><strong>Pending actions:</strong> 3,734 as of August 3, 2026</li>
 <li><strong>Settlement status:</strong> No global public settlement announced</li>
 <li><strong>Deadline:</strong> Varies by state and by the timing of implant, complication, discovery, and removal</li>
 </ul>
@@ -114,7 +114,7 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML Pending MDL Dockets report dated June 1, 2026</a>.</li>
+<li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">JPML Pending MDL Dockets report dated August 3, 2026</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public information and should not be treated as a live docket report or legal advice.</li>
 <li><strong>Review note:</strong> Device identification and medical records are especially important in implanted-port claims.</li>
 </ul>

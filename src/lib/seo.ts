@@ -144,6 +144,14 @@ export function shortLawsuitName(lawsuit: string): string {
   return TITLE_NAMES[lawsuit] ?? lawsuit;
 }
 
+const TITLE_MAX = 62;
+
+export function capSeoTitle(title: string): string {
+  const text = title.replace(/\s+/g, " ").trim();
+  if (text.length <= TITLE_MAX) return text;
+  return `${text.slice(0, TITLE_MAX - 1).replace(/\s+\S*$/, "").replace(/[,:;|&-]\s*$/, "")}…`;
+}
+
 // Append the brand only when the result stays within SERP-safe length (~62
 // chars); otherwise return the keyword-led core alone so it isn't truncated.
 export function composeTitle(core: string): string {
@@ -185,6 +193,12 @@ function metaInjury(primaryInjury: string) {
 }
 
 const META_MAX = 155;
+
+export function capMetaDescription(description: string): string {
+  const text = description.replace(/\s+/g, " ").trim();
+  if (text.length <= META_MAX) return text;
+  return `${text.slice(0, META_MAX - 1).replace(/\s+\S*$/, "").replace(/[,:;]\s*$/, "")}.`;
+}
 
 function fitMetaDescription(description: string, shortSuffix: string) {
   let text = description.replace(/\s+/g, " ").trim();

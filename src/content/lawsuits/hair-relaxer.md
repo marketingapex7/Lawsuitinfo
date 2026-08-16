@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare use history and diagnosis timing with MDL-3060 status and state filing deadlines."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "What is the hair relaxer lawsuit about?"
@@ -43,7 +43,7 @@ faqs:
     answer: "Federal cases are coordinated in MDL-3060, In re: Hair Relaxer Marketing, Sales Practices, and Products Liability Litigation, before Judge Mary M. Rowland in the Northern District of Illinois."
   -
     question: "How many hair relaxer lawsuits are pending?"
-    answer: "The JPML's June 1, 2026 report listed 11,723 pending actions in MDL-3060. That number can change monthly as cases are filed, dismissed, transferred, or resolved."
+    answer: "The JPML's August 3, 2026 report listed 11,779 pending actions in MDL-3060. That number can change monthly as cases are filed, dismissed, transferred, or resolved."
   -
     question: "Is there a hair relaxer settlement?"
     answer: "No global public settlement has been announced. Settlement status, eligibility, and any individual outcome depend on the facts and the current litigation posture."
@@ -67,13 +67,13 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The hair relaxer lawsuit alleges that chemical hair straighteners and relaxers were linked to uterine cancer, ovarian cancer, endometrial cancer, and related injuries, and that product warnings were inadequate.</strong> Federal cases are coordinated in MDL-3060 before Judge Mary M. Rowland in the U.S. District Court for the Northern District of Illinois. Defendants dispute liability and causation.</p>
-<p>As of June 1, 2026, the JPML reported <strong>11,723 pending actions</strong> in MDL-3060. That makes hair relaxer litigation one of the larger active product-liability MDLs. The page below is a general research guide, not a claim determination.</p>
+<p>As of August 3, 2026, the JPML reported <strong>11,779 pending actions</strong> in MDL-3060. That makes hair relaxer litigation one of the larger active product-liability MDLs. The page below is a general research guide, not a claim determination.</p>
 </section>
 
 <section id="latest-update">
-<h2>Hair Relaxer Lawsuit Update: June 2026</h2>
+<h2>Hair Relaxer Lawsuit Update: August 2026</h2>
 <p>The federal MDL remains active in the Northern District of Illinois. The litigation focuses on whether repeated use of chemical straightener or relaxer products can be linked to gynecologic cancers or related injuries, and whether manufacturers adequately warned consumers about alleged risks.</p>
-<p>The strongest public data point for current case volume is the JPML's June 1, 2026 report, which listed 11,723 pending actions. No global public settlement has been announced, so settlement headlines should be treated cautiously unless they are tied to a court order, official settlement administrator, or docket source.</p>
+<p>The strongest public data point for current case volume is the JPML's August 3, 2026 report, which listed 11,779 pending actions. No global public settlement has been announced, so settlement headlines should be treated cautiously unless they are tied to a court order, official settlement administrator, or docket source.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -82,7 +82,7 @@ faqs:
 <li><strong>Status:</strong> Active / Investigating</li>
 <li><strong>Primary injuries:</strong> Uterine cancer, ovarian cancer, endometrial cancer, and related gynecologic injuries alleged in some claims</li>
 <li><strong>MDL:</strong> MDL-3060, Northern District of Illinois</li>
-<li><strong>Pending actions:</strong> 11,723 as of June 1, 2026</li>
+<li><strong>Pending actions:</strong> 11,779 as of August 3, 2026</li>
 <li><strong>Settlement status:</strong> No global public settlement announced</li>
 <li><strong>Deadline:</strong> Varies by state, diagnosis date, discovery facts, and individual history</li>
 </ul>
@@ -109,7 +109,7 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML Pending MDL Dockets report dated June 1, 2026</a>.</li>
+<li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">JPML Pending MDL Dockets report dated August 3, 2026</a>.</li>
 <li><strong>Medical research context:</strong> NIH reported a Sister Study analysis finding higher uterine-cancer risk among women who reported chemical hair straightener use; the study did not decide legal causation for any individual case.</li>
 <li><strong>Schedule context:</strong> Expert and trial milestones (general-causation Daubert briefing completed in 2026; summary-judgment and case-specific motions due November 2026; bellwether trials expected in 2027) come from the MDL-3060 case-management docket in the Northern District of Illinois.</li>
 <li><strong>Review note:</strong> This guide summarizes public information and should not be treated as a live docket or legal advice.</li>
