@@ -36,8 +36,8 @@ timeline:
   -
     label: "Claim filed by August 10, 2024"
     detail: "The CLJA required an administrative claim with the Navy by the statutory deadline. Claims filed in time continue through review, settlement programs, or litigation in the Eastern District of North Carolina."
-lastUpdated: "2026-07-22"
-lastReviewed: "2026-07-22"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Can I still file a Camp Lejeune claim in 2026?"
@@ -85,7 +85,7 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Camp Lejeune Update: July 2026</h2>
+<h2>Camp Lejeune Update: August 2026</h2>
 <p>DOJ's Camp Lejeune claims page reports that, as of <strong>July 17, 2026</strong>, settlement offers exceeded <strong>$968 million</strong> and settlement payouts exceeded <strong>$801 million</strong>. Those totals describe program-wide activity, not the value or timing of any individual claim.</p>
 <p>The filing deadline remains closed. Timely filed claims continue through Navy review, Elective Option processing, or litigation in the Eastern District of North Carolina. Current trial settings and litigation milestones should be checked against the court's orders.</p>
 </section>

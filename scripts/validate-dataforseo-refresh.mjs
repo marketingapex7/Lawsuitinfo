@@ -19,7 +19,7 @@ const checks = {
     "justice.gov/civil/camp-lejeune-justice-act-claims",
   ],
   "roundup.md": [
-    "Roundup Cancer Lawsuit Update: July 2026",
+    "Roundup Cancer Lawsuit Update: August 2026",
     "What proof do you need for a Roundup lawsuit?",
     "supremecourt.gov",
   ],

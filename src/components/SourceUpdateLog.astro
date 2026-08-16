@@ -1,10 +1,11 @@
 ---
 import { formatDate } from "@lib/site";
+import { isOfficialSourceUrl } from "@lib/sourceClassification";
 
 const { lastReviewed, lastUpdated, sources = [], updateNote } = Astro.props;
 ---
 
-<section class="mt-10 rounded-lg border border-line bg-[#f1f5f9] p-4">
+<section class="mt-10 rounded-lg border border-line bg-[#f1f5f9] p-4" data-component-location="source_update_log">
   <h2 class="text-xl font-bold text-ink">Sources and Update Log</h2>
   <dl class="mt-4 grid gap-3 text-sm sm:grid-cols-2">
     <div>
@@ -27,7 +28,7 @@ const { lastReviewed, lastUpdated, sources = [], updateNote } = Astro.props;
       <ul class="mt-2 grid gap-2 text-sm leading-6">
         {sources.map((source) => (
           <li>
-            <a class="font-semibold text-accent-dark underline underline-offset-3" href={source.url}>
+            <a class="font-semibold text-accent-dark underline underline-offset-3" href={source.url} data-official-source={isOfficialSourceUrl(source.url) ? "" : undefined}>
               {source.name}
             </a>
           </li>

@@ -1,6 +1,8 @@
 ---
 title: "Depo-Provera Lawsuit in Delaware"
 description: "Information for Delaware residents researching Depo-Provera meningioma lawsuits, Delaware state-court coordination, federal MDL status, records, and deadlines."
+seoTitle: "Delaware Depo-Provera Lawsuit: State Cases & MDL"
+seoDescription: "Delaware Depo-Provera lawsuit guide covering coordinated state cases, MDL 3140 status, meningioma records, and filing-deadline factors."
 lawsuit: "Depo-Provera"
 lawsuitSlug: "depo-provera"
 state: "Delaware"
@@ -11,8 +13,8 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "Delaware residents may have received Depo-Provera injections through OB/GYN offices, public health clinics, primary-care practices, pharmacies, or other clinical settings."
-lastUpdated: "2026-07-14"
-lastReviewed: "2026-07-14"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Where are Delaware Depo-Provera cases handled?"

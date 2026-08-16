@@ -1,6 +1,6 @@
 ---
 title: "Talcum Powder Lawsuit Guide"
-description: "Plain-English guide to the Johnson & Johnson talcum powder lawsuits: ovarian cancer and mesothelioma allegations, MDL-2738 status, the failed Texas Two-Step bankruptcies, verdicts, deadlines, and state resources."
+description: "Plain-English guide to the Johnson & Johnson talcum powder lawsuits: ovarian cancer and mesothelioma allegations, MDL-2738 status, evidence, deadlines, and state resources."
 lawsuit: "Talcum Powder"
 urlSlug: "talcum-powder"
 category: "Product Liability"
@@ -21,7 +21,7 @@ injuries:
   - "Mesothelioma"
   - "Other gynecological cancers (alleged)"
   - "Asbestos exposure history"
-settlementStatus: "There is no global settlement. Johnson & Johnson made three attempts to resolve talc liability through a 'Texas Two-Step' bankruptcy, and all three were rejected by the courts — most recently when a Texas bankruptcy judge denied Red River Talc LLC's roughly $9 billion prepackaged Chapter 11 plan on March 31, 2025. With the bankruptcy route closed, ovarian-cancer cases are coordinated in federal MDL-2738 and individual cases are being tried in state courts, with a mixed verdict record. No amount is guaranteed for any individual claim."
+settlementStatus: "The structured case sources reviewed for this August 2026 update do not include a current official global-settlement record. MDL-2738 remains active, individual outcomes are fact-specific, and no amount is guaranteed."
 timeline:
   -
     label: "Product use"
@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-diagnosis timeline with MDL-2738's posture, state filing deadlines, and the available evidence."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "What is the talcum powder lawsuit about?"
@@ -43,19 +43,19 @@ faqs:
     answer: "Claim review often involves people with long-term talcum powder use who later developed ovarian cancer, and people diagnosed with mesothelioma who have a talc-exposure history. Qualification depends on product use, diagnosis, timing, records, and state law."
   -
     question: "Where are the federal talcum powder cases handled?"
-    answer: "Federal ovarian-cancer cases are coordinated in MDL-2738, In re: Johnson & Johnson Talcum Powder Products Liability Litigation, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey. As of June 1, 2026 it was the largest active MDL by pending actions (about 68,029)."
+    answer: "Federal ovarian-cancer cases are coordinated in MDL-2738, In re: Johnson & Johnson Talcum Powder Products Liability Litigation, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey. As of August 3, 2026 it was the largest active MDL by pending actions (about 68,914)."
   -
     question: "Is there a talcum powder settlement?"
-    answer: "No global settlement is in place. Johnson & Johnson's three 'Texas Two-Step' bankruptcy attempts were all rejected — most recently Red River Talc LLC's roughly $9 billion plan, denied on March 31, 2025 — so cases are proceeding in court. No amount is guaranteed for any individual claim."
+    answer: "The structured official sources reviewed for this update do not include a current global-settlement record. MDL-2738 remains active, and no amount is guaranteed for any individual claim."
   -
     question: "What is the Imerys talc trust, and is it separate from the J&J cases?"
     answer: "It is separate. Imerys Talc America — a longtime talc supplier to Johnson & Johnson — filed for Chapter 11 bankruptcy in 2019, and its confirmed reorganization plan established the Imerys Talc Personal Injury Trust to resolve talc injury claims against Imerys. That trust pays approved claimants under court-approved Trust Distribution Procedures, which set scheduled values by disease category (such as ovarian cancer or mesothelioma) and apply a 'payment percentage' based on the trust's available funds. It is a different process from the J&J / LLT / Red River litigation, and which path applies depends on a person's facts. No payout is guaranteed."
   -
     question: "When will the talcum powder lawsuit be settled, and has anyone been paid?"
-    answer: "There is no global J&J settlement and no set settlement date; with the bankruptcy route closed, individual cases are being tried or resolved one at a time, so timing is case-specific. Some plaintiffs have been paid after verdicts became final on appeal (for example, the reduced Ingham judgment), and the separate Imerys trust pays approved claims under its own procedures. Any figure presented online as an 'average talcum powder settlement' is speculation — no amount is guaranteed."
+    answer: "The official sources reviewed for this update do not provide a global settlement date or payout schedule. Individual case timing is fact-specific, and any online average is speculation — no amount is guaranteed."
   -
     question: "How much have talcum powder verdicts been?"
-    answer: "Results have been mixed. A Missouri jury awarded about $4.69 billion in Ingham v. Johnson & Johnson (2018), later reduced to roughly $2.1 billion on appeal, with the U.S. Supreme Court declining review in 2021. Other juries have returned defense verdicts. Past verdicts do not predict any individual outcome."
+    answer: "Past verdicts do not predict an individual outcome. This guide does not publish a verdict-based payout estimate; outcomes depend on the facts, evidence, jurisdiction, and appeals."
   -
     question: "What products are involved?"
     answer: "The litigation centers on talc-based powders, including Johnson's Baby Powder and Shower to Shower. Johnson & Johnson stopped selling talc-based Baby Powder in North America in 2020 and globally in 2023, switching to a cornstarch formula."
@@ -72,16 +72,16 @@ faqs:
 
 <section id="overview">
 <h2>What is the talcum powder lawsuit?</h2>
-<p><strong>The talcum powder lawsuit alleges that Johnson & Johnson talc products such as Johnson's Baby Powder caused ovarian cancer and mesothelioma, and that the company failed to warn users.</strong> Federal ovarian-cancer cases are consolidated in MDL-2738 before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, and no global settlement exists after three failed "Texas Two-Step" bankruptcies. Johnson & Johnson disputes the claims and says its talc is asbestos-free.</p>
-<p>As of June 2026, the Johnson & Johnson talcum powder litigation is one of the largest mass torts in the country: about 68,029 cases were pending in MDL-2738 as of June 1, 2026 — the largest active multidistrict litigation by pending actions — and individual cases are again going to trial after J&J's third bankruptcy attempt collapsed.</p>
+<p><strong>The talcum powder lawsuit alleges that Johnson & Johnson talc products such as Johnson's Baby Powder caused ovarian cancer and mesothelioma, and that the company failed to warn users.</strong> Federal ovarian-cancer cases are consolidated in MDL-2738 before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey. Johnson & Johnson disputes the claims and says its talc is asbestos-free.</p>
+<p>As of August 3, 2026, the JPML report listed 68,914 pending actions in MDL-2738 — the largest pending-action count among the MDLs in that report.</p>
 <p>Talcum powder lawsuits allege that talc-based products such as Johnson's Baby Powder and Shower to Shower caused ovarian cancer, or mesothelioma linked to asbestos that can be found with talc, and that the companies failed to warn users. Johnson & Johnson disputes the claims and maintains its talc is safe and does not contain asbestos. Claim review usually turns on product-use history, pathology and diagnosis records, timing, and state filing deadlines.</p>
 </section>
 
 <section id="latest-update">
-<h2>Talcum Powder Lawsuit Update: June 2026</h2>
-<p>The defining development is the collapse of Johnson & Johnson's bankruptcy strategy. On <strong>March 31, 2025</strong>, U.S. Bankruptcy Judge Christopher Lopez denied confirmation of <strong>Red River Talc LLC's</strong> prepackaged Chapter 11 plan — built around a proposed roughly <strong>$9 billion</strong> settlement — marking the third straight rejection of a J&J "Texas Two-Step" bankruptcy. With the bankruptcy route closed, tens of thousands of previously paused cases returned to active dockets.</p>
-<p>As of June 1, 2026, <strong>68,029 cases</strong> were pending in MDL-2738 per the JPML's monthly report, making it the largest active MDL by pending actions. The federal MDL handles primarily ovarian-cancer claims, while mesothelioma claims and many individual ovarian-cancer cases proceed in state courts. In February 2026, a Philadelphia jury found J&J liable in <em>Emerson v. Johnson & Johnson</em> and awarded $250,000; J&J said it would appeal.</p>
-<p>For people researching the case, the practical point is that documentation drives everything: brand and years of talc use, pathology confirming the cancer type, and diagnosis timing matter more than settlement headlines, because no global settlement exists and individual eligibility is fact-specific.</p>
+<h2>Talcum Powder Lawsuit Update: August 2026</h2>
+<p>The August 3, 2026 JPML report lists <strong>68,914 pending actions</strong> in MDL-2738. Readers should consult official court materials for changes after that reporting date.</p>
+<p>The federal MDL coordinates primarily ovarian-cancer claims. This guide does not infer current trial or settlement posture from secondary reporting.</p>
+<p>For people researching the case, documentation drives claim review: brand and years of talc use, pathology confirming the cancer type, and diagnosis timing are central, and individual eligibility is fact-specific.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -91,8 +91,8 @@ faqs:
 <li><strong>Primary injuries:</strong> Ovarian cancer; mesothelioma (asbestos-linked)</li>
 <li><strong>Main products:</strong> Talc-based powders, including Johnson's Baby Powder and Shower to Shower</li>
 <li><strong>MDL or court context:</strong> MDL-2738, District of New Jersey, before Judge Michael A. Shipp</li>
-<li><strong>Pending actions:</strong> About 68,029 as of June 1, 2026 (largest active MDL by actions pending)</li>
-<li><strong>Settlement status:</strong> No global settlement; three "Texas Two-Step" bankruptcies rejected, most recently March 31, 2025</li>
+<li><strong>Pending actions:</strong> About 68,914 as of August 3, 2026 (largest active MDL by actions pending)</li>
+<li><strong>Settlement status:</strong> no current global-settlement record included in the structured official sources reviewed for this update</li>
 <li><strong>Key deadline:</strong> Varies by state, diagnosis date, discovery facts, and use history</li>
 </ul>
 </section>
@@ -116,33 +116,16 @@ faqs:
 </ul>
 </section>
 
-<section id="texas-two-step-bankruptcy">
-<h2>The "Texas Two-Step" bankruptcy fights</h2>
-<p>Rather than litigate or settle tens of thousands of cases individually, Johnson & Johnson tried three times to move its talc liability into bankruptcy through a maneuver known as the "Texas Two-Step" — creating a subsidiary to hold the talc claims and placing only that subsidiary into Chapter 11. Each attempt was rejected:</p>
-<ul>
-<li><strong>LTL Management (first attempt):</strong> Filed in 2021; dismissed in 2023 after the Third Circuit held the subsidiary was not in genuine financial distress.</li>
-<li><strong>LTL Management (second attempt):</strong> Refiled in 2023; dismissed again, with the Third Circuit affirming in 2024.</li>
-<li><strong>Red River Talc (third attempt):</strong> A prepackaged Chapter 11 built around a proposed roughly $9 billion plan; denied by U.S. Bankruptcy Judge Christopher Lopez in the Southern District of Texas on <strong>March 31, 2025</strong>.</li>
-</ul>
-<p>With the bankruptcy path closed, the litigation returned to the trial system. That is why the MDL's pending count is so large and why individual trials have resumed in state courts.</p>
-</section>
-
-<section id="verdicts-and-trials">
-<h2>Verdicts and trials</h2>
-<p>The talc trial record is mixed, and past results do not predict any individual outcome. The most significant plaintiff verdict came in <em>Ingham v. Johnson & Johnson</em>, where a Missouri jury awarded about <strong>$4.69 billion</strong> to 22 women in 2018. On appeal, the Missouri Court of Appeals reduced the judgment to roughly <strong>$2.1 billion</strong> and trimmed the plaintiff group on jurisdictional grounds, and in 2021 the U.S. Supreme Court declined to hear J&J's appeal — leaving the reduced award as a final result.</p>
-<p>Other cases have gone the company's way. Juries have returned defense verdicts for Johnson & Johnson in cosmetic-talc cases, including in Florida and Georgia, and some trials have ended in mistrials. In February 2026, a Philadelphia jury found J&J liable in <em>Emerson v. Johnson & Johnson</em> and awarded $250,000; J&J said it would appeal. The mixed record underscores that each case turns on its own facts, evidence, and jurisdiction.</p>
-</section>
-
 <section id="status">
 <h2>Current litigation status</h2>
 <p>Talc claims are active and coordinated in federal multidistrict litigation. MDL-2738, before Judge Michael A. Shipp in the District of New Jersey, handles the federal ovarian-cancer docket and remains the largest active MDL by pending actions. Mesothelioma claims and many ovarian-cancer cases also proceed in state courts.</p>
-<p>With three bankruptcy attempts behind it, the litigation's center of gravity is back in the courtroom: expert (Daubert) disputes over causation, individual trials, and case-specific proof. Johnson & Johnson continues to dispute that its talc causes cancer or contains asbestos. Litigation status can change, and this guide is a general overview rather than a live docket report.</p>
+<p>MDL-2738 remains active. Johnson & Johnson continues to dispute that its talc causes cancer or contains asbestos. Litigation status can change, and this guide is a general overview rather than a live docket report.</p>
 </section>
 
 <section id="key-issues">
 <h2>Key issues in the lawsuit</h2>
 <p>Talc lawsuits raise two central scientific questions: whether long-term perineal use of talc powder increases ovarian-cancer risk, and whether cosmetic talc can contain asbestos capable of causing mesothelioma. Both are heavily contested, with competing expert testimony on each side.</p>
-<p>The factual issues in an individual case often include which product was used and for how long, whether pathology confirms the specific cancer type, the timeline between use and diagnosis, and other possible risk factors. Legal issues include warning adequacy, causation, state-law deadlines, and — given the bankruptcy history — whether any prior claim process affects the case.</p>
+<p>The factual issues in an individual case often include which product was used and for how long, whether pathology confirms the specific cancer type, the timeline between use and diagnosis, and other possible risk factors. Legal issues include warning adequacy, causation, and state-law deadlines.</p>
 <p>Defendants generally argue that talc does not cause these cancers, that their products did not contain asbestos, and that other factors explain a plaintiff's illness. Plaintiffs point to internal company history, testing disputes, and expert testimony linking talc use to disease.</p>
 </section>
 
@@ -174,12 +157,10 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li><strong>Federal court context:</strong> Federal talc cases are coordinated in MDL-2738 before Judge Michael A. Shipp in the District of New Jersey; pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML's monthly Pending MDL Dockets report (June 1, 2026)</a>.</li>
-<li><strong>Verdict context:</strong> The <em>Ingham</em> reduction is documented in the <a href="https://storage.courtlistener.com/pdf/2020/06/23/robert_ingham_v._johnson__johnson.pdf">Missouri Court of Appeals opinion (June 23, 2020)</a>, with the U.S. Supreme Court's <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/20-1223.html">denial of review (docket 20-1223)</a> leaving it final.</li>
-<li><strong>Bankruptcy context:</strong> Coverage of the March 31, 2025 Red River Talc dismissal is available via <a href="https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/">Drugwatch</a>.</li>
+<li><strong>Federal court context:</strong> Federal talc cases are coordinated in MDL-2738 before Judge Michael A. Shipp in the District of New Jersey; pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">JPML's monthly Pending MDL Dockets report (August 3, 2026)</a>.</li>
 <li><strong>Imerys talc trust:</strong> Imerys Talc America's Chapter 11 reorganization established the Imerys Talc Personal Injury Trust, a separate compensation path; case and plan documents are available through the <a href="https://iandctalc.com/" target="_blank" rel="noopener noreferrer">Imerys Talc and Cyprus Mines bankruptcy information site</a>.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public litigation status and should not be treated as a live court docket. The science, the asbestos question, and causation are disputed.</li>
-<li><strong>Last reviewed:</strong> June 29, 2026.</li>
+<li><strong>Last reviewed:</strong> August 16, 2026.</li>
 </ul>
 </section>
 

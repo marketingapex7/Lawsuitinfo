@@ -1,6 +1,8 @@
 ---
 title: "Paraquat Parkinson's Lawsuit in Pennsylvania"
 description: "Information for Pennsylvania residents researching Paraquat Parkinson's lawsuits, Parkinson's disease allegations, possible eligibility factors, records, deadlines, and legal options."
+seoTitle: "Pennsylvania Paraquat Lawsuit: Exposure & Deadlines"
+seoDescription: "Pennsylvania Paraquat lawsuit guide covering Parkinson's allegations, MDL 3004 status, exposure records, and state filing-deadline factors."
 lawsuit: "Paraquat Parkinson's"
 lawsuitSlug: "paraquat"
 state: "Pennsylvania"
@@ -11,8 +13,8 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Parkinson's disease"
 exposureContext: "State residents may have encountered paraquat through farms, crop handling, pesticide application, agricultural work, mixing, loading, or nearby work activities."
-lastUpdated: "2026-06-13"
-lastReviewed: "2026-06-13"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Where are Paraquat cases for Pennsylvania residents coordinated?"
@@ -64,4 +66,3 @@ faqs:
 <li>Information about prior conditions, alternative exposures, or other facts a lawyer may need to evaluate.</li>
 </ul>
 </section>
-

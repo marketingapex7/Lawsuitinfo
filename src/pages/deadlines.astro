@@ -6,7 +6,7 @@ import { caseIntentHref } from "@lib/caseLinks";
 import { datasetSchema } from "@lib/seo";
 
 const cases = getAllCaseData();
-const today = "2026-06-19";
+const today = new Date().toISOString().slice(0, 10);
 const updated = cases.map((item) => item.dataAsOf).sort().at(-1) ?? today;
 const breadcrumbs = [
   { name: "Home", url: "/" },
@@ -56,7 +56,7 @@ const upcomingDates = cases
         <div class="mt-4 space-y-4">
           {upcomingDates.length > 0 ? upcomingDates.map((item) => (
             <article class="border-b border-line pb-4 last:border-0 last:pb-0">
-              <p class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{item.date}</p>
+              <p class="text-xs font-bold uppercase tracking-[0.08em] text-muted"><time datetime={item.date}>{item.date}</time></p>
               <h3 class="mt-1 text-base font-bold text-ink">
                 <a class="text-accent-dark" href={caseIntentHref(item.slug, "update")}>{item.caseName}</a>: {item.label}
               </h3>

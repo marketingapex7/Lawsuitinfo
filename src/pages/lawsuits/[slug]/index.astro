@@ -11,6 +11,7 @@ import RelatedStateGuides from "@components/RelatedStateGuides.astro";
 import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
 import LitigationDataPanel from "@components/LitigationDataPanel.astro";
+import LatestStatusSummary from "@components/LatestStatusSummary.astro";
 import { entrySlug } from "@lib/content";
 import { getCaseData } from "@lib/caseData";
 import { formatDate } from "@lib/site";
@@ -38,9 +39,10 @@ const related = (await getCollection("lawsuits"))
 const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
 const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
-const contentSettlementSlugs = new Set(["paragard", "social-media", "suboxone"]);
-const contentDeadlineSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh"]);
-const contentEvidenceSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh", "paragard", "social-media"]);
+const visibleTitle = /\blawsuit\b/i.test(lawsuit.data.lawsuit) ? lawsuit.data.lawsuit : `${lawsuit.data.lawsuit} Lawsuit`;
+const contentSettlementSlugs = new Set(["afff-pfas", "paragard", "paraquat", "roundup", "social-media", "suboxone"]);
+const contentDeadlineSlugs = new Set(["afff-pfas", "bard-powerport", "hair-relaxer", "hernia-mesh", "ozempic", "paraquat", "roundup", "suboxone"]);
+const contentEvidenceSlugs = new Set(["afff-pfas", "bard-powerport", "hair-relaxer", "hernia-mesh", "ozempic", "paragard", "roundup", "social-media", "suboxone"]);
 const compactContentSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh"]);
 const breadcrumbs = [
   { name: "Home", url: "/" },
@@ -130,6 +132,18 @@ if (slug === "talcum-powder") {
   toc.splice(3, 0, { id: "talcum-powder-lawsuit", label: "Lawsuit overview" });
   toc.splice(4, 0, { id: "talcum-powder-qualifications", label: "Qualifications" });
 }
+
+const replacedGenericTocIds = new Map([
+  ["afff-pfas", ["evidence", "settlement", "eligibility"]],
+  ["ozempic", ["evidence", "eligibility"]],
+  ["paraquat", ["settlement", "eligibility"]],
+  ["roundup", ["evidence", "settlement"]],
+  ["suboxone", ["evidence", "eligibility"]],
+]);
+for (const id of replacedGenericTocIds.get(slug) ?? []) {
+  const index = toc.findIndex((item) => item.id === id);
+  if (index >= 0) toc.splice(index, 1);
+}
 ---
 
 <GuideLayout
@@ -143,7 +157,7 @@ if (slug === "talcum-powder") {
 >
   <header class="max-w-3xl">
     <CaseStatusBadge status={lawsuit.data.status} />
-    <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.lawsuit}</h1>
+    <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{visibleTitle}</h1>
     <p class="mt-4 text-lg leading-8 text-muted">{lawsuit.data.description}</p>
     <p class="mt-4 rounded-lg border border-line bg-panel p-3 text-sm leading-6 text-muted">
       This guide is for general information only. It does not provide legal advice, does not create an attorney-client relationship, and case status can change.
@@ -155,8 +169,10 @@ if (slug === "talcum-powder") {
     </div>
   </header>
 
+  {caseData && <LatestStatusSummary data={caseData} caseSlug={slug} />}
+
   <div class="mt-8 grid gap-8 lg:grid-cols-[220px_1fr_300px]">
-    <div class="hidden lg:block">
+    <div>
       <div class="sticky top-24">
         <TableOfContents items={toc} />
       </div>

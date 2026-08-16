@@ -23,6 +23,7 @@ const caseAnchors: Record<string, Partial<Record<CaseIntent, string>>> = {
     deadline: "paraquat-deadlines"
   },
   roundup: {
+    settlement: "roundup-settlement-timing",
     deadline: "roundup-deadline-questions"
   },
   suboxone: {

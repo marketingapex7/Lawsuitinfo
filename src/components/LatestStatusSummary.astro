@@ -1,0 +1,64 @@
+---
+import { formatCount, latestPendingCount, nextPublicDate, type CaseData } from "@lib/caseData";
+import { isOfficialSourceUrl } from "@lib/sourceClassification";
+
+interface Props {
+  data: CaseData;
+  caseSlug: string;
+}
+
+const { data, caseSlug } = Astro.props;
+const pending = latestPendingCount(data);
+const settlement = data.settlements[0];
+const nextDate = nextPublicDate(data);
+const sources = [
+  pending?.sourceUrl ? { label: pending.source, url: pending.sourceUrl } : undefined,
+  settlement?.sourceUrl ? { label: settlement.source ?? "Settlement source", url: settlement.sourceUrl } : undefined,
+  ...data.sources.slice(0, 2).map((source) => ({ label: source.name, url: source.url })),
+].filter((source, index, list) => source && isOfficialSourceUrl(source.url) && list.findIndex((candidate) => candidate?.url === source.url) === index);
+---
+
+<section data-latest-status class="mt-6 rounded-lg border border-line border-t-4 border-t-accent bg-white p-5 shadow-sm" aria-labelledby="latest-status-summary">
+  <div class="flex flex-wrap items-baseline justify-between gap-2">
+    <h2 id="latest-status-summary" class="text-2xl font-black text-ink">Latest status at a glance</h2>
+    <p class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Data through {data.dataAsOf}</p>
+  </div>
+  <dl class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Current phase</dt>
+      <dd class="mt-1 text-sm font-semibold leading-6 text-ink">{data.phase}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Latest case count</dt>
+      <dd class="mt-1 text-sm leading-6 text-ink">
+        {pending ? <><strong>{formatCount(pending.count)}</strong> — {pending.scope} ({pending.date})</> : "No current count is listed."}
+      </dd>
+    </div>
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Settlement posture</dt>
+      <dd class="mt-1 text-sm leading-6 text-ink">{settlement ? <><strong>{settlement.label}</strong>: {settlement.detail}</> : "No public settlement entry is listed."}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Next public date</dt>
+      <dd class="mt-1 text-sm leading-6 text-ink">{nextDate ? <><strong>{nextDate.date}</strong> — {nextDate.label}</> : "No future public court date is listed."}</dd>
+    </div>
+  </dl>
+  <div class="mt-4 border-t border-line pt-3">
+    <p class="text-xs font-bold uppercase tracking-[0.08em] text-muted">Primary and official sources</p>
+    <ul class="mt-2 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+      {sources.map((source) => source && (
+        <li>
+          <a
+            class="font-bold text-accent-dark underline decoration-accent/30 underline-offset-4"
+            href={source.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-official-source
+            data-component-location="latest_status"
+            data-case-slug={caseSlug}
+          >{source.label}</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>

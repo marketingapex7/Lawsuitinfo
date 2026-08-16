@@ -12,9 +12,23 @@
   },
   "phase": "Confidential settlement program administration",
   "phaseDetail": "A confidential Master Settlement Agreement was executed September 3, 2025. Case Management Order No. 24 gives the special master access to information concerning settlement qualification, eligibility, and opt-outs. In June 2026, the court selected certain opt-out cases for limited discovery. Bellwether trials remain vacated while the program is administered; new cases continue to transfer into the MDL.",
-  "updateNote": "Corrected the settlement execution date and clarified the public record on qualification, eligibility, opt-outs, and undisclosed payout values from official court orders.",
+  "updateNote": "August 3, 2026 JPML pending-action count added; the prior snapshot remains listed for month-to-month comparison.",
   "pendingCounts": [
-    { "date": "2026-07-01", "count": 6665, "scope": "Pending actions in MDL-3004", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true }
+    {
+      "date": "2026-08-03",
+      "count": 6665,
+      "scope": "Pending actions in MDL-3004",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-07-01",
+      "count": 6665,
+      "scope": "Pending actions in MDL-3004",
+      "source": "JPML MDL Statistics Report, July 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf"
+    }
   ],
   "defendants": [
     "Syngenta Crop Protection LLC / Syngenta AG",
@@ -30,14 +44,39 @@
     }
   ],
   "keyDates": [
-    { "date": "2021-06-07", "label": "MDL-3004 established", "detail": "JPML centralized federal paraquat cases before Chief Judge Nancy J. Rosenstengel in the Southern District of Illinois." },
-    { "date": "2025-09-03", "label": "Master Settlement Agreement executed", "detail": "Confidential agreement identified in Case Management Order No. 24, which describes the special master's settlement-administration responsibilities." },
-    { "date": "2026-06-02", "label": "Opt-out depositions ordered", "detail": "The court ordered targeted depositions of opt-out plaintiffs at three firms amid reported high opt-out rates." }
+    {
+      "date": "2021-06-07",
+      "label": "MDL-3004 established",
+      "detail": "JPML centralized federal paraquat cases before Chief Judge Nancy J. Rosenstengel in the Southern District of Illinois."
+    },
+    {
+      "date": "2025-09-03",
+      "label": "Master Settlement Agreement executed",
+      "detail": "Confidential agreement identified in Case Management Order No. 24, which describes the special master's settlement-administration responsibilities."
+    },
+    {
+      "date": "2026-06-02",
+      "label": "Opt-out depositions ordered",
+      "detail": "The court ordered targeted depositions of opt-out plaintiffs at three firms amid reported high opt-out rates."
+    }
   ],
   "sources": [
-    { "name": "S.D. Ill. — MDL 3004 court page", "url": "https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation" },
-    { "name": "S.D. Ill. — Paraquat Case Management Order No. 24 (PDF)", "url": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO24.pdf" },
-    { "name": "JPML — Pending MDL Dockets, July 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf" }
+    {
+      "name": "JPML — Pending MDL Dockets by Actions Pending (August 3, 2026)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "S.D. Ill. — MDL 3004 court page",
+      "url": "https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation"
+    },
+    {
+      "name": "S.D. Ill. — Paraquat Case Management Order No. 24 (PDF)",
+      "url": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO24.pdf"
+    },
+    {
+      "name": "JPML — Pending MDL Dockets, July 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf"
+    }
   ],
-  "dataAsOf": "2026-07-19"
+  "dataAsOf": "2026-08-03"
 }

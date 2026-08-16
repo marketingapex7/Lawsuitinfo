@@ -1,6 +1,7 @@
 ---
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
+import AnalyticsEvents from "@components/AnalyticsEvents.astro";
 import { site } from "@lib/site";
 import { absoluteUrl, articleSchema, breadcrumbSchema, composeTitle, faqSchema, webPageSchema, webSiteSchema } from "@lib/seo";
 import "../styles/global.css";
@@ -66,5 +67,6 @@ const schemas = [
       <slot />
     </main>
     <Footer />
+    <AnalyticsEvents />
   </body>
 </html>

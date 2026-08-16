@@ -1,6 +1,8 @@
 ---
 title: "Ozempic Lawsuit in California (GLP-1 Claims)"
 description: "Information for California residents researching Ozempic and GLP-1 lawsuits: gastroparesis and bowel-injury allegations, MDL-3094 status, eligibility factors, records, and California filing deadlines."
+seoTitle: "California Ozempic Lawsuit: GLP-1 Claims & Deadlines"
+seoDescription: "California Ozempic lawsuit guide covering GLP-1 injury allegations, MDL 3094 status, medical records, and state filing-deadline factors."
 lawsuit: "Ozempic / GLP-1"
 lawsuitSlug: "ozempic"
 state: "California"
@@ -11,8 +13,8 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "California residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-06-16"
-lastReviewed: "2026-06-16"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "Does California's Medi-Cal cover GLP-1 drugs for weight loss?"
@@ -34,7 +36,7 @@ faqs:
     answer: "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."
   -
     question: "Has there been an Ozempic settlement?"
-    answer: "No. As of June 2026 no settlement program exists in the GLP-1 litigation. The Rule 702 hearings set for September 10-18, 2026 and the rulings that follow are the next events expected to shape settlement posture. Bellwether trial dates have not been set, and no outcome is guaranteed."
+    answer: "No. As of August 2026 no settlement program has been announced in the GLP-1 litigation. The Rule 702 hearings set for September 10-18, 2026 and the rulings that follow are the next events expected to shape settlement posture. Bellwether trial dates have not been set, and no outcome is guaranteed."
   -
     question: "Is Ozempic recalled?"
     answer: "No. GLP-1 medications remain FDA-approved and on the market. The litigation concerns warnings and alleged injuries, not availability. Medication decisions belong with a licensed healthcare professional."
@@ -45,7 +47,7 @@ faqs:
 
 <section id="state-overview">
 <h2>What California residents should know</h2>
-<p>California residents with GLP-1 injury claims are generally not limited to California state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,763 pending cases as of June 1, 2026.</p>
+<p>California residents with GLP-1 injury claims are generally not limited to California state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,928 pending actions as of August 3, 2026.</p>
 <p>California law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 

@@ -1,0 +1,57 @@
+<script>
+  import { trackEvent } from "@lib/analytics";
+
+  const pagePath = window.location.pathname;
+  const pathCaseSlug = pagePath.match(/^\/lawsuits\/([^/]+)\//)?.[1];
+
+  function linkParameters(link) {
+    const url = new URL(link.href, window.location.href);
+    const component = link.closest("[data-component-location]")?.dataset.componentLocation;
+    const caseSlug = link.dataset.caseSlug ?? link.closest("[data-case-slug]")?.dataset.caseSlug ?? pathCaseSlug;
+    const linkLabel = link.textContent?.replace(/\s+/g, " ").trim().slice(0, 100);
+    return {
+      page_path: pagePath,
+      destination_host: url.host || undefined,
+      component_location: component,
+      case_slug: caseSlug,
+      link_label: linkLabel || undefined,
+    };
+  }
+
+  document.addEventListener("click", (event) => {
+    if (!(event.target instanceof Element)) return;
+    const link = event.target.closest("a[href]");
+    if (!(link instanceof HTMLAnchorElement)) return;
+
+    const url = new URL(link.href, window.location.href);
+    const isContact = url.pathname === "/contact/" || url.protocol === "mailto:" || url.protocol === "tel:";
+    if (isContact) trackEvent("contact_click", linkParameters(link));
+    if (link.hasAttribute("data-official-source")) {
+      trackEvent("official_source_click", linkParameters(link));
+    }
+  });
+
+  let timeQualified = false;
+  let depthQualified = false;
+  let qualifiedReadSent = false;
+
+  function maybeTrackQualifiedRead() {
+    if (qualifiedReadSent || !timeQualified || !depthQualified) return;
+    qualifiedReadSent = true;
+    trackEvent("qualified_read", { page_path: pagePath, case_slug: pathCaseSlug });
+    window.removeEventListener("scroll", measureDepth);
+  }
+
+  function measureDepth() {
+    const documentHeight = document.documentElement.scrollHeight;
+    depthQualified = documentHeight <= 0 || (window.scrollY + window.innerHeight) / documentHeight >= 0.5;
+    maybeTrackQualifiedRead();
+  }
+
+  window.addEventListener("scroll", measureDepth, { passive: true });
+  window.addEventListener("load", measureDepth, { once: true });
+  window.setTimeout(() => {
+    timeQualified = true;
+    measureDepth();
+  }, 60_000);
+</script>

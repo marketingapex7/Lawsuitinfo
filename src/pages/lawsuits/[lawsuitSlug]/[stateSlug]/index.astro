@@ -11,7 +11,7 @@ import StateLimitationsCard from "@components/StateLimitationsCard.astro";
 import { getCaseData, getStateLimitation } from "@lib/caseData";
 import { caseIntentHref } from "@lib/caseLinks";
 import { formatDate, getStateBySlug } from "@lib/site";
-import { shortLawsuitName, stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
+import { capMetaDescription, capSeoTitle, shortLawsuitName, stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
 
 export async function getStaticPaths() {
   const guides = await getCollection("state-guides");
@@ -47,8 +47,8 @@ const breadcrumbs = [
   { name: guide.data.lawsuit, url: `/lawsuits/${guide.data.lawsuitSlug}/` },
   { name: guide.data.state, url: `/lawsuits/${guide.data.lawsuitSlug}/${guide.data.stateSlug}/` }
 ];
-const seoTitle = stateGuideSeoTitle(guide.data.lawsuit, guide.data.state);
-const seoDescription = stateGuideMetaDescription(guide.data.lawsuit, guide.data.state, guide.data.primaryInjury);
+const seoTitle = capSeoTitle(guide.data.seoTitle ?? stateGuideSeoTitle(guide.data.lawsuit, guide.data.state));
+const seoDescription = capMetaDescription(guide.data.seoDescription ?? stateGuideMetaDescription(guide.data.lawsuit, guide.data.state, guide.data.primaryInjury));
 
 const recordsByCase: Record<string, string[]> = {
   "afff-pfas": [
@@ -296,6 +296,17 @@ const lawyerQuestions = lawyerQuestionsByCase[guide.data.lawsuitSlug] ?? [
       <a class="block rounded-lg border border-line bg-panel p-4 text-sm font-bold text-accent-dark hover:bg-white" href={`/lawsuits/${guide.data.lawsuitSlug}/`}>
         Back to {guide.data.lawsuit} guide
       </a>
+      <aside class="rounded-xl border border-line bg-panel p-5" aria-labelledby="state-research-trackers">
+        <h2 id="state-research-trackers" class="text-lg font-black text-ink">Research trackers</h2>
+        <p class="mt-2 text-sm leading-6 text-muted">Compare the national settlement posture, filing-date context, and federal case count.</p>
+        <ul class="mt-4 space-y-3 text-sm font-bold">
+          <li><a class="text-accent-dark hover:underline" href="/settlements/">Settlement tracker</a></li>
+          <li><a class="text-accent-dark hover:underline" href="/deadlines/">Filing deadline tracker</a></li>
+          {caseData?.litigation.mdlNumber && (
+            <li><a class="text-accent-dark hover:underline" href="/mdl-statistics/">MDL statistics tracker</a></li>
+          )}
+        </ul>
+      </aside>
       <DisclaimerBox />
     </div>
   </div>

@@ -10,7 +10,13 @@ const checks = [
       'href="/settlements/"',
       'href="/deadlines/"',
       'href="/mdl-statistics/"',
+      "Ozempic Lawsuit Update: August 2026",
+      "Has there been an Ozempic settlement?",
+      "Who may qualify for an Ozempic lawsuit?",
+      "What evidence can support an Ozempic lawsuit review?",
+      "What is the Ozempic lawsuit statute of limitations?",
     ],
+    forbidden: ['id="evidence"', 'id="deadlines"', 'id="eligibility"'],
   },
   {
     file: ["dist", "lawsuits", "depo-provera", "index.html"],
@@ -22,11 +28,47 @@ const checks = [
   },
   {
     file: ["dist", "lawsuits", "afff-pfas", "index.html"],
-    required: ["What is the AFFF firefighting foam lawsuit?"],
+    required: [
+      "What is the AFFF firefighting foam lawsuit?",
+      "AFFF Firefighting Foam Lawsuit Update: August 2026",
+      "Who may qualify for an AFFF lawsuit?",
+      "AFFF lawsuit settlement status",
+      "PFAS and AFFF records commonly reviewed",
+      "AFFF lawsuit deadline considerations",
+      'href="/settlements/"',
+      'href="/deadlines/"',
+      'href="/mdl-statistics/"',
+    ],
+    forbidden: ['id="evidence"', 'id="settlement"', 'id="deadlines"', 'id="eligibility"'],
   },
   {
     file: ["dist", "lawsuits", "roundup", "index.html"],
-    required: ["What is the Roundup lawsuit?"],
+    required: [
+      "What is the Roundup lawsuit?",
+      "Roundup Cancer Lawsuit Update: August 2026",
+      "Who may qualify for a Roundup lawsuit?",
+      "What proof do you need for a Roundup lawsuit?",
+      "When will Roundup settlements be paid?",
+      "What is the deadline to file a Roundup lawsuit?",
+      'href="/settlements/"',
+      'href="/deadlines/"',
+      'href="/mdl-statistics/"',
+    ],
+    forbidden: ['id="evidence"', 'id="settlement"', 'id="deadlines"'],
+  },
+  {
+    file: ["dist", "lawsuits", "paraquat", "index.html"],
+    required: [
+      "Paraquat Parkinson's Lawsuit Update: August 2026",
+      "Paraquat lawsuit qualifications",
+      "Are Paraquat lawsuit settlement amounts public?",
+      "What Paraquat exposure records may matter?",
+      "Paraquat lawsuit deadline considerations",
+      'href="/settlements/"',
+      'href="/deadlines/"',
+      'href="/mdl-statistics/"',
+    ],
+    forbidden: ['id="settlement"', 'id="deadlines"', 'id="eligibility"'],
   },
   {
     file: ["dist", "lawsuits", "talcum-powder", "index.html"],
@@ -35,14 +77,21 @@ const checks = [
   {
     file: ["dist", "lawsuits", "suboxone", "index.html"],
     required: [
-      "Updated July 28, 2026",
+      "Updated August 16, 2026",
       "What is the Suboxone tooth decay lawsuit?",
+      "Suboxone tooth decay lawsuit eligibility",
+      "Suboxone lawsuit settlement status",
+      "Dental records usually reviewed",
+      "Suboxone lawsuit deadline considerations",
+      'href="/settlements/"',
+      'href="/deadlines/"',
+      'href="/mdl-statistics/"',
     ],
-    forbidden: ['id="settlement"', 'href="#settlement"'],
+    forbidden: ['id="evidence"', 'id="settlement"', 'id="deadlines"', 'id="eligibility"', 'href="#settlement"'],
     exactOccurrences: [
       { text: "What is the buprenorphine tooth decay lawsuit?", count: 1 },
       { text: 'id="suboxone-settlement-status"', count: 1 },
-      { text: 'href="#suboxone-settlement-status"', count: 1 },
+      { text: 'href="#suboxone-settlement-status"', count: 2 },
     ],
   },
   {
@@ -83,6 +132,53 @@ const checks = [
       "current national AFFF Firefighting Foam lawsuit update",
       'href="/lawsuits/afff-pfas/#latest-update"',
     ],
+  },
+];
+
+const stateMetadataChecks = [
+  {
+    file: ["dist", "lawsuits", "depo-provera", "pennsylvania", "index.html"],
+    title: "Pennsylvania Depo-Provera Lawsuit: MDL & Deadlines",
+    description: "Pennsylvania Depo-Provera lawsuit guide covering MDL 3140 status, meningioma records, state-court context, and filing-deadline factors.",
+  },
+  {
+    file: ["dist", "lawsuits", "depo-provera", "north-carolina", "index.html"],
+    title: "North Carolina Depo-Provera Lawsuit: MDL & Deadlines",
+    description: "North Carolina Depo-Provera lawsuit guide covering MDL 3140 status, meningioma records, and state deadline and product-repose issues.",
+  },
+  {
+    file: ["dist", "lawsuits", "depo-provera", "delaware", "index.html"],
+    title: "Delaware Depo-Provera Lawsuit: State Cases & MDL",
+    description: "Delaware Depo-Provera lawsuit guide covering coordinated state cases, MDL 3140 status, meningioma records, and filing-deadline factors.",
+  },
+  {
+    file: ["dist", "lawsuits", "ozempic", "california", "index.html"],
+    title: "California Ozempic Lawsuit: GLP-1 Claims & Deadlines",
+    description: "California Ozempic lawsuit guide covering GLP-1 injury allegations, MDL 3094 status, medical records, and state filing-deadline factors.",
+    required: ["3,928 pending actions as of August 3, 2026"],
+    forbidden: ["3,763 pending cases as of June 1, 2026"],
+  },
+  {
+    file: ["dist", "lawsuits", "paraquat", "pennsylvania", "index.html"],
+    title: "Pennsylvania Paraquat Lawsuit: Exposure & Deadlines",
+    description: "Pennsylvania Paraquat lawsuit guide covering Parkinson's allegations, MDL 3004 status, exposure records, and state filing-deadline factors.",
+  },
+  {
+    file: ["dist", "lawsuits", "roundup", "pennsylvania", "index.html"],
+    title: "Pennsylvania Roundup Lawsuit: Verdicts & Deadlines",
+    description: "Pennsylvania Roundup lawsuit guide covering lymphoma allegations, notable state verdicts, MDL 2741 status, records, and deadline factors.",
+  },
+  {
+    file: ["dist", "lawsuits", "roundup", "missouri", "index.html"],
+    title: "Missouri Roundup Lawsuit: Settlement & Deadlines",
+    description: "Missouri Roundup lawsuit guide covering the proposed class settlement, MDL 2741 status, lymphoma records, and state deadline factors.",
+  },
+  {
+    file: ["dist", "lawsuits", "social-media", "texas", "index.html"],
+    title: "Texas Social Media Lawsuit: Teen Claims & Deadlines",
+    description: "Texas social media lawsuit guide covering teen mental-health allegations, MDL 3047 status, platform-use records, and deadline factors.",
+    required: ["3,137 pending actions as of August 3, 2026"],
+    forbidden: ["2,664 pending cases as of June 1, 2026", "2,664 cases were pending as of June 1, 2026"],
   },
 ];
 
@@ -135,6 +231,40 @@ for (const check of checks) {
         `${check.file.join("/")}: expected ${JSON.stringify(expected.text)} ${expected.count} time(s), found ${actual}`,
       );
     }
+  }
+}
+
+function decodeHtml(value) {
+  return value
+    ?.replaceAll("&amp;", "&")
+    .replaceAll("&#39;", "'")
+    .replaceAll("&quot;", '"');
+}
+
+for (const check of stateMetadataChecks) {
+  const filePath = path.join(process.cwd(), ...check.file);
+  let html;
+  try {
+    html = await readOutput(filePath);
+  } catch (error) {
+    failures.push(`${check.file.join("/")}: could not read output (${error.message})`);
+    continue;
+  }
+
+  const title = decodeHtml(html.match(/<title>([^<]+)<\/title>/)?.[1]);
+  const description = decodeHtml(html.match(/<meta name="description" content="([^"]+)"/i)?.[1]);
+  if (title !== check.title) failures.push(`${check.file.join("/")}: expected title ${JSON.stringify(check.title)}, found ${JSON.stringify(title)}`);
+  if (description !== check.description) failures.push(`${check.file.join("/")}: expected description ${JSON.stringify(check.description)}, found ${JSON.stringify(description)}`);
+  if ((title?.length ?? 0) > 62) failures.push(`${check.file.join("/")}: title exceeds 62 characters`);
+  if ((description?.length ?? 0) > 155) failures.push(`${check.file.join("/")}: description exceeds 155 characters`);
+  for (const expected of check.required ?? []) {
+    if (!html.includes(expected)) failures.push(`${check.file.join("/")}: missing current state fact ${JSON.stringify(expected)}`);
+  }
+  for (const stale of check.forbidden ?? []) {
+    if (html.includes(stale)) failures.push(`${check.file.join("/")}: contains stale state fact ${JSON.stringify(stale)}`);
+  }
+  for (const href of ['/settlements/', '/deadlines/', '/mdl-statistics/']) {
+    if (!html.includes(`href="${href}"`)) failures.push(`${check.file.join("/")}: missing tracker link ${href}`);
   }
 }
 

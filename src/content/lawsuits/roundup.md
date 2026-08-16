@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-21"
-lastReviewed: "2026-07-21"
+lastUpdated: "2026-08-16"
+lastReviewed: "2026-08-16"
 faqs:
   -
     question: "How much are Roundup lawsuit settlements worth?"
@@ -70,14 +70,14 @@ faqs:
 <section id="overview">
 <h2>What is the Roundup lawsuit?</h2>
 <p><strong>The Roundup lawsuit alleges that Bayer's Monsanto weed killer Roundup (glyphosate) causes non-Hodgkin lymphoma and that the company failed to warn users.</strong> Federal cases are consolidated in MDL-2741 before Judge Vince Chhabria in the U.S. District Court for the Northern District of California. A proposed nationwide class settlement has been through state-court approval proceedings, and the U.S. Supreme Court has decided a related failure-to-warn preemption question in <em>Monsanto v. Durnell</em>. Bayer disputes the cancer claims, and Roundup remains on the market.</p>
-<p>As of July 1, 2026, Roundup cancer litigation remains active but settlement-focused, with 3,920 actions pending in MDL No. 2741. On June 25, the U.S. Supreme Court held that FIFRA preempted the label-based failure-to-warn claim at issue in <em>Monsanto v. Durnell</em>. The effect on any specific claim depends on the claim's facts and legal theory.</p>
+<p>As of August 3, 2026, Roundup cancer litigation remains active but settlement-focused, with 3,932 actions pending in MDL No. 2741. On June 25, the U.S. Supreme Court held that FIFRA preempted the label-based failure-to-warn claim at issue in <em>Monsanto v. Durnell</em>. The effect on any specific claim depends on the claim's facts and legal theory.</p>
 <p>Roundup lawsuits allege that glyphosate-based herbicide exposure may be associated with non-Hodgkin lymphoma and that warnings were inadequate. Claim review usually turns on exposure history, diagnosis records, prior settlement or release paperwork, and state filing deadlines. Defendants dispute the allegations, and this page cannot determine whether any person qualifies for a claim.</p>
 </section>
 <section id="latest-update">
-<h2>Roundup Cancer Lawsuit Update: July 2026</h2>
+<h2>Roundup Cancer Lawsuit Update: August 2026</h2>
 <p>The proposed $7.25 billion nationwide class settlement in <em>King v. Monsanto</em> received preliminary approval in Missouri state court on March 4, 2026. A federal court remanded a related removal attempt back to Missouri state court on June 17. The official settlement website says the fairness hearing originally set for July 9 was rescheduled to August 19, 2026, and that the court has not granted final approval.</p>
 <p>On June 25, 2026, the U.S. Supreme Court decided <em>Monsanto Co. v. Durnell</em> (No. 24-1068). The Court held that FIFRA preempted the label-based failure-to-warn claim at issue there. That decision does not itself decide every Roundup claim, including claims based on different facts or legal theories.</p>
-<p>As of July 1, 2026, 3,920 actions remained pending in federal MDL No. 2741 before Judge Vince Chhabria. Settlement participation, releases, deadlines, and the legal effect of court rulings remain individual questions.</p>
+<p>As of August 3, 2026, 3,932 actions remained pending in federal MDL No. 2741 before Judge Vince Chhabria. Settlement participation, releases, deadlines, and the legal effect of court rulings remain individual questions.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -199,6 +199,6 @@ faqs:
 <li><strong>Proposed class settlement:</strong> The <a href="https://www.weedkillerclass.com/">official settlement website</a> lists the current hearing date and approval status.</li>
 <li><strong>Class definitions and options:</strong> The official settlement site's <a href="https://www.weedkillerclass.com/Home/FAQs">frequently asked questions</a> explain the proposed class definition, the treatment of pending MDL plaintiffs, and the settlement-specific deadlines.</li>
 <li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> July 21, 2026.</li>
+<li><strong>Last reviewed:</strong> August 16, 2026.</li>
 </ul>
 </section>
