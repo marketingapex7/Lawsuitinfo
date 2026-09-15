@@ -1,0 +1,37 @@
+[
+  {
+    "path": "/lawsuits/roundup/proof/",
+    "caseSlug": "roundup",
+    "title": "Roundup Lawsuit Proof: Exposure and Medical Records",
+    "description": "Organize Roundup exposure records, diagnosis documents, employment history, and prior claim paperwork for an individual lawsuit or settlement review.",
+    "reviewedAt": "2026-09-14"
+  },
+  {
+    "path": "/lawsuits/roundup/deadline/",
+    "caseSlug": "roundup",
+    "title": "Roundup Lawsuit Deadline: State and Settlement Dates",
+    "description": "Understand the difference between a Roundup lawsuit filing deadline, settlement registration dates, and court hearings, with official source links.",
+    "reviewedAt": "2026-09-14"
+  },
+  {
+    "path": "/lawsuits/afff-pfas/settlement/",
+    "caseSlug": "afff-pfas",
+    "title": "AFFF Settlement: Water Systems and Injury Claims",
+    "description": "Compare AFFF public water system settlements with individual injury claims, review official settlement records, and understand which deadlines apply.",
+    "reviewedAt": "2026-09-14"
+  },
+  {
+    "path": "/lawsuits/suboxone/tooth-decay/",
+    "caseSlug": "suboxone",
+    "title": "Suboxone Tooth Decay: FDA Warning and Lawsuit Records",
+    "description": "Read the FDA dental warning, distinguish Suboxone film litigation from other formulations, and organize pharmacy and dental records for review.",
+    "reviewedAt": "2026-09-14"
+  },
+  {
+    "path": "/lawsuits/bard-powerport/settlement-amounts/",
+    "caseSlug": "bard-powerport",
+    "title": "Bard PowerPort Settlement Amounts: What Is Verified",
+    "description": "Check verified Bard PowerPort settlement status, understand why payout estimates need evidence, and identify device and injury records for review.",
+    "reviewedAt": "2026-09-14"
+  }
+]

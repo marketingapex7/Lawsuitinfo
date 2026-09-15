@@ -143,7 +143,7 @@ async function validateRoundupDeadlineAndQualificationContent() {
         "There is no single national deadline for an individual Roundup lawsuit.",
         "Class-settlement dates do not replace an individual lawsuit deadline.",
         "If the proposed settlement receives final approval and becomes effective",
-        "final approval has not been granted"
+        "did not display a final-approval notice"
       ]
     ]
   ];

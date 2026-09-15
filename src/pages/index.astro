@@ -1,138 +1,26 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
-import LawsuitCard from "@components/LawsuitCard.astro";
-import CategoryCard from "@components/CategoryCard.astro";
 import StateGrid from "@components/StateGrid.astro";
 import { entrySlug } from "@lib/content";
+import { formatCount, getAllCaseData, latestPendingCount, monthlyChange, nextMajorDate } from "@lib/caseData";
 import { formatDate } from "@lib/site";
 
-const lawsuits = (await getCollection("lawsuits")).sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));
-const stateGuides = await getCollection("state-guides");
-const recentlyUpdated = [...lawsuits]
-  .sort((a, b) => b.data.lastUpdated.localeCompare(a.data.lastUpdated) || a.data.lawsuit.localeCompare(b.data.lawsuit))
-  .slice(0, 6);
-const latestUpdated = lawsuits.map((item) => item.data.lastUpdated).sort().at(-1) ?? "2026-05-20";
+const lawsuitEntries = await getCollection("lawsuits");
+const cases = getAllCaseData();
+const priority = ["afff-pfas", "suboxone", "ozempic", "roundup", "paraquat", "depo-provera", "bard-powerport", "camp-lejeune"];
+const featured = priority.map((slug) => ({ data: cases.find((item) => item.slug === slug)!, entry: lawsuitEntries.find((item) => entrySlug(item) === slug)! })).filter((item) => item.data && item.entry);
+const largest = cases.filter((item) => item.litigation.mdlNumber).sort((a, b) => (latestPendingCount(b)?.count ?? 0) - (latestPendingCount(a)?.count ?? 0)).slice(0, 5);
+const recentSettlements = cases.filter((item) => item.settlements.some((entry) => entry.kind && entry.kind !== "none")).sort((a, b) => b.dataAsOf.localeCompare(a.dataAsOf)).slice(0, 4);
+const upcoming = cases.map((item) => ({ item, date: nextMajorDate(item, "2026-09-15") })).filter((row) => row.date).sort((a, b) => a.date!.date.localeCompare(b.date!.date)).slice(0, 4);
 ---
-
-<BaseLayout
-  title="Plain-English Guides to Active Injury and Mass Tort Lawsuits"
-  seoTitle="Mass Tort & Injury Lawsuit Guides"
-  description="Track the status of major mass tort and injury lawsuits: alleged injuries, settlement posture, deadlines, evidence, and state-specific legal context."
-  isHome={true}
->
-  <section class="border-b border-line bg-[#eef7f8]">
-    <div class="mx-auto max-w-6xl px-4 py-12 md:py-16">
-      <div class="max-w-3xl">
-        <p class="text-sm font-bold uppercase tracking-[0.12em] text-accent-dark">Mass tort and injury case-status guides</p>
-        <h1 class="mt-3 text-4xl font-black leading-tight tracking-normal text-ink md:text-5xl">
-          Plain-English Guides to Active Injury and Mass Tort Lawsuits
-        </h1>
-        <p class="mt-5 text-lg leading-8 text-muted">
-          Track lawsuit status, alleged injuries, settlement posture, deadlines, evidence commonly reviewed, and state-specific legal context for major injury and mass tort claims.
-        </p>
-        <div class="mt-7 flex flex-col gap-3 sm:flex-row">
-          <a class="rounded-md bg-accent px-5 py-3 text-center text-sm font-bold text-white hover:bg-accent-dark" href="/lawsuits/">View Lawsuit Guides</a>
-          <a class="rounded-md border border-line bg-white px-5 py-3 text-center text-sm font-bold text-ink hover:bg-panel" href="/states/">Browse by State</a>
-        </div>
-        <div class="mt-5 flex flex-wrap gap-3 text-sm font-bold text-accent-dark">
-          <a href="/settlements/">Settlement tracker</a>
-          <a href="/deadlines/">Deadline tracker</a>
-          <a href="/mdl-statistics/">MDL statistics</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
+<BaseLayout title="Track the Status of Major U.S. Lawsuits" seoTitle="Major U.S. Lawsuit Status Tracker" description="Current MDL case counts, settlement status, bellwether schedules, deadlines and state-specific lawsuit information, verified from primary sources." isHome>
+  <section class="border-b border-line bg-[#eaf5f6]"><div class="mx-auto max-w-6xl px-4 py-12 md:py-16"><p class="text-sm font-black uppercase tracking-[0.12em] text-accent-dark">Updated litigation data and primary sources</p><h1 class="mt-3 max-w-4xl text-4xl font-black leading-tight text-ink md:text-6xl">Track the Status of Major U.S. Lawsuits</h1><p class="mt-5 max-w-3xl text-lg leading-8 text-muted">Current MDL case counts, settlement status, bellwether trials, deadlines and state-specific lawsuit information.</p><div class="mt-7 flex flex-wrap gap-3"><a class="rounded-md bg-accent px-5 py-3 text-sm font-bold text-white" href="#latest">View latest updates</a><a class="rounded-md border border-line bg-white px-5 py-3 text-sm font-bold" href="/updates/">Recently updated</a><a class="rounded-md border border-line bg-white px-5 py-3 text-sm font-bold" href="/states/">Browse by state</a></div></div></section>
   <div class="mx-auto max-w-6xl space-y-12 px-4 py-10">
-    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
-      <div class="flex items-end justify-between gap-4">
-        <div>
-          <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
-          <h2 class="text-2xl font-bold text-ink">Recently Updated Lawsuits</h2>
-          <p class="mt-2 text-sm leading-6 text-muted">The six national guides with the most recent recorded review dates.</p>
-        </div>
-        <a class="hidden text-sm font-bold text-accent-dark sm:inline" href="/lawsuits/">All guides</a>
-      </div>
-      <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {recentlyUpdated.map((lawsuit) => <LawsuitCard lawsuit={lawsuit} />)}
-      </div>
-      <div class="mt-6 rounded-lg border border-line bg-[#f1f5f9] p-4">
-        <div class="flex flex-wrap items-end justify-between gap-3">
-          <div>
-            <h3 class="text-base font-bold text-ink">All National Lawsuit Guides</h3>
-            <p class="mt-1 text-sm leading-6 text-muted">{lawsuits.length} national guides and {stateGuides.length} state-specific guides are currently published.</p>
-          </div>
-          <a class="text-sm font-bold text-accent-dark" href="/states/">Browse state guides</a>
-        </div>
-        <div class="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
-          {lawsuits.map((lawsuit) => (
-            <a class="rounded-md border border-line bg-white px-3 py-2.5 text-sm font-bold text-ink hover:border-accent/50" href={`/lawsuits/${entrySlug(lawsuit)}/`}>
-              {lawsuit.data.lawsuit}
-            </a>
-          ))}
-        </div>
-      </div>
-    </section>
-
-    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
-      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
-      <h2 class="text-2xl font-bold text-ink">Browse by Category</h2>
-      <div class="mt-5 grid gap-4 md:grid-cols-3">
-        <CategoryCard title="Defective Drugs" description="Medication-focused claims involving alleged injuries after prescription or clinical use." href="/categories/defective-drugs/" />
-        <CategoryCard title="Toxic Exposure" description="Claims involving alleged chemical, pesticide, PFAS, or environmental exposure injuries." href="/categories/toxic-exposure/" />
-        <CategoryCard title="Product Liability" description="A broad view of product-related injury claims in the current lawsuit library." href="/categories/product-liability/" />
-      </div>
-    </section>
-
-    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
-      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
-      <h2 class="text-2xl font-bold text-ink">Track Case Data</h2>
-      <div class="mt-5 grid gap-4 md:grid-cols-3">
-        <a class="rounded-lg border border-line bg-panel p-4 hover:border-accent/50" href="/settlements/">
-          <h3 class="text-lg font-bold text-ink">Settlement Tracker</h3>
-          <p class="mt-2 text-sm leading-6 text-muted">Public settlement posture, pending counts, and source links by case.</p>
-        </a>
-        <a class="rounded-lg border border-line bg-panel p-4 hover:border-accent/50" href="/deadlines/">
-          <h3 class="text-lg font-bold text-ink">Deadline Tracker</h3>
-          <p class="mt-2 text-sm leading-6 text-muted">Court dates, filing-window notes, and state deadline reminders.</p>
-        </a>
-        <a class="rounded-lg border border-line bg-panel p-4 hover:border-accent/50" href="/mdl-statistics/">
-          <h3 class="text-lg font-bold text-ink">MDL Statistics</h3>
-          <p class="mt-2 text-sm leading-6 text-muted">Pending-action counts, courts, judges, and JPML source links.</p>
-        </a>
-      </div>
-    </section>
-
-    <section class="rounded-lg border border-line bg-[#eef7f8] p-5">
-      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
-      <h2 class="text-2xl font-bold text-ink">Browse by State</h2>
-      <p class="mt-2 text-sm leading-6 text-muted">State pages include deadline considerations, records to gather, and federal court context.</p>
-      <div class="mt-5">
-        <StateGrid />
-      </div>
-    </section>
-
-    <section class="rounded-lg border border-line bg-white p-5 shadow-sm">
-      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
-      <h2 class="text-2xl font-bold text-ink">How These Guides Work</h2>
-      <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
-        <p>Each lawsuit guide starts with a national overview, then links to the state-specific guides currently available for that case.</p>
-        <p>The pages explain alleged injuries, possible eligibility factors, common evidence, deadline considerations, and litigation status in cautious plain English.</p>
-        <p>This site provides general legal information only and does not provide legal advice.</p>
-      </div>
-    </section>
-
-    <section class="rounded-lg border border-accent/20 bg-[#eef7f8] p-5">
-      <div class="mb-4 h-1 w-14 rounded-full bg-accent"></div>
-      <h2 class="text-2xl font-bold text-ink">Latest Update and Editorial Trust</h2>
-      <p class="mt-3 text-sm leading-6 text-muted">
-        Site content was last updated {formatDate(latestUpdated)}. Each guide includes review dates, cautious legal language, source/update notes, and links to editorial policy.
-      </p>
-      <div class="mt-4 flex flex-wrap gap-3 text-sm font-bold text-accent-dark">
-        <a href="/editorial-policy/">Editorial Policy</a>
-        <a href="/legal-disclaimer/">Legal Disclaimer</a>
-      </div>
-    </section>
+    <nav class="grid gap-3 sm:grid-cols-2 lg:grid-cols-4" aria-label="Status trackers"><a class="rounded-xl border border-line bg-white p-4 font-black text-accent-dark shadow-sm" href="/mdl-statistics/">MDL Statistics <span aria-hidden="true">→</span></a><a class="rounded-xl border border-line bg-white p-4 font-black text-accent-dark shadow-sm" href="/settlements/">Settlement Tracker <span aria-hidden="true">→</span></a><a class="rounded-xl border border-line bg-white p-4 font-black text-accent-dark shadow-sm" href="/deadlines/">Lawsuit Deadlines <span aria-hidden="true">→</span></a><a class="rounded-xl border border-line bg-white p-4 font-black text-accent-dark shadow-sm" href="/states/">State Lawsuit Guides <span aria-hidden="true">→</span></a></nav>
+    <section id="latest"><div class="flex flex-wrap items-end justify-between gap-3"><div><p class="text-sm font-black uppercase tracking-wide text-accent-dark">September 2026</p><h2 class="mt-1 text-3xl font-black">Latest Lawsuit Updates</h2></div><a class="font-bold text-accent-dark underline" href="/updates/">View the full update log</a></div><div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-4">{featured.map(({data,entry}) => { const count=latestPendingCount(data); const change=monthlyChange(data); return <article class="rounded-xl border border-line bg-white p-4 shadow-sm"><p class="text-xs font-black uppercase tracking-wide text-accent-dark">Updated {formatDate(data.dataAsOf)}</p><h3 class="mt-2 text-xl font-black"><a href={`/lawsuits/${data.slug}/`}>{entry.data.lawsuit}</a></h3><dl class="mt-4 space-y-2 text-sm"><div><dt class="font-bold text-muted">Proceeding</dt><dd>{data.litigation.mdlNumber ?? data.litigation.type}</dd></div><div><dt class="font-bold text-muted">Pending cases</dt><dd class="font-black">{count ? formatCount(count.count) : "Not an MDL"} {change !== undefined && <span class="text-xs font-semibold text-muted">({change>0?"+":""}{formatCount(change)})</span>}</dd></div><div><dt class="font-bold text-muted">Status</dt><dd>{data.phase}</dd></div></dl><a class="mt-4 inline-block font-bold text-accent-dark underline" href={`/lawsuits/${data.slug}/`}>View latest update</a></article>})}</div></section>
+    <section class="grid gap-6 lg:grid-cols-3"><div class="rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">Largest MDLs</h2><ol class="mt-4 space-y-3">{largest.map((item,index)=><li class="flex items-center justify-between gap-3"><a class="font-bold text-accent-dark underline" href={`/mdl/${item.litigation.mdlNumber!.replace(/\D/g,"")}/`}>{index+1}. {item.caseName}</a><span class="whitespace-nowrap font-black">{formatCount(latestPendingCount(item)!.count)}</span></li>)}</ol><a class="mt-5 inline-block font-bold text-accent-dark underline" href="/mdl-statistics/">Compare all tracked MDLs</a></div><div class="rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">Recent Settlements</h2><ul class="mt-4 space-y-3">{recentSettlements.map((item)=><li><a class="font-bold text-accent-dark underline" href={`/lawsuits/${item.slug}/#settlement`}>{item.caseName}</a><p class="text-sm leading-6 text-muted">{item.settlements[0]?.status}</p></li>)}</ul><a class="mt-5 inline-block font-bold text-accent-dark underline" href="/settlements/">Open settlement tracker</a></div><div class="rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">Upcoming Deadlines</h2>{upcoming.length ? <ul class="mt-4 space-y-3">{upcoming.map(({item,date})=><li><a class="font-bold text-accent-dark underline" href={`/lawsuits/${item.slug}/`}>{item.caseName}</a><p class="text-sm leading-6 text-muted">{formatDate(date!.date)} — {date!.label}</p></li>)}</ul>:<p class="mt-4 text-sm text-muted">No future public dates are currently verified.</p>}<a class="mt-5 inline-block font-bold text-accent-dark underline" href="/deadlines/">Open deadline tracker</a></div></section>
+    <section class="rounded-xl border border-line bg-[#eaf5f6] p-5"><h2 class="text-3xl font-black">Browse Lawsuits by State</h2><p class="mt-2 text-muted">State pages focus on local limitation periods and claim context while linking back to the current national status.</p><div class="mt-5"><StateGrid /></div></section>
+    <section class="rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">All tracked lawsuits</h2><div class="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">{lawsuitEntries.sort((a,b)=>a.data.lawsuit.localeCompare(b.data.lawsuit)).map((entry)=><a class="rounded-md border border-line bg-panel px-3 py-2.5 text-sm font-bold hover:border-accent" href={`/lawsuits/${entrySlug(entry)}/`}>{entry.data.lawsuit}</a>)}</div></section>
   </div>
 </BaseLayout>

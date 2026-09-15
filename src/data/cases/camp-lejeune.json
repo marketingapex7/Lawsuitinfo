@@ -10,38 +10,117 @@
     "judge": "Cases distributed among the district's judges; magistrate coordination",
     "established": "2022-08-10"
   },
-  "phase": "Settlement processing and first trials — filing window closed",
-  "phaseDetail": "The two-year CLJA filing window closed on August 10, 2024. Pending administrative claims and filed lawsuits continue to move through the DOJ/Navy Elective Option settlement program and Track 1 bellwether trial preparation in the Eastern District of North Carolina.",
-  "pendingCounts": [
-    { "date": "2026-06-01", "count": 3744, "scope": "Lawsuits filed in E.D.N.C.", "source": "E.D.N.C. Camp Lejeune litigation information, June 2026", "sourceUrl": "https://www.nced.uscourts.gov/", "primary": true },
-    { "date": "2026-04-15", "count": 407000, "scope": "Administrative claims filed with the Navy (approximate)", "source": "DOJ / Navy claims reporting, spring 2026", "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims" }
-  ],
+  "phase": "Existing claims and settlement processing; new administrative claims closed",
+  "phaseDetail": "DOJ reports more than $1 billion in settlement offers and more than $827 million paid as of August 10, 2026. The Navy no longer accepts new CLJA administrative claims after August 10, 2024. Timely claims still require attention to documents, denial notices, individual litigation deadlines and settlement terms.",
+  "pendingCounts": [],
   "defendants": [
     "United States of America (Department of the Navy)"
   ],
   "settlements": [
     {
-      "label": "Elective Option settlement program",
+      "label": "Elective Option and CLJA settlement activity",
+      "kind": "individual",
       "status": "active",
-      "detail": "The DOJ/Navy Elective Option offers tiered payments of roughly $100,000 to $450,000 depending on diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims (up to $550,000 combined). Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid. Elective Option payments are not reduced by VA benefit offsets; recoveries outside the program may be subject to the CLJA's offset provisions.",
-      "source": "DOJ Camp Lejeune claims information (May 15, 2026)",
+      "amount": "More than $1 billion offered; more than $827 million paid (August 10, 2026)",
+      "detail": "DOJ’s August 10, 2026 totals describe aggregate CLJA settlement activity. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.",
+      "individualClaims": "DOJ says accepted EO offers can be paid within 60 days or less with timely, accurate payment documents. That is not a deadline for receiving an offer.",
+      "verifiedOn": "2026-09-14",
+      "source": "DOJ CLJA claims information",
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
     }
   ],
   "keyDates": [
-    { "date": "2022-08-10", "label": "Camp Lejeune Justice Act signed", "detail": "CLJA created a federal cause of action for those exposed to contaminated water at Camp Lejeune for at least 30 days between August 1, 1953 and December 31, 1987." },
-    { "date": "2023-09-06", "label": "Elective Option announced", "detail": "DOJ and Navy launched a tiered early-settlement program for qualifying diagnoses." },
-    { "date": "2024-08-10", "label": "Filing deadline passed", "detail": "The CLJA two-year window to file administrative claims closed. New claims are generally barred." },
-    { "date": "2026-05-15", "label": "Settlements pass $876M offered / $665M paid", "detail": "DOJ reported more than $876 million offered and approximately $665 million paid as of May 15, 2026, with offers continuing weekly." },
-    { "date": "2026-06-01", "label": "Track 1 trials and settlement scale-up", "detail": "First Track 1 bellwether trials proceeding in 2026; global settlement matrix negotiations continue." }
+    {
+      "date": "2022-08-10",
+      "label": "CLJA enacted",
+      "detail": "The statutory claims process was created by the PACT Act.",
+      "sourceUrl": "https://www.navy.mil/clja/",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Camp Lejeune statutory claims"
+    },
+    {
+      "date": "2023-09-06",
+      "label": "Elective Option announced",
+      "detail": "DOJ and Navy announced the EO framework.",
+      "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Qualifying EO claims"
+    },
+    {
+      "date": "2024-08-10",
+      "label": "New administrative claim deadline passed",
+      "detail": "Navy states it is no longer accepting new CLJA claims. Timely filed claims have separate procedural requirements.",
+      "sourceUrl": "https://www.navy.mil/clja/",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "claim",
+      "status": "historical",
+      "appliesTo": "New Navy CLJA administrative claims"
+    },
+    {
+      "date": "2026-08-10",
+      "label": "Updated aggregate settlement reporting",
+      "detail": "More than $1 billion offered and more than $827 million paid, according to DOJ.",
+      "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Aggregate CLJA settlement activity"
+    }
   ],
-  "deadlineOverride": "The Camp Lejeune Justice Act filing window closed on August 10, 2024. State filing deadlines do not control CLJA claims, and new claims are generally barred regardless of the claimant's home state. People with claims filed before the deadline do not need to refile; pending claims continue through the Navy administrative process and the Eastern District of North Carolina.",
+  "deadlineOverride": "The Navy stopped accepting new Camp Lejeune Justice Act administrative claims after August 10, 2024. State personal-injury deadlines do not reopen that federal window. A timely administrative claim does not eliminate later deadlines following denial, court orders or settlement offers; the notice and individual claim history need separate review.",
   "sources": [
-    { "name": "U.S. Department of Justice — Camp Lejeune Claims information", "url": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims" },
-    { "name": "U.S. Navy — CLJA information", "url": "https://www.navy.mil/clja/" },
-    { "name": "Navy CLJA Claims Portal (claim status)", "url": "https://clclaims.jag.navy.mil/" },
-    { "name": "ATSDR — Camp Lejeune water contamination health studies", "url": "https://www.atsdr.cdc.gov/sites/lejeune/index.html" },
-    { "name": "U.S. District Court, E.D.N.C. — Camp Lejeune litigation page", "url": "https://www.nced.uscourts.gov/" }
+    {
+      "name": "U.S. Department of Justice — Camp Lejeune Claims information",
+      "url": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
+    },
+    {
+      "name": "U.S. Navy — CLJA information",
+      "url": "https://www.navy.mil/clja/"
+    },
+    {
+      "name": "Navy CLJA Claims Portal (claim status)",
+      "url": "https://clclaims.jag.navy.mil/"
+    },
+    {
+      "name": "ATSDR — Camp Lejeune water contamination health studies",
+      "url": "https://www.atsdr.cdc.gov/camp-lejeune/health-studies/index.html"
+    },
+    {
+      "name": "E.D.N.C. — Camp Lejeune litigation information",
+      "url": "https://www.nced.uscourts.gov/attorney/clwl.aspx"
+    }
   ],
-  "dataAsOf": "2026-06-11"
+  "dataAsOf": "2026-09-14",
+  "updateNote": "Earlier court and administrative claim totals were removed because the cited pages did not substantiate those dated figures. Filed administrative claims and filed lawsuits are different measures and are not interchangeable with pending cases.",
+  "updates": [
+    {
+      "date": "2026-08-10",
+      "summary": "DOJ reports more than $1 billion in settlement offers and more than $827 million paid across CLJA settlements.",
+      "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "The Navy continues reviewing existing claims and requesting supporting records; new administrative claims remain closed.",
+      "sourceUrl": "https://www.navy.mil/clja/"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "The Navy portal supports claim-status checks, document uploads and claim-specific messages for existing claims.",
+      "sourceUrl": "https://www.navy.mil/clja/"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "DOJ distinguishes accepted EO payment processing from the uncertain timing of an initial offer.",
+      "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
+    }
+  ],
+  "statusVerifiedOn": "2026-09-14"
 }

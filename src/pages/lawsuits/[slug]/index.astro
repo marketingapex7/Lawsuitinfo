@@ -10,7 +10,7 @@ import RelatedLawsuits from "@components/RelatedLawsuits.astro";
 import RelatedStateGuides from "@components/RelatedStateGuides.astro";
 import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
-import LitigationDataPanel from "@components/LitigationDataPanel.astro";
+import CaseStatusOverview from "@components/CaseStatusOverview.astro";
 import { entrySlug } from "@lib/content";
 import { getCaseData } from "@lib/caseData";
 import { formatDate } from "@lib/site";
@@ -47,7 +47,15 @@ const breadcrumbs = [
   { name: "Lawsuits", url: "/lawsuits/" },
   { name: lawsuit.data.lawsuit, url: `/lawsuits/${slug}/` }
 ];
+const mdlNumber = caseData?.litigation.mdlNumber?.replace(/\D/g, "");
+const supportingLinks: Record<string, { href: string; label: string }[]> = {
+  roundup: [{ href: "/lawsuits/roundup/proof/", label: "Proof guide" }, { href: "/lawsuits/roundup/deadline/", label: "Deadline guide" }],
+  "afff-pfas": [{ href: "/lawsuits/afff-pfas/settlement/", label: "AFFF settlement guide" }],
+  suboxone: [{ href: "/lawsuits/suboxone/tooth-decay/", label: "Suboxone tooth decay guide" }],
+  "bard-powerport": [{ href: "/lawsuits/bard-powerport/settlement-amounts/", label: "PowerPort settlement amounts" }]
+};
 const toc = [
+  { id: "current-status", label: "September 2026 status" },
   { id: "overview", label: "What the lawsuit is about" },
   { id: "latest-update", label: "Latest update" },
   { id: "case-status-snapshot", label: "Case snapshot" },
@@ -155,6 +163,15 @@ if (slug === "talcum-powder") {
     </div>
   </header>
 
+  {caseData && <CaseStatusOverview data={caseData} />}
+  <nav class="mt-4 flex flex-wrap gap-3 text-sm font-bold text-accent-dark" aria-label="Case resources">
+    {mdlNumber && <a class="underline" href={`/mdl/${mdlNumber}/`} data-track="lawsuit_to_mdl">MDL {mdlNumber} page</a>}
+    {(supportingLinks[slug] ?? []).map((link) => <a class="underline" href={link.href}>{link.label}</a>)}
+    <a class="underline" href="/mdl-statistics/">MDL statistics</a>
+    <a class="underline" href="/settlements/">Settlement tracker</a>
+    <a class="underline" href="/deadlines/">Deadline tracker</a>
+  </nav>
+
   <div class="mt-8 grid gap-8 lg:grid-cols-[220px_1fr_300px]">
     <div class="hidden lg:block">
       <div class="sticky top-24">
@@ -162,7 +179,6 @@ if (slug === "talcum-powder") {
       </div>
     </div>
     <aside class="space-y-5 lg:order-3">
-      {caseData && <LitigationDataPanel data={caseData} />}
       <QuickFactsCard
         facts={[
           { label: "Case type", value: lawsuit.data.caseType },

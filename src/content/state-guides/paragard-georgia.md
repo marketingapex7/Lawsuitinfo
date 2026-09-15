@@ -11,7 +11,7 @@ categorySlug: "product-liability"
 status: "Active / Investigating"
 primaryInjury: "Device breakage on removal and removal surgery"
 exposureContext: "Georgia residents may have had a Paragard copper IUD that broke during removal, leaving fragments that required imaging or additional procedures to remove."
-lastUpdated: "2026-06-29"
+lastUpdated: "2026-09-14"
 lastReviewed: "2026-06-29"
 faqs:
   -
@@ -31,7 +31,7 @@ faqs:
     answer: "Insertion and removal records, anything identifying the device as Paragard, the operative report describing the breakage, imaging locating retained fragments, and records of any surgery to remove them are commonly requested first."
   -
     question: "Has there been a Paragard settlement?"
-    answer: "No. There is no global settlement, and the first bellwether trial ended in a defense verdict for Teva in February 2026. Additional bellwether trials are scheduled in 2026, and no amount is guaranteed for any individual claim."
+    answer: "No. There is no global settlement, and the first bellwether trial ended in a defense verdict for Teva in February 2026. The public court materials reviewed September 14, 2026 did not verify a later trial setting, and no amount is guaranteed for any individual claim."
   -
     question: "Is Paragard still on the market?"
     answer: "Yes. Paragard remains an FDA-approved copper IUD that is still marketed. The lawsuits concern alleged breakage on removal and warnings, not a market withdrawal. Contraception decisions belong with a healthcare professional."
@@ -42,13 +42,13 @@ faqs:
 
 <section id="state-overview">
 <h2>What Georgia residents should know</h2>
-<p>Georgia residents with Paragard claims are generally not limited to Georgia state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-2974</strong>, before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia, which held about 4,071 pending cases as of June 1, 2026.</p>
+<p>Georgia residents with Paragard claims are generally not limited to Georgia state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-2974</strong>, before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia, which held 4,185 pending actions as of September 1, 2026.</p>
 <p>Georgia law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 
 <section id="state-paragard-context">
 <h2>Why Paragard cases are centered in Georgia</h2>
-<p>Georgia is the home of this litigation: the federal <strong>MDL-2974</strong> is centralized in the U.S. District Court for the Northern District of Georgia (Atlanta) before Judge Leigh Martin May, where about 4,071 cases were pending as of June 1, 2026. The first bellwether trial there ended in a <strong>defense verdict for Teva in February 2026</strong>, after which the court weighed revising the bellwether plan; additional bellwether trials are scheduled in 2026.</p>
+<p>Georgia is the home of this litigation: the federal <strong>MDL-2974</strong> is centralized in the U.S. District Court for the Northern District of Georgia (Atlanta) before Judge Leigh Martin May, where 4,185 actions were pending as of September 1, 2026. The first bellwether trial there ended in a <strong>defense verdict for Teva in February 2026</strong>, after which the court weighed revising the bellwether plan; the public court materials reviewed September 14, 2026 did not verify a later trial setting.</p>
 <p>Georgia&rsquo;s personal injury deadline is two years (O.C.G.A. &sect; 9-3-33), and Georgia also applies a 10-year statute of repose to many product-liability claims (O.C.G.A. &sect; 51-1-11(b)(2)) — a potentially decisive limit for older device claims. A lawyer can confirm how these deadlines apply to a specific Georgia claim.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.gand.uscourts.gov/20md2974" target="_blank" rel="noopener noreferrer">U.S. District Court, N.D. Ga. — MDL-2974 (Paragard) case page</a>; <a href="https://www.law.com/dailyreportonline/2026/02/17/after-first-paragard-iud-bellwether-trial-georgia-judge-considers-revising-bellwether-plan/" target="_blank" rel="noopener noreferrer">Law.com (Daily Report) — first Paragard bellwether defense verdict (Feb. 2026)</a>.</p>
 </section>
@@ -65,5 +65,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How Georgia claims proceed</h2>
-<p>Most Georgia Paragard cases are filed in or transferred to MDL-2974 in the Northern District of Georgia for coordinated proceedings. The first bellwether trial ended in a defense verdict for Teva in February 2026, and additional bellwether trials are scheduled in 2026; no global settlement exists. Georgia's personal injury limitations period is 2 years (O.C.G.A. § 9-3-33), but accrual and discovery-rule questions can be fact-specific when breakage is discovered at the time of removal.</p>
+<p>Most Georgia Paragard cases are filed in or transferred to MDL-2974 in the Northern District of Georgia for coordinated proceedings. The first bellwether trial ended in a defense verdict for Teva in February 2026, and the public court materials reviewed September 14, 2026 did not verify a later trial setting; no global settlement exists. Georgia's personal injury limitations period is 2 years (O.C.G.A. § 9-3-33), but accrual and discovery-rule questions can be fact-specific when breakage is discovered at the time of removal.</p>
 </section>

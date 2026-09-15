@@ -10,16 +10,34 @@
     "judge": "Senior Judge David G. Campbell",
     "established": "2023-08-08"
   },
-  "phase": "Active pretrial coordination",
-  "phaseDetail": "Federal Bard implanted port catheter cases are coordinated in MDL-3081 in the District of Arizona. Claims generally allege catheter fracture, migration, infection, thrombosis, embolization, or removal complications involving implanted port devices. Defendants dispute the allegations.",
+  "phase": "Active MDL and bellwether case management",
+  "phaseDetail": "The September 2026 JPML report lists MDL-3081 as active before Senior Judge David G. Campbell in Arizona. The latest order on the public court page reviewed, CMO 46 filed March 20, 2026, addressed Cook trial preparation, Miller pool selection and Divelbliss expert issues. Those historical settings do not establish that a trial occurred; later outcomes were not verified in the public orders reviewed.",
   "pendingCounts": [
+    {
+      "date": "2026-09-01",
+      "count": 3734,
+      "totalFiled": 3980,
+      "scope": "Pending actions in MDL-3081",
+      "source": "JPML, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 3734,
+      "totalFiled": 3980,
+      "scope": "Pending actions in MDL-3081",
+      "source": "JPML, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    },
     {
       "date": "2026-06-01",
       "count": 3376,
       "scope": "Pending actions in MDL-3081",
       "source": "JPML MDL Statistics Report, June 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf",
-      "primary": true
+      "primary": false
     }
   ],
   "defendants": [
@@ -29,28 +47,94 @@
   ],
   "settlements": [
     {
-      "label": "Global settlement",
-      "status": "none announced",
-      "detail": "No global public settlement has been announced for the federal MDL. Case value and eligibility depend on device proof, injury proof, causation, and individual facts."
+      "label": "Global settlement status",
+      "kind": "none",
+      "status": "not identified in reviewed records",
+      "detail": "The Arizona public MDL orders reviewed on September 14, 2026 did not identify a global settlement program. The posted order collection reviewed ends with CMO 46 in March 2026, so it cannot establish the absence of later private resolutions.",
+      "individualClaims": "No individual payment amount or universal payment date verified.",
+      "verifiedOn": "2026-09-14",
+      "source": "District of Arizona public MDL orders",
+      "sourceUrl": "https://www.azd.uscourts.gov/re-bard-implanted-port-catheter-products-liability-litigation"
     }
   ],
   "keyDates": [
     {
       "date": "2023-08-08",
       "label": "MDL-3081 established",
-      "detail": "JPML centralized federal Bard implanted port catheter cases in the District of Arizona."
+      "detail": "JPML centralized the cases before Judge David G. Campbell in Arizona.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3081-Transfer_Order-7-23.pdf",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
     },
     {
-      "date": "2026-06-01",
-      "label": "3,376 actions pending",
-      "detail": "JPML's June 2026 monthly report listed 3,376 pending actions in MDL-3081."
+      "date": "2026-03-20",
+      "label": "CMO 46 entered",
+      "detail": "The order addressed trial preparation and retained Miller in the bellwether pool; it is not a trial result.",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-7660.pdf",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "3,734 actions pending",
+      "detail": "JPML monthly snapshot; historical total 3,980.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
     }
   ],
   "sources": [
     {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 comparison report",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
       "name": "JPML - Pending MDL Dockets, June 1, 2026 (PDF)",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    },
+    {
+      "name": "District of Arizona — MDL orders",
+      "url": "https://www.azd.uscourts.gov/re-bard-implanted-port-catheter-products-liability-litigation"
+    },
+    {
+      "name": "CMO 46, filed March 20, 2026",
+      "url": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-7660.pdf"
+    },
+    {
+      "name": "JPML transfer order, August 8, 2023",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3081-Transfer_Order-7-23.pdf"
     }
   ],
-  "dataAsOf": "2026-06-19"
+  "dataAsOf": "2026-09-14",
+  "statusVerifiedOn": "2026-09-14",
+  "updates": [
+    {
+      "date": "2026-09-01",
+      "summary": "JPML reports 3,734 pending actions and 3,980 historical actions in MDL-3081.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-09-01",
+      "summary": "The pending count is unchanged from 3,734 on August 3, 2026.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "date": "2026-03-20",
+      "summary": "CMO 46 addressed Cook trial preparation, Miller pool selection and Divelbliss expert briefing. Subsequent outcomes are not verified here.",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-7660.pdf"
+    }
+  ]
 }

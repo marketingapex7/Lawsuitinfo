@@ -11,7 +11,7 @@ categorySlug: "product-liability"
 status: "Active / Investigating"
 primaryInjury: "Device breakage on removal and removal surgery"
 exposureContext: "Pennsylvania residents may have had a Paragard copper IUD that broke during removal, leaving fragments that required imaging or additional procedures to remove."
-lastUpdated: "2026-06-29"
+lastUpdated: "2026-09-14"
 lastReviewed: "2026-06-29"
 faqs:
   -
@@ -31,7 +31,7 @@ faqs:
     answer: "Insertion and removal records, anything identifying the device as Paragard, the operative report describing the breakage, imaging locating retained fragments, and records of any surgery to remove them are commonly requested first."
   -
     question: "Has there been a Paragard settlement?"
-    answer: "No. There is no global settlement, and the first bellwether trial ended in a defense verdict for Teva in February 2026. Additional bellwether trials are scheduled in 2026, and no amount is guaranteed for any individual claim."
+    answer: "No. There is no global settlement, and the first bellwether trial ended in a defense verdict for Teva in February 2026. The public court materials reviewed September 14, 2026 did not verify a later trial setting, and no amount is guaranteed for any individual claim."
   -
     question: "Is Paragard still on the market?"
     answer: "Yes. Paragard remains an FDA-approved copper IUD that is still marketed. The lawsuits concern alleged breakage on removal and warnings, not a market withdrawal. Contraception decisions belong with a healthcare professional."
@@ -42,13 +42,13 @@ faqs:
 
 <section id="state-overview">
 <h2>What Pennsylvania residents should know</h2>
-<p>Pennsylvania residents with Paragard claims are generally not limited to Pennsylvania state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-2974</strong>, before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia, which held about 4,071 pending cases as of June 1, 2026.</p>
+<p>Pennsylvania residents with Paragard claims are generally not limited to Pennsylvania state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-2974</strong>, before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia, which held 4,185 pending actions as of September 1, 2026.</p>
 <p>Pennsylvania law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 
 <section id="state-paragard-context">
 <h2>What Pennsylvania residents should know about the Paragard lawsuits</h2>
-<p>Cases filed by Pennsylvania residents in federal court are transferred into <strong>MDL-2974</strong> before Judge Leigh Martin May in the Northern District of Georgia, where about 4,071 cases were pending as of June 1, 2026. The first bellwether trial ended in a defense verdict for Teva in February 2026, and additional bellwether trials are scheduled in 2026; no global settlement exists.</p>
+<p>Cases filed by Pennsylvania residents in federal court are transferred into <strong>MDL-2974</strong> before Judge Leigh Martin May in the Northern District of Georgia, where 4,185 actions were pending as of September 1, 2026. The first bellwether trial ended in a defense verdict for Teva in February 2026, and the public court materials reviewed September 14, 2026 did not verify a later trial setting; no global settlement exists.</p>
 <p>Pennsylvania&rsquo;s personal injury deadline is 2 years (42 Pa. Cons. Stat. § 5524). Because a broken Paragard is often discovered only when the device fractures during removal, accrual and discovery-rule questions can be important. Pennsylvania applies a discovery rule that can delay accrual until the injury and its cause reasonably could have been discovered. A lawyer can confirm how the deadline applies to a specific Pennsylvania claim.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.gand.uscourts.gov/20md2974" target="_blank" rel="noopener noreferrer">U.S. District Court, N.D. Ga. — MDL-2974 (Paragard) case page</a>; <a href="https://www.law.com/dailyreportonline/2026/02/17/after-first-paragard-iud-bellwether-trial-georgia-judge-considers-revising-bellwether-plan/" target="_blank" rel="noopener noreferrer">Law.com (Daily Report) — first Paragard bellwether defense verdict (Feb. 2026)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
@@ -65,5 +65,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How Pennsylvania claims proceed</h2>
-<p>Most Pennsylvania Paragard cases are filed in or transferred to MDL-2974 in the Northern District of Georgia for coordinated proceedings. The first bellwether trial ended in a defense verdict for Teva in February 2026, and additional bellwether trials are scheduled in 2026; no global settlement exists. Pennsylvania's personal injury limitations period is 2 years (42 Pa. Cons. Stat. § 5524), but accrual and discovery-rule questions can be fact-specific when breakage is discovered at the time of removal.</p>
+<p>Most Pennsylvania Paragard cases are filed in or transferred to MDL-2974 in the Northern District of Georgia for coordinated proceedings. The first bellwether trial ended in a defense verdict for Teva in February 2026, and the public court materials reviewed September 14, 2026 did not verify a later trial setting; no global settlement exists. Pennsylvania's personal injury limitations period is 2 years (42 Pa. Cons. Stat. § 5524), but accrual and discovery-rule questions can be fact-specific when breakage is discovered at the time of removal.</p>
 </section>

@@ -11,12 +11,12 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "Pennsylvania residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-06-16"
+lastUpdated: "2026-09-14"
 lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Why is Pennsylvania important in the Ozempic / GLP-1 litigation?"
-    answer: "MDL-3094, the consolidated federal GLP-1 injury litigation, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court. As of June 1, 2026, MDL-3094 had 3,763 pending cases."
+    answer: "MDL-3094, the consolidated federal GLP-1 injury litigation, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court. The September 1, 2026 JPML report listed 4,022 pending actions."
   -
     question: "What is the Ozempic lawsuit in Pennsylvania about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. Pennsylvania residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."
@@ -34,7 +34,7 @@ faqs:
     answer: "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."
   -
     question: "Has there been an Ozempic settlement?"
-    answer: "No. As of June 2026 no settlement program exists in the GLP-1 litigation. The Rule 702 hearings set for September 10-18, 2026 and the rulings that follow are the next events expected to shape settlement posture. Bellwether trial dates have not been set, and no outcome is guaranteed."
+    answer: "A review of the Eastern District of Pennsylvania public MDL orders on September 14, 2026 did not identify a GLP-1 injury settlement program. The Rule 702 hearing was scheduled for September 14-18; a hearing schedule does not establish its outcome. Bellwether trial dates have not been set, and no outcome is guaranteed."
   -
     question: "Is Ozempic recalled?"
     answer: "No. GLP-1 medications remain FDA-approved and on the market. The litigation concerns warnings and alleged injuries, not availability. Medication decisions belong with a licensed healthcare professional."
@@ -45,7 +45,7 @@ faqs:
 
 <section id="state-overview">
 <h2>What Pennsylvania residents should know</h2>
-<p>Pennsylvania residents with GLP-1 injury claims are generally not limited to Pennsylvania state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 3,763 pending cases as of June 1, 2026.</p>
+<p>Pennsylvania residents with GLP-1 injury claims are generally not limited to Pennsylvania state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 4,022 pending actions as of September 1, 2026.</p>
 <p>Pennsylvania law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 
@@ -67,5 +67,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How Pennsylvania claims proceed</h2>
-<p>Most Pennsylvania GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. The court has scheduled Rule 702 expert-admissibility hearings for September 10–18, 2026 (Case Management Order No. 32); bellwether trial dates have not yet been set. Pennsylvania's general personal injury limitations period is 2 years (42 Pa. Cons. Stat. § 5524), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
+<p>Most Pennsylvania GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. An August 28 court order rescheduled the Rule 702 expert-admissibility hearing for September 14–18, 2026; bellwether trial dates have not yet been set. Pennsylvania's general personal injury limitations period is 2 years (42 Pa. Cons. Stat. § 5524), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
 </section>

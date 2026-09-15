@@ -34,8 +34,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare product identification and injury records with MDL-2846 status and state filing deadlines."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-09-14"
+lastReviewed: "2026-09-14"
 faqs:
   -
     question: "What is the Bard hernia mesh lawsuit about?"
@@ -45,7 +45,7 @@ faqs:
     answer: "Federal Bard hernia mesh cases are coordinated in MDL-2846 before Judge Edmund A. Sargus, Jr. in the Southern District of Ohio."
   -
     question: "How many Bard hernia mesh lawsuits are pending?"
-    answer: "The JPML's June 1, 2026 report listed 23,573 pending actions in MDL-2846. The count can change monthly."
+    answer: "The JPML's September 1, 2026 report listed 23,316 pending actions in MDL-2846. The count can change monthly."
   -
     question: "Is there a Bard hernia mesh settlement?"
     answer: "The litigation has involved settlement activity and individual case resolution, but no single court-approved public global settlement amount resolves every claim. Outcomes depend on product, injury, records, and litigation posture."
@@ -57,10 +57,10 @@ faqs:
     answer: "No. Federal Bard hernia mesh cases are coordinated as multidistrict litigation (MDL-2846), where each plaintiff keeps an individual claim grouped for pretrial proceedings — unlike a class action, where one outcome binds the whole group."
   -
     question: "When will the Bard hernia mesh lawsuit be settled?"
-    answer: "There is no set settlement date. The MDL has worked through bellwether trials and ongoing case management, and although there has been settlement activity, no single public global settlement resolves every claim as of June 2026. Timing for any individual case depends on its trial track, evidence, and negotiations, and nothing is guaranteed."
+    answer: "There is no universal payment date. Court orders establish a qualified settlement fund and an Intensive Settlement Process for defined unresolved claims, targeted to begin on or about January 4, 2027. Timing and eligibility remain claim-specific, and nothing is guaranteed."
   -
     question: "Are other hernia mesh brands part of this lawsuit?"
-    answer: "Not this MDL. This guide covers Bard/Davol polypropylene mesh (MDL-2846). Other manufacturers face separate litigation — for example, Covidien/Medtronic hernia mesh (MDL-3029, with a bellwether trial set for July 2026) and Atrium C-QUR (MDL-2753, which is winding down). Product identification matters because each manufacturer's cases proceed separately."
+    answer: "Not this MDL. This guide covers Bard/Davol polypropylene mesh (MDL-2846). Other manufacturers face separate proceedings, including Covidien/Medtronic hernia mesh (MDL-3029) and Atrium C-QUR (MDL-2753). Product identification matters because each manufacturer's cases proceed separately."
   -
     question: "What proof may help a hernia mesh claim?"
     answer: "Helpful records may include implant records, device stickers, operative reports, revision surgery records, imaging reports, infection records, and records showing recurrence, adhesions, bowel complications, or chronic pain."
@@ -72,13 +72,21 @@ faqs:
 <section id="overview">
 <h2>What the lawsuit is about</h2>
 <p><strong>The Bard hernia mesh lawsuit alleges that certain Davol/C.R. Bard polypropylene hernia mesh products caused chronic pain, infection, adhesions, recurrence, bowel complications, mesh failure, or revision surgery.</strong> Federal cases are coordinated in MDL-2846 before Judge Edmund A. Sargus, Jr. in the U.S. District Court for the Southern District of Ohio. Defendants dispute the allegations.</p>
-<p>As of June 1, 2026, the JPML reported <strong>23,573 pending actions</strong> in MDL-2846, making Bard hernia mesh one of the largest active product-liability MDLs.</p>
+<p>As of September 1, 2026, the JPML reported <strong>23,316 pending actions</strong> in MDL-2846, making Bard hernia mesh one of the largest active product-liability MDLs.</p>
 </section>
 
 <section id="latest-update">
-<h2>Bard Hernia Mesh Lawsuit Update: June 2026</h2>
-<p>The federal MDL remains active in the Southern District of Ohio. JPML's June 1, 2026 report listed 23,573 pending actions in MDL-2846. The litigation has involved settlement activity and individual case resolution, but public information does not show one court-approved global settlement that resolves every claim.</p>
-<p>For searchers comparing settlement headlines, the practical point is proof: product identification, revision surgery, documented complications, and state deadlines are often more important than broad average-value estimates.</p>
+<h2>Bard Hernia Mesh Lawsuit update: September 2026</h2>
+<p><strong>Settlement administration and unresolved-claim process.</strong> Court orders establish a settlement fund and a separate Intensive Settlement Process for unresolved claims. CMO 55 schedules that process to begin on or about January 4, 2027. The September 2026 JPML report still lists 23,316 pending actions; pending cases are not proof that every claimant has settled or been paid.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML, September 1, 2026</a> lists <strong>23,316 pending actions</strong> and 25,213 total historical actions. The figures are docket counts, not settlement eligibility or payment counts.</p>
+<p><strong>Settlement status:</strong> CMO 56 established a qualified settlement fund for eligible settling claimants. CMO 55 provides settlement conferences and mediation for defined unresolved claimants beginning on or about January 4, 2027. The orders reviewed do not publish a total settlement amount or a uniform individual payment.</p>
+<h3>What changed this month?</h3>
+<ul>
+<li>JPML reports 23,316 pending actions and 25,213 historical actions in MDL-2846. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
+<li>Pending actions decreased by 5 from 23,321 on August 3, 2026. This is a net docket change, not a count of new claims. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">Source</a></li>
+<li>CMO 56 established a qualified settlement fund for eligible settling claimants. <a href="https://www.ohsd.uscourts.gov/sites/ohsd/files//MDL%202846%20Case%20Management%20Order%20No.%2056%20Establishment%20of%20Qualified%20Settlement%20Fund.pdf">Source</a></li>
+<li>CMO 55 schedules unresolved-claim settlement sessions to begin on or about January 4, 2027. <a href="https://www.ohsd.uscourts.gov/sites/ohsd/files//Case%20Mangement%20Order%20No.%2055.pdf">Source</a></li>
+</ul>
 </section>
 
 <section id="case-status-snapshot">
@@ -87,7 +95,7 @@ faqs:
 <li><strong>Status:</strong> Active / Investigating</li>
 <li><strong>Primary injuries:</strong> Chronic pain, infection, adhesions, recurrence, bowel complications, and revision surgery</li>
 <li><strong>MDL:</strong> MDL-2846, Southern District of Ohio</li>
-<li><strong>Pending actions:</strong> 23,573 as of June 1, 2026</li>
+<li><strong>Pending actions:</strong> 23,316 as of September 1, 2026</li>
 <li><strong>Settlement status:</strong> Settlement activity exists, but no single public global amount resolves every claim</li>
 <li><strong>Deadline:</strong> Varies by state and by implant, complication, discovery, and revision dates</li>
 </ul>
@@ -114,7 +122,7 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf">JPML Pending MDL Dockets report dated June 1, 2026</a>.</li>
+<li><strong>MDL count:</strong> Pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML Pending MDL Dockets report dated September 1, 2026</a>.</li>
 <li><strong>Related MDLs &amp; trials:</strong> Other hernia mesh MDLs — Covidien/Medtronic (MDL-3029) and Atrium C-QUR (MDL-2753) — appear on the <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML's pending-MDL list</a>. MDL-2846 bellwether outcomes (a defense verdict in Johns; an approximately $255,000 award in Milanesi) are matters of public court record.</li>
 <li><strong>Litigation status:</strong> This guide summarizes public information and should not be treated as a live docket report or legal advice.</li>
 <li><strong>Review note:</strong> Product identification and revision-surgery records are often central in hernia mesh claims.</li>

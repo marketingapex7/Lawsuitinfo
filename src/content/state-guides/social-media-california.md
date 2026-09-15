@@ -11,12 +11,12 @@ categorySlug: "product-liability"
 status: "Active / Investigating"
 primaryInjury: "Adolescent mental-health harms"
 exposureContext: "California children and teens may have used Instagram, Facebook, TikTok, Snapchat, or YouTube heavily during adolescence before developing mental-health harms now being reviewed in the litigation."
-lastUpdated: "2026-06-29"
+lastUpdated: "2026-09-14"
 lastReviewed: "2026-06-29"
 faqs:
   -
     question: "Why is California central to the social media lawsuits?"
-    answer: "Both the federal MDL-3047 and the California JCCP (Social Media Cases, JCCP 5255) are based in California, and the first JCCP bellwether produced a $6 million verdict against Meta and YouTube in March 2026. California's personal injury deadline is two years (Cal. Code Civ. Proc. Section 335.1), commonly paused while a claimant is a minor."
+    answer: "Both federal MDL-3047 and the California JCCP (Social Media Cases, JCCP 5255) are based in California. The federal schedule lists a school-district bellwether for February 8, 2027. California's personal-injury deadline is generally two years under Cal. Code Civ. Proc. Section 335.1, with fact-specific rules for minors."
   -
     question: "What is the social media lawsuit in California about?"
     answer: "Lawsuits allege Meta (Instagram, Facebook), TikTok, Snapchat, and YouTube were designed to be addictive to young users and caused mental-health harms, and that families were not adequately warned. California residents' federal cases are generally transferred into MDL-3047; many also proceed in the California JCCP. The companies dispute the allegations."
@@ -34,7 +34,7 @@ faqs:
     answer: "Records of which platforms were used and at what ages, plus mental-health diagnosis, therapy, hospitalization, or school records connecting the harm to the period of use, are commonly reviewed first."
   -
     question: "Has there been a social media settlement?"
-    answer: "No global settlement exists as of June 2026. Some defendants have reached confidential settlements in individual bellwether cases, and a California bellwether returned a $6 million verdict against Meta and YouTube in March 2026. No amount is guaranteed for any individual claim."
+    answer: "A review of the federal MDL page and its linked schedule on September 14, 2026 did not identify a global settlement. School-district and individual-injury claims follow different tracks, and a scheduled trial does not establish an outcome. No amount is guaranteed for any individual claim."
   -
     question: "Is this page legal or medical advice?"
     answer: "No. This page is general legal information for research only and is not medical advice. If you or someone you know is in crisis, you can call or text the 988 Suicide & Crisis Lifeline (U.S.)."
@@ -42,13 +42,13 @@ faqs:
 
 <section id="state-overview">
 <h2>What California residents should know</h2>
-<p>California families with social media injury claims are generally not limited to California state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 2,664 pending cases as of June 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
+<p>California families with social media injury claims are generally not limited to California state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 3,208 pending actions as of September 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
 <p>California law still matters: the state's filing deadline — including rules that pause the clock while a claimant is a minor — plus its damages and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 
 <section id="state-social-media-context">
 <h2>Why California is central to the social media lawsuits</h2>
-<p>California is the center of this litigation. The federal <strong>MDL-3047</strong> is based in the Northern District of California before Judge Yvonne Gonzalez Rogers, and the parallel state-court coordination — the &ldquo;Social Media Cases,&rdquo; JCCP 5255 — proceeds before Judge Carolyn Kuhl in Los Angeles Superior Court. The first JCCP personal-injury bellwether returned a <strong>$6 million verdict against Meta and YouTube in March 2026</strong> (Snap and TikTok had settled that case before trial), and a second personal-injury bellwether is set for July 27, 2026.</p>
+<p>California is the center of this litigation. The federal <strong>MDL-3047</strong> is based in the Northern District of California before Judge Yvonne Gonzalez Rogers, and the parallel state-court coordination — the &ldquo;Social Media Cases,&rdquo; JCCP 5255 — proceeds before Judge Carolyn Kuhl in Los Angeles Superior Court. The current federal schedule lists a school-district bellwether for February 8, 2027. The public materials reviewed September 14, 2026 do not establish a global settlement or a result for the historical July 2026 state-court setting.</p>
 <p>California&rsquo;s general personal injury deadline is two years (Cal. Code Civ. Proc. &sect; 335.1), and the clock is commonly paused while a claimant is a minor. A lawyer can confirm how the deadline applies to a specific California claim.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products" target="_blank" rel="noopener noreferrer">U.S. District Court, N.D. Cal. — MDL-3047 case page</a>; <a href="https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/" target="_blank" rel="noopener noreferrer">Law.com (The Recorder) — first JCCP bellwether verdict and YouTube settlement (June 2026)</a>.</p>
 </section>
@@ -65,5 +65,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How California claims proceed</h2>
-<p>Most California social media injury cases are filed in or transferred to MDL-3047 in the Northern District of California, while many individual cases also proceed in the California JCCP (JCCP 5255). Bellwether trials are underway in 2026, and there is no global settlement. California's general personal injury limitations period is 2 years (Cal. Code Civ. Proc. § 335.1), but many states pause that clock while a claimant is a minor — a fact-specific question for California claims.</p>
+<p>Most California social media injury cases are filed in or transferred to MDL-3047 in the Northern District of California, while many individual cases also proceed in the California JCCP (JCCP 5255). The federal schedule lists a school-district bellwether for February 8, 2027; the public MDL materials reviewed September 14, 2026 do not identify a global settlement. California's general personal injury limitations period is 2 years (Cal. Code Civ. Proc. § 335.1), but many states pause that clock while a claimant is a minor — a fact-specific question for California claims.</p>
 </section>

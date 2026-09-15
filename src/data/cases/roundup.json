@@ -10,45 +10,169 @@
     "judge": "Judge Vince Chhabria",
     "established": "2016-10-03"
   },
-  "phase": "Class settlement final approval pending; Supreme Court preemption ruling issued",
-  "phaseDetail": "A proposed $7.25 billion nationwide class settlement in King v. Monsanto received preliminary approval in Missouri's 22nd Judicial Circuit on March 4, 2026. The official settlement website says the fairness hearing was rescheduled from July 9 to August 19, 2026, and that final approval has not been granted. Separately, the U.S. Supreme Court decided Monsanto Co. v. Durnell (No. 24-1068) on June 25, 2026, holding that FIFRA expressly preempted the state-law label-based failure-to-warn claim at issue.",
-  "updateNote": "Clarified that proposed class-settlement deadlines and definitions are separate from state filing deadlines and eligibility analysis for individual lawsuits.",
+  "phase": "Proposed class settlement awaiting approval decision",
+  "phaseDetail": "The official King v. Monsanto administrator lists a September 14, 2026 fairness hearing. When checked September 15, the site did not display a final-approval notice, so this record does not claim that approval was granted. The separate federal MDL remains before Judge Vince Chhabria, and the Supreme Court issued its Durnell preemption decision June 25, 2026.",
   "pendingCounts": [
-    { "date": "2026-07-01", "count": 3920, "scope": "Pending actions in MDL-2741", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true },
-    { "date": "2026-06-01", "count": 30000, "scope": "Reported state-court cases outside the MDL (approximate)", "source": "Litigation industry reporting, 2026" }
+    {
+      "date": "2026-09-01",
+      "count": 3925,
+      "totalFiled": 5323,
+      "scope": "Pending actions in MDL-2741",
+      "source": "JPML MDL Statistics Report, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 3932,
+      "totalFiled": 5322,
+      "scope": "Pending actions in MDL-2741",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    },
+    {
+      "date": "2026-07-01",
+      "count": 3920,
+      "scope": "Pending actions in MDL-2741",
+      "source": "JPML MDL Statistics Report, July 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf",
+      "primary": false
+    }
   ],
   "defendants": [
     "Monsanto Company / Bayer AG"
   ],
   "settlements": [
     {
-      "label": "Nationwide class settlement (King v. Monsanto)",
+      "label": "King v. Monsanto proposed class settlement",
       "status": "pending final approval",
-      "detail": "The proposed settlement would provide up to $7.25 billion over roughly 21 years. It received preliminary approval on March 4, 2026. The official settlement website says the fairness hearing was rescheduled to August 19, 2026, and final approval has not been granted.",
-      "source": "Official King v. Monsanto settlement website",
-      "sourceUrl": "https://www.weedkillerclass.com/"
-    },
-    {
-      "label": "Prior Bayer settlement programs (2020-2021)",
-      "status": "largely paid",
-      "detail": "Bayer previously committed roughly $11 billion (industry-reported) to resolve approximately 100,000 earlier Roundup claims through firm-by-firm settlements. Those programs are separate from the pending 2026 class settlement."
+      "detail": "The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The administrator checked September 14, 2026 lists the fairness hearing that day at 9:30 a.m. Central and does not announce final approval. June 4 objection and opt-out deadlines have passed. Registration and claim deadlines depend on later approval and appeal events; they are separate from state lawsuit deadlines.",
+      "source": "Official King settlement administrator",
+      "sourceUrl": "https://www.weedkillerclass.com/",
+      "kind": "proposed",
+      "amount": "Up to $7.25 billion",
+      "individualClaims": "Class terms and later approval events control; no automatic individual award.",
+      "verifiedOn": "2026-09-14"
     }
   ],
   "keyDates": [
-    { "date": "2016-10-03", "label": "MDL-2741 established", "detail": "JPML centralized federal Roundup cases before Judge Vince Chhabria in the Northern District of California." },
-    { "date": "2026-03-04", "label": "Class settlement preliminary approval", "detail": "Judge Timothy Boyer granted preliminary approval of the proposed $7.25 billion King v. Monsanto nationwide class settlement." },
-    { "date": "2026-06-04", "label": "Class objection / opt-out deadline", "detail": "The preliminary approval order set this deadline for class members to object to or opt out of the proposed settlement." },
-    { "date": "2026-06-25", "label": "Supreme Court decision in Monsanto v. Durnell", "detail": "The Supreme Court held that FIFRA expressly preempted the state-law label-based failure-to-warn claim at issue in No. 24-1068." },
-    { "date": "2026-06-30", "label": "Fairness hearing rescheduled", "detail": "The official settlement website announced that the July 9 fairness hearing had been moved to August 19, 2026." },
-    { "date": "2026-08-19", "label": "Fairness hearing", "detail": "The official settlement website lists the fairness hearing for 9:00 a.m. Central Time in Missouri's 22nd Judicial Circuit." }
+    {
+      "date": "2016-10-03",
+      "label": "MDL-2741 established",
+      "detail": "JPML centralized federal Roundup cases before Judge Vince Chhabria in the Northern District of California.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-03-04",
+      "label": "Class settlement preliminary approval",
+      "detail": "Judge Timothy Boyer granted preliminary approval of the proposed $7.25 billion King v. Monsanto nationwide class settlement.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.weedkillerclass.com/",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "King v. Monsanto proposed class settlement"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Class objection / opt-out deadline",
+      "detail": "The preliminary approval order set this deadline for class members to object to or opt out of the proposed settlement.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.weedkillerclass.com/",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "King v. Monsanto proposed class settlement"
+    },
+    {
+      "date": "2026-06-25",
+      "label": "Supreme Court decision in Monsanto v. Durnell",
+      "detail": "The Supreme Court held that FIFRA expressly preempted the state-law label-based failure-to-warn claim at issue in No. 24-1068.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-09-14",
+      "label": "King class settlement fairness hearing",
+      "detail": "The administrator listed September 14 at 9:30 a.m. Central. Its public site did not display a final-approval notice when checked September 15.",
+      "sourceUrl": "https://www.weedkillerclass.com/",
+      "source": "Official court or settlement record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "historical",
+      "appliesTo": "King v. Monsanto proposed class settlement"
+    }
   ],
   "sources": [
-    { "name": "N.D. Cal. - MDL 2741 court page", "url": "https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation" },
-    { "name": "JPML - Pending MDL Dockets, July 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf" },
-    { "name": "U.S. Supreme Court - Monsanto Co. v. Durnell opinion (June 25, 2026)", "url": "https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf" },
-    { "name": "King v. Monsanto official settlement website", "url": "https://www.weedkillerclass.com/" },
-    { "name": "King v. Monsanto official settlement FAQs", "url": "https://www.weedkillerclass.com/Home/FAQs" },
-    { "name": "King v. Monsanto preliminary approval order (PDF)", "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" }
+    {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "JPML — September 1, 2026 assignments and transfer dates",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf"
+    },
+    {
+      "name": "Official court case orders",
+      "url": "https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation"
+    },
+    {
+      "name": "The official administrator now lists the King fairness hearing for September 14, 2026 at 9:30 a.m. Central; approval is not established by that schedule.",
+      "url": "https://www.weedkillerclass.com/"
+    },
+    {
+      "name": "The Supreme Court decided Monsanto v. Durnell on June 25, 2026, holding the label-based failure-to-warn claim at issue expressly preempted by FIFRA.",
+      "url": "https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf"
+    },
+    {
+      "name": "JPML - Pending MDL Dockets, July 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf"
+    },
+    {
+      "name": "King v. Monsanto official settlement FAQs",
+      "url": "https://www.weedkillerclass.com/Home/FAQs"
+    },
+    {
+      "name": "King v. Monsanto preliminary approval order (PDF)",
+      "url": "https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf"
+    }
   ],
-  "dataAsOf": "2026-07-19"
+  "dataAsOf": "2026-09-15",
+  "statusVerifiedOn": "2026-09-15",
+  "updates": [
+    {
+      "date": "2026-09-14",
+      "summary": "JPML reports 3,925 pending actions on September 1, 2026, compared with 3,932 on August 3; 5,323 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "The official administrator now lists the King fairness hearing for September 14, 2026 at 9:30 a.m. Central; approval is not established by that schedule.",
+      "sourceUrl": "https://www.weedkillerclass.com/"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "The administrator lists June 4, 2026 as the objection and exclusion deadline; later benefit deadlines depend on final approval and appeals.",
+      "sourceUrl": "https://www.weedkillerclass.com/"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "The Supreme Court decided Monsanto v. Durnell on June 25, 2026, holding the label-based failure-to-warn claim at issue expressly preempted by FIFRA.",
+      "sourceUrl": "https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf"
+    }
+  ]
 }

@@ -183,6 +183,7 @@ const lawyerQuestions = lawyerQuestionsByCase[guide.data.lawsuitSlug] ?? [
   "Do you work directly on this case or refer it to another firm?",
   "Are there upfront costs?"
 ];
+const mdlNumber = caseData?.litigation.mdlNumber?.replace(/\D/g, "");
 ---
 
 <GuideLayout
@@ -296,6 +297,8 @@ const lawyerQuestions = lawyerQuestionsByCase[guide.data.lawsuitSlug] ?? [
       <a class="block rounded-lg border border-line bg-panel p-4 text-sm font-bold text-accent-dark hover:bg-white" href={`/lawsuits/${guide.data.lawsuitSlug}/`}>
         Back to {guide.data.lawsuit} guide
       </a>
+      {mdlNumber && <a class="block rounded-lg border border-line bg-panel p-4 text-sm font-bold text-accent-dark hover:bg-white" href={`/mdl/${mdlNumber}/`} data-track="state_to_mdl">View MDL {mdlNumber} status</a>}
+      <a class="block rounded-lg border border-line bg-panel p-4 text-sm font-bold text-accent-dark hover:bg-white" href="/deadlines/">Lawsuit deadline tracker</a>
       <DisclaimerBox />
     </div>
   </div>

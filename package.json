@@ -5,13 +5,16 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev --host 127.0.0.1",
-    "build": "npm run validate:content && npm run validate:dataforseo && astro build && npm run validate:priority-pages && npm run validate:links",
+    "build": "npm run validate:content && npm run validate:status-database && npm run validate:freshness && npm run validate:dataforseo && astro build && npm run validate:priority-pages && npm run validate:links",
     "preview": "astro preview --host 127.0.0.1",
     "generate:content": "node scripts/generate-content.mjs",
     "validate:content": "node scripts/validate-content.mjs",
     "validate:links": "node scripts/check-internal-links.mjs",
     "validate:dataforseo": "node scripts/validate-dataforseo-refresh.mjs",
-    "validate:priority-pages": "node scripts/validate-priority-pages.mjs"
+    "validate:priority-pages": "node scripts/validate-priority-pages.mjs",
+    "validate:status-database": "node scripts/validate-status-database.mjs",
+    "validate:freshness": "node scripts/check-freshness.mjs",
+    "validate:sources": "node scripts/check-source-links.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",

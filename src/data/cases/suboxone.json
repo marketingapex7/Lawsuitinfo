@@ -8,12 +8,37 @@
     "court": "U.S. District Court, Northern District of Ohio (Cleveland)",
     "courtShort": "N.D. Ohio",
     "judge": "Judge J. Philip Calabrese",
-    "established": "2024-02-05"
+    "established": "2024-02-02"
   },
-  "phase": "Bellwether selection — core discovery pool",
-  "phaseDetail": "Under the Second Amended Case Management Order No. 15 (March 27, 2026), the court began assembling a 50-case core discovery pool, with the random selection of the first 20 cases set for June 10, 2026. Industry reporting projects the first bellwether trial in 2028, but no trial date appears in court orders yet.",
+  "phase": "Core discovery and provider depositions",
+  "phaseDetail": "The July 16, 2026 CMO 23 governs provider depositions in the core discovery pool. The Second Amended CMO 15 schedules core-pool depositions through January 15, 2027 and trial-pool selection for January 29. Its later timetable describes March 2028 as a proposed first trial setting, not a fixed trial date.",
   "pendingCounts": [
-    { "date": "2026-07-01", "count": 1832, "scope": "Pending actions in MDL-3092", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true }
+    {
+      "date": "2026-09-01",
+      "count": 1827,
+      "totalFiled": 1908,
+      "scope": "Pending actions in MDL-3092",
+      "source": "JPML MDL Statistics Report, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 1827,
+      "totalFiled": 1908,
+      "scope": "Pending actions in MDL-3092",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    },
+    {
+      "date": "2026-07-01",
+      "count": 1832,
+      "scope": "Pending actions in MDL-3092",
+      "source": "JPML MDL Statistics Report, July 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf",
+      "primary": false
+    }
   ],
   "defendants": [
     "Indivior Inc.",
@@ -22,20 +47,147 @@
   ],
   "settlements": [
     {
-      "label": "No settlements announced",
+      "label": "No global injury settlement announced in records reviewed",
       "status": "none",
-      "detail": "No settlement program exists. The litigation is in bellwether selection; core-discovery and trial-pool steps run through 2027 under the court's bellwether protocol before any trial."
+      "detail": "The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims.",
+      "source": "Official court records reviewed September 14, 2026",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/mdl-3092",
+      "kind": "none",
+      "individualClaims": "The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims.",
+      "verifiedOn": "2026-09-14"
     }
   ],
   "keyDates": [
-    { "date": "2024-02-05", "label": "MDL-3092 established", "detail": "JPML centralized federal Suboxone dental-injury cases before Judge J. Philip Calabrese in the Northern District of Ohio." },
-    { "date": "2024-05-16", "label": "CMO No. 4 — mass-filing (Schedule A) procedure", "detail": "The court authorized a master 'Schedule A' filing covering thousands of claimants, with severed plaintiffs later required to file individual actions." },
-    { "date": "2026-03-27", "label": "Second Amended CMO No. 15 — bellwether protocol", "detail": "Set the core-discovery-pool schedule for bellwether selection." },
-    { "date": "2026-06-10", "label": "Random selection of 20 core-discovery cases (scheduled)", "detail": "The court's random selection of the first 20 cases for the 50-case core discovery pool was scheduled for June 10, 2026 under the Second Amended CMO No. 15 bellwether protocol." }
+    {
+      "date": "2024-02-02",
+      "label": "MDL-3092 established",
+      "detail": "JPML centralized federal Suboxone dental-injury cases before Judge J. Philip Calabrese in the Northern District of Ohio.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2024-05-16",
+      "label": "CMO No. 4 — mass-filing (Schedule A) procedure",
+      "detail": "The court authorized a master 'Schedule A' filing covering thousands of claimants, with severed plaintiffs later required to file individual actions.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/mdl-3092",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-03-27",
+      "label": "Second Amended CMO No. 15 — bellwether protocol",
+      "detail": "Set the core-discovery-pool schedule for bellwether selection.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/mdl-3092",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-06-10",
+      "label": "Random selection of 20 core-discovery cases (scheduled)",
+      "detail": "The court's random selection of the first 20 cases for the 50-case core discovery pool was scheduled for June 10, 2026 under the Second Amended CMO No. 15 bellwether protocol.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/mdl-3092",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-07-16",
+      "label": "CMO 23 provider-deposition protocol",
+      "detail": "Order governs provider depositions in the core discovery pool.",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf",
+      "source": "Official court or settlement record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2027-01-15",
+      "label": "Core discovery deposition period ends",
+      "detail": "Scheduled end of core-pool depositions under Second Amended CMO 15.",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf",
+      "source": "Official court or settlement record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2027-01-29",
+      "label": "Trial-pool case selection",
+      "detail": "Protocol schedules selection of 15 trial-pool cases.",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf",
+      "source": "Official court or settlement record",
+      "verifiedOn": "2026-09-14",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "appliesTo": "Federal MDL proceedings"
+    }
   ],
   "sources": [
-    { "name": "N.D. Ohio — MDL 3092 court page (case management orders)", "url": "https://www.ohnd.uscourts.gov/mdl-3092" },
-    { "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" }
+    {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "JPML — September 1, 2026 assignments and transfer dates",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf"
+    },
+    {
+      "name": "Official court case orders",
+      "url": "https://www.ohnd.uscourts.gov/mdl-3092"
+    },
+    {
+      "name": "CMO 23, entered July 16, governs provider depositions in the core discovery pool.",
+      "url": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf"
+    },
+    {
+      "name": "The bellwether protocol schedules core-pool depositions through January 15, 2027 and selection of 15 trial-pool cases on January 29, 2027.",
+      "url": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf"
+    },
+    {
+      "name": "JPML — Pending MDL Dockets, June 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    }
   ],
-  "dataAsOf": "2026-07-01"
+  "dataAsOf": "2026-09-14",
+  "statusVerifiedOn": "2026-09-14",
+  "updates": [
+    {
+      "date": "2026-09-14",
+      "summary": "JPML reports 1,827 pending actions on September 1, 2026, compared with 1,827 on August 3; 1,908 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "CMO 23, entered July 16, governs provider depositions in the core discovery pool.",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "The bellwether protocol schedules core-pool depositions through January 15, 2027 and selection of 15 trial-pool cases on January 29, 2027.",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "March 2028 appears in the protocol as a proposed first trial setting, not an entered trial date.",
+      "sourceUrl": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf"
+    }
+  ]
 }
