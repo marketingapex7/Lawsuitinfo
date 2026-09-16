@@ -15,11 +15,11 @@ const checks = {
   ],
   "camp-lejeune.md": [
     "How are Camp Lejeune settlements paid?",
-    "July 17, 2026",
+    "August 10, 2026",
     "justice.gov/civil/camp-lejeune-justice-act-claims",
   ],
   "roundup.md": [
-    "Roundup Cancer Lawsuit Update: July 2026",
+    "Roundup Cancer Lawsuit update: September 2026",
     "What proof do you need for a Roundup lawsuit?",
     "supremecourt.gov",
   ],

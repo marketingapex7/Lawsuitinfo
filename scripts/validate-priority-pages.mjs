@@ -6,7 +6,7 @@ const checks = [
   {
     file: ["dist", "lawsuits", "ozempic", "index.html"],
     required: [
-      "What is the Ozempic and GLP-1 lawsuit?",
+      "What the Ozempic / GLP-1 lawsuit is about",
       'href="/settlements/"',
       'href="/deadlines/"',
       'href="/mdl-statistics/"',
@@ -14,7 +14,7 @@ const checks = [
   },
   {
     file: ["dist", "lawsuits", "depo-provera", "index.html"],
-    required: ["What is the Depo-Provera lawsuit?"],
+    required: ["What the Depo-Provera lawsuit is about"],
   },
   {
     file: ["dist", "lawsuits", "camp-lejeune", "index.html"],
@@ -22,11 +22,11 @@ const checks = [
   },
   {
     file: ["dist", "lawsuits", "afff-pfas", "index.html"],
-    required: ["What is the AFFF firefighting foam lawsuit?"],
+    required: ["What the AFFF lawsuit is about"],
   },
   {
     file: ["dist", "lawsuits", "roundup", "index.html"],
-    required: ["What is the Roundup lawsuit?"],
+    required: ["What the Roundup Cancer lawsuit is about"],
   },
   {
     file: ["dist", "lawsuits", "talcum-powder", "index.html"],
@@ -35,8 +35,8 @@ const checks = [
   {
     file: ["dist", "lawsuits", "suboxone", "index.html"],
     required: [
-      "Updated July 28, 2026",
-      "What is the Suboxone tooth decay lawsuit?",
+      "Updated September 14, 2026",
+      "What the Suboxone Tooth Decay lawsuit is about",
     ],
     forbidden: ['id="settlement"', 'href="#settlement"'],
     exactOccurrences: [
@@ -44,6 +44,18 @@ const checks = [
       { text: 'id="suboxone-settlement-status"', count: 1 },
       { text: 'href="#suboxone-settlement-status"', count: 1 },
     ],
+  },
+  {
+    file: ["dist", "updates", "index.html"],
+    required: ["Latest Lawsuit Updates", "Official source"],
+  },
+  {
+    file: ["dist", "mdl", "2873", "index.html"],
+    required: ["MDL 2873 Update", "15,264", "Historical case counts"],
+  },
+  {
+    file: ["dist", "lawsuits", "roundup", "proof", "index.html"],
+    required: ["Roundup Lawsuit Proof", "A practical record checklist"],
   },
   {
     file: ["dist", "categories", "defective-drugs", "index.html"],

@@ -1,6 +1,6 @@
 ---
 title: "Depo-Provera Lawsuit Guide"
-description: "Plain-English guide to Depo-Provera lawsuits, meningioma brain tumor allegations, current case status, eligibility factors, and state-specific resources."
+description: "Depo-Provera lawsuit update: September 2026 court status, settlement information, filing deadlines and state resources."
 lawsuit: "Depo-Provera"
 urlSlug: "depo-provera"
 category: "Defective Drug"
@@ -22,7 +22,7 @@ injuries:
   - "Surgery"
   - "Radiation treatment"
   - "Neurological symptoms"
-settlementStatus: "Depo-Provera meningioma litigation appears to be in a developing pretrial stage rather than a mature settlement stage. No global settlement is guaranteed or confirmed here. Settlement posture may be influenced by expert rulings, bellwether planning, proof-of-use requirements, warning evidence, and how individual medical histories are evaluated. Anyone researching a possible claim should focus first on preserving injection records, diagnosis records, and state-deadline information rather than relying on settlement-value estimates."
+settlementStatus: "Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 14 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures."
 timeline:
   -
     label: "Product use or exposure"
@@ -33,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-14"
-lastReviewed: "2026-07-14"
+lastUpdated: "2026-09-14"
+lastReviewed: "2026-09-14"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
@@ -47,13 +47,13 @@ faqs:
     answer: "There is no automatic qualification rule. Claim review commonly looks for documented Depo-Provera use (injection or pharmacy records), a meningioma diagnosis confirmed by imaging or pathology, the timing between use and diagnosis, and the state filing deadline. Long-term use is a recurring theme in filed cases."
   -
     question: "How much are Depo-Provera lawsuit settlements worth?"
-    answer: "No settlements have been reached as of July 2026, so there are no official settlement amounts, and any payout figures circulating online are speculation. MDL-3140 is still in pretrial proceedings, with the Rule 702 general-causation hearing listed for September 18, 2026 and the first Pilot trial set for December 2026. No amount is guaranteed for any individual claim."
+    answer: "Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 14 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures."
   -
     question: "Where is the Depo-Provera MDL, and is it a class action?"
     answer: "Federal Depo-Provera cases are consolidated as multidistrict litigation — MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). It is not a class action: each plaintiff keeps an individual claim that is coordinated for pretrial proceedings."
   -
     question: "When are the first Depo-Provera trials?"
-    answer: "Under Case Management Order No. 9, the first Pilot bellwether trial is scheduled for December 7, 2026. The court's public MDL calendar now lists the Rule 702 expert hearing for September 18, 2026; the expert and federal-preemption rulings are gateway decisions for the MDL."
+    answer: "CMO 12 states that the original December 2026 Pilot trial was canceled after the settlement announcement. The public court calendar checked September 14 still lists a September 18, 2026 Rule 702 hearing for ongoing litigation. This expert hearing is not a jury trial."
   -
     question: "Does a Depo-Provera diagnosis mean I have a claim?"
     answer: "No. Eligibility depends on individual facts, records, timing, diagnosis, and applicable law."
@@ -65,7 +65,7 @@ faqs:
     answer: "Defendants generally may dispute liability, causation, damages, or whether warnings were adequate."
   -
     question: "Is there a guaranteed settlement?"
-    answer: "No settlement is guaranteed, and settlement status may change as cases develop."
+    answer: "Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 14 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures."
   -
     question: "Can state law affect my claim?"
     answer: "Yes. Filing deadlines and claim evaluation may depend on state law and individual facts."
@@ -78,48 +78,43 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What is the Depo-Provera lawsuit?</h2>
-<p><strong>The Depo-Provera lawsuit — also searched as the "depo shot," "depo birth control shot," or simply "depo" lawsuit — is a federal product-liability case alleging that the contraceptive injection Depo-Provera (depot medroxyprogesterone acetate) caused intracranial meningioma brain tumors, and that Pfizer and the Pharmacia entities failed to warn users.</strong> The cases are consolidated in federal multidistrict litigation, MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida. Defendants dispute the claims, and no settlement has been reached.</p>
-<p>As of July 2026 it is one of the fastest-growing active MDLs, with 5,830 actions pending. The court's public MDL calendar lists the Rule 702 expert hearing for September 18, 2026, and a ruling on the federal-preemption motion remains pending. The first Pilot bellwether trial remains scheduled for December 7, 2026. Claim review focuses on injection records, imaging and pathology confirming a meningioma, and state filing deadlines.</p>
+<h2>What the Depo-Provera lawsuit is about</h2>
+<p>Depo-Provera lawsuits allege that the contraceptive injection caused intracranial meningiomas and that warnings were inadequate. Federal MDL-3140 is before Judge M. Casey Rodgers in Florida. Pfizer and the Pharmacia defendants dispute liability. Court orders now confirm a private settlement program for eligible claims alongside continued litigation for other plaintiffs.</p>
 </section>
 
 <section id="latest-update">
-<h2>Depo-Provera Lawsuit Update: July 2026</h2>
-<p>The court's current public MDL calendar lists the Rule 702 hearing for September 18, 2026, following the case-management conference. A previous June 15 order had continued the hearing to July 27; the current court calendar controls this guide's schedule. The federal-preemption motion also remains a key pending issue.</p>
-<p>As of July 1, 2026, 5,830 actions were pending in MDL No. 3140, up from 3,490 on March 31. The first Pilot bellwether trial remains scheduled for December 7, 2026, per Case Management Order No. 9. Pfizer and the Pharmacia entities dispute the plaintiffs' claims.</p>
-<p>The September 18 Rule 702 hearing and the pending preemption ruling are gateway decisions that may affect the trajectory of the MDL. Individuals researching this litigation should monitor court orders rather than rely on settlement-value estimates.</p>
+<h2>Depo-Provera Lawsuit update: September 2026</h2>
+<p><strong>Settlement registration; litigation continues for remaining claims.</strong> Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled; the court calendar still lists a September 18 Rule 702 hearing for ongoing litigation. Eligibility and payments are not automatic.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>6,403 pending actions</strong> in MDL-3140, compared with 6,294 on August 3. Its 6,510 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p><a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">Official court records</a> checked September 14, 2026.</p>
 </section>
 
 <section id="case-status-snapshot">
-<h2>Case Status Snapshot</h2>
+<h2>Case status snapshot</h2>
 <ul>
-<li><strong>Litigation:</strong> federal multidistrict litigation — MDL-3140 (the Depo-Provera meningioma litigation)</li>
-<li><strong>Court:</strong> U.S. District Court, Northern District of Florida (Pensacola)</li>
-<li><strong>Judge:</strong> M. Casey Rodgers</li>
-<li><strong>MDL created:</strong> February 7, 2025</li>
-<li><strong>Pending actions:</strong> 5,830 (JPML, July 1, 2026) — among the fastest-growing active MDLs</li>
-<li><strong>Defendants:</strong> Pfizer Inc.; Pharmacia &amp; Upjohn</li>
-<li><strong>Primary injury:</strong> intracranial meningioma brain tumors</li>
-<li><strong>Next milestones:</strong> Rule 702 hearing September 18, 2026; first Pilot trial December 7, 2026</li>
-<li><strong>Settlement status:</strong> none as of July 2026; no amount guaranteed</li>
+<li><strong>Federal proceeding:</strong> MDL-3140; U.S. District Court, Northern District of Florida (Pensacola)</li>
+<li><strong>Judge:</strong> Judge M. Casey Rodgers</li>
+<li><strong>JPML transfer date:</strong> 2025-02-07</li>
+<li><strong>Pending actions:</strong> 6,403 as of September 1, 2026</li>
+<li><strong>Current phase:</strong> Settlement registration; litigation continues for remaining claims</li>
+<li><strong>Settlement:</strong> Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 14 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.</li>
 </ul>
 </section>
 
 <section id="litigation-updates">
-<h2>Litigation Updates and Timeline</h2>
+<h2>Verified litigation updates</h2>
 <ul>
-<li><strong>February 2025:</strong> The Judicial Panel on Multidistrict Litigation centralized federal Depo-Provera cases in MDL No. 3140 in the Northern District of Florida for coordinated pretrial proceedings.</li>
-<li><strong>2025:</strong> Early MDL activity focused on case management, pleadings, transfer of related actions, and procedures for organizing common factual and legal issues.</li>
-<li><strong>Early 2026:</strong> Public case updates continued to focus on pretrial scheduling, proof-of-use issues, expert questions, and the shape of potential bellwether work.</li>
-<li><strong>May 2026:</strong> The litigation remains active, with public court materials reflecting continued case-management activity and upcoming proceedings.</li>
-<li><strong>What to watch next:</strong> Expert rulings, bellwether scheduling, warning evidence, and state-law deadline rulings may affect how claims are evaluated.</li>
+<li>JPML reports 6,403 pending actions on September 1, 2026, compared with 6,294 on August 3; 6,510 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
+<li>CMO 12 confirms a private settlement and cancellation of the original December Pilot trial; the September 18 Rule 702 hearing remains listed for ongoing litigation. <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Case%20Management%20Order%20No%2012.pdf">Source</a></li>
+<li>The August 5 CMO 13 appoints BrownGreer PLC as settlement administrator to review records and determine eligibility. <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%20No%2013%20Appointment%20of%20Settlement%20Administrator.pdf">Source</a></li>
+<li>The August 10 CMO 14 identifies November 30, 2026 as the settlement registration deadline and sets procedures for continuing claims. <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%2014%20with%20Exhibits.pdf">Source</a></li>
 </ul>
 </section>
 
 <section id="status">
-<h2>Current litigation status</h2>
-<p>Depo-Provera meningioma claims are active and being evaluated nationally. Federal Depo-Provera product liability cases have been centralized for coordinated pretrial proceedings in MDL No. 3140 in the Northern District of Florida. Centralization does not decide whether any individual claim is valid; it is a process for handling common factual issues more efficiently.</p>
-<p>The central issues include whether use of Depo-Provera or related depot medroxyprogesterone acetate injections is associated with meningioma, whether warnings were adequate, what defendants knew or should have known about the alleged risk, and how individual medical histories affect causation. Litigation status can change, so this guide should be read as a general case-status overview rather than a real-time court docket.</p>
+<h2>Current status</h2>
+<p>Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled; the court calendar still lists a September 18 Rule 702 hearing for ongoing litigation. Eligibility and payments are not automatic.</p>
+<p>Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 14 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.</p>
 </section>
 
 <section id="key-issues">
@@ -170,13 +165,13 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
-<li><strong>Federal court context:</strong> Federal Depo-Provera product liability cases are described on this site as centralized in <a href="https://www.flnd.uscourts.gov/depo-provera-products-liability-litigation-mdl-no-3140">MDL No. 3140 in the Northern District of Florida</a> for coordinated pretrial proceedings. The JPML transfer materials are also available through the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3140-Transfer_Order-1-25.pdf">Judicial Panel on Multidistrict Litigation</a>.</li>
-<li><strong>Agency or medical context:</strong> Claim review may involve product labeling, injection records, brain imaging, pathology, neurology, neurosurgery, and other medical records. FDA drug-label information can be checked through the <a href="https://labels.fda.gov/">FDA Online Label Repository</a>.</li>
-<li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation appears to be in active pretrial development rather than a mature settlement stage.</li>
-<li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> June 29, 2026.</li>
+<li><a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Case%20Management%20Order%20No%2012.pdf">CMO 12 confirms a private settlement and cancellation of the original December Pilot trial; the September 18 Rule 702 hearing remains listed for ongoing litigation.</a></li>
+<li><a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%20No%2013%20Appointment%20of%20Settlement%20Administrator.pdf">The August 5 CMO 13 appoints BrownGreer PLC as settlement administrator to review records and determine eligibility.</a></li>
+<li><a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%2014%20with%20Exhibits.pdf">The August 10 CMO 14 identifies November 30, 2026 as the settlement registration deadline and sets procedures for continuing claims.</a></li>
 </ul>
+<p>Defendants dispute the allegations. Hearing schedules do not establish an outcome, and pending-action counts do not establish settlement eligibility. State filing deadlines and settlement-program deadlines are different.</p>
 </section>
 
 <section id="eligibility">

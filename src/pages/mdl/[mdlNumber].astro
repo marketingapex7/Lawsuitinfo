@@ -1,0 +1,45 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import CaseStatusOverview from "@components/CaseStatusOverview.astro";
+import { formatCount, getAllCaseData, latestPendingCount, monthlyChange } from "@lib/caseData";
+import { formatDate } from "@lib/site";
+
+export function getStaticPaths() {
+  return getAllCaseData().filter((item) => item.litigation.mdlNumber).map((data) => ({
+    params: { mdlNumber: data.litigation.mdlNumber!.replace(/\D/g, "") }, props: { data }
+  }));
+}
+
+const { data } = Astro.props;
+const number = data.litigation.mdlNumber.replace(/\D/g, "");
+const pending = latestPendingCount(data);
+const change = monthlyChange(data);
+const history = [...data.pendingCounts].filter((entry) => entry.scope === pending?.scope).sort((a, b) => b.date.localeCompare(a.date));
+const [stateEntries, lawsuitEntries] = await Promise.all([getCollection("state-guides"), getCollection("lawsuits")]);
+const stateGuides = stateEntries.filter((entry) => entry.data.lawsuitSlug === data.slug).sort((a, b) => a.data.state.localeCompare(b.data.state));
+const nationalGuide = lawsuitEntries.find((entry) => entry.data.urlSlug === data.slug);
+const bellwetherDates = data.keyDates.filter((entry) => entry.kind === "bellwether").sort((a, b) => b.date.localeCompare(a.date));
+const settlement = data.settlements[0];
+const breadcrumbs = [{ name: "Home", url: "/" }, { name: "MDL Statistics", url: "/mdl-statistics/" }, { name: `MDL ${number}`, url: `/mdl/${number}/` }];
+---
+
+<BaseLayout title={`MDL ${number} Update — ${data.caseName}`} seoTitle={`MDL ${number} Update: September 2026 Status`} description={`September 2026 status for ${data.litigation.mdlName}: pending actions, monthly change, court, judge, litigation phase, settlements and official sources.`} canonicalPath={`/mdl/${number}/`} breadcrumbs={breadcrumbs}>
+  <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="max-w-4xl"><p class="text-sm font-black uppercase tracking-wide text-accent-dark">Federal multidistrict litigation tracker</p><h1 class="mt-2 text-4xl font-black text-ink">MDL {number} Update — {data.caseName}</h1><p class="mt-4 text-lg leading-8 text-muted">{data.litigation.mdlName}. Counts are monthly JPML snapshots and can change between reports.</p></header>
+    <CaseStatusOverview data={data} />
+    <div class="mt-8 grid gap-6 lg:grid-cols-[1.1fr_.9fr]">
+      <section class="rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">MDL details</h2><dl class="mt-4 grid gap-4 sm:grid-cols-2"><div><dt class="font-bold text-muted">Created</dt><dd>{data.litigation.established ? formatDate(data.litigation.established) : "Not listed"}</dd></div><div><dt class="font-bold text-muted">Pending</dt><dd>{pending ? formatCount(pending.count) : "Not listed"}</dd></div><div><dt class="font-bold text-muted">Total actions filed</dt><dd>{pending?.totalFiled ? formatCount(pending.totalFiled) : "Not separately available"}</dd></div><div><dt class="font-bold text-muted">Monthly change</dt><dd>{change === undefined ? "Not available" : `${change > 0 ? "+" : ""}${formatCount(change)}`}</dd></div></dl><h3 class="mt-6 text-lg font-black">Defendants named in the tracked record</h3><p class="mt-2 leading-7 text-muted">{data.defendants.join("; ")}. Defendants dispute the allegations.</p></section>
+      <section class="rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">Historical case counts</h2><div class="mt-4 overflow-x-auto"><table class="w-full text-left text-sm"><thead><tr class="border-b border-line"><th class="py-2">Report</th><th>Pending</th><th>Total filed</th></tr></thead><tbody>{history.map((entry) => <tr class="border-b border-line"><td class="py-3">{formatDate(entry.date)}</td><td>{formatCount(entry.count)}</td><td>{entry.totalFiled ? formatCount(entry.totalFiled) : "—"}</td></tr>)}</tbody></table></div></section>
+    </div>
+    <section class="mt-8 grid gap-6 rounded-xl border border-line bg-white p-5 lg:grid-cols-3">
+      <div><h2 class="text-xl font-black">What the litigation alleges</h2><p class="mt-2 leading-7 text-muted">The tracked claims concern {nationalGuide?.data.caseType?.toLowerCase() ?? "alleged product or exposure injuries"}, including {nationalGuide?.data.primaryInjury?.toLowerCase() ?? "the injuries described in the national guide"}. These are allegations; defendants dispute liability and causation.</p></div>
+      <div><h2 class="text-xl font-black">Stage and bellwether status</h2><p class="mt-2 leading-7 text-muted">{data.phaseDetail}</p>{bellwetherDates[0] && <p class="mt-2 text-sm leading-6 text-muted"><strong>Bellwether record:</strong> {bellwetherDates[0].detail}</p>}</div>
+      <div><h2 class="text-xl font-black">Settlement status</h2><p class="mt-2 leading-7 text-muted">{settlement?.detail ?? "No public settlement program is listed in the tracked record."}</p>{settlement?.individualClaims && <p class="mt-2 text-sm leading-6 text-muted"><strong>Individual claims:</strong> {settlement.individualClaims}</p>}</div>
+    </section>
+    <section class="mt-8 rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">Official sources</h2><ul class="mt-4 grid gap-2">{data.sources.map((source) => <li><a class="font-bold text-accent-dark underline" href={source.url} data-track="source_click">{source.name}</a></li>)}</ul></section>
+    <section class="mt-8 rounded-xl border border-line bg-[#eef7f8] p-5"><h2 class="text-2xl font-black">Related guides</h2><p class="mt-3"><a class="font-bold text-accent-dark underline" href={`/lawsuits/${data.slug}/`}>Read the national {data.caseName} guide</a></p>{stateGuides.length > 0 && <ul class="mt-4 flex flex-wrap gap-3">{stateGuides.map((entry) => <li><a class="font-bold text-accent-dark underline" href={`/lawsuits/${data.slug}/${entry.data.stateSlug}/`}>{entry.data.state}</a></li>)}</ul>}</section>
+  </div>
+</BaseLayout>

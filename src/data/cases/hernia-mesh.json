@@ -10,16 +10,34 @@
     "judge": "Judge Edmund A. Sargus, Jr.",
     "established": "2018-08-02"
   },
-  "phase": "Large active MDL with settlement and trial activity",
-  "phaseDetail": "Federal Bard polypropylene hernia mesh cases are coordinated in MDL-2846 in the Southern District of Ohio. Claims generally allege chronic pain, infection, adhesions, recurrence, bowel complications, mesh failure, or revision surgery after hernia mesh implantation. Defendants dispute liability and causation.",
+  "phase": "Settlement administration and unresolved-claim process",
+  "phaseDetail": "Court orders establish a settlement fund and a separate Intensive Settlement Process for unresolved claims. CMO 55 schedules that process to begin on or about January 4, 2027. The September 2026 JPML report still lists 23,316 pending actions; pending cases are not proof that every claimant has settled or been paid.",
   "pendingCounts": [
+    {
+      "date": "2026-09-01",
+      "count": 23316,
+      "totalFiled": 25213,
+      "scope": "Pending actions in MDL-2846",
+      "source": "JPML, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 23321,
+      "totalFiled": 25189,
+      "scope": "Pending actions in MDL-2846",
+      "source": "JPML, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    },
     {
       "date": "2026-06-01",
       "count": 23573,
       "scope": "Pending actions in MDL-2846",
       "source": "JPML MDL Statistics Report, June 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf",
-      "primary": true
+      "primary": false
     }
   ],
   "defendants": [
@@ -29,28 +47,111 @@
   ],
   "settlements": [
     {
-      "label": "Settlement posture",
-      "status": "case-specific / no single public global amount",
-      "detail": "The litigation has involved settlement activity and individual case resolution, but no single court-approved global public settlement amount resolves all claims. Individual outcomes depend on product, injury, revision surgery, and proof."
+      "label": "Bard hernia mesh settlement framework",
+      "kind": "individual",
+      "status": "settlement administration",
+      "detail": "CMO 56 established a qualified settlement fund for eligible settling claimants. CMO 55 provides settlement conferences and mediation for defined unresolved claimants beginning on or about January 4, 2027. The orders reviewed do not publish a total settlement amount or a uniform individual payment.",
+      "amount": "Aggregate amount not disclosed in the court orders reviewed",
+      "individualClaims": "Participation, payment documentation and lien resolution are claim-specific.",
+      "verifiedOn": "2026-09-14",
+      "source": "S.D. Ohio, CMO 55 and CMO 56",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//MDL%202846%20Case%20Management%20Order%20No.%2056%20Establishment%20of%20Qualified%20Settlement%20Fund.pdf"
     }
   ],
   "keyDates": [
     {
       "date": "2018-08-02",
       "label": "MDL-2846 established",
-      "detail": "JPML centralized federal Bard polypropylene hernia mesh cases in the Southern District of Ohio."
+      "detail": "The court confirms the August 2, 2018 JPML transfer order.",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files/Casemanagement%20order%202%20MDL%202846.pdf",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
     },
     {
-      "date": "2026-06-01",
-      "label": "23,573 actions pending",
-      "detail": "JPML's June 2026 monthly report listed 23,573 pending actions in MDL-2846."
+      "date": "2024-11-21",
+      "label": "Intensive Settlement Process adopted",
+      "detail": "CMO 55 appointed special masters and adopted an unresolved-claim process.",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//Case%20Mangement%20Order%20No.%2055.pdf",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2024-12-16",
+      "label": "Qualified settlement fund established",
+      "detail": "CMO 56 governs administration of funds for eligible settling claimants.",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//MDL%202846%20Case%20Management%20Order%20No.%2056%20Establishment%20of%20Qualified%20Settlement%20Fund.pdf",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2027-01-04",
+      "label": "Intensive Settlement Process target start",
+      "detail": "CMO 55 says on or about January 4, 2027; sessions for defined unresolved claims, not a universal payout or filing deadline.",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//Case%20Mangement%20Order%20No.%2055.pdf",
+      "source": "Court or agency primary record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "Defined unresolved Bard hernia mesh claimants"
     }
   ],
   "sources": [
     {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 comparison report",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
       "name": "JPML - Pending MDL Dockets, June 1, 2026 (PDF)",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
+    },
+    {
+      "name": "S.D. Ohio — MDL-2846 orders",
+      "url": "https://www.ohsd.uscourts.gov/select-orders-classification-mdl-2846"
+    },
+    {
+      "name": "CMO 55 — Intensive Settlement Process",
+      "url": "https://www.ohsd.uscourts.gov/sites/ohsd/files//Case%20Mangement%20Order%20No.%2055.pdf"
+    },
+    {
+      "name": "CMO 56 — qualified settlement fund",
+      "url": "https://www.ohsd.uscourts.gov/sites/ohsd/files//MDL%202846%20Case%20Management%20Order%20No.%2056%20Establishment%20of%20Qualified%20Settlement%20Fund.pdf"
     }
   ],
-  "dataAsOf": "2026-06-19"
+  "dataAsOf": "2026-09-14",
+  "statusVerifiedOn": "2026-09-14",
+  "updates": [
+    {
+      "date": "2026-09-01",
+      "summary": "JPML reports 23,316 pending actions and 25,213 historical actions in MDL-2846.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-09-01",
+      "summary": "Pending actions decreased by 5 from 23,321 on August 3, 2026. This is a net docket change, not a count of new claims.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "date": "2024-12-16",
+      "summary": "CMO 56 established a qualified settlement fund for eligible settling claimants.",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//MDL%202846%20Case%20Management%20Order%20No.%2056%20Establishment%20of%20Qualified%20Settlement%20Fund.pdf"
+    },
+    {
+      "date": "2024-11-21",
+      "summary": "CMO 55 schedules unresolved-claim settlement sessions to begin on or about January 4, 2027.",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//Case%20Mangement%20Order%20No.%2055.pdf"
+    }
+  ]
 }

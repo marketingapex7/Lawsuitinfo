@@ -54,3 +54,5 @@ Helper scripts in `scripts/`:
 - `generate-content.mjs` — original content generator for the launch torts (legacy reference).
 - `add-case-states.mjs` — adds 10 state guides for a new case in one run, from a config block.
 - `dedup-state-pages.mjs` — replaces the boilerplate per-state body on existing case-state guides with verified, state-specific content driven by `src/data/state-dedup/{tortSlug}.json`.
+- `check-freshness.mjs` — runs during every build and flags case data older than 45 days, stale MDL counts, passed scheduled dates, and old future-facing month references.
+- `check-source-links.mjs` — checks case-database source URLs and fails on confirmed 404/410 responses (`npm run validate:sources`).

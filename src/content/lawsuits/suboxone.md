@@ -1,6 +1,6 @@
 ---
 title: "Suboxone Tooth Decay Lawsuit Guide"
-description: "Plain-English guide to Suboxone dental lawsuits, alleged tooth decay injuries, eligibility factors, settlement status, deadlines, and state resources."
+description: "Suboxone Tooth Decay lawsuit update: September 2026 court status, settlement information, filing deadlines and state resources."
 lawsuit: "Suboxone Tooth Decay"
 urlSlug: "suboxone"
 category: "Defective Drug"
@@ -23,7 +23,7 @@ injuries:
   - "Dental extractions"
   - "Gum damage"
   - "Dental restoration costs"
-settlementStatus: "Suboxone dental injury litigation appears to be in an active pretrial and claim-evaluation stage. No global personal-injury settlement is guaranteed or confirmed here. For people researching Suboxone settlement status, the key point is that active MDL proceedings and claim screening are not the same as a resolved settlement program. Settlement posture may depend on discovery, warnings evidence, product-form evidence, dental-record proof, bellwether planning, and rulings about causation and limitations issues. People researching a possible claim should avoid settlement calculators and focus on prescription history, dental records, treatment costs, and the date dental injuries were first discovered."
+settlementStatus: "The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims."
 timeline:
   -
     label: "Product use or exposure"
@@ -34,12 +34,12 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-07-28"
-lastReviewed: "2026-07-11"
+lastUpdated: "2026-09-14"
+lastReviewed: "2026-09-14"
 faqs:
   -
     question: "How much are Suboxone tooth-decay settlements worth?"
-    answer: "No settlement has been reached in the Suboxone dental-injury MDL as of June 2026, so there are no settlement amounts, and any figures circulating online are speculation. The case is in bellwether discovery; settlement posture typically takes shape after early trials. No amount is guaranteed for any individual claim."
+    answer: "The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims."
   -
     question: "Is the Suboxone lawsuit a class action?"
     answer: "No. The federal Suboxone tooth-decay cases are coordinated as multidistrict litigation (MDL-3092), not a class action; each plaintiff keeps an individual claim coordinated for pretrial proceedings."
@@ -60,7 +60,7 @@ faqs:
     answer: "Possible claim review may involve people who used Suboxone film or another oral buprenorphine product dissolved in the mouth and later developed serious dental injury, but eligibility depends on records, timing, warnings, and state law."
   -
     question: "What is the Suboxone lawsuit settlement status?"
-    answer: "Suboxone dental injury litigation remains active in coordinated federal proceedings. No global personal injury settlement is guaranteed, and individual review depends on product history, dental records, deadlines, and court rulings."
+    answer: "The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims."
   -
     question: "What dental records may matter most?"
     answer: "Before-and-after dental charts, X-rays, extraction records, treatment plans, restoration invoices, periodontal records, and photographs may help show timing and severity."
@@ -82,29 +82,26 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What is the Suboxone tooth decay lawsuit?</h2>
-<p><strong>The Suboxone lawsuit alleges that the dissolvable Suboxone film (buprenorphine/naloxone) caused severe tooth decay and dental injuries, and that the maker, Indivior, failed to warn patients.</strong> Federal cases are consolidated in MDL-3092 before Judge J. Philip Calabrese in the U.S. District Court for the Northern District of Ohio, where bellwether selection is underway. No settlement has been announced, and defendants dispute the claims.</p>
-<p>As of July 1, 2026, Suboxone tooth-decay litigation is active in MDL No. 3092, with 1,832 pending actions. The court's core-discovery-pool process is underway, and no settlement program or court-set trial date has been announced.</p>
-<p>Suboxone lawsuits allege that film or other oral buprenorphine/naloxone products dissolved in the mouth may be linked to severe tooth decay, tooth loss, extractions, and other dental injuries, and that warnings were inadequate. Claim review usually focuses on prescription records, dental records before and after use, injury timing, and state filing deadlines. Defendants dispute the claims.</p>
+<h2>What the Suboxone Tooth Decay lawsuit is about</h2>
+<p>Suboxone film lawsuits allege that the dissolvable medication caused severe dental injury and that warnings were inadequate. MDL-3092 coordinates the federal film cases before Judge J. Philip Calabrese in Ohio. Defendants dispute the claims; product form, prescription history and dental records matter to individual review.</p>
 </section>
 
 <section id="latest-update">
-<h2>Suboxone Tooth Decay Lawsuit Update: July 2026</h2>
-<p>Bellwether selection is the primary focus of Suboxone tooth-decay litigation in MDL No. 3092 before Judge J. Philip Calabrese in the Northern District of Ohio. Under the Second Amended Case Management Order No. 15, the court began the core-discovery-pool process in June. As of July 1, 2026, 1,832 actions are pending in the MDL.</p>
-<p>The defendants are Indivior Inc., Indivior Solutions, and Aquestive Therapeutics. Reckitt was dismissed from the litigation in September 2024. No settlement program has been announced. Industry observers have projected that a first bellwether trial could occur around 2028, but no trial date has been entered in any court order.</p>
-<p>This litigation is at an early stage. Individuals researching this case should focus on preserving relevant dental and prescription records, as discovery in these cases is likely to turn heavily on medical documentation.</p>
+<h2>Suboxone Tooth Decay Lawsuit update: September 2026</h2>
+<p><strong>Core discovery and provider depositions.</strong> The July 16, 2026 CMO 23 governs provider depositions in the core discovery pool. The Second Amended CMO 15 schedules core-pool depositions through January 15, 2027 and trial-pool selection for January 29. Its later timetable describes March 2028 as a proposed first trial setting, not a fixed trial date.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>1,827 pending actions</strong> in MDL-3092, compared with 1,827 on August 3. Its 1,908 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p><a href="https://www.ohnd.uscourts.gov/mdl-3092">Official court records</a> checked September 14, 2026.</p>
 </section>
 
 <section id="case-status-snapshot">
-<h2>Case Status Snapshot</h2>
+<h2>Case status snapshot</h2>
 <ul>
-<li><strong>Status:</strong> Active / Investigating</li>
-<li><strong>Primary injury:</strong> Severe dental injuries, including tooth decay, tooth loss, and extractions</li>
-<li><strong>Main product/exposure:</strong> Suboxone film and other oral buprenorphine/naloxone products dissolved in the mouth</li>
-<li><strong>MDL or court context:</strong> MDL No. 3092, Northern District of Ohio</li>
-<li><strong>Settlement status:</strong> No confirmed global personal-injury settlement; litigation remains in active pretrial development</li>
-<li><strong>Key deadline:</strong> Varies by state, injury date, discovery facts, warning timeline, and individual circumstances</li>
-<li><strong>State law relevance:</strong> State law may affect filing deadlines, warning claims, damages, comparative fault, and medical-expense proof</li>
+<li><strong>Federal proceeding:</strong> MDL-3092; U.S. District Court, Northern District of Ohio (Cleveland)</li>
+<li><strong>Judge:</strong> Judge J. Philip Calabrese</li>
+<li><strong>JPML transfer date:</strong> 2024-02-02</li>
+<li><strong>Pending actions:</strong> 1,827 as of September 1, 2026</li>
+<li><strong>Current phase:</strong> Core discovery and provider depositions</li>
+<li><strong>Settlement:</strong> The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims.</li>
 </ul>
 </section>
 
@@ -129,13 +126,12 @@ faqs:
 </section>
 
 <section id="litigation-updates">
-<h2>Litigation Updates and Timeline</h2>
+<h2>Verified litigation updates</h2>
 <ul>
-<li><strong>January 2022:</strong> The FDA warned that dental problems had been reported with medicines containing buprenorphine that dissolve in the mouth and required new warning information.</li>
-<li><strong>February 2024:</strong> The JPML centralized federal Suboxone film product liability cases in MDL No. 3092 in the Northern District of Ohio.</li>
-<li><strong>2025:</strong> MDL activity focused on pleadings, discovery, case organization, and procedures for handling common warning and dental-injury issues.</li>
-<li><strong>Early 2026:</strong> Public litigation updates continued to focus on discovery, case management, and identifying claims with adequate prescription and dental documentation.</li>
-<li><strong>May 2026:</strong> Claims remain active, with the practical focus on product history, dental records, injury timing, and state-law deadline issues.</li>
+<li>JPML reports 1,827 pending actions on September 1, 2026, compared with 1,827 on August 3; 1,908 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
+<li>CMO 23, entered July 16, governs provider depositions in the core discovery pool. <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf">Source</a></li>
+<li>The bellwether protocol schedules core-pool depositions through January 15, 2027 and selection of 15 trial-pool cases on January 29, 2027. <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">Source</a></li>
+<li>March 2028 appears in the protocol as a proposed first trial setting, not an entered trial date. <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">Source</a></li>
 </ul>
 </section>
 
@@ -147,9 +143,9 @@ faqs:
 </section>
 
 <section id="status">
-<h2>Current litigation status</h2>
-<p>Suboxone dental injury claims are active and are being evaluated in coordinated federal litigation. Federal Suboxone film product liability cases have been centralized in MDL No. 3092 in the Northern District of Ohio for pretrial proceedings involving common issues such as warnings, product design, dental injury allegations, and case management.</p>
-<p>The litigation focuses on allegations that Suboxone film or related oral buprenorphine/naloxone products contributed to severe dental problems and that users were not adequately warned about the risk. Defendants generally dispute causation, warning, liability, and damages issues. Litigation status can change, so this guide is a general overview rather than a live docket report.</p>
+<h2>Current status</h2>
+<p>The July 16, 2026 CMO 23 governs provider depositions in the core discovery pool. The Second Amended CMO 15 schedules core-pool depositions through January 15, 2027 and trial-pool selection for January 29. Its later timetable describes March 2028 as a proposed first trial setting, not a fixed trial date.</p>
+<p>The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims.</p>
 </section>
 
 <section id="key-issues">
@@ -227,14 +223,13 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.ohnd.uscourts.gov/mdl-3092">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
-<li><strong>Federal court context:</strong> Federal Suboxone tooth decay cases have been coordinated in multidistrict litigation for common pretrial issues. The JPML transfer materials for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3092-Transfer_Order-1-24.pdf">MDL No. 3092</a> describe the coordinated federal proceeding.</li>
-<li><strong>Agency or medical context:</strong> Claim review may involve prescription records, dental records, pharmacy records, warnings, and records showing tooth decay, extractions, or restorative treatment. The FDA has published a <a href="https://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-about-dental-problems-buprenorphine-medicines-dissolved-mouth-treat-opioid-use-disorder">buprenorphine dental-problems safety communication</a> for medicines dissolved in the mouth.</li>
-<li><strong>Separate antitrust matters:</strong> The unrelated Suboxone antitrust cases are documented in the FTC's actions against <a href="https://www.ftc.gov/news-events/news/press-releases/2019/07/reckitt-benckiser-group-plc-pay-50-million-consumers-settling-ftc-charges-company-illegally" target="_blank" rel="noopener noreferrer">Reckitt Benckiser ($50 million)</a> and <a href="https://www.ftc.gov/news-events/news/press-releases/2020/07/indivior-inc-pay-10-million-consumers-settling-ftc-charges-company-illegally-maintained-monopoly" target="_blank" rel="noopener noreferrer">Indivior ($10 million)</a>; these concern alleged generic-suppression, not the dental-injury MDL.</li>
-<li><strong>Litigation status:</strong> This guide summarizes public litigation status information and should not be treated as a live court docket. The litigation remains active, and individual review may depend on use history, dental injury records, and timing.</li>
-<li><strong>Review note:</strong> Case status, settlement posture, deadlines, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> June 29, 2026.</li>
+<li><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf">CMO 23, entered July 16, governs provider depositions in the core discovery pool.</a></li>
+<li><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">The bellwether protocol schedules core-pool depositions through January 15, 2027 and selection of 15 trial-pool cases on January 29, 2027.</a></li>
+<li><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">March 2028 appears in the protocol as a proposed first trial setting, not an entered trial date.</a></li>
 </ul>
+<p>Defendants dispute the allegations. Hearing schedules do not establish an outcome, and pending-action counts do not establish settlement eligibility. State filing deadlines and settlement-program deadlines are different.</p>
 </section>
 
 <section id="eligibility">

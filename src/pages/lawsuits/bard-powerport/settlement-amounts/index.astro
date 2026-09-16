@@ -1,0 +1,33 @@
+---
+import SupportingGuide from "@components/SupportingGuide.astro";
+const profile = "https://www.azd.uscourts.gov/sites/azd/files/23-03081-477.pdf";
+const factSheet = "https://www.azd.uscourts.gov/sites/azd/files/23-03081-476_0.pdf";
+---
+<SupportingGuide path="/lawsuits/bard-powerport/settlement-amounts/" showSettlements introduction="The reviewed settlement record below is the starting point for Bard PowerPort payout research. A projected range without an applicable agreement or award does not establish what a claimant will receive.">
+  <section id="verified-amounts">
+    <h2>What would establish a settlement amount?</h2>
+    <p>Look for the actual agreement or official administration notice, its covered devices and claims, and any allocation rules. Record whether the number describes an entire fund, an individual settlement, or a trial award. This page does not convert case counts or amounts from other litigation into a PowerPort payout estimate.</p>
+    <p>Use the dated settlement record above to see what the site's reviewed sources support. If a source does not publish an amount applicable to a particular claim, that gap cannot be filled by an online average. A private proposal, if one is received, requires review of its own terms.</p>
+  </section>
+  <section id="device-identity">
+    <h2>First establish the device and alleged injury</h2>
+    <p>The court-approved profile form asks for the implanted product and supporting medical records. It separately asks about alleged catheter and port-body complications, removal procedures, retained devices, and fragment removal. The form documents allegations; it does not establish that a defect caused an injury or assign compensation. Defendants dispute the claims. <a href={profile}>Source: MDL 3081 amended CMO 8 and attached profile form</a>.</p>
+    <ul class="list-disc">
+      <li><strong>Device file:</strong> identify the implanting hospital, date, product name, and any available model or lot information.</li>
+      <li><strong>Complication file:</strong> organize the first diagnosis, imaging, treatment, and removal or attempted-removal records.</li>
+      <li><strong>Current outcome:</strong> list ongoing treatment and the records describing any continuing symptoms or limitations.</li>
+      <li><strong>Record gaps:</strong> note whether the device identification or procedure documents are missing, and which provider may hold them.</li>
+    </ul>
+    <p>This inventory is an organizational aid based on the subjects in the court's form. It is not a settlement application or a ruling on eligibility.</p>
+  </section>
+  <section id="individual-record">
+    <h2>Why an individual record matters more than a range</h2>
+    <p>The court's plaintiff fact sheet requests detailed personal and medical information and an updated, accurate profile form. This document-by-document process is more specific than grouping everyone with an implanted port under a single estimated payout. <a href={factSheet}>Source: amended CMO 9 and plaintiff fact sheet</a>.</p>
+    <p>Keep medical bills and insurance statements with the treatment timeline, and distinguish a billed amount from an amount actually paid. If reviewing a settlement offer, identify the gross figure, the proposed deductions, the release language, and any conditions before comparing it with another person's result. These are questions for reviewing the document, not a calculation of value.</p>
+  </section>
+  <section id="different-litigation">
+    <h2>Check that a headline concerns PowerPort</h2>
+    <p>The court identifies this proceeding as Bard <em>Implanted Port Catheter</em> Products Liability Litigation, MDL 3081. <a href="https://www.azd.uscourts.gov/content/case-management-order-no-27-0">Source: District of Arizona case identification</a>. Search results mentioning only “Bard” may not identify the product at issue. Match the exact litigation name before using a settlement announcement as evidence.</p>
+    <p>Read the <a href="/lawsuits/bard-powerport/">national Bard PowerPort guide</a> for allegations and current developments, and the <a href="/mdl/3081/">MDL 3081 guide</a> for the federal court record. Filing deadlines require their own review; following settlement news does not answer whether a claim is timely.</p>
+  </section>
+</SupportingGuide>

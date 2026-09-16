@@ -1,6 +1,6 @@
 ---
 title: "Social Media Addiction Lawsuit Guide (MDL 3047)"
-description: "Plain-English guide to the social media adolescent addiction lawsuits: MDL-3047 status, teen mental-health allegations against Meta, TikTok, Snap, and YouTube, bellwether trials, who may qualify, and state resources."
+description: "Social Media Adolescent Addiction lawsuit update: September 2026 court status, settlement information, filing deadlines and state resources."
 lawsuit: "Social Media Addiction"
 urlSlug: "social-media"
 category: "Product Liability"
@@ -23,7 +23,7 @@ injuries:
   - "Suicidal ideation or attempts"
   - "Compulsive or problematic use ('addiction')"
   - "Sleep disruption"
-settlementStatus: "There is no global settlement in MDL-3047 or the California JCCP. Defendants have reached only confidential settlements in individual bellwether cases. In the first Los Angeles JCCP personal-injury bellwether, a jury awarded $6 million in March 2026 against Meta and YouTube (Snap and TikTok had settled that case before trial); ahead of the second personal-injury bellwether set for July 27, 2026, YouTube reached a confidential settlement in June 2026. Bellwether results shape negotiating posture but do not set any guaranteed individual amount, and the companies dispute the claims."
+settlementStatus: "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive."
 timeline:
   -
     label: "Platform use during adolescence"
@@ -34,21 +34,21 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer compares the use-and-injury timeline with MDL-3047 / JCCP posture and the state filing deadline, including rules that pause deadlines for minors."
-lastUpdated: "2026-06-29"
-lastReviewed: "2026-06-29"
+lastUpdated: "2026-09-14"
+lastReviewed: "2026-09-14"
 faqs:
   -
     question: "What is the social media addiction lawsuit about?"
     answer: "Lawsuits allege that Meta (Instagram, Facebook), TikTok, Snapchat, and YouTube intentionally designed their platforms to be addictive to young users — through features like infinite scroll, autoplay, and algorithmic feeds — and failed to warn families about the mental-health risks, contributing to depression, anxiety, eating disorders, self-harm, and suicidal behavior. The companies dispute the allegations. Federal cases are consolidated in MDL-3047, with a parallel California state-court proceeding (JCCP 5255)."
   -
     question: "How much are social media lawsuit settlements worth?"
-    answer: "There is no global settlement and no official payout figures, so any specific amount circulating online is speculation. Some defendants have reached confidential settlements in individual bellwether cases, and in the first Los Angeles personal-injury bellwether a jury awarded $6 million against Meta and YouTube in March 2026. Past verdicts and confidential deals do not set a value for any other case — amounts depend on the individual facts, injury severity, and proof, and nothing is guaranteed."
+    answer: "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive. The school-district bellwether is listed for February 8, 2027 in the court-linked calendar."
   -
     question: "Is the social media lawsuit a class action?"
     answer: "Not for the personal-injury claims. Individual injury cases are coordinated as multidistrict litigation (MDL-3047) and in the California JCCP, where each plaintiff keeps a separate claim. The litigation also includes school-district cases and lawsuits brought by state attorneys general, which are their own actions — none of which is a single class action that binds every user."
   -
     question: "When will the social media lawsuit be settled?"
-    answer: "There is no settlement date. Bellwether trials are underway in 2026 — a federal school-district trial began in June 2026, and personal-injury bellwethers are proceeding in the California JCCP — and those outcomes typically shape any later settlement negotiations. As of mid-2026 there is no global settlement, and nothing is guaranteed for any individual claim."
+    answer: "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive. The school-district bellwether is listed for February 8, 2027 in the court-linked calendar."
   -
     question: "Which companies are being sued?"
     answer: "The main defendants are Meta Platforms (Instagram and Facebook), TikTok and its parent ByteDance, Snap Inc. (Snapchat), and Google/YouTube. Which companies are relevant to a particular claim depends on which platforms the young person actually used."
@@ -67,47 +67,43 @@ faqs:
 ---
 
 <section id="overview">
-<h2>What the lawsuit is about</h2>
-<p><strong>The social media addiction lawsuit alleges that Meta (Instagram and Facebook), TikTok, Snapchat, and YouTube deliberately engineered their platforms to be addictive to children and teens, and failed to warn families about resulting mental-health harms such as depression, anxiety, eating disorders, self-harm, and suicidal behavior.</strong> Federal personal-injury cases are consolidated in MDL-3047 before Judge Yvonne Gonzalez Rogers in the U.S. District Court for the Northern District of California, with a parallel California state-court proceeding (JCCP 5255) in Los Angeles. The companies dispute the claims.</p>
-<p>As of June 2026, the litigation is active and in its bellwether-trial phase: 2,664 cases were pending in MDL-3047 as of June 1, 2026, a federal school-district bellwether went to trial in June 2026, and personal-injury bellwethers are proceeding in the California JCCP. There is no global settlement.</p>
-<p>The cases combine three kinds of plaintiffs: individuals (young users and their families), school districts that say platform harms strained their resources, and state attorneys general. Claim review for an individual usually turns on which platforms were used, the user's age, the documented mental-health harm, and the state filing deadline.</p>
+<h2>What the Social Media Adolescent Addiction lawsuit is about</h2>
+<p>Social media lawsuits allege that platform design harmed adolescents through compulsive use. The companies dispute those allegations. MDL-3047 before Judge Yvonne Gonzalez Rogers includes distinct individual, school-district and state attorneys general tracks. California JCCP 5255 is a separate state proceeding; its events should not be described as federal MDL trials.</p>
 </section>
 
 <section id="latest-update">
-<h2>Social Media Lawsuit Update: June 2026</h2>
-<p>The litigation reached its first trials in 2026. In the California JCCP (the "Social Media Cases," JCCP 5255, before Judge Carolyn Kuhl in Los Angeles Superior Court), the first personal-injury bellwether ended in <strong>a $6 million jury verdict against Meta and YouTube in March 2026</strong>; Snap and TikTok had settled that case before it reached the jury. In the federal MDL, a <strong>school-district bellwether trial (Breathitt County, Kentucky) began in June 2026</strong>.</p>
-<p>A <strong>second California personal-injury bellwether is scheduled for July 27, 2026</strong>. Ahead of it, YouTube reached a confidential settlement in June 2026, while Meta, Snap, and TikTok remain defendants. There is still no global settlement, and the companies continue to dispute the allegations.</p>
-<p>For families researching the case, the practical point is that these early results are case-specific: a verdict or confidential settlement in one bellwether does not set a value or guarantee any outcome for another claim.</p>
+<h2>Social Media Adolescent Addiction Lawsuit update: September 2026</h2>
+<p><strong>Separate state-AG, school-district and individual litigation tracks.</strong> The court-linked MDL Centrality calendar lists an August 17, 2026 start for the state attorneys general trial against Meta and February 8, 2027 for the school-district bellwether jury trial. Those schedules do not establish a verdict or settlement. Federal individual claims and the separate California JCCP must not be confused with these government-plaintiff tracks.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>3,208 pending actions</strong> in MDL-3047, compared with 3,137 on August 3. Its 3,383 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Official court records</a> checked September 14, 2026.</p>
 </section>
 
 <section id="case-status-snapshot">
-<h2>Case snapshot</h2>
+<h2>Case status snapshot</h2>
 <ul>
-<li><strong>Litigation:</strong> federal multidistrict litigation — MDL-3047, In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation</li>
-<li><strong>Court:</strong> U.S. District Court, Northern District of California</li>
-<li><strong>Judge:</strong> Yvonne Gonzalez Rogers</li>
-<li><strong>MDL established:</strong> October 6, 2022</li>
-<li><strong>Parallel state court:</strong> California JCCP 5255 ("Social Media Cases"), Los Angeles Superior Court, Judge Carolyn Kuhl</li>
-<li><strong>Pending actions:</strong> 2,664 in MDL-3047 (JPML, June 1, 2026), plus the JCCP and school-district and state-AG cases</li>
-<li><strong>Defendants:</strong> Meta (Instagram, Facebook); Google/YouTube; TikTok/ByteDance; Snap (Snapchat)</li>
-<li><strong>Alleged injuries:</strong> depression, anxiety, eating disorders, self-harm, suicidal behavior, compulsive use</li>
-<li><strong>Settlement status:</strong> no global settlement; confidential individual bellwether deals only</li>
+<li><strong>Federal proceeding:</strong> MDL-3047; U.S. District Court, Northern District of California</li>
+<li><strong>Judge:</strong> Judge Yvonne Gonzalez Rogers</li>
+<li><strong>JPML transfer date:</strong> 2022-10-06</li>
+<li><strong>Pending actions:</strong> 3,208 as of September 1, 2026</li>
+<li><strong>Current phase:</strong> Separate state-AG, school-district and individual litigation tracks</li>
+<li><strong>Settlement:</strong> The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.</li>
 </ul>
 </section>
 
 <section id="litigation-updates">
-<h2>Litigation updates</h2>
+<h2>Verified litigation updates</h2>
 <ul>
-<li><strong>June 2026:</strong> A federal school-district bellwether (Breathitt County, KY) went to trial; YouTube settled out of the second California personal-injury bellwether set for July 27, 2026.</li>
-<li><strong>March 2026:</strong> The first California JCCP personal-injury bellwether returned a $6 million verdict against Meta and YouTube; Snap and TikTok had settled that case pre-trial.</li>
-<li><strong>2023–2025:</strong> The MDL and JCCP grew through coordinated discovery and motions; the court allowed core design-defect and failure-to-warn theories to proceed past early dismissal motions.</li>
-<li><strong>October 6, 2022:</strong> The JPML created MDL-3047 in the Northern District of California.</li>
+<li>JPML reports 3,208 pending actions on September 1, 2026, compared with 3,137 on August 3; 3,383 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
+<li>The court-linked calendar lists February 8, 2027 for the school-district bellwether jury trial, with jury selection February 3. <a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Source</a></li>
+<li>The same calendar lists the state attorneys general trial against Meta from August 17, 2026; that schedule is separate from an individual injury trial. <a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Source</a></li>
+<li>The federal court’s September 8 recent filings list conditional transfer order CTO-87, confirming continuing MDL transfers. <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Source</a></li>
 </ul>
 </section>
 
 <section id="status">
 <h2>Current status</h2>
-<p>The litigation is active and in its bellwether-trial phase. Federal personal-injury and school-district cases are coordinated in MDL-3047, while many individual cases proceed in the California JCCP, and state attorneys general pursue their own enforcement actions. New cases continue to be filed, and no global settlement program exists as of June 2026.</p>
+<p>The court-linked MDL Centrality calendar lists an August 17, 2026 start for the state attorneys general trial against Meta and February 8, 2027 for the school-district bellwether jury trial. Those schedules do not establish a verdict or settlement. Federal individual claims and the separate California JCCP must not be confused with these government-plaintiff tracks.</p>
+<p>The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.</p>
 </section>
 
 <section id="eligibility">
@@ -122,7 +118,8 @@ faqs:
 
 <section id="settlement">
 <h2>Settlement status</h2>
-<p>There is no global settlement in MDL-3047 or the California JCCP, and this site does not publish settlement estimates or "calculators." Some defendants have entered confidential settlements in individual bellwether cases, and the first California personal-injury bellwether produced a $6 million verdict against Meta and YouTube in March 2026. Those outcomes can influence negotiating posture, but they do not establish a value or guarantee any result for other claims, which turn on their own facts, injuries, and proof.</p>
+<p>The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.</p>
+<p><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Official settlement or court record</a></p>
 </section>
 
 <section id="safety-note">
@@ -131,12 +128,12 @@ faqs:
 </section>
 
 <section id="sources-status-notes">
-<h2>Sources and notes</h2>
+<h2>Sources and status notes</h2>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
-<li><strong>Federal court context:</strong> Federal social-media adolescent-injury cases are coordinated in <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products" target="_blank" rel="noopener noreferrer">MDL-3047 (4:22-md-03047-YGR)</a> in the Northern District of California; pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf" target="_blank" rel="noopener noreferrer">JPML's June 1, 2026 report</a>.</li>
-<li><strong>Trial and settlement context:</strong> The first JCCP bellwether verdict and the June 2026 YouTube settlement are reported by <a href="https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/" target="_blank" rel="noopener noreferrer">Law.com (The Recorder)</a>.</li>
-<li><strong>Litigation status:</strong> This guide summarizes public litigation status and should not be treated as a live court docket. The companies dispute the allegations, and this page does not assert that any defendant is liable.</li>
-<li><strong>Review note:</strong> Case status, bellwether schedules, settlement posture, and eligibility factors can change.</li>
-<li><strong>Last reviewed:</strong> June 29, 2026.</li>
+<li><a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">The court-linked calendar lists February 8, 2027 for the school-district bellwether jury trial, with jury selection February 3.</a></li>
+<li><a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">The same calendar lists the state attorneys general trial against Meta from August 17, 2026; that schedule is separate from an individual injury trial.</a></li>
+<li><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">The federal court’s September 8 recent filings list conditional transfer order CTO-87, confirming continuing MDL transfers.</a></li>
 </ul>
+<p>Defendants dispute the allegations. Hearing schedules do not establish an outcome, and pending-action counts do not establish settlement eligibility. State filing deadlines and settlement-program deadlines are different.</p>
 </section>

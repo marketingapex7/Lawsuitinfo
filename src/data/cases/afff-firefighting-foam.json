@@ -10,11 +10,35 @@
     "judge": "Judge Richard M. Gergel",
     "established": "2018-12-07"
   },
-  "phase": "Personal-injury case management; public-water settlement administration",
-  "phaseDetail": "Case Management Order No. 35 (August 15, 2025) vacated the October 20, 2025 bellwether trial and established filing and proof requirements for six listed personal-injury categories. Case Management Order No. 26N sets a July 20, 2026 deadline for Group B bellwether selections and expert-discovery proposals involving thyroid-disease and ulcerative-colitis plaintiffs, but does not set a new trial date. The official settlement administrator separately identifies four finally approved public-water-system settlements.",
-  "updateNote": "Clarified the distinction between the four finally approved public-water-system settlements and the separately managed personal-injury cases using official court and settlement-administration sources.",
+  "phase": "Personal-injury discovery; water-system settlement administration",
+  "phaseDetail": "The July 30, 2026 CMO 26O moves Group B selection and expert-discovery proposals to November 20, 2026. The August 31 CMO 33F sets thyroid/liver-cancer Rule 702 response and reply deadlines for November 20, 2026 and January 22, 2027. These expert proceedings are separate from the four finally approved public-water-system settlements.",
   "pendingCounts": [
-    { "date": "2026-07-01", "count": 15244, "scope": "Pending actions in MDL-2873", "source": "JPML MDL Statistics Report, July 1, 2026", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf", "primary": true }
+    {
+      "date": "2026-09-01",
+      "count": 15264,
+      "totalFiled": 19840,
+      "scope": "Pending actions in MDL-2873",
+      "source": "JPML MDL Statistics Report, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 15246,
+      "totalFiled": 19822,
+      "scope": "Pending actions in MDL-2873",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    },
+    {
+      "date": "2026-07-01",
+      "count": 15244,
+      "scope": "Pending actions in MDL-2873",
+      "source": "JPML MDL Statistics Report, July 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf",
+      "primary": false
+    }
   ],
   "defendants": [
     "3M",
@@ -30,48 +54,192 @@
       "status": "final approved, claims administration — water systems only",
       "detail": "$10.5 billion to $12.5 billion paid over 13 years to public water systems for PFAS contamination, per the official settlement FAQ. Final approval entered by Judge Gergel (fairness hearing February 2, 2024). Compensates water utilities, not individuals.",
       "source": "Official court-supervised settlement administration site",
-      "sourceUrl": "https://www.pfaswatersettlement.com/"
+      "sourceUrl": "https://www.pfaswatersettlement.com/",
+      "verifiedOn": "2026-09-14",
+      "kind": "public-entity",
+      "individualClaims": "Public water systems only; this settlement does not resolve individual personal-injury claims."
     },
     {
       "label": "DuPont / Chemours / Corteva — public water systems",
       "status": "final approved, claims administration — water systems only",
       "detail": "$1.185 billion settlement resolving claims of roughly 14,000 public water systems. Final approval entered following the December 14, 2023 fairness hearing.",
       "source": "Official court-supervised settlement administration site",
-      "sourceUrl": "https://www.pfaswatersettlement.com/"
+      "sourceUrl": "https://www.pfaswatersettlement.com/",
+      "verifiedOn": "2026-09-14",
+      "kind": "public-entity",
+      "individualClaims": "Public water systems only; this settlement does not resolve individual personal-injury claims."
     },
     {
       "label": "Tyco Fire Products / Chemguard — public water systems",
       "status": "final approved, claims administration — water systems only",
       "detail": "$750 million settlement; final approval order entered November 2024 (ECF 6406).",
       "source": "Tyco final approval order (ECF 6406)",
-      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf"
+      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf",
+      "verifiedOn": "2026-09-14",
+      "kind": "public-entity",
+      "individualClaims": "Public water systems only; this settlement does not resolve individual personal-injury claims."
     },
     {
       "label": "BASF — public water systems",
       "status": "final approved, claims administration — water systems only",
       "detail": "$316.5 million total ($312.5M settlement amount + $4M notice/administration); agreement signed May 20, 2024, final approval entered November 22, 2024.",
       "source": "BASF preliminary approval motion (official settlement site)",
-      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/06/AFFF_BASF_Motion-for-Preliminary-Approval_06.03.2024.pdf"
+      "sourceUrl": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/06/AFFF_BASF_Motion-for-Preliminary-Approval_06.03.2024.pdf",
+      "verifiedOn": "2026-09-14",
+      "kind": "public-entity",
+      "individualClaims": "Public water systems only; this settlement does not resolve individual personal-injury claims."
     },
     {
       "label": "Personal-injury claims",
       "status": "none",
-      "detail": "No settlement program exists for individual injury claims (kidney cancer, testicular cancer, thyroid disease, ulcerative colitis). The reset kidney-cancer bellwether and any rulings around it are expected to drive personal-injury settlement posture."
+      "detail": "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
+      "verifiedOn": "2026-09-14",
+      "kind": "none",
+      "individualClaims": "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders.asp",
+      "source": "Public MDL orders and official water-system administrator"
     }
   ],
   "keyDates": [
-    { "date": "2018-12-07", "label": "MDL-2873 established", "detail": "JPML centralized federal AFFF cases before Judge Richard M. Gergel in the District of South Carolina." },
-    { "date": "2025-08-15", "label": "CMO 35 vacates October 2025 bellwether", "detail": "The court vacated the first kidney-cancer personal-injury trial setting and opened a claim verification window." },
-    { "date": "2026-07-01", "label": "15,244 pending actions", "detail": "JPML's July 1, 2026 report listed 15,244 actions pending in MDL No. 2873." },
-    { "date": "2026-07-20", "label": "Group B proposals due", "detail": "CMO 26N directs the parties to submit bellwether selection and expert-discovery proposals for thyroid-disease and ulcerative-colitis Group B cases." }
+    {
+      "date": "2018-12-07",
+      "label": "MDL-2873 established",
+      "detail": "JPML centralized federal AFFF cases before Judge Richard M. Gergel in the District of South Carolina.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2025-08-15",
+      "label": "CMO 35 vacates October 2025 bellwether",
+      "detail": "The court vacated the first kidney-cancer personal-injury trial setting and opened a claim verification window.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders.asp",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-07-01",
+      "label": "15,244 pending actions",
+      "detail": "JPML's July 1, 2026 report listed 15,244 actions pending in MDL No. 2873.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders.asp",
+      "source": "Official court record",
+      "verifiedOn": "2026-09-14",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "Group B proposals due",
+      "detail": "CMO 26O extends the July 20 proposal date to November 20.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf",
+      "source": "Official court or settlement record",
+      "verifiedOn": "2026-09-14",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "appliesTo": "Group B personal-injury discovery pool"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "Thyroid/liver-cancer Rule 702 responses due",
+      "detail": "CMO 33F sets the response deadline; this is briefing, not a trial.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
+      "source": "Official court or settlement record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "Thyroid/liver-cancer expert motions"
+    },
+    {
+      "date": "2027-01-22",
+      "label": "Thyroid/liver-cancer Rule 702 replies due",
+      "detail": "CMO 33F sets the reply deadline.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
+      "source": "Official court or settlement record",
+      "verifiedOn": "2026-09-14",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "Thyroid/liver-cancer expert motions"
+    }
   ],
   "sources": [
-    { "name": "D.S.C. — MDL 2873 orders page", "url": "https://www.scd.uscourts.gov/mdl-2873/" },
-    { "name": "CMO 35 (PDF) — bellwether reset", "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2035%20ECF%207823.pdf" },
-    { "name": "CMO 26N (PDF) — Group B bellwether schedule", "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.N%20ECF%208932.pdf" },
-    { "name": "Official PFAS public-water-system settlement administration site", "url": "https://www.pfaswatersettlement.com/" },
-    { "name": "JPML — Pending MDL Dockets, July 1, 2026 (PDF)", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf" },
-    { "name": "Tyco $750M final approval order (PDF)", "url": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf" }
+    {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "JPML — September 1, 2026 assignments and transfer dates",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf"
+    },
+    {
+      "name": "Official court case orders",
+      "url": "https://www.scd.uscourts.gov/mdl-2873/orders.asp"
+    },
+    {
+      "name": "CMO 26O moves Group B case-selection and expert-discovery proposals to November 20, 2026.",
+      "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf"
+    },
+    {
+      "name": "CMO 33F sets thyroid/liver-cancer expert-motion responses for November 20, 2026 and replies for January 22, 2027; it does not set a trial.",
+      "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf"
+    },
+    {
+      "name": "The administrator confirms four water-system settlements have final approval; the Phase Two water-system claims deadline was July 31, 2026.",
+      "url": "https://www.pfaswatersettlement.com/"
+    },
+    {
+      "name": "D.S.C. — MDL 2873 orders page",
+      "url": "https://www.scd.uscourts.gov/mdl-2873/"
+    },
+    {
+      "name": "CMO 35 (PDF) — bellwether reset",
+      "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2035%20ECF%207823.pdf"
+    },
+    {
+      "name": "CMO 26N (PDF) — Group B bellwether schedule",
+      "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.N%20ECF%208932.pdf"
+    },
+    {
+      "name": "JPML — Pending MDL Dockets, July 1, 2026 (PDF)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf"
+    },
+    {
+      "name": "Tyco $750M final approval order (PDF)",
+      "url": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf"
+    }
   ],
-  "dataAsOf": "2026-07-19"
+  "dataAsOf": "2026-09-14",
+  "statusVerifiedOn": "2026-09-14",
+  "updates": [
+    {
+      "date": "2026-09-14",
+      "summary": "JPML reports 15,264 pending actions on September 1, 2026, compared with 15,246 on August 3; 19,840 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "CMO 26O moves Group B case-selection and expert-discovery proposals to November 20, 2026.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "CMO 33F sets thyroid/liver-cancer expert-motion responses for November 20, 2026 and replies for January 22, 2027; it does not set a trial.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "The administrator confirms four water-system settlements have final approval; the Phase Two water-system claims deadline was July 31, 2026.",
+      "sourceUrl": "https://www.pfaswatersettlement.com/"
+    }
+  ]
 }

@@ -1,9 +1,10 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
-import { formatCount, getAllCaseData, latestPendingCount } from "@lib/caseData";
+import { getAllCaseData } from "@lib/caseData";
 import { caseIntentHref } from "@lib/caseLinks";
 import { datasetSchema } from "@lib/seo";
+import { formatDate } from "@lib/site";
 
 const cases = getAllCaseData();
 const updated = cases.map((item) => item.dataAsOf).sort().at(-1) ?? "2026-06-19";
@@ -11,11 +12,9 @@ const breadcrumbs = [
   { name: "Home", url: "/" },
   { name: "Settlement Tracker", url: "/settlements/" }
 ];
-const rows = cases.map((item) => ({
-  ...item,
-  headlineCount: latestPendingCount(item),
-  primarySettlement: item.settlements[0]
-}));
+const rows = cases.flatMap((item) => item.settlements.map((settlement) => ({ item, settlement })));
+const kindLabel = { global: "Global settlement", "public-entity": "Government / public entity", individual: "Individual claims", proposed: "Proposed settlement", none: "No announced settlement" };
+const statusLabel = (status: string) => status === "none" ? "No public settlement program identified" : status;
 ---
 
 <BaseLayout
@@ -41,11 +40,12 @@ const rows = cases.map((item) => ({
   <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
     <Breadcrumbs items={breadcrumbs} />
     <header class="max-w-3xl">
-      <h1 class="text-4xl font-black tracking-normal text-ink">Mass Tort Settlement Tracker</h1>
+      <p class="text-sm font-black uppercase tracking-wide text-accent-dark">Verified September 2026</p>
+      <h1 class="mt-2 text-4xl font-black tracking-normal text-ink">Mass Tort Settlement Tracker</h1>
       <p class="mt-4 text-lg leading-8 text-muted">
         A case-by-case settlement-status view for the lawsuit library. Settlement posture is not a promise of payment; individual outcomes depend on injury proof, deadlines, releases, and court rulings.
       </p>
-      <p class="mt-3 text-sm font-bold text-muted">Data last aligned: {updated}</p>
+      <p class="mt-3 text-sm font-bold text-muted">Last verified: {formatDate(updated)}</p>
     </header>
 
     <section class="mt-8 overflow-hidden rounded-lg border border-line bg-white shadow-sm">
@@ -54,37 +54,29 @@ const rows = cases.map((item) => ({
           <thead class="bg-panel text-xs uppercase tracking-[0.08em] text-muted">
             <tr>
               <th class="px-4 py-3">Case</th>
-              <th class="px-4 py-3">Settlement Posture</th>
-              <th class="px-4 py-3">Pending Actions</th>
+              <th class="px-4 py-3">Type</th>
+              <th class="px-4 py-3">Status and Amount</th>
+              <th class="px-4 py-3">Individual Claims?</th>
               <th class="px-4 py-3">Source</th>
             </tr>
           </thead>
           <tbody class="divide-y divide-line">
-            {rows.map((row) => (
+            {rows.map(({ item, settlement }) => (
               <tr class="align-top">
                 <td class="px-4 py-4">
-                  <a class="font-bold text-accent-dark" href={caseIntentHref(row.slug, "settlement")}>{row.caseName}</a>
-                  <div class="mt-1 text-xs text-muted">{row.phase}</div>
+                  <a class="font-bold text-accent-dark" href={caseIntentHref(item.slug, "settlement")}>{item.caseName}</a>
+                  <div class="mt-1 text-xs text-muted">{settlement.label}</div>
                 </td>
+                <td class="px-4 py-4 font-bold">{settlement.kind ? kindLabel[settlement.kind] : "Status entry"}</td>
                 <td class="px-4 py-4">
-                  <div class="font-bold text-ink">{row.primarySettlement?.status ?? "not listed"}</div>
-                  <p class="mt-1 max-w-xl leading-6 text-muted">{row.primarySettlement?.detail ?? "No public settlement entry is listed in the case database."}</p>
+                  <div class="font-bold text-ink">{statusLabel(settlement.status)}</div>
+                  {settlement.amount && <div class="mt-1 font-black text-accent-dark">{settlement.amount}</div>}
+                  <p class="mt-1 max-w-xl leading-6 text-muted">{settlement.detail}</p>
                 </td>
-                <td class="px-4 py-4 whitespace-nowrap">
-                  {row.headlineCount ? (
-                    <>
-                      <div class="font-bold text-ink">{formatCount(row.headlineCount.count)}</div>
-                      <div class="text-xs text-muted">{row.headlineCount.date}</div>
-                    </>
-                  ) : (
-                    <span class="text-muted">Not listed</span>
-                  )}
-                </td>
+                <td class="px-4 py-4 text-sm leading-6 text-muted">{settlement.individualClaims ?? (settlement.kind === "public-entity" ? "No — this entry covers public entities." : "Review the program scope; no payment is automatic.")}</td>
                 <td class="px-4 py-4">
-                  {row.primarySettlement?.sourceUrl ? (
-                    <a class="font-bold text-accent-dark" href={row.primarySettlement.sourceUrl}>{row.primarySettlement.source ?? "Settlement source"}</a>
-                  ) : row.headlineCount?.sourceUrl ? (
-                    <a class="font-bold text-accent-dark" href={row.headlineCount.sourceUrl}>{row.headlineCount.source}</a>
+                  {settlement.sourceUrl ? (
+                    <a class="font-bold text-accent-dark" href={settlement.sourceUrl} data-track="source_click">{settlement.source ?? "Settlement source"}</a>
                   ) : (
                     <span class="text-muted">See case guide</span>
                   )}
@@ -95,5 +87,6 @@ const rows = cases.map((item) => ({
         </table>
       </div>
     </section>
+    <section class="mt-8 rounded-lg border border-line bg-[#eef7f8] p-5"><h2 class="text-2xl font-black">How statuses are separated</h2><p class="mt-2 leading-7 text-muted">A proposed settlement has different legal effect from a finally approved program. Public-water, government, or class settlements may exclude individual injury claims. An aggregate announced amount is not an average award, and a pending MDL count is not a payment count.</p></section>
   </div>
 </BaseLayout>

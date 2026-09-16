@@ -11,7 +11,7 @@ categorySlug: "product-liability"
 status: "Active / Investigating"
 primaryInjury: "Ovarian cancer and mesothelioma"
 exposureContext: "Florida residents may have used talc-based powders such as Johnson's Baby Powder or Shower to Shower for personal hygiene over many years before an ovarian cancer or mesothelioma diagnosis."
-lastUpdated: "2026-06-17"
+lastUpdated: "2026-09-14"
 lastReviewed: "2026-06-17"
 faqs:
   -
@@ -34,7 +34,7 @@ faqs:
     answer: "Product-use history (brand, years, frequency), pathology and biopsy reports, oncology and surgical records, and the diagnosis date are commonly requested first. Purchase records, photos, or witness statements can help show product use."
   -
     question: "Has there been a talcum powder settlement?"
-    answer: "No global settlement exists. Johnson & Johnson's three 'Texas Two-Step' bankruptcy attempts were all rejected, most recently on March 31, 2025. Cases are proceeding in the MDL and state courts, and no amount is guaranteed for any individual claim."
+    answer: "Johnson & Johnson announced a conditional proposed $5.5 billion ovarian-talc resolution in July 2026. The proposal is not a finally approved global settlement and depends on participation conditions. Cases are proceeding in the MDL and state courts, and no amount is guaranteed for any individual claim."
   -
     question: "Is talcum powder still sold?"
     answer: "Johnson & Johnson stopped selling talc-based Johnson's Baby Powder in North America in 2020 and worldwide in 2023, replacing it with a cornstarch-based product. The litigation concerns past use and alleged injuries."
@@ -45,7 +45,7 @@ faqs:
 
 <section id="state-overview">
 <h2>What Florida residents should know</h2>
-<p>Florida residents with talcum powder claims are generally not limited to Florida state court. Most federal ovarian-cancer cases are coordinated in the multidistrict litigation, <strong>MDL-2738</strong>, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, which held about 68,029 pending actions as of June 1, 2026 — the largest active MDL by pending actions.</p>
+<p>Florida residents with talcum powder claims are generally not limited to Florida state court. Most federal ovarian-cancer cases are coordinated in the multidistrict litigation, <strong>MDL-2738</strong>, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, which held 69,250 pending actions as of September 1, 2026 — the largest active MDL by pending actions.</p>
 <p>Florida law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL or in state court.</p>
 </section>
 

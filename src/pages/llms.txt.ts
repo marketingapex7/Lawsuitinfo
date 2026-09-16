@@ -1,6 +1,8 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
 import { site, states } from "@lib/site";
+import { getAllCaseData } from "@lib/caseData";
+import supportingGuides from "../data/supporting-guides.json";
 
 export const prerender = true;
 
@@ -10,6 +12,7 @@ export async function GET() {
   );
   const stateGuides = await getCollection("state-guides");
   const categories = await getCollection("categories");
+  const cases = getAllCaseData();
 
   const lawsuitLines = lawsuits.map((entry) => {
     const url = `${site.url}/lawsuits/${entrySlug(entry)}/`;
@@ -43,6 +46,21 @@ ${stateLines.join("\n")}
 ## Categories
 
 ${categories.map((category) => `- [${category.data.name}](${site.url}/categories/${entrySlug(category)}/)`).join("\n")}
+
+## MDL status pages
+
+${cases.filter((item) => item.litigation.mdlNumber).map((item) => `- [${item.litigation.mdlNumber}: ${item.caseName}](${site.url}/mdl/${item.litigation.mdlNumber!.replace(/\D/g, "")}/): Verified ${item.dataAsOf}.`).join("\n")}
+
+## Focused guides
+
+${supportingGuides.map((guide) => `- [${guide.title}](${site.url}${guide.path}): ${guide.description}`).join("\n")}
+
+## Site-wide trackers
+
+- [Latest lawsuit updates](${site.url}/updates/)
+- [MDL statistics](${site.url}/mdl-statistics/)
+- [Settlement tracker](${site.url}/settlements/)
+- [Deadline tracker](${site.url}/deadlines/)
 
 ## Policies and contact
 

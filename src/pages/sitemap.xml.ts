@@ -1,6 +1,8 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
 import { minimumIndexableStateGuides, site, states } from "@lib/site";
+import { getAllCaseData } from "@lib/caseData";
+import supportingGuides from "../data/supporting-guides.json";
 
 export const prerender = true;
 
@@ -26,6 +28,7 @@ export async function GET() {
   const lawsuits = await getCollection("lawsuits");
   const stateGuides = await getCollection("state-guides");
   const categories = await getCollection("categories");
+  const cases = getAllCaseData();
 
   // "/" and "/lawsuits/" visibly surface per-guide "last updated" dates and orderings,
   // so their rendered content genuinely changes when any guide updates. Pages without a
@@ -43,6 +46,7 @@ export async function GET() {
     { loc: "/settlements/", lastmod: newestContentDate },
     { loc: "/deadlines/", lastmod: newestContentDate },
     { loc: "/mdl-statistics/", lastmod: newestContentDate },
+    { loc: "/updates/", lastmod: newestContentDate },
     { loc: "/states/" },
     { loc: "/editorial-policy/" },
     { loc: "/legal-disclaimer/" },
@@ -62,6 +66,8 @@ export async function GET() {
       loc: `/categories/${entrySlug(category)}/`,
       lastmod: category.data.lastUpdated
     })),
+    ...cases.filter((item) => item.litigation.mdlNumber).map((item) => ({ loc: `/mdl/${item.litigation.mdlNumber!.replace(/\D/g, "")}/`, lastmod: item.dataAsOf })),
+    ...supportingGuides.map((guide) => ({ loc: guide.path, lastmod: guide.reviewedAt })),
     ...lawsuits.map((lawsuit) => ({
       loc: `/lawsuits/${entrySlug(lawsuit)}/`,
       lastmod: lawsuit.data.lastUpdated

@@ -7,7 +7,8 @@ const pendingCountSchema = z.object({
   scope: z.string(),
   source: z.string(),
   sourceUrl: z.string().optional(),
-  primary: z.boolean().optional()
+  primary: z.boolean().optional(),
+  totalFiled: z.number().optional()
 });
 
 const caseDataSchema = z.object({
@@ -25,6 +26,12 @@ const caseDataSchema = z.object({
   phase: z.string(),
   phaseDetail: z.string().optional(),
   updateNote: z.string().optional(),
+  statusVerifiedOn: z.string().optional(),
+  updates: z.array(z.object({
+    date: z.string(),
+    summary: z.string(),
+    sourceUrl: z.string()
+  })).default([]),
   pendingCounts: z.array(pendingCountSchema).default([]),
   defendants: z.array(z.string()).default([]),
   settlements: z
@@ -34,7 +41,11 @@ const caseDataSchema = z.object({
         status: z.string(),
         detail: z.string(),
         source: z.string().optional(),
-        sourceUrl: z.string().optional()
+        sourceUrl: z.string().optional(),
+        kind: z.enum(["global", "public-entity", "individual", "proposed", "none"]).optional(),
+        amount: z.string().optional(),
+        individualClaims: z.string().optional(),
+        verifiedOn: z.string().optional()
       })
     )
     .default([]),
@@ -43,7 +54,13 @@ const caseDataSchema = z.object({
       z.object({
         date: z.string(),
         label: z.string(),
-        detail: z.string().optional()
+        detail: z.string().optional(),
+        sourceUrl: z.string().optional(),
+        source: z.string().optional(),
+        verifiedOn: z.string().optional(),
+        appliesTo: z.string().optional(),
+        kind: z.enum(["court", "bellwether", "claim", "milestone"]).optional(),
+        status: z.enum(["scheduled", "completed", "cancelled", "historical"]).optional()
       })
     )
     .default([]),
@@ -86,6 +103,25 @@ export function latestPendingCount(data: CaseData) {
 export function secondaryPendingCounts(data: CaseData) {
   const headline = latestPendingCount(data);
   return data.pendingCounts.filter((entry) => entry !== headline);
+}
+
+export function previousPendingCount(data: CaseData) {
+  const latest = latestPendingCount(data);
+  return [...data.pendingCounts]
+    .filter((entry) => entry !== latest && entry.scope === latest?.scope)
+    .sort((a, b) => b.date.localeCompare(a.date))[0];
+}
+
+export function monthlyChange(data: CaseData) {
+  const latest = latestPendingCount(data);
+  const previous = previousPendingCount(data);
+  return latest && previous ? latest.count - previous.count : undefined;
+}
+
+export function nextMajorDate(data: CaseData, asOf = data.dataAsOf) {
+  return data.keyDates
+    .filter((entry) => entry.date >= asOf && entry.status !== "cancelled" && entry.status !== "completed" && entry.status !== "historical")
+    .sort((a, b) => a.date.localeCompare(b.date))[0];
 }
 
 const limitationSchema = z.object({

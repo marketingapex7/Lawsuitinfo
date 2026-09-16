@@ -153,19 +153,19 @@ export function composeTitle(core: string): string {
 
 export function lawsuitSeoTitle(lawsuit: string) {
   const titles: Record<string, string> = {
-    "AFFF Firefighting Foam": "AFFF Lawsuit Update 2026: MDL 2873 & Settlements",
-    "Bard Hernia Mesh": "Hernia Mesh Lawsuit Update 2026: Bard MDL Status",
-    "Bard PowerPort": "Bard PowerPort Lawsuit Update 2026: MDL Status",
-    "Camp Lejeune Water Contamination": "Camp Lejeune Lawsuit Update 2026: Payouts & Status",
-    "Depo-Provera": "Depo-Provera Lawsuit Update 2026: Brain Tumor MDL",
-    "Hair Relaxer": "Hair Relaxer Lawsuit Update 2026: Cancer MDL Status",
-    "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL Status & Eligibility",
-    "Paragard IUD": "Paragard Lawsuit Update 2026: IUD MDL 2974 Status",
-    "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: Settlement & Parkinson's",
-    "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement & Deadlines",
-    "Social Media Addiction": "Social Media Lawsuit Update 2026: MDL 3047 Status",
-    "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: Dental Injury MDL",
-    "Talcum Powder": "Talcum Powder Lawsuit Update 2026: MDL & Verdicts"
+    "AFFF Firefighting Foam": "AFFF Lawsuit Update September 2026: MDL 2873 Status",
+    "Bard Hernia Mesh": "Hernia Mesh Lawsuit Update September 2026",
+    "Bard PowerPort": "Bard PowerPort Lawsuit Update September 2026",
+    "Camp Lejeune Water Contamination": "Camp Lejeune Lawsuit Update September 2026",
+    "Depo-Provera": "Depo-Provera Lawsuit Update September 2026",
+    "Hair Relaxer": "Hair Relaxer Lawsuit Update September 2026",
+    "Ozempic / GLP-1": "Ozempic Lawsuit Update September 2026: MDL 3094",
+    "Paragard IUD": "Paragard Lawsuit Update September 2026: MDL 2974",
+    "Paraquat Parkinson's": "Paraquat Lawsuit Update September 2026: MDL 3004",
+    "Roundup Cancer": "Roundup Lawsuit Update September 2026: Settlement",
+    "Social Media Addiction": "Social Media Lawsuit Update September 2026",
+    "Suboxone Tooth Decay": "Suboxone Lawsuit Update September 2026: MDL 3092",
+    "Talcum Powder": "Talcum Powder Lawsuit Update September 2026"
   };
   return titles[lawsuit] ?? `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }

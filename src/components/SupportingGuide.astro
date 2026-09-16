@@ -1,0 +1,77 @@
+---
+import { getCollection } from "astro:content";
+import GuideLayout from "@layouts/GuideLayout.astro";
+import CaseStatusOverview from "@components/CaseStatusOverview.astro";
+import DisclaimerBox from "@components/DisclaimerBox.astro";
+import { getCaseData } from "@lib/caseData";
+import guides from "../data/supporting-guides.json";
+
+interface Props { path: string; introduction: string; showSettlements?: boolean }
+const { path, introduction, showSettlements = false } = Astro.props;
+const guide = guides.find((item) => item.path === path);
+if (!guide) throw new Error(`Missing supporting guide metadata: ${path}`);
+const data = getCaseData(guide.caseSlug);
+if (!data) throw new Error(`Missing case data: ${guide.caseSlug}`);
+const casePath = `/lawsuits/${guide.caseSlug}/`;
+const mdlNumber = data.litigation.mdlNumber?.replace(/\D/g, "");
+const stateGuides = (await getCollection("state-guides"))
+  .filter((entry) => entry.data.lawsuitSlug === guide.caseSlug)
+  .sort((a, b) => a.data.state.localeCompare(b.data.state));
+const related = guides.filter((item) => item.caseSlug === guide.caseSlug && item.path !== path);
+const breadcrumbs = [
+  { name: "Home", url: "/" },
+  { name: "Lawsuits", url: "/lawsuits/" },
+  { name: data.caseName, url: casePath },
+  { name: guide.title, url: path }
+];
+const modified = [guide.reviewedAt, data.dataAsOf].sort().at(-1);
+---
+<GuideLayout title={guide.title} description={guide.description} breadcrumbs={breadcrumbs} article={{ datePublished: guide.reviewedAt, dateModified: modified }}>
+  <header class="max-w-4xl">
+    <p class="text-sm font-bold uppercase tracking-wide text-accent-dark">Focused case guide</p>
+    <h1 class="mt-2 text-3xl font-black leading-tight text-ink md:text-4xl">{guide.title}</h1>
+    <p class="mt-4 text-lg leading-8 text-muted">{introduction}</p>
+    <p class="mt-3 text-sm text-muted">Guide reviewed: <time datetime={guide.reviewedAt}>{guide.reviewedAt}</time>. Litigation data reviewed: <time datetime={data.dataAsOf}>{data.dataAsOf}</time>.</p>
+  </header>
+  <CaseStatusOverview data={data} compact />
+  <div class="mt-7 flex flex-wrap gap-x-5 gap-y-3 text-sm font-bold text-accent-dark">
+    <a href={casePath}>Full national case guide</a>
+    {mdlNumber && <a href={`/mdl/${mdlNumber}/`}>MDL {mdlNumber} docket guide</a>}
+    <a href="/mdl-statistics/">MDL statistics</a>
+    <a href="/settlements/">Settlement tracker</a>
+    <a href="/deadlines/">Deadline tracker</a>
+  </div>
+  {showSettlements && (
+    <section id="settlement-status" class="mt-8 rounded-lg border border-line bg-white p-5">
+      <h2 class="text-2xl font-bold text-ink">Verified settlement record</h2>
+      <p class="mt-2 text-sm text-muted">The entries below use the same reviewed case record as the national guide. Each program has its own scope.</p>
+      <div class="mt-4 space-y-5">
+        {data.settlements.map((entry) => (
+          <article>
+            <h3 class="font-bold text-ink">{entry.label}</h3>
+            <p class="mt-1 text-sm font-bold text-accent-dark">{entry.status}</p>
+            <p class="mt-2 leading-7 text-muted">{entry.detail}</p>
+            {entry.sourceUrl && <p class="mt-2 text-sm"><a class="font-bold text-accent-dark underline" href={entry.sourceUrl}>{entry.source ?? "Official settlement source"}</a></p>}
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+  <div class="prose-legal mt-8 max-w-4xl"><slot /></div>
+  {related.length > 0 && (
+    <nav aria-label="Related focused guides" class="mt-8 rounded-lg border border-line bg-white p-5">
+      <h2 class="text-xl font-bold">Related focused guide</h2>
+      {related.map((item) => <a class="mt-3 block font-bold text-accent-dark underline" href={item.path}>{item.title}</a>)}
+    </nav>
+  )}
+  {stateGuides.length > 0 && (
+    <section id="state-guides" class="mt-8 rounded-lg border border-line bg-white p-5">
+      <h2 class="text-2xl font-bold">State context and filing deadlines</h2>
+      <p class="mt-2 leading-7 text-muted">These state guides provide local context. A state overview cannot determine a deadline for an individual claim.</p>
+      <ul class="mt-4 grid gap-3 sm:grid-cols-2 md:grid-cols-3">
+        {stateGuides.map((entry) => <li><a class="font-bold text-accent-dark underline" href={`${casePath}${entry.data.stateSlug}/`}>{entry.data.state}</a></li>)}
+      </ul>
+    </section>
+  )}
+  <DisclaimerBox />
+</GuideLayout>
