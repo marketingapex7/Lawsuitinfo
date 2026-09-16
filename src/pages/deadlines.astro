@@ -7,7 +7,7 @@ import { datasetSchema } from "@lib/seo";
 import { formatDate } from "@lib/site";
 
 const cases = getAllCaseData();
-const today = "2026-09-15";
+const today = new Date().toISOString().slice(0, 10);
 const updated = cases.map((item) => item.dataAsOf).sort().at(-1) ?? today;
 const breadcrumbs = [
   { name: "Home", url: "/" },
@@ -45,7 +45,7 @@ const passedDates = cases.flatMap((item) => item.keyDates.filter((date) => date.
   <div class="mx-auto max-w-6xl px-4 py-6 md:py-10">
     <Breadcrumbs items={breadcrumbs} />
     <header class="max-w-3xl">
-      <p class="text-sm font-black uppercase tracking-wide text-accent-dark">Last checked September 15, 2026</p>
+      <p class="text-sm font-black uppercase tracking-wide text-accent-dark">Data last aligned {formatDate(updated)}</p>
       <h1 class="mt-2 text-4xl font-black tracking-normal text-ink">Mass Tort Deadline Tracker</h1>
       <p class="mt-4 text-lg leading-8 text-muted">
         A research page for major public litigation dates and deadline warnings. State statutes of limitations can be separate from MDL court dates and may depend on diagnosis, discovery, death, or prior settlement history.

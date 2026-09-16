@@ -6,7 +6,8 @@ interface Props { data: CaseData; compact?: boolean }
 const { data, compact = false } = Astro.props;
 const pending = latestPendingCount(data);
 const change = monthlyChange(data);
-const next = nextMajorDate(data);
+const today = new Date().toISOString().slice(0, 10);
+const next = nextMajorDate(data, today);
 const settlement = data.settlements[0];
 const settlementStatus = !settlement || settlement.status === "none"
   ? "No public settlement program identified"

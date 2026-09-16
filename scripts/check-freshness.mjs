@@ -2,7 +2,8 @@ import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 
 const root = process.cwd();
-const today = new Date("2026-09-15T12:00:00Z");
+const todayIso = new Date().toISOString().slice(0, 10);
+const today = new Date(`${todayIso}T12:00:00Z`);
 const warnings = [];
 const errors = [];
 const files = (await readdir(path.join(root, "src", "data", "cases"))).filter((name) => name.endsWith(".json"));
@@ -14,7 +15,7 @@ for (const name of files) {
   if (age > 45) errors.push(`${name}: case record is ${age} days old`);
   if (data.litigation.mdlNumber && !data.pendingCounts.some((entry) => entry.primary && entry.date >= "2026-09-01")) errors.push(`${name}: current MDL count not reviewed in September`);
   for (const entry of data.keyDates ?? []) {
-    if (entry.date < "2026-09-15" && entry.status === "scheduled") warnings.push(`${name}: ${entry.date} scheduled event needs outcome review`);
+    if (entry.date < todayIso && entry.status === "scheduled") warnings.push(`${name}: ${entry.date} scheduled event needs outcome review`);
   }
 }
 

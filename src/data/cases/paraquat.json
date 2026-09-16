@@ -11,7 +11,7 @@
     "established": "2021-06-07"
   },
   "phase": "Settlement administration and selected opt-out proceedings",
-  "phaseDetail": "The court continues to administer the confidential agreement for certain individual paraquat claims identified in CMO 24. June orders selected opt-out cases for limited discovery. A September 4 order sets a September 15, 2026 hearing concerning attorney Mark DiCello’s cases; this is a case-specific hearing, not a bellwether trial or a nationwide claim deadline.",
+  "phaseDetail": "The court continues to administer the confidential agreement for certain individual paraquat claims identified in CMO 24. June orders selected opt-out cases for limited discovery. The court canceled the September 15, 2026 hearing concerning attorney Mark DiCello’s cases in a September 11 order.",
   "pendingCounts": [
     {
       "date": "2026-09-01",
@@ -92,13 +92,13 @@
     },
     {
       "date": "2026-09-15",
-      "label": "Hearing concerning DiCello cases",
-      "detail": "September 4 order sets a 2 p.m. Central hearing. This is not a bellwether trial or general claim deadline.",
-      "sourceUrl": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder9-4-26.pdf",
+      "label": "Hearing concerning DiCello cases canceled",
+      "detail": "A September 11 order canceled the hearing that had been scheduled for September 15. It was a case-specific proceeding, not a bellwether trial or general claim deadline.",
+      "sourceUrl": "https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation",
       "source": "Official court or settlement record",
-      "verifiedOn": "2026-09-14",
+      "verifiedOn": "2026-09-16",
       "kind": "court",
-      "status": "scheduled",
+      "status": "cancelled",
       "appliesTo": "Attorney Mark DiCello’s cases"
     }
   ],
@@ -120,8 +120,8 @@
       "url": "https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation"
     },
     {
-      "name": "The September 4 order schedules a September 15 hearing about attorney Mark DiCello’s cases, not a bellwether trial.",
-      "url": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder9-4-26.pdf"
+      "name": "A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases.",
+      "url": "https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation"
     },
     {
       "name": "CMO 24 identifies the September 3, 2025 agreement and the special master’s role in eligibility, offers and opt-out information.",
@@ -132,8 +132,8 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-09-14",
-  "statusVerifiedOn": "2026-09-14",
+  "dataAsOf": "2026-09-16",
+  "statusVerifiedOn": "2026-09-16",
   "updates": [
     {
       "date": "2026-09-14",
@@ -141,9 +141,9 @@
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
     {
-      "date": "2026-09-14",
-      "summary": "The September 4 order schedules a September 15 hearing about attorney Mark DiCello’s cases, not a bellwether trial.",
-      "sourceUrl": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder9-4-26.pdf"
+      "date": "2026-09-16",
+      "summary": "A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases.",
+      "sourceUrl": "https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation"
     },
     {
       "date": "2026-09-14",
