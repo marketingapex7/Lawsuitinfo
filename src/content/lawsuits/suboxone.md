@@ -8,7 +8,7 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Severe dental injuries"
 caseType: "Prescription drug dental injury claim"
-affected: "People who used Suboxone film or tablets and later experienced serious dental injury."
+affected: "People with documented Suboxone film use and subsequent dental injury; individual claims require legal review."
 evidence:
   - "Prescription records"
   - "Treatment program records"
@@ -34,210 +34,113 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-09-18"
 lastReviewed: "2026-09-14"
 faqs:
-  -
-    question: "How much are Suboxone tooth-decay settlements worth?"
-    answer: "The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims."
-  -
-    question: "Is the Suboxone lawsuit a class action?"
-    answer: "No. The federal Suboxone tooth-decay cases are coordinated as multidistrict litigation (MDL-3092), not a class action; each plaintiff keeps an individual claim coordinated for pretrial proceedings."
-  -
-    question: "Is the tooth-decay lawsuit the same as the Suboxone antitrust settlement?"
-    answer: "No — they are separate matters. The cases on this page are product-liability claims about dental injuries, coordinated in MDL-3092. The 'Suboxone antitrust' cases were different: they accused Indivior and Reckitt Benckiser of trying to block generic competition (an alleged 'product hopping' scheme) and were resolved through separate antitrust proceedings, including FTC actions against Reckitt ($50 million) and Indivior ($10 million). Those antitrust resolutions are unrelated to the tooth-decay injury cases, which remain in active litigation with no settlement."
-  -
-    question: "What is the Suboxone tooth decay lawsuit about?"
-    answer: "Lawsuits allege that some users suffered severe dental injuries after Suboxone use and that warnings may have been inadequate."
-  -
-    question: "What dental injuries may be involved?"
-    answer: "Claims may involve decay, tooth loss, cavities, extractions, gum damage, and restoration costs."
-  -
-    question: "Do I automatically qualify if I used Suboxone?"
-    answer: "No. Eligibility depends on records, timing, injury severity, and individual facts."
-  -
-    question: "Who may qualify for a Suboxone dental lawsuit?"
-    answer: "Possible claim review may involve people who used Suboxone film or another oral buprenorphine product dissolved in the mouth and later developed serious dental injury, but eligibility depends on records, timing, warnings, and state law."
-  -
-    question: "What is the Suboxone lawsuit settlement status?"
-    answer: "The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims."
-  -
-    question: "What dental records may matter most?"
-    answer: "Before-and-after dental charts, X-rays, extraction records, treatment plans, restoration invoices, periodontal records, and photographs may help show timing and severity."
-  -
-    question: "What records should I collect?"
-    answer: "Prescription records, pharmacy records, treatment records, dental charts, invoices, and imaging may be useful."
-  -
-    question: "Is this page medical advice?"
-    answer: "No. Medical or treatment decisions should be discussed with a healthcare professional."
-  -
-    question: "Can defendants dispute the claims?"
-    answer: "Yes. Defendants may dispute causation, warnings, damages, or other issues."
-  -
-    question: "Are settlements guaranteed?"
-    answer: "No. Settlement status can change and there is no guaranteed result."
-  -
-    question: "Can state deadlines matter?"
-    answer: "Yes. State filing deadlines may affect whether a claim can be pursued."
+  - question: "How much are Suboxone tooth-decay settlements worth?"
+    answer: "The public court records reviewed September 14, 2026 do not announce a dental-injury settlement program or payout schedule. A pending case does not guarantee payment."
+  - question: "Is the Suboxone lawsuit a class action?"
+    answer: "The federal dental-injury cases are coordinated in MDL 3092 for pretrial proceedings. An MDL is not a class action; plaintiffs retain individual claims."
+  - question: "Is the tooth-decay lawsuit the same as the Suboxone antitrust settlement?"
+    answer: "No. MDL 3092 concerns alleged dental injuries from Suboxone film. Antitrust proceedings concern competition and are separate; those settlements do not announce compensation for these dental-injury claims."
+  - question: "Do Suboxone tablets automatically qualify for the film MDL?"
+    answer: "No. The FDA warning covers buprenorphine medicines dissolved in the mouth, including tablets and films, but MDL 3092 concerns Suboxone film. A lawyer must review the exact product and individual facts."
+  - question: "What records should I collect?"
+    answer: "Start with pharmacy histories identifying the product and formulation, dental records before and after use, imaging, treatment plans, and bills. Record missing documents and uncertain dates in the printable records worksheet linked in this guide."
+  - question: "Is there one deadline to file a Suboxone lawsuit?"
+    answer: "No single filing deadline applies to every reader. State law and individual facts require review. The MDL discovery schedule and proposed trial timetable are not personal filing deadlines."
 ---
 
 <section id="overview">
 <h2>What the Suboxone Tooth Decay lawsuit is about</h2>
-<p>Suboxone film lawsuits allege that the dissolvable medication caused severe dental injury and that warnings were inadequate. MDL-3092 coordinates the federal film cases before Judge J. Philip Calabrese in Ohio. Defendants dispute the claims; product form, prescription history and dental records matter to individual review.</p>
+<p>Suboxone film lawsuits allege that the medicine caused dental erosion and decay and that warnings were inadequate. MDL 3092 coordinates federal cases before Judge J. Philip Calabrese in the Northern District of Ohio. These are disputed allegations, not findings that the medicine caused an individual person's injury. <a href="https://www.ohnd.uscourts.gov/mdl-3092">Court overview</a>.</p>
 </section>
 
 <section id="latest-update">
-<h2>Suboxone Tooth Decay Lawsuit update: September 2026</h2>
-<p><strong>Core discovery and provider depositions.</strong> The July 16, 2026 CMO 23 governs provider depositions in the core discovery pool. The Second Amended CMO 15 schedules core-pool depositions through January 15, 2027 and trial-pool selection for January 29. Its later timetable describes March 2028 as a proposed first trial setting, not a fixed trial date.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>1,827 pending actions</strong> in MDL-3092, compared with 1,827 on August 3. Its 1,908 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
-<p><a href="https://www.ohnd.uscourts.gov/mdl-3092">Official court records</a> checked September 14, 2026.</p>
-</section>
-
-<section id="case-status-snapshot">
-<h2>Case status snapshot</h2>
+<span id="status"></span><span id="case-status-snapshot"></span>
+<h2>Suboxone lawsuit: the short answer</h2>
 <ul>
-<li><strong>Federal proceeding:</strong> MDL-3092; U.S. District Court, Northern District of Ohio (Cleveland)</li>
-<li><strong>Judge:</strong> Judge J. Philip Calabrese</li>
-<li><strong>JPML transfer date:</strong> 2024-02-02</li>
-<li><strong>Pending actions:</strong> 1,827 as of September 1, 2026</li>
-<li><strong>Current phase:</strong> Core discovery and provider depositions</li>
-<li><strong>Settlement:</strong> The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims.</li>
+<li><strong>Current stage:</strong> Core discovery and provider depositions under the court's bellwether process.</li>
+<li><strong>Settlement:</strong> No dental-injury settlement program or payout schedule announced in the public court records reviewed September 14, 2026.</li>
+<li><strong>Trial:</strong> March 2028 is a proposed first trial setting in the protocol, not a fixed trial date.</li>
+<li><strong>Your deadline:</strong> Requires individual review; do not use the MDL schedule as your filing deadline.</li>
 </ul>
-</section>
-
-<section id="suboxone-dental-lawsuit">
-<h2>What is the buprenorphine tooth decay lawsuit?</h2>
-<p>The phrase "buprenorphine tooth decay lawsuit" generally refers to product-liability claims involving Suboxone film and other buprenorphine medicines designed to dissolve in the mouth. The lawsuits allege that these products contributed to serious dental problems and that warnings about those risks were inadequate for some users. Claims often focus on tooth decay, cavities, tooth loss, extractions, gum damage, and expensive restorative care. Defendants dispute the allegations.</p>
-<p>Suboxone is used in medication-assisted treatment for opioid use disorder. This guide treats that medical context carefully: the legal question is not whether treatment was appropriate for a person, but whether product warnings, product form, dental injury timing, and individual records may support a product liability claim. Medical decisions should always be discussed with a healthcare professional.</p>
-<p>For legal research, the important facts usually include which Suboxone product was used, whether it dissolved in the mouth, how long it was used, what warnings were provided, when dental problems began, and whether dental records show a meaningful before-and-after change.</p>
-</section>
-
-<section id="suboxone-eligibility">
-<h2>Suboxone tooth decay lawsuit eligibility</h2>
-<p>There is no automatic eligibility rule for a Suboxone tooth decay lawsuit. A claim review may consider whether the person used Suboxone film or another buprenorphine/naloxone product dissolved in the mouth and later developed serious dental injury. Records, timing, warning history, alternative dental risk factors, and state law may all affect review.</p>
-<ul>
-<li><strong>Product history:</strong> Prescription, pharmacy, treatment program, or insurance records showing Suboxone film, tablets, or another oral buprenorphine product dissolved in the mouth.</li>
-<li><strong>Use timeline:</strong> Start date, end date, frequency, dose history, and whether the person used the product daily or for an extended period.</li>
-<li><strong>Dental injury:</strong> Severe tooth decay, multiple cavities, broken teeth, tooth loss, extractions, gum damage, dentures, crowns, bridges, implants, or other restoration.</li>
-<li><strong>Before-and-after records:</strong> Dental charts, X-rays, periodontal records, treatment plans, and invoices showing the condition of the mouth before and after product use.</li>
-<li><strong>Deadline review:</strong> State filing deadlines, discovery facts, first dental symptoms, warning dates, and prior claim or release paperwork may matter.</li>
-</ul>
-<p>A person may have relevant facts even if dental records are incomplete, but missing records can make review harder. The clearest reviews usually include both product-use documentation and dental records showing timing and severity.</p>
+<p>The dated updates below explain the sources and what each development means. The <a href="/mdl/3092/">MDL 3092 tracker</a> contains the case-count history and court details.</p>
 </section>
 
 <section id="litigation-updates">
-<h2>Verified litigation updates</h2>
+<span id="timeline"></span>
+<h2>Verified litigation updates: what they mean</h2>
+<h3>September 1, 2026: 1,827 pending actions</h3>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML report</a> lists 1,827 pending actions, unchanged from August 3. The 1,908 historical total includes actions no longer pending.</p>
+<p><strong>For readers:</strong> These figures describe the federal docket. They do not count approved claims or people entitled to payment, and an unchanged total does not mean court work stopped.</p>
+<h3>July 16, 2026: provider-deposition order</h3>
+<p><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf">CMO 23</a> governs provider depositions in the core discovery pool.</p>
+<p><strong>For readers:</strong> A deposition is questioning under oath. This order concerns evidence gathering in selected cases; it is not a decision awarding compensation or an instruction for every reader to contact a provider.</p>
+<h3>March 27, 2026: bellwether timetable</h3>
+<p>The <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">Second Amended CMO 15</a> schedules core-pool depositions through January 15, 2027 and selection of 15 trial-pool cases on January 29. March 2028 is a proposed first trial setting.</p>
+<p><strong>For readers:</strong> Bellwether cases help test issues shared across the litigation. Selecting those cases does not schedule a trial for every plaintiff or guarantee a settlement. Court schedules can change.</p>
+</section>
+
+<section id="suboxone-dental-lawsuit">
+<span id="key-issues"></span>
+<h2>What is the buprenorphine tooth decay lawsuit?</h2>
+<p>Keep three different subjects separate:</p>
 <ul>
-<li>JPML reports 1,827 pending actions on September 1, 2026, compared with 1,827 on August 3; 1,908 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
-<li>CMO 23, entered July 16, governs provider depositions in the core discovery pool. <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf">Source</a></li>
-<li>The bellwether protocol schedules core-pool depositions through January 15, 2027 and selection of 15 trial-pool cases on January 29, 2027. <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">Source</a></li>
-<li>March 2028 appears in the protocol as a proposed first trial setting, not an entered trial date. <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">Source</a></li>
+<li><strong>Suboxone film dental-injury cases:</strong> MDL 3092 concerns alleged dental harm and product warnings.</li>
+<li><strong>The FDA dental warning:</strong> The January 2022 warning covers buprenorphine medicines dissolved in the mouth, including tablets and films. Its scope is broader than the film MDL; it does not establish lawsuit eligibility.</li>
+<li><strong>Suboxone antitrust proceedings:</strong> These concern competition. Settlements in those matters do not resolve the dental-injury claims discussed here.</li>
 </ul>
+<p>Identify the exact product, manufacturer and formulation in your pharmacy records. Do not assume tablets, films, injections and patches are interchangeable for a claim. See the <a href="/lawsuits/suboxone/tooth-decay/">FDA warning and dental-records guide</a> for more detail.</p>
+<p>The <a href="https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-about-dental-problems-buprenorphine-medicines-dissolved-mouth-treat-opioid-use-disorder">FDA says the benefits of buprenorphine outweigh the risks</a>. Do not suddenly stop prescribed treatment; discuss concerns with your clinician and dentist.</p>
+</section>
+
+<section id="suboxone-eligibility">
+<span id="eligibility"></span><span id="claim-evaluation"></span><span id="fact-patterns"></span><span id="harder-claims"></span>
+<h2>Who may have a claim to review?</h2>
+<p>Suboxone use followed by a dental problem does not automatically establish a claim. An attorney needs to assess the product used, injury and treatment history, warnings, possible alternative causes, and applicable law.</p>
+<p>Start with a documented prescription history and the dental records you have. Include earlier dental problems and gaps in care as well as later treatment. Missing records or uncertain dates are facts to discuss, not details to guess or leave out.</p>
 </section>
 
 <section id="suboxone-settlement-status">
 <h2>Suboxone lawsuit settlement status</h2>
-<p>Suboxone settlement status should be read cautiously. The federal MDL is active, but an active coordinated proceeding does not mean there is a guaranteed settlement, a fixed payout, or automatic eligibility. Settlement posture may depend on discovery, warnings evidence, product-form evidence, dental causation issues, bellwether planning, and state-law deadline rulings.</p>
-<p>Unlike a mature settled program, Suboxone dental injury claims appear to remain in a stage where records and claim screening matter heavily. A person researching settlement status should focus first on whether they can document product use, dental injury timing, dental treatment, and related costs.</p>
-<p>This site does not provide settlement calculators, estimated payout ranges, or claim-value rankings. Any settlement value, if one exists, would depend on individual facts, injury severity, records, legal rulings, and the settlement process.</p>
-</section>
-
-<section id="status">
-<h2>Current status</h2>
-<p>The July 16, 2026 CMO 23 governs provider depositions in the core discovery pool. The Second Amended CMO 15 schedules core-pool depositions through January 15, 2027 and trial-pool selection for January 29. Its later timetable describes March 2028 as a proposed first trial setting, not a fixed trial date.</p>
-<p>The Northern District of Ohio public MDL order index and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. Separate Suboxone antitrust and opioid-enforcement settlements do not resolve these dental-injury claims.</p>
-</section>
-
-<section id="key-issues">
-<h2>Key issues in the lawsuit</h2>
-<p>Suboxone tooth decay lawsuits generally involve allegations that oral Suboxone products dissolved in the mouth exposed teeth and gums to conditions that contributed to decay, erosion, cavities, gum problems, tooth loss, extractions, and costly dental restoration. These claims often focus on Suboxone film, although some people may have histories involving tablets or other buprenorphine/naloxone products.</p>
-<p>The key questions include whether the product's formulation and method of use could contribute to dental injury, whether warnings were adequate at the time the person used the medication, whether dental problems began or worsened after use, and whether other factors explain the injury. The cases also involve sensitive medical context because Suboxone is used in medication-assisted treatment. A neutral claim review should separate the legal product-warning questions from stigma about substance use treatment.</p>
-<p>Defendants may argue that dental decay is common, that a user had preexisting dental problems, that oral hygiene or dry mouth contributed to the injury, or that warnings and prescribing information were adequate. Plaintiffs may respond by pointing to dental records before and after use, documented product history, and the timing or severity of dental deterioration.</p>
-</section>
-
-<section id="claim-evaluation">
-<h2>How claims may be evaluated</h2>
-<p>A Suboxone claim review often starts with product history. Prescription records, pharmacy records, treatment program records, medication-assisted treatment notes, insurance records, and provider records may show when Suboxone was prescribed, what form was used, and how long use continued. The specific product matters because different formulations, routes of administration, and warning histories may be evaluated differently.</p>
-<p>Dental records are central. A lawyer may ask for dental charts, X-rays, periodontal records, treatment plans, extraction records, crown or implant invoices, denture records, photographs, and records showing dental condition before and after Suboxone use. If a person did not see a dentist regularly before the injury, other records may still help, but the evaluation may be more difficult.</p>
-<p>Causation review may consider when tooth pain, cavities, gum problems, breakage, or extractions began; whether dental problems accelerated after product use; whether the user had dry mouth, reflux, diabetes, smoking history, other medications, or other risk factors; and whether dentists documented unusual or severe decay patterns.</p>
-</section>
-
-<section id="fact-patterns">
-<h2>Common fact patterns</h2>
-<p>One common fact pattern may involve a person who used Suboxone film daily for months or years as part of treatment and later experienced rapid decay, multiple cavities, broken teeth, extractions, or a need for dentures, bridges, crowns, implants, or other restoration. Another may involve a person who had manageable dental issues before treatment but developed widespread dental problems after a period of regular oral Suboxone use.</p>
-<p>Some people may have pharmacy histories showing regular fills and dental records showing a sharp change in dental condition. Others may have treatment program records but limited dental documentation. A clearer timeline can help show whether dental injury appeared after product use and whether the pattern was severe enough to warrant legal review.</p>
-<p>Costs may also matter. Dental repair can involve repeated visits, treatment plans, extractions, temporary appliances, permanent restoration, and out-of-pocket expenses. These records may help show the scope of alleged damages, but they do not guarantee that a claim will be accepted.</p>
+<p>The <a href="https://www.ohnd.uscourts.gov/mdl-3092">public court index</a> and bellwether protocol reviewed September 14, 2026 do not announce a dental-injury settlement program or individual payout schedule. There is no published program here on which to base a payout calculator.</p>
+<p>Dental bills document expenses; they are not a formula for compensation. Any eventual recovery would depend on the applicable process and individual claim. An active MDL does not guarantee a settlement.</p>
 </section>
 
 <section id="suboxone-dental-records">
-<h2>Dental records usually reviewed</h2>
-<p>Dental records are often the center of a Suboxone dental injury review. A lawyer may ask whether there are records from before Suboxone use, during use, and after dental problems appeared. Records can help show whether dental problems were longstanding, whether they accelerated after use, and how severe the treatment needs became.</p>
+<span id="evidence"></span><span id="suboxone-timing"></span>
+<h2>Organize your prescription and dental records</h2>
+<p>The court's <a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23672.pdf">amended records order</a> addresses proof of film use and treatment records. For an initial conversation, organize:</p>
 <ul>
-<li><strong>Before-use records:</strong> Dental charts, cleanings, X-rays, periodontal notes, fillings, crowns, or prior treatment plans from before Suboxone use.</li>
-<li><strong>After-use records:</strong> New cavities, tooth fractures, gum problems, extraction records, emergency dental visits, infection records, or worsening periodontal findings.</li>
-<li><strong>Restoration records:</strong> Invoices and treatment plans for crowns, bridges, implants, dentures, root canals, extractions, temporary appliances, or full-mouth restoration.</li>
-<li><strong>Imaging and photos:</strong> X-rays, panoramic images, intraoral photos, or personal photos showing visible tooth damage.</li>
-<li><strong>Cost records:</strong> Insurance explanations of benefits, out-of-pocket invoices, payment plans, and estimates for future dental work.</li>
+<li><strong>Product history:</strong> Pharmacy, prescriber and treatment-program names; product and formulation; first and last use dates.</li>
+<li><strong>Dental history:</strong> Providers before, during and after use; charts, imaging, diagnoses, extractions and restoration plans.</li>
+<li><strong>Costs:</strong> Bills, insurance statements, payments and estimates, keeping completed work separate from proposed work.</li>
+<li><strong>Timeline:</strong> First symptoms, first documented diagnosis and treatment dates. Mark estimates and missing information.</li>
 </ul>
-<p>People who did not have regular dental care before the injury may still have relevant facts, but the lack of a baseline can make causation and timing harder to evaluate.</p>
-</section>
-
-<section id="suboxone-timing">
-<h2>Timing of Suboxone use and dental injury</h2>
-<p>Timing is important in Suboxone dental claims. A review may compare when Suboxone use started, how long it continued, when dental symptoms first appeared, when a dentist documented decay or tooth damage, and when the person learned about a possible product connection.</p>
-<p>Examples of useful timing details include the first prescription date, first film or tablet use, periods of continuous use, medication changes, dental pain onset, first cavity or extraction after use, and the date a dentist recommended major restorative work. If dental problems existed before Suboxone, the review may focus on whether there was a significant worsening after regular use.</p>
-<p>Timing also matters for deadlines. State statutes of limitation may look at injury date, discovery facts, warning history, or other legal issues. This guide cannot calculate a deadline, but it can help readers identify the dates that may need review.</p>
-</section>
-
-<section id="harder-claims">
-<h2>What can make a claim harder to evaluate</h2>
-<p>Suboxone claims can be harder to review when there are no prescription records, unclear product form, uncertain dates of use, or little dental history before the alleged injury. Missing dental records may make it difficult to compare a person's condition before and after use.</p>
-<p>Alternative explanations can also complicate causation. Longstanding dental disease, limited access to dental care, dry mouth from other medications, smoking, diabetes, reflux, diet, prior substance use, or delayed treatment can all become issues in claim evaluation. These facts do not automatically defeat a claim, but they may need to be addressed honestly.</p>
-<p>Deadline issues may also be important. The date a person first experienced dental injury, first learned of a possible product connection, or first received a warning may matter differently depending on state law. Prior releases or settlement agreements involving related medical care may also require review.</p>
-</section>
-
-<section id="state-law">
-<h2>Why state law may still matter</h2>
-<p>National coordination can help manage common discovery and pretrial issues, but state law can still affect individual claims. Filing deadlines, discovery rules, damages law, warning standards, comparative fault rules, and medical-expense proof can vary by state.</p>
-<p>For Suboxone dental claims, state law may affect how courts evaluate when a person should have discovered a possible connection between the medication and dental injury. It may also affect wrongful death or estate issues in rare cases where broader medical complications are involved. A lawyer would need to review the person's state, treatment history, and timeline before giving legal advice.</p>
+<p><strong><a href="/resources/suboxone-records-worksheet.html">Open the printable Suboxone records worksheet</a></strong> to record these details on paper or save a blank PDF. It is an organizational aid, not a court form or claim submission. No medical information needs to be entered on this website.</p>
 </section>
 
 <section id="suboxone-deadlines">
-<h2>Suboxone lawsuit deadline considerations</h2>
-<p>Suboxone lawsuit deadlines vary by state. A deadline may depend on when dental injury occurred, when the person discovered or reasonably could have discovered a possible product connection, warning history, prescription dates, and other facts. Because dental problems may develop gradually, the timeline can be more complicated than a single event date.</p>
-<p>People researching a Suboxone dental lawsuit should gather the first and last prescription dates, first dental symptoms, first dentist visit for decay or tooth damage, extraction dates, restoration dates, and the date they first learned about potential litigation. Those dates can help an attorney evaluate whether a statute of limitations, discovery rule, or other timing issue may apply.</p>
-<p>This guide does not calculate legal deadlines. State guide pages provide local context, but deadline questions require individualized legal review.</p>
+<span id="deadlines"></span><span id="state-law"></span>
+<h2>What is the deadline to file?</h2>
+<p>There is no single filing deadline for every reader. State law and facts about injury, discovery and product use may affect the time available. The FDA warning date, discovery-pool deadlines and proposed trial date do not by themselves calculate your deadline.</p>
+<p>Ask an attorney to review timing promptly, even if you are still locating records. The <a href="#states">state guides below</a> provide background rather than a personal deadline calculation.</p>
 </section>
 
 <section id="lawyer-questions">
-<h2>Questions to ask before contacting a lawyer</h2>
+<h2>Questions for an attorney</h2>
 <ul>
-<li>Which Suboxone product did I use: film, tablet, or another form?</li>
-<li>Do I have pharmacy or treatment program records showing dates of use?</li>
-<li>Do my dental records show my condition before and after use?</li>
-<li>What dental work was recommended or completed, and what did it cost?</li>
-<li>When did I first notice tooth decay, tooth loss, or gum problems?</li>
-<li>How could state filing deadlines affect a dental injury claim?</li>
+<li>Does my exact product history fit the claims you handle?</li>
+<li>Which deadline rules may apply to my circumstances?</li>
+<li>Which missing records should I request, and can your office help obtain them?</li>
+<li>Who would handle my case, and what fees and expenses would apply?</li>
+<li>If I already filed or signed a release, how does that affect review?</li>
 </ul>
 </section>
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.ohnd.uscourts.gov/mdl-3092">public court records</a>; these public indexes are not complete live dockets.</p>
-<ul>
-<li><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf">CMO 23, entered July 16, governs provider depositions in the core discovery pool.</a></li>
-<li><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">The bellwether protocol schedules core-pool depositions through January 15, 2027 and selection of 15 trial-pool cases on January 29, 2027.</a></li>
-<li><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23668_0.pdf">March 2028 appears in the protocol as a proposed first trial setting, not an entered trial date.</a></li>
-</ul>
-<p>Defendants dispute the allegations. Hearing schedules do not establish an outcome, and pending-action counts do not establish settlement eligibility. State filing deadlines and settlement-program deadlines are different.</p>
-</section>
-
-<section id="eligibility">
-<h2>Who may be affected</h2>
-<ul>
-<li>People with documented use of or exposure to Suboxone medication-assisted treatment products.</li>
-<li>People later diagnosed with severe dental injuries.</li>
-<li>People who can identify approximate dates, locations, providers, employers, or exposure circumstances.</li>
-<li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
-</ul>
+<p>This guide links to the court orders and JPML report supporting its litigation summary. Litigation status was reviewed September 14, 2026; the guide was reorganized and the worksheet added September 18. A public order index is not the complete live docket. For source history, see the <a href="/mdl/3092/">MDL 3092 page</a>.</p>
+<p>Allegations remain disputed. Case counts, FDA warnings and bellwether schedules answer different questions; none establishes an individual's entitlement to compensation.</p>
 </section>

@@ -35,7 +35,7 @@ const checks = [
   {
     file: ["dist", "lawsuits", "suboxone", "index.html"],
     required: [
-      "Updated September 14, 2026",
+      "Updated September 18, 2026",
       "What the Suboxone Tooth Decay lawsuit is about",
     ],
     forbidden: ['id="settlement"', 'href="#settlement"'],

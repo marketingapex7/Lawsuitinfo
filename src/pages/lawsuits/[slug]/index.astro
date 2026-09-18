@@ -39,8 +39,8 @@ const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
 const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
 const contentSettlementSlugs = new Set(["paragard", "social-media", "suboxone"]);
-const contentDeadlineSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh"]);
-const contentEvidenceSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh", "paragard", "social-media"]);
+const contentDeadlineSlugs = new Set(["suboxone", "bard-powerport", "hair-relaxer", "hernia-mesh"]);
+const contentEvidenceSlugs = new Set(["suboxone", "bard-powerport", "hair-relaxer", "hernia-mesh", "paragard", "social-media"]);
 const compactContentSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh"]);
 const breadcrumbs = [
   { name: "Home", url: "/" },
@@ -51,7 +51,7 @@ const mdlNumber = caseData?.litigation.mdlNumber?.replace(/\D/g, "");
 const supportingLinks: Record<string, { href: string; label: string }[]> = {
   roundup: [{ href: "/lawsuits/roundup/proof/", label: "Proof guide" }, { href: "/lawsuits/roundup/deadline/", label: "Deadline guide" }],
   "afff-pfas": [{ href: "/lawsuits/afff-pfas/settlement/", label: "AFFF settlement guide" }],
-  suboxone: [{ href: "/lawsuits/suboxone/tooth-decay/", label: "Suboxone tooth decay guide" }],
+  suboxone: [{ href: "/lawsuits/suboxone/tooth-decay/", label: "Suboxone tooth decay guide" }, { href: "/resources/suboxone-records-worksheet.html", label: "Printable records worksheet" }],
   "bard-powerport": [{ href: "/lawsuits/bard-powerport/settlement-amounts/", label: "PowerPort settlement amounts" }]
 };
 const toc = [
@@ -112,14 +112,20 @@ if (slug === "camp-lejeune") {
 }
 
 if (slug === "suboxone") {
-  toc.splice(3, 0, { id: "suboxone-dental-lawsuit", label: "Dental lawsuit" });
-  toc.splice(4, 0, { id: "suboxone-eligibility", label: "Eligibility" });
-  toc.splice(7, 0, { id: "suboxone-settlement-status", label: "Settlement status" });
-  toc.splice(12, 0, { id: "suboxone-dental-records", label: "Dental records" });
-  toc.splice(13, 0, { id: "suboxone-timing", label: "Use and injury timing" });
-  toc.splice(16, 0, { id: "suboxone-deadlines", label: "Deadline considerations" });
-  const genericSettlementIndex = toc.findIndex((item) => item.id === "settlement");
-  if (genericSettlementIndex >= 0) toc.splice(genericSettlementIndex, 1);
+  toc.splice(0, toc.length,
+    { id: "current-status", label: "Current status" },
+    { id: "latest-update", label: "The short answer" },
+    { id: "litigation-updates", label: "Updates explained" },
+    { id: "suboxone-dental-lawsuit", label: "Which litigation?" },
+    { id: "suboxone-eligibility", label: "Claim review" },
+    { id: "suboxone-settlement-status", label: "Settlement status" },
+    { id: "suboxone-dental-records", label: "Records worksheet" },
+    { id: "suboxone-deadlines", label: "Filing deadlines" },
+    { id: "lawyer-questions", label: "Attorney questions" },
+    { id: "sources-status-notes", label: "Sources and notes" },
+    { id: "states", label: "State guides" },
+    { id: "faq", label: "FAQ" }
+  );
 }
 
 if (compactContentSlugs.has(slug)) {
@@ -228,7 +234,7 @@ if (slug === "talcum-powder") {
         </section>
       )}
 
-      <section id="timeline">
+      {slug !== "suboxone" && (<section id="timeline">
         <h2>How has the {lawsuit.data.lawsuit} lawsuit progressed?</h2>
         <div class="space-y-3">
           {lawsuit.data.timeline.map((item) => (
@@ -238,7 +244,7 @@ if (slug === "talcum-powder") {
             </div>
           ))}
         </div>
-      </section>
+      </section>)}
 
       {!contentSettlementSlugs.has(slug) && (
         <section id="settlement">
