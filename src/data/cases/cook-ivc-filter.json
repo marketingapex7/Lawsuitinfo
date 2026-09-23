@@ -1,0 +1,98 @@
+{
+  "slug": "cook-ivc-filter",
+  "caseName": "Cook IVC Filter Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-2570",
+    "mdlName": "In re: Cook Medical, Inc., IVC Filters Marketing, Sales Practices and Products Liability Litigation",
+    "court": "U.S. District Court, Southern District of Indiana",
+    "courtShort": "S.D. Ind.",
+    "judge": "Senior Judge Richard L. Young",
+    "established": "2014-10-15"
+  },
+  "phase": "Active MDL; Tulip bellwether selection and individual case administration",
+  "phaseDetail": "JPML lists MDL-2570 as active before Senior Judge Richard L. Young. The court's June 2025 Case Management Order 34 created a second bellwether pool for Günther Tulip cases while the MDL continues to administer thousands of individual actions.",
+  "pendingCounts": [
+    {
+      "date": "2026-09-01",
+      "count": 6501,
+      "totalFiled": 11478,
+      "scope": "Pending actions in MDL-2570",
+      "source": "JPML, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 6537,
+      "totalFiled": 11474,
+      "scope": "Pending actions in MDL-2570",
+      "source": "JPML, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    }
+  ],
+  "defendants": ["Cook Medical Incorporated", "Cook Incorporated", "Cook Group Incorporated", "William Cook Europe ApS"],
+  "settlements": [
+    {
+      "label": "No MDL-wide settlement program identified in reviewed records",
+      "kind": "none",
+      "status": "not announced",
+      "detail": "The Southern District of Indiana MDL page and official records reviewed September 22, 2026 do not announce a global settlement program, universal compensation matrix, or payment deadline. An individual settlement or verdict does not set the value of another case.",
+      "individualClaims": "No universal Cook IVC filter payment amount is verified here.",
+      "verifiedOn": "2026-09-22",
+      "source": "Southern District of Indiana MDL-2570 page",
+      "sourceUrl": "https://www.insd.uscourts.gov/node/432"
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2014-10-15",
+      "label": "MDL-2570 established",
+      "detail": "JPML centralized federal Cook IVC filter cases in the Southern District of Indiana before Judge Richard L. Young.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-2570-Initial_Transfer-10-14.pdf",
+      "source": "JPML transfer order",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2025-06-26",
+      "label": "Second Tulip bellwether plan entered",
+      "detail": "Case Management Order 34 established a process for forming a pool of eligible Günther Tulip cases and selecting cases for trial dates.",
+      "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Management%20Order%2034.pdf",
+      "source": "Southern District of Indiana, Case Management Order 34",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "6,501 actions pending",
+      "detail": "JPML reports 6,501 pending actions and 11,478 historical actions in MDL-2570.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "source": "JPML monthly statistics",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    }
+  ],
+  "sources": [
+    {"name": "JPML — September 1, 2026 pending and historical actions", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"name": "JPML — August 3, 2026 comparison report", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"},
+    {"name": "JPML — MDL-2570 transfer order", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-2570-Initial_Transfer-10-14.pdf"},
+    {"name": "Southern District of Indiana — MDL-2570 case page", "url": "https://www.insd.uscourts.gov/node/432"},
+    {"name": "Southern District of Indiana — Case Management Order 34", "url": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Management%20Order%2034.pdf"},
+    {"name": "FDA — Celect and Günther Tulip postmarket surveillance study", "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pss.cfm?t_id=303"}
+  ],
+  "dataAsOf": "2026-09-22",
+  "statusVerifiedOn": "2026-09-22",
+  "updates": [
+    {"date": "2026-09-22", "summary": "The official MDL page continues to list MDL-2570 before Senior Judge Richard L. Young; reviewed public records do not announce an MDL-wide settlement program.", "sourceUrl": "https://www.insd.uscourts.gov/node/432"},
+    {"date": "2026-09-01", "summary": "JPML reports 6,501 pending actions and 11,478 historical actions, compared with 6,537 pending and 11,474 historical actions on August 3.", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"date": "2025-06-26", "summary": "The court entered a second Günther Tulip bellwether plan to form a pool and select cases for future trial dates.", "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Management%20Order%2034.pdf"}
+  ]
+}
