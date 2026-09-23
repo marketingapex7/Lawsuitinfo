@@ -1,0 +1,34 @@
+---
+import SupportingGuide from "@components/SupportingGuide.astro";
+const court = "https://www.insd.uscourts.gov/node/432";
+const fda = "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pss.cfm?t_id=303";
+---
+<SupportingGuide path="/lawsuits/cook-ivc-filter/device-records/" introduction="A Cook IVC filter review begins with reliable product identification, then connects follow-up imaging, retrieval records, treatment, and expenses. Organize the complete file without treating an imaging finding or adverse-event report as proof of a legal claim.">
+  <section id="device-identification">
+    <h2>Device card, model, and lot identification</h2>
+    <p>The <a href={fda}>FDA's postmarket study record</a> distinguishes Celect and Günther Tulip products. Request the implant card, implant log, stickers, catalog or reference number, lot or serial information, and the facility's product-identification response.</p>
+    <p>A chart entry that says only “IVC filter” does not identify Cook. Keep Bard, Cordis, Boston Scientific, and other manufacturers separate.</p>
+  </section>
+  <section id="implantation-records">
+    <h2>Implantation records</h2>
+    <p>Collect the procedure report, indication for placement, consent, venogram or other imaging, access site, deployment description, physician notes, and discharge instructions. Record whether the chart described the filter as retrievable or permanent without changing the original wording.</p>
+  </section>
+  <section id="imaging-follow-up">
+    <h2>Follow-up imaging and clinical notes</h2>
+    <p>Organize radiology reports and available images in date order. Include CT, ultrasound, fluoroscopy, X-ray, and comparison studies, plus notes discussing filter position, tilt, penetration, fracture, migration, thrombus, or symptoms.</p>
+    <p>Keep a clinician's finding separate from a patient's report and from a later legal allegation.</p>
+  </section>
+  <section id="retrieval-records">
+    <h2>Retrieval discussions and attempts</h2>
+    <p>Collect recommendations, risk-benefit discussions, referrals, procedure reports, equipment used, operative images, and the outcome of every attempt. A recommendation to consider retrieval is patient-specific medical information, not proof that the filter was defective.</p>
+  </section>
+  <section id="fracture-migration-treatment">
+    <h2>Fracture, migration, perforation, and treatment records</h2>
+    <p>For a claimed complication, keep the first record documenting it, later comparison imaging, specialist assessments, emergency visits, anticoagulation history, and any endovascular or open surgery. If a filter or fragment was removed, ask counsel about lawful preservation before changing, testing, or discarding it.</p>
+  </section>
+  <section id="costs-boundaries">
+    <h2>Expenses, impact, and claim boundaries</h2>
+    <p>Preserve itemized bills, insurance explanations, medication and travel costs, wage records, and later care. Include clotting disorders, cancer, trauma, and other medical history that may affect the analysis.</p>
+    <p>The <a href={court}>official MDL page</a> describes litigation involving Cook products. The <a href="/lawsuits/cook-ivc-filter/">national Cook IVC filter guide</a> tracks the current case count and court phase. A lawyer can assess product identification, causation, state law, and deadlines.</p>
+  </section>
+</SupportingGuide>
