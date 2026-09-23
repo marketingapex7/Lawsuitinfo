@@ -33,5 +33,33 @@
     "title": "Bard PowerPort Settlement Amounts: What Is Verified",
     "description": "Check verified Bard PowerPort settlement status, understand why payout estimates need evidence, and identify device and injury records for review.",
     "reviewedAt": "2026-09-14"
+  },
+  {
+    "path": "/lawsuits/bair-hugger/infection-records/",
+    "caseSlug": "bair-hugger",
+    "title": "Bair Hugger Infection Records: Surgery and Device Evidence",
+    "description": "Organize warming-system, surgery, implant, culture, infection-treatment, revision, and expense records for a Bair Hugger claim review.",
+    "reviewedAt": "2026-09-22"
+  },
+  {
+    "path": "/lawsuits/cook-ivc-filter/device-records/",
+    "caseSlug": "cook-ivc-filter",
+    "title": "Cook IVC Filter Records: Model, Imaging, and Retrieval Evidence",
+    "description": "Organize Cook IVC filter implant, model, imaging, follow-up, retrieval, complication, treatment, and expense records for an individual claim review.",
+    "reviewedAt": "2026-09-22"
+  },
+  {
+    "path": "/lawsuits/exactech/recall-records/",
+    "caseSlug": "exactech",
+    "title": "Exactech Recall Records: Implant Identification and Revision Evidence",
+    "description": "Organize Exactech implant stickers, serial or lot data, operative reports, recall notices, imaging, revision findings, device analysis, claim notices, and expenses.",
+    "reviewedAt": "2026-09-22"
+  },
+  {
+    "path": "/lawsuits/nec-baby-formula/nicu-feeding-records/",
+    "caseSlug": "nec-baby-formula",
+    "title": "NEC Baby Formula Records: NICU Feeding and Treatment Evidence",
+    "description": "Organize gestational age, birth weight, NICU feeds, product identification, NEC diagnosis, imaging, surgery, discharge, later care, and expense records.",
+    "reviewedAt": "2026-09-22"
   }
 ]

@@ -1,12 +1,16 @@
 ---
 title: "Product Liability Lawsuit Guides"
-description: "A broad category page linking all launch injury lawsuit guides while the product liability library expands."
+description: "Product liability lawsuit guides covering drugs, medical devices, consumer products, and toxic exposures."
 urlSlug: "product-liability"
 name: "Product Liability"
 lawsuitSlugs:
+  - "bair-hugger"
   - "bard-powerport"
+  - "cook-ivc-filter"
+  - "exactech"
   - "hair-relaxer"
   - "hernia-mesh"
+  - "nec-baby-formula"
   - "paragard"
   - "social-media"
   - "talcum-powder"
@@ -15,7 +19,7 @@ lawsuitSlugs:
   - "afff-pfas"
   - "paraquat"
   - "roundup"
-lastUpdated: "2026-06-29"
+lastUpdated: "2026-09-22"
 ---
 
-<p>This category links product, device, consumer-product, and exposure-related injury guides. Product identification, use history, medical records, and state deadlines are usually central to review.</p>
+<p>This category links drug, medical-device, consumer-product, and exposure-related injury guides. Product identification, use history, medical records, recall details, and state deadlines are usually central to review.</p>

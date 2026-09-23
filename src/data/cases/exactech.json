@@ -1,0 +1,109 @@
+{
+  "slug": "exactech",
+  "caseName": "Exactech Implant Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3044",
+    "mdlName": "In re: Exactech Polyethylene Orthopedic Products Liability Litigation",
+    "court": "U.S. District Court, Eastern District of New York",
+    "courtShort": "E.D.N.Y.",
+    "judge": "Senior Judge Nicholas G. Garaufis",
+    "established": "2022-10-07"
+  },
+  "phase": "Active MDL count; bankruptcy settlement-trust and claims administration",
+  "phaseDetail": "JPML continues to list MDL-3044 before Senior Judge Nicholas G. Garaufis. Exactech's Chapter 11 plan was confirmed in September 2025 and created a Settlement Trust, so claim status and recovery questions depend on the confirmed plan, trust procedures, deadlines, and the individual claim record rather than an ordinary MDL-wide payout schedule.",
+  "pendingCounts": [
+    {
+      "date": "2026-09-01",
+      "count": 1838,
+      "totalFiled": 1847,
+      "scope": "Pending actions in MDL-3044",
+      "source": "JPML, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 1838,
+      "totalFiled": 1847,
+      "scope": "Pending actions in MDL-3044",
+      "source": "JPML, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    }
+  ],
+  "defendants": ["Exactech, Inc.", "Exactech U.S., Inc."],
+  "settlements": [
+    {
+      "label": "Bankruptcy plan and Settlement Trust govern claim administration",
+      "kind": "global",
+      "status": "post-confirmation administration",
+      "detail": "The September 2025 confirmation order approved a Chapter 11 plan that created a Settlement Trust and transferred specified rights and responsibilities to post-confirmation trusts. That process is not a verified universal payment amount for every recalled-device claim.",
+      "individualClaims": "Eligibility, allowed-claim status, deadlines, valuation, insurance recovery, and distributions require review of the confirmed plan and trust procedures.",
+      "verifiedOn": "2026-09-22",
+      "source": "U.S. Bankruptcy Court confirmation order, Case 24-12441",
+      "sourceUrl": "https://documents.elevenflo.com/uuid_database_8_14_23/08828328-7e96-4284-a725-c427a10a52a5.pdf"
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2022-10-07",
+      "label": "MDL-3044 established",
+      "detail": "JPML centralized federal Exactech polyethylene orthopedic product cases in the Eastern District of New York before Judge Nicholas G. Garaufis.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3044-Initial-Transfer-Order-9-22.pdf",
+      "source": "JPML transfer order",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2024-10-29",
+      "label": "Exactech filed Chapter 11 cases",
+      "detail": "Exactech and affiliates filed bankruptcy proceedings in the District of Delaware, Case 24-12441, affecting personal-injury litigation and claim administration.",
+      "sourceUrl": "https://www.deb.uscourts.gov/24-12441",
+      "source": "U.S. Bankruptcy Court for the District of Delaware",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Bankruptcy proceedings"
+    },
+    {
+      "date": "2025-09-17",
+      "label": "Chapter 11 plan confirmed",
+      "detail": "The bankruptcy court entered a confirmation order establishing post-confirmation trusts, including a Settlement Trust, and a framework for claim administration.",
+      "sourceUrl": "https://documents.elevenflo.com/uuid_database_8_14_23/08828328-7e96-4284-a725-c427a10a52a5.pdf",
+      "source": "Bankruptcy confirmation order",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Bankruptcy proceedings"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "1,838 actions pending",
+      "detail": "JPML reports 1,838 pending actions and 1,847 historical actions in MDL-3044.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "source": "JPML monthly statistics",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    }
+  ],
+  "sources": [
+    {"name": "JPML — September 1, 2026 pending and historical actions", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"name": "JPML — August 3, 2026 comparison report", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"},
+    {"name": "JPML — MDL-3044 transfer order", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3044-Initial-Transfer-Order-9-22.pdf"},
+    {"name": "FDA — Exactech joint replacement defective-packaging safety communication", "url": "https://www.fda.gov/medical-devices/safety-communications/risks-exactech-joint-replacement-devices-defective-packaging-fda-safety-communication"},
+    {"name": "District of Delaware Bankruptcy Court — Exactech Case 24-12441", "url": "https://www.deb.uscourts.gov/24-12441"},
+    {"name": "Bankruptcy confirmation order and confirmed plan", "url": "https://documents.elevenflo.com/uuid_database_8_14_23/08828328-7e96-4284-a725-c427a10a52a5.pdf"}
+  ],
+  "dataAsOf": "2026-09-22",
+  "statusVerifiedOn": "2026-09-22",
+  "updates": [
+    {"date": "2026-09-22", "summary": "The MDL remains listed by JPML while claim status and potential recovery are governed by the confirmed bankruptcy plan and post-confirmation trust administration.", "sourceUrl": "https://www.deb.uscourts.gov/24-12441"},
+    {"date": "2026-09-01", "summary": "JPML reports 1,838 pending actions and 1,847 historical actions, unchanged from August 3.", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"date": "2025-09-17", "summary": "The bankruptcy court confirmed a Chapter 11 plan establishing a Settlement Trust and other post-confirmation claim-administration structures.", "sourceUrl": "https://documents.elevenflo.com/uuid_database_8_14_23/08828328-7e96-4284-a725-c427a10a52a5.pdf"}
+  ]
+}

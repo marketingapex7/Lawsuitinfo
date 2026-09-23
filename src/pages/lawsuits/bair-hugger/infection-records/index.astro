@@ -1,0 +1,33 @@
+---
+import SupportingGuide from "@components/SupportingGuide.astro";
+const court = "https://www.mnd.uscourts.gov/node/532";
+const pfs = "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-26.pdf";
+---
+<SupportingGuide path="/lawsuits/bair-hugger/infection-records/" introduction="A Bair Hugger review starts with two separate records questions: which warming system was used during the surgery and what the medical chart shows about the later infection. Organize complete records without treating the timeline as proof of causation.">
+  <section id="product-identification">
+    <h2>Identify the warming system used during surgery</h2>
+    <p>The <a href={court}>District of Minnesota's MDL description</a> identifies Bair Hugger surgical warming products as the devices at issue. A discharge summary may not name warming equipment, so request the full facility chart.</p>
+    <ul class="list-disc"><li>Operative report and anesthesia record</li><li>Circulating-nurse and intraoperative temperature records</li><li>Supply, equipment, or warming-device logs when the facility maintains them</li><li>Implant stickers and the name of the surgical facility</li></ul>
+    <p>Record what a document actually says. Do not assume that all forced-air warming systems are Bair Hugger products.</p>
+  </section>
+  <section id="infection-records">
+    <h2>Build the infection timeline from the medical chart</h2>
+    <p>Keep the date symptoms were first noticed separate from the date a clinician documented an infection. Organize cultures and organism identification, laboratory work, imaging, wound notes, infectious-disease consultations, emergency visits, and hospital admissions.</p>
+    <p>An infection after surgery does not by itself prove that the warming system caused it. The court record reflects a contested scientific and legal causation dispute.</p>
+  </section>
+  <section id="revision-treatment">
+    <h2>Revision, debridement, and antibiotic treatment</h2>
+    <p>Collect operative reports for irrigation and debridement, implant removal or replacement, revision surgery, wound procedures, and any retained hardware. Add antibiotic names and dates, infusion records, rehabilitation, home-health care, and later orthopedic follow-up.</p>
+    <p>Keep proposed procedures separate from completed procedures and identify any treatment recommendation that changed.</p>
+  </section>
+  <section id="fact-sheet-context">
+    <h2>Why complete records matter in the MDL</h2>
+    <p>A <a href={pfs}>2026 report and recommendation</a> describes enforcement of the MDL's verified plaintiff fact-sheet requirement. That process applies to filed cases and can involve dismissal when a plaintiff does not comply.</p>
+    <p>This guide is an organizational aid. It is not the court's plaintiff fact sheet, does not submit information to the MDL, and does not replace instructions from counsel in an existing case.</p>
+  </section>
+  <section id="costs-preservation">
+    <h2>Costs, impact, and record preservation</h2>
+    <p>Keep itemized bills, insurance explanations, medication expenses, travel costs, wage records, and disability or leave documents. Preserve complete original records and communications. Do not edit, discard, or annotate original medical documents because a fact appears unhelpful.</p>
+    <p>The <a href="/lawsuits/bair-hugger/">national Bair Hugger guide</a> tracks the litigation and settlement record. A lawyer can identify which missing records matter and which deadline may apply.</p>
+  </section>
+</SupportingGuide>

@@ -1,0 +1,120 @@
+{
+  "slug": "bair-hugger",
+  "caseName": "Bair Hugger Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-2666",
+    "mdlName": "In re: Bair Hugger Forced Air Warming Devices Products Liability Litigation",
+    "court": "U.S. District Court, District of Minnesota",
+    "courtShort": "D. Minn.",
+    "judge": "Senior Judge Joan N. Ericksen",
+    "established": "2015-12-11"
+  },
+  "phase": "Active MDL; plaintiff fact-sheet compliance and case administration",
+  "phaseDetail": "JPML lists MDL-2666 as active before Senior Judge Joan N. Ericksen. A January 2026 report and recommendation describes the court's process for requiring verified plaintiff fact sheets and recommending dismissal when plaintiffs do not comply. The public court page does not announce a new bellwether trial date or global settlement program.",
+  "pendingCounts": [
+    {
+      "date": "2026-09-01",
+      "count": 8433,
+      "totalFiled": 10739,
+      "scope": "Pending actions in MDL-2666",
+      "source": "JPML, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 8407,
+      "totalFiled": 10716,
+      "scope": "Pending actions in MDL-2666",
+      "source": "JPML, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    }
+  ],
+  "defendants": ["3M Company", "Arizant Healthcare, Inc."],
+  "settlements": [
+    {
+      "label": "No global settlement program identified in reviewed records",
+      "kind": "none",
+      "status": "not announced",
+      "detail": "The District of Minnesota public MDL page and the official records reviewed September 22, 2026 do not announce a global settlement program, compensation schedule, or universal payment deadline for Bair Hugger infection claims. Dismissals and individual case outcomes do not establish a global resolution.",
+      "individualClaims": "No individual payment amount or universal payout schedule is verified here.",
+      "verifiedOn": "2026-09-22",
+      "source": "District of Minnesota Bair Hugger MDL page",
+      "sourceUrl": "https://www.mnd.uscourts.gov/mdl-bair-hugger"
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2015-12-11",
+      "label": "MDL-2666 established",
+      "detail": "JPML centralized federal Bair Hugger cases in the District of Minnesota before Judge Joan N. Ericksen.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-2666-Initial_Transfer-12-15.pdf",
+      "source": "JPML transfer order",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2019-07-31",
+      "label": "District court excluded general-causation experts and entered summary judgment",
+      "detail": "The order closed the remaining member cases at that stage. The Eighth Circuit later reversed the general-causation ruling in 2021.",
+      "sourceUrl": "https://www.mnd.uscourts.gov/node/532",
+      "source": "District of Minnesota order index",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "historical",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2021-08-16",
+      "label": "Eighth Circuit reversed the MDL-wide expert exclusion",
+      "detail": "The appellate court held that the district court abused its discretion by excluding the plaintiffs' general-causation experts on the record before it and reversed the related summary judgment.",
+      "sourceUrl": "https://ecf.ca8.uscourts.gov/opndir/21/08/192899P.pdf",
+      "source": "U.S. Court of Appeals for the Eighth Circuit",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2025-07-16",
+      "label": "Plaintiff fact-sheet enforcement process adopted",
+      "detail": "The court adopted a process for identifying cases with missing verified plaintiff fact sheets and issuing orders to show cause before recommending dismissal.",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-26.pdf",
+      "source": "District of Minnesota report and recommendation",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "8,433 actions pending",
+      "detail": "JPML reports 8,433 pending actions and 10,739 historical actions in MDL-2666.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "source": "JPML monthly statistics",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    }
+  ],
+  "sources": [
+    {"name": "JPML — September 1, 2026 pending and historical actions", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"name": "JPML — August 3, 2026 comparison report", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"},
+    {"name": "JPML — MDL-2666 transfer order", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-2666-Initial_Transfer-12-15.pdf"},
+    {"name": "District of Minnesota — Bair Hugger MDL page", "url": "https://www.mnd.uscourts.gov/mdl-bair-hugger"},
+    {"name": "Eighth Circuit — general-causation opinion", "url": "https://ecf.ca8.uscourts.gov/opndir/21/08/192899P.pdf"},
+    {"name": "January 2026 plaintiff fact-sheet report and recommendation", "url": "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-26.pdf"}
+  ],
+  "dataAsOf": "2026-09-22",
+  "statusVerifiedOn": "2026-09-22",
+  "updates": [
+    {"date": "2026-09-22", "summary": "The public MDL and official records reviewed do not announce a new bellwether date or global settlement program; case administration and plaintiff fact-sheet compliance remain active issues.", "sourceUrl": "https://www.mnd.uscourts.gov/mdl-bair-hugger"},
+    {"date": "2026-09-01", "summary": "JPML reports 8,433 pending actions and 10,739 historical actions, compared with 8,407 pending and 10,716 historical actions on August 3.", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"date": "2026-01-22", "summary": "A report and recommendation describes the court's continuing process for verified plaintiff fact sheets and possible dismissal of noncompliant individual cases.", "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-26.pdf"}
+  ]
+}

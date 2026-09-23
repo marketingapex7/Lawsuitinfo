@@ -1,0 +1,33 @@
+---
+import SupportingGuide from "@components/SupportingGuide.astro";
+const fda = "https://www.fda.gov/medical-devices/safety-communications/risks-exactech-joint-replacement-devices-defective-packaging-fda-safety-communication";
+const bankruptcy = "https://www.deb.uscourts.gov/24-12441";
+---
+<SupportingGuide path="/lawsuits/exactech/recall-records/" introduction="An Exactech review starts with the original implant identifiers, then connects recall information to imaging, revision findings, device custody, treatment, and claim records. A recall match or revision does not by itself prove causation or payment eligibility.">
+  <section id="implant-identification">
+    <h2>Implant stickers, serial numbers, and operative reports</h2>
+    <p>Request the full original operative report, implant stickers, device card, hospital implant log, manufacturer, product family, catalog number, serial or lot number, and every implanted component. A broad chart label such as “knee replacement” is not enough to determine recall status.</p>
+  </section>
+  <section id="recall-match">
+    <h2>Recall notices and product matching</h2>
+    <p>The <a href={fda}>FDA safety communication</a> describes affected knee, ankle, and hip product families and explains why serial and component information matters. Preserve any manufacturer, surgeon, hospital, or insurer notice and record the source and date of any lookup result.</p>
+    <p>Do not infer that every Exactech implant or every component in a replacement system was recalled.</p>
+  </section>
+  <section id="imaging-symptoms">
+    <h2>Imaging, symptoms, and clinical findings</h2>
+    <p>Organize office notes, X-rays and reports, comparison imaging, pain and function records, swelling or instability findings, and laboratory work. Separate the first symptom date, first documented finding, recall notice date, and revision recommendation.</p>
+  </section>
+  <section id="revision-device-analysis">
+    <h2>Revision findings and device analysis</h2>
+    <p>Collect the revision recommendation, consent, operative report, photographs, pathology, implant inventory, surgeon findings, and rehabilitation records. If a component was removed, document who received it and ask counsel before authorizing testing, alteration, or disposal.</p>
+  </section>
+  <section id="claim-expenses">
+    <h2>Bankruptcy notices, expenses, and later care</h2>
+    <p>Keep every proof of claim, confirmation or deficiency notice, trust communication, and change-of-address filing with bills, insurance explanations, wage records, travel, home assistance, and later treatment. The <a href={bankruptcy}>bankruptcy court case page</a> confirms the separate Chapter 11 proceeding.</p>
+  </section>
+  <section id="medical-boundary">
+    <h2>Medical and legal boundaries</h2>
+    <p>FDA does not recommend surgery to remove a well-functioning Exactech joint replacement solely because of recall status. Contact a healthcare provider about new or worsening symptoms and treatment options.</p>
+    <p>The <a href="/lawsuits/exactech/">national Exactech guide</a> tracks the MDL and bankruptcy status. Qualified counsel can review product scope, claim status, evidence, deadlines, and preservation duties.</p>
+  </section>
+</SupportingGuide>

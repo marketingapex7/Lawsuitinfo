@@ -1,0 +1,109 @@
+{
+  "slug": "nec-baby-formula",
+  "caseName": "NEC Baby Formula Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3026",
+    "mdlName": "In re: Abbott Laboratories, et al., Preterm Infant Nutrition Products Liability Litigation",
+    "court": "U.S. District Court, Northern District of Illinois",
+    "courtShort": "N.D. Ill.",
+    "judge": "Judge Rebecca R. Pallmeyer",
+    "established": "2022-04-08"
+  },
+  "phase": "Active MDL; bellwether rulings, appeals, and individual pretrial proceedings",
+  "phaseDetail": "JPML lists MDL-3026 as active before Judge Rebecca R. Pallmeyer. In July 2026 the Seventh Circuit affirmed an Abbott bellwether summary judgment on case-specific warning causation and separately reversed a jurisdiction ruling in five Mead cases without deciding their product-liability merits.",
+  "pendingCounts": [
+    {
+      "date": "2026-09-01",
+      "count": 847,
+      "totalFiled": 1057,
+      "scope": "Pending actions in MDL-3026",
+      "source": "JPML, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-08-03",
+      "count": 825,
+      "totalFiled": 1035,
+      "scope": "Pending actions in MDL-3026",
+      "source": "JPML, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    }
+  ],
+  "defendants": ["Abbott Laboratories", "Mead Johnson & Company, LLC", "Mead Johnson Nutrition Company"],
+  "settlements": [
+    {
+      "label": "No global MDL settlement program identified in reviewed official records",
+      "kind": "none",
+      "status": "not announced",
+      "detail": "The official JPML and federal appellate records reviewed September 22, 2026 do not announce a global MDL settlement program, compensation matrix, or universal payment deadline. A verdict, dismissal, remand, or settlement in one case does not set another case's value.",
+      "individualClaims": "No universal NEC formula payout amount is verified here.",
+      "verifiedOn": "2026-09-22",
+      "source": "JPML September 2026 report and Seventh Circuit MDL opinions",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2022-04-08",
+      "label": "MDL-3026 established",
+      "detail": "JPML centralized federal preterm infant nutrition product cases in the Northern District of Illinois before Judge Rebecca R. Pallmeyer.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3026-Initial-Transfer-Order-3-22.pdf",
+      "source": "JPML transfer order",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2026-07-24",
+      "label": "Seventh Circuit affirmed Abbott bellwether summary judgment",
+      "detail": "In Mar v. Abbott Laboratories, the court affirmed summary judgment because the plaintiff had not shown that the proposed warning would have prevented the infant's death; it did not decide the broader formula-causation issue Abbott asked it to reach.",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-ca7-25-02587/pdf/USCOURTS-ca7-25-02587-0.pdf",
+      "source": "U.S. Court of Appeals for the Seventh Circuit",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Selected federal bellwether"
+    },
+    {
+      "date": "2026-07-28",
+      "label": "Seventh Circuit reversed jurisdiction ruling in five Mead cases",
+      "detail": "The court rejected the district court's fraudulent-joinder analysis and remanded for further proceedings; the opinion did not decide defect or causation on the merits.",
+      "sourceUrl": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Path=Y2026%2FD07-28%2FC%3A25-2324%3AJ%3ARipple%3Aaut%3AT%3AfnOp%3AN%3A3581735%3AS%3A0&Submit=Display",
+      "source": "U.S. Court of Appeals for the Seventh Circuit",
+      "verifiedOn": "2026-09-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Five removed cases"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "847 actions pending",
+      "detail": "JPML reports 847 pending actions and 1,057 historical actions in MDL-3026.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "source": "JPML monthly statistics",
+      "verifiedOn": "2026-09-22",
+      "kind": "milestone",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    }
+  ],
+  "sources": [
+    {"name": "JPML — September 1, 2026 pending and historical actions", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"name": "JPML — August 3, 2026 comparison report", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"},
+    {"name": "JPML — MDL-3026 transfer order", "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3026-Initial-Transfer-Order-3-22.pdf"},
+    {"name": "Seventh Circuit — Mar v. Abbott Laboratories", "url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca7-25-02587/pdf/USCOURTS-ca7-25-02587-0.pdf"},
+    {"name": "Seventh Circuit — Abdullah and related Mead cases", "url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Path=Y2026%2FD07-28%2FC%3A25-2324%3AJ%3ARipple%3Aaut%3AT%3AfnOp%3AN%3A3581735%3AS%3A0&Submit=Display"},
+    {"name": "FDA — infant formula resources", "url": "https://www.fda.gov/food/resources-you-food/infant-formula"}
+  ],
+  "dataAsOf": "2026-09-22",
+  "statusVerifiedOn": "2026-09-22",
+  "updates": [
+    {"date": "2026-09-01", "summary": "JPML reports 847 pending actions and 1,057 historical actions, compared with 825 pending and 1,035 historical actions on August 3.", "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"},
+    {"date": "2026-07-28", "summary": "The Seventh Circuit reversed a federal-jurisdiction ruling in five Mead cases and remanded without deciding their product-liability merits.", "sourceUrl": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Path=Y2026%2FD07-28%2FC%3A25-2324%3AJ%3ARipple%3Aaut%3AT%3AfnOp%3AN%3A3581735%3AS%3A0&Submit=Display"},
+    {"date": "2026-07-24", "summary": "The Seventh Circuit affirmed summary judgment for Abbott in the Mar bellwether on case-specific warning causation while declining to decide a broader product-causation issue.", "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-ca7-25-02587/pdf/USCOURTS-ca7-25-02587-0.pdf"}
+  ]
+}
