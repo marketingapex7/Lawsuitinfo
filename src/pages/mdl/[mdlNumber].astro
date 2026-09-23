@@ -5,6 +5,7 @@ import Breadcrumbs from "@components/Breadcrumbs.astro";
 import CaseStatusOverview from "@components/CaseStatusOverview.astro";
 import { formatCount, getAllCaseData, latestPendingCount, monthlyChange } from "@lib/caseData";
 import { formatDate } from "@lib/site";
+import supportingGuides from "../../data/supporting-guides.json";
 
 export function getStaticPaths() {
   return getAllCaseData().filter((item) => item.litigation.mdlNumber).map((data) => ({
@@ -20,6 +21,7 @@ const history = [...data.pendingCounts].filter((entry) => entry.scope === pendin
 const [stateEntries, lawsuitEntries] = await Promise.all([getCollection("state-guides"), getCollection("lawsuits")]);
 const stateGuides = stateEntries.filter((entry) => entry.data.lawsuitSlug === data.slug).sort((a, b) => a.data.state.localeCompare(b.data.state));
 const nationalGuide = lawsuitEntries.find((entry) => entry.data.urlSlug === data.slug);
+const focusedGuides = supportingGuides.filter((entry) => entry.caseSlug === data.slug);
 const bellwetherDates = data.keyDates.filter((entry) => entry.kind === "bellwether").sort((a, b) => b.date.localeCompare(a.date));
 const settlement = data.settlements[0];
 const breadcrumbs = [{ name: "Home", url: "/" }, { name: "MDL Statistics", url: "/mdl-statistics/" }, { name: `MDL ${number}`, url: `/mdl/${number}/` }];
@@ -40,6 +42,6 @@ const breadcrumbs = [{ name: "Home", url: "/" }, { name: "MDL Statistics", url: 
       <div><h2 class="text-xl font-black">Settlement status</h2><p class="mt-2 leading-7 text-muted">{settlement?.detail ?? "No public settlement program is listed in the tracked record."}</p>{settlement?.individualClaims && <p class="mt-2 text-sm leading-6 text-muted"><strong>Individual claims:</strong> {settlement.individualClaims}</p>}</div>
     </section>
     <section class="mt-8 rounded-xl border border-line bg-white p-5"><h2 class="text-2xl font-black">Official sources</h2><ul class="mt-4 grid gap-2">{data.sources.map((source) => <li><a class="font-bold text-accent-dark underline" href={source.url} data-track="source_click">{source.name}</a></li>)}</ul></section>
-    <section class="mt-8 rounded-xl border border-line bg-[#eef7f8] p-5"><h2 class="text-2xl font-black">Related guides</h2><p class="mt-3"><a class="font-bold text-accent-dark underline" href={`/lawsuits/${data.slug}/`}>Read the national {data.caseName} guide</a></p>{stateGuides.length > 0 && <ul class="mt-4 flex flex-wrap gap-3">{stateGuides.map((entry) => <li><a class="font-bold text-accent-dark underline" href={`/lawsuits/${data.slug}/${entry.data.stateSlug}/`}>{entry.data.state}</a></li>)}</ul>}</section>
+    <section class="mt-8 rounded-xl border border-line bg-[#eef7f8] p-5"><h2 class="text-2xl font-black">Related guides</h2><p class="mt-3"><a class="font-bold text-accent-dark underline" href={`/lawsuits/${data.slug}/`}>Read the national {data.caseName} guide</a></p>{focusedGuides.length > 0 && <ul class="mt-4 grid gap-2">{focusedGuides.map((entry) => <li><a class="font-bold text-accent-dark underline" href={entry.path}>{entry.title}</a></li>)}</ul>}{stateGuides.length > 0 && <ul class="mt-4 flex flex-wrap gap-3">{stateGuides.map((entry) => <li><a class="font-bold text-accent-dark underline" href={`/lawsuits/${data.slug}/${entry.data.stateSlug}/`}>{entry.data.state}</a></li>)}</ul>}</section>
   </div>
 </BaseLayout>
