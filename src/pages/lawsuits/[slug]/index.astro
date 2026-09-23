@@ -49,6 +49,10 @@ const breadcrumbs = [
 ];
 const mdlNumber = caseData?.litigation.mdlNumber?.replace(/\D/g, "");
 const supportingLinks: Record<string, { href: string; label: string }[]> = {
+  "bair-hugger": [{ href: "/lawsuits/bair-hugger/infection-records/", label: "Bair Hugger infection records" }],
+  "cook-ivc-filter": [{ href: "/lawsuits/cook-ivc-filter/device-records/", label: "Cook IVC filter device records" }],
+  exactech: [{ href: "/lawsuits/exactech/recall-records/", label: "Exactech recall and implant records" }],
+  "nec-baby-formula": [{ href: "/lawsuits/nec-baby-formula/nicu-feeding-records/", label: "NEC NICU and feeding records" }],
   roundup: [{ href: "/lawsuits/roundup/proof/", label: "Proof guide" }, { href: "/lawsuits/roundup/deadline/", label: "Deadline guide" }],
   "afff-pfas": [{ href: "/lawsuits/afff-pfas/settlement/", label: "AFFF settlement guide" }],
   suboxone: [{ href: "/lawsuits/suboxone/tooth-decay/", label: "Suboxone tooth decay guide" }, { href: "/resources/suboxone-records-worksheet.html", label: "Printable records worksheet" }],
