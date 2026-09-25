@@ -11,7 +11,7 @@
     "established": "2022-08-10"
   },
   "phase": "Existing claims and settlement processing; new administrative claims closed",
-  "phaseDetail": "DOJ reports more than $1 billion in settlement offers and more than $827 million paid as of August 10, 2026. The Navy no longer accepts new CLJA administrative claims after August 10, 2024. Timely claims still require attention to documents, denial notices, individual litigation deadlines and settlement terms.",
+  "phaseDetail": "DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million as of September 18, 2026. The Navy no longer accepts new CLJA administrative claims after August 10, 2024. Timely claims still require attention to documents, denial notices, individual litigation deadlines and settlement terms.",
   "pendingCounts": [],
   "defendants": [
     "United States of America (Department of the Navy)"
@@ -21,10 +21,10 @@
       "label": "Elective Option and CLJA settlement activity",
       "kind": "individual",
       "status": "active",
-      "amount": "More than $1 billion offered; more than $827 million paid (August 10, 2026)",
-      "detail": "DOJ’s August 10, 2026 totals describe aggregate CLJA settlement activity. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.",
+      "amount": "More than $1.1 billion offered; more than $879 million paid (September 18, 2026)",
+      "detail": "DOJ’s September 18, 2026 totals describe aggregate CLJA settlement activity. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.",
       "individualClaims": "DOJ says accepted EO offers can be paid within 60 days or less with timely, accurate payment documents. That is not a deadline for receiving an offer.",
-      "verifiedOn": "2026-09-14",
+      "verifiedOn": "2026-09-25",
       "source": "DOJ CLJA claims information",
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
     }
@@ -64,12 +64,12 @@
       "appliesTo": "New Navy CLJA administrative claims"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-09-18",
       "label": "Updated aggregate settlement reporting",
-      "detail": "More than $1 billion offered and more than $827 million paid, according to DOJ.",
+      "detail": "Settlement offers exceed $1.1 billion and payouts exceed $879 million, according to DOJ.",
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims",
       "source": "Court or agency primary record",
-      "verifiedOn": "2026-09-14",
+      "verifiedOn": "2026-09-25",
       "kind": "milestone",
       "status": "completed",
       "appliesTo": "Aggregate CLJA settlement activity"
@@ -98,12 +98,12 @@
       "url": "https://www.nced.uscourts.gov/attorney/clwl.aspx"
     }
   ],
-  "dataAsOf": "2026-09-14",
+  "dataAsOf": "2026-09-25",
   "updateNote": "Earlier court and administrative claim totals were removed because the cited pages did not substantiate those dated figures. Filed administrative claims and filed lawsuits are different measures and are not interchangeable with pending cases.",
   "updates": [
     {
-      "date": "2026-08-10",
-      "summary": "DOJ reports more than $1 billion in settlement offers and more than $827 million paid across CLJA settlements.",
+      "date": "2026-09-18",
+      "summary": "DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million across CLJA settlements.",
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
     },
     {
@@ -122,5 +122,5 @@
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
     }
   ],
-  "statusVerifiedOn": "2026-09-14"
+  "statusVerifiedOn": "2026-09-25"
 }
