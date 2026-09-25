@@ -11,8 +11,8 @@ categorySlug: "toxic-exposure"
 status: "Active — Filing Deadline Passed"
 primaryInjury: "Cancers and other illnesses linked to contaminated water"
 exposureContext: "Texas is home to veterans, military family members, and former civilian workers who served or lived at Marine Corps Base Camp Lejeune between 1953 and 1987. Exposure occurred at the base in North Carolina — where a claimant lives today, including Texas, does not change eligibility or where the claim is decided."
-lastUpdated: "2026-06-15"
-lastReviewed: "2026-06-15"
+lastUpdated: "2026-09-25"
+lastReviewed: "2026-09-25"
 faqs:
   -
     question: "How large is Texas's veteran community?"
@@ -25,7 +25,7 @@ faqs:
     answer: "It stays active. Filed administrative claims continue through Navy review and the Elective Option program, and filed lawsuits continue in the Eastern District of North Carolina. Where the claimant lives does not affect the queue."
   -
     question: "How much are Camp Lejeune settlements paying?"
-    answer: "Elective Option offers are tiered at roughly $100,000 to $450,000 by diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. Per DOJ figures dated May 15, 2026, more than $876 million had been offered and approximately $665 million paid. Individual amounts vary."
+    answer: "Elective Option offers are tiered at roughly $100,000 to $450,000 by diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million as of September 18, 2026. Individual amounts vary."
   -
     question: "Why is the case in North Carolina if I live in Texas?"
     answer: "The Camp Lejeune Justice Act gives exclusive jurisdiction to the Eastern District of North Carolina because the exposure occurred at the base. Claimants generally do not need to travel; their lawyers litigate in that court."
@@ -46,7 +46,7 @@ faqs:
 <section id="state-overview">
 <h2>What Texas residents should know</h2>
 <p>Camp Lejeune claims are federal statutory claims under the Camp Lejeune Justice Act, decided exclusively in the <strong>U.S. District Court for the Eastern District of North Carolina</strong> — regardless of whether the claimant lives in Texas or anywhere else.</p>
-<p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Texas residents whose claims were filed in time: roughly 407,000 administrative claims and 3,744 lawsuits remain in process. Per DOJ figures dated May 15, 2026, more than $876 million in settlements had been offered and approximately $665 million paid.</p>
+<p><strong>The CLJA filing window closed on August 10, 2024.</strong> This page is for Texas residents whose claims were filed in time: timely filed claims remain in process through the Navy or the Eastern District of North Carolina. DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million as of September 18, 2026.</p>
 </section>
 
 <section id="state-camp-lejeune-context">

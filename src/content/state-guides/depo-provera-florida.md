@@ -11,7 +11,7 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Meningioma brain tumors"
 exposureContext: "State residents may have received Depo-Provera through OB/GYN offices, primary care practices, public health clinics, pharmacies, and other clinical settings."
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-09-25"
 lastReviewed: "2026-06-16"
 faqs:
   -
@@ -19,7 +19,7 @@ faqs:
     answer: "Federal Depo-Provera meningioma cases nationwide are consolidated in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). Florida cases filed in that district are already in the MDL's home district; federal cases filed elsewhere can still be transferred into the MDL."
   -
     question: "What is the status of the Depo-Provera MDL?"
-    answer: "The litigation remains active. Court orders confirm a private settlement program with a November 30, 2026 registration deadline for eligible participants, while the original December Pilot trial was canceled. A Rule 702 hearing remains scheduled for September 18 for claims that continue in litigation. Eligibility, payment, and outcome are not automatic."
+    answer: "The litigation remains active. Court orders confirm a private settlement program with a November 30, 2026 registration deadline for eligible participants, while the original December Pilot trial was canceled. The court calendar listed a September 18 Rule 702 hearing for continuing claims; the public orders page reviewed September 25 does not state an outcome. Eligibility, payment, and outcome are not automatic."
   -
     question: "Do Florida deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,7 +48,7 @@ faqs:
 
 <section id="state-depo-provera-context">
 <h2>Florida: the home of the Depo-Provera MDL</h2>
-<p>Florida is the home of this litigation. On February 7, 2025, the Judicial Panel on Multidistrict Litigation centralized the federal Depo-Provera meningioma cases in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). Court orders confirm a private settlement program with a November 30, 2026 registration deadline for eligible participants, cancel the original December Pilot trial, and leave a September 18 Rule 702 hearing on the calendar for ongoing litigation. Florida residents' cases may already be in the MDL's home district if filed in the Northern District of Florida, but federal cases filed in other districts can still be transferred into MDL No. 3140.</p>
+<p>Florida is the home of this litigation. On February 7, 2025, the Judicial Panel on Multidistrict Litigation centralized the federal Depo-Provera meningioma cases in MDL No. 3140 before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). Court orders confirm a private settlement program with a November 30, 2026 registration deadline for eligible participants, cancel the original December Pilot trial, and show that a September 18 Rule 702 hearing was listed for ongoing litigation; the public orders page reviewed September 25 does not state an outcome. Florida residents' cases may already be in the MDL's home district if filed in the Northern District of Florida, but federal cases filed in other districts can still be transferred into MDL No. 3140.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/2025.02.07%20-%20325md3140%20-%20JPML%20Transfer%20Order.pdf" target="_blank" rel="noopener noreferrer">JPML Transfer Order establishing MDL No. 3140 (Feb. 7, 2025)</a>; <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date" target="_blank" rel="noopener noreferrer">U.S. District Court (N.D. Fla.) &mdash; Depo-Provera MDL No. 3140, orders by date</a>.</p>
 </section>
 

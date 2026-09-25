@@ -15,7 +15,7 @@ const checks = {
   ],
   "camp-lejeune.md": [
     "How are Camp Lejeune settlements paid?",
-    "August 10, 2026",
+    "September 18, 2026",
     "justice.gov/civil/camp-lejeune-justice-act-claims",
   ],
   "roundup.md": [
