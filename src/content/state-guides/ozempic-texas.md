@@ -11,8 +11,8 @@ categorySlug: "defective-drugs"
 status: "Active / Investigating"
 primaryInjury: "Gastroparesis and severe gastrointestinal injuries"
 exposureContext: "Texas residents may have been prescribed Ozempic, Wegovy, Rybelsus, Saxenda, Mounjaro, Zepbound, or Trulicity through endocrinologists, primary care practices, weight-management clinics, telehealth services, or hospital systems across the state."
-lastUpdated: "2026-09-14"
-lastReviewed: "2026-06-16"
+lastUpdated: "2026-09-25"
+lastReviewed: "2026-09-25"
 faqs:
   -
     question: "Does Texas Medicaid cover GLP-1 drugs for weight loss?"
@@ -34,7 +34,7 @@ faqs:
     answer: "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."
   -
     question: "Has there been an Ozempic settlement?"
-    answer: "A review of the Eastern District of Pennsylvania public MDL orders on September 14, 2026 did not identify a GLP-1 injury settlement program. The Rule 702 hearing was scheduled for September 14-18; a hearing schedule does not establish its outcome. Bellwether trial dates have not been set, and no outcome is guaranteed."
+    answer: "A review of the Eastern District of Pennsylvania public MDL orders on September 25, 2026 did not identify a GLP-1 injury settlement program. The scheduled September 14-18 Rule 702 hearing window has ended, but the public orders page does not announce an outcome. Bellwether trial dates have not been set, and no outcome is guaranteed."
   -
     question: "Is Ozempic recalled?"
     answer: "No. GLP-1 medications remain FDA-approved and on the market. The litigation concerns warnings and alleged injuries, not availability. Medication decisions belong with a licensed healthcare professional."
@@ -67,5 +67,5 @@ faqs:
 
 <section id="filing-process">
 <h2>How Texas claims proceed</h2>
-<p>Most Texas GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. An August 28 court order rescheduled the Rule 702 expert-admissibility hearing for September 14–18, 2026; bellwether trial dates have not yet been set. Texas's general personal injury limitations period is 2 years (Tex. Civ. Prac. & Rem. Code § 16.003), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
+<p>Most Texas GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. An August 28 court order scheduled the Rule 702 expert-admissibility hearing for September 14–18, 2026. That hearing window has ended, and the public orders page reviewed September 25 does not announce an outcome; bellwether trial dates have not yet been set. Texas's general personal injury limitations period is 2 years (Tex. Civ. Prac. & Rem. Code § 16.003), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
 </section>
