@@ -11,7 +11,7 @@
     "established": "2025-02-07"
   },
   "phase": "Settlement registration; litigation continues for remaining claims",
-  "phaseDetail": "Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled; the court calendar still lists a September 18 Rule 702 hearing for ongoing litigation. Eligibility and payments are not automatic.",
+  "phaseDetail": "Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled. The September 18 Rule 702 hearing date has passed; the public court page reviewed September 20 does not state an outcome and lists the next case-management conference for October 16. Eligibility and payments are not automatic.",
   "pendingCounts": [
     {
       "date": "2026-09-01",
@@ -89,10 +89,10 @@
     },
     {
       "date": "2026-09-18",
-      "label": "Rule 702 hearing (scheduled)",
-      "detail": "The court's public MDL calendar lists the general-causation hearing for September 18, 2026 following the case-management conference.",
+      "label": "Rule 702 hearing date passed",
+      "detail": "The September 18 general-causation hearing date has passed. The public court page reviewed September 20 does not state an outcome.",
       "kind": "court",
-      "status": "scheduled",
+      "status": "completed",
       "sourceUrl": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date",
       "source": "Official court record",
       "verifiedOn": "2026-09-14",
@@ -139,7 +139,7 @@
       "url": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date"
     },
     {
-      "name": "CMO 12 confirms a private settlement and cancellation of the original December Pilot trial; the September 18 Rule 702 hearing remains listed for ongoing litigation.",
+      "name": "CMO 12 confirms a private settlement and cancellation of the original December Pilot trial; the court calendar separately listed a September 18 Rule 702 hearing.",
       "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Case%20Management%20Order%20No%2012.pdf"
     },
     {
@@ -163,9 +163,14 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-09-14",
-  "statusVerifiedOn": "2026-09-14",
+  "dataAsOf": "2026-09-20",
+  "statusVerifiedOn": "2026-09-20",
   "updates": [
+    {
+      "date": "2026-09-20",
+      "summary": "The September 18 Rule 702 hearing date has passed. The public court page reviewed September 20 does not state an outcome and lists the next case-management conference for October 16.",
+      "sourceUrl": "https://flnd.uscourts.gov/depo-provera-products-liability-litigation-mdl-no3140-disclaimer"
+    },
     {
       "date": "2026-09-14",
       "summary": "JPML reports 6,403 pending actions on September 1, 2026, compared with 6,294 on August 3; 6,510 total historical actions are reported separately.",
@@ -173,7 +178,7 @@
     },
     {
       "date": "2026-09-14",
-      "summary": "CMO 12 confirms a private settlement and cancellation of the original December Pilot trial; the September 18 Rule 702 hearing remains listed for ongoing litigation.",
+      "summary": "CMO 12 confirmed a private settlement and cancellation of the original December Pilot trial; the court calendar separately listed a September 18 Rule 702 hearing.",
       "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Case%20Management%20Order%20No%2012.pdf"
     },
     {
@@ -188,3 +193,4 @@
     }
   ]
 }
+

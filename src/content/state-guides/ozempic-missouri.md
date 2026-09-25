@@ -34,7 +34,7 @@ faqs:
     answer: "Prescription and pharmacy records, gastroenterology records, gastric emptying study results, hospitalization records, and imaging or endoscopy reports are commonly requested first."
   -
     question: "Has there been an Ozempic settlement?"
-    answer: "A review of the Eastern District of Pennsylvania public MDL orders on September 14, 2026 did not identify a GLP-1 injury settlement program. The Rule 702 hearing was scheduled for September 14-18; a hearing schedule does not establish its outcome. Bellwether trial dates have not been set, and no outcome is guaranteed."
+    answer: "The September 14–18 Rule 702 hearing window has ended. The Eastern District of Pennsylvania public MDL page reviewed September 20 does not announce a ruling, settlement program, or bellwether trial date. No outcome is guaranteed."
   -
     question: "Is Ozempic recalled?"
     answer: "No. GLP-1 medications remain FDA-approved and on the market. The litigation concerns warnings and alleged injuries, not availability. Medication decisions belong with a licensed healthcare professional."
@@ -67,5 +67,6 @@ faqs:
 
 <section id="filing-process">
 <h2>How Missouri claims proceed</h2>
-<p>Most Missouri GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. An August 28 court order rescheduled the Rule 702 expert-admissibility hearing for September 14–18, 2026; bellwether trial dates have not yet been set. Missouri's general personal injury limitations period is 5 years (Mo. Rev. Stat. § 516.120(4)), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
+<p>Most Missouri GLP-1 cases are filed in or transferred to MDL-3094 in the Eastern District of Pennsylvania for coordinated proceedings. The September 14–18 Rule 702 expert-admissibility hearing window has ended; the public MDL page reviewed September 20 does not announce a ruling or bellwether trial date. Missouri's general personal injury limitations period is 5 years (Mo. Rev. Stat. § 516.120(4)), but accrual and discovery-rule questions are fact-specific for injuries that develop during ongoing medication use.</p>
 </section>
+

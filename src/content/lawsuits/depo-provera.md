@@ -33,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-09-14"
-lastReviewed: "2026-09-14"
+lastUpdated: "2026-09-20"
+lastReviewed: "2026-09-20"
 faqs:
   -
     question: "What is the Depo-Provera lawsuit about?"
@@ -53,7 +53,7 @@ faqs:
     answer: "Federal Depo-Provera cases are consolidated as multidistrict litigation — MDL-3140, before Judge M. Casey Rodgers in the U.S. District Court for the Northern District of Florida (Pensacola). It is not a class action: each plaintiff keeps an individual claim that is coordinated for pretrial proceedings."
   -
     question: "When are the first Depo-Provera trials?"
-    answer: "CMO 12 states that the original December 2026 Pilot trial was canceled after the settlement announcement. The public court calendar checked September 14 still lists a September 18, 2026 Rule 702 hearing for ongoing litigation. This expert hearing is not a jury trial."
+    answer: "CMO 12 states that the original December 2026 Pilot trial was canceled after the settlement announcement. The September 18 Rule 702 hearing date has passed; the public court page reviewed September 20 does not state an outcome and lists the next case-management conference for October 16. This expert hearing was not a jury trial."
   -
     question: "Does a Depo-Provera diagnosis mean I have a claim?"
     answer: "No. Eligibility depends on individual facts, records, timing, diagnosis, and applicable law."
@@ -84,7 +84,7 @@ faqs:
 
 <section id="latest-update">
 <h2>Depo-Provera Lawsuit update: September 2026</h2>
-<p><strong>Settlement registration; litigation continues for remaining claims.</strong> Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled; the court calendar still lists a September 18 Rule 702 hearing for ongoing litigation. Eligibility and payments are not automatic.</p>
+<p><strong>Settlement registration; litigation continues for remaining claims.</strong> Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled. The September 18 Rule 702 hearing date has passed; the public court page reviewed September 20 does not state an outcome and lists the next case-management conference for October 16. Eligibility and payments are not automatic.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>6,403 pending actions</strong> in MDL-3140, compared with 6,294 on August 3. Its 6,510 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
 <p><a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">Official court records</a> checked September 14, 2026.</p>
 </section>
@@ -105,7 +105,7 @@ faqs:
 <h2>Verified litigation updates</h2>
 <ul>
 <li>JPML reports 6,403 pending actions on September 1, 2026, compared with 6,294 on August 3; 6,510 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
-<li>CMO 12 confirms a private settlement and cancellation of the original December Pilot trial; the September 18 Rule 702 hearing remains listed for ongoing litigation. <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Case%20Management%20Order%20No%2012.pdf">Source</a></li>
+<li>The September 18 Rule 702 hearing date has passed. The public court page reviewed September 20 does not state an outcome and lists the next case-management conference for October 16. <a href="https://flnd.uscourts.gov/depo-provera-products-liability-litigation-mdl-no3140-disclaimer">Source</a></li>
 <li>The August 5 CMO 13 appoints BrownGreer PLC as settlement administrator to review records and determine eligibility. <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%20No%2013%20Appointment%20of%20Settlement%20Administrator.pdf">Source</a></li>
 <li>The August 10 CMO 14 identifies November 30, 2026 as the settlement registration deadline and sets procedures for continuing claims. <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%2014%20with%20Exhibits.pdf">Source</a></li>
 </ul>
@@ -113,7 +113,7 @@ faqs:
 
 <section id="status">
 <h2>Current status</h2>
-<p>Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled; the court calendar still lists a September 18 Rule 702 hearing for ongoing litigation. Eligibility and payments are not automatic.</p>
+<p>Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled. The September 18 Rule 702 hearing date has passed; the public court page reviewed September 20 does not state an outcome and lists the next case-management conference for October 16. Eligibility and payments are not automatic.</p>
 <p>Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 14 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.</p>
 </section>
 
@@ -167,7 +167,7 @@ faqs:
 <h2>Sources and status notes</h2>
 <p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
-<li><a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Case%20Management%20Order%20No%2012.pdf">CMO 12 confirms a private settlement and cancellation of the original December Pilot trial; the September 18 Rule 702 hearing remains listed for ongoing litigation.</a></li>
+<li><a href="https://flnd.uscourts.gov/depo-provera-products-liability-litigation-mdl-no3140-disclaimer">The September 18 Rule 702 hearing date has passed; the court page reviewed September 20 does not state an outcome.</a></li>
 <li><a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%20No%2013%20Appointment%20of%20Settlement%20Administrator.pdf">The August 5 CMO 13 appoints BrownGreer PLC as settlement administrator to review records and determine eligibility.</a></li>
 <li><a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%2014%20with%20Exhibits.pdf">The August 10 CMO 14 identifies November 30, 2026 as the settlement registration deadline and sets procedures for continuing claims.</a></li>
 </ul>
@@ -183,3 +183,4 @@ faqs:
 <li>Families evaluating possible wrongful death issues should ask a lawyer how state law may apply.</li>
 </ul>
 </section>
+
