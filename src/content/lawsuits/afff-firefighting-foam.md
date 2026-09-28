@@ -82,29 +82,12 @@ faqs:
 <p>AFFF lawsuits allege that PFAS-containing firefighting foam caused cancers and other diseases. Federal cases are coordinated in MDL-2873 before Judge Richard M. Gergel in South Carolina. Defendants dispute the allegations. Water-system settlements and personal-injury proceedings have different eligibility rules and schedules.</p>
 </section>
 
-<section id="mdl-2873-settlement-update">
-<h2>What is the latest MDL 2873 settlement update?</h2>
-<p>MDL No. 2873 includes both public water-system contamination claims and individual personal-injury claims, and those tracks should not be treated as the same settlement. The public water-system settlements are large and documented, but they resolve utility contamination claims rather than firefighter, military, airport, industrial, or resident injury claims.</p>
-<p>The official claims administrator says the current settlements with 3M, DuPont-related companies, Tyco/Chemguard, and BASF have final approval and are designed for eligible public water systems. For individual AFFF personal-injury claims, the September 2026 review of the official MDL and settlement-administration pages did not identify a global personal-injury settlement. Claim review still turns on exposure documentation, disease category, diagnosis timing, medical proof, and applicable state law.</p>
-</section>
-
 <section id="latest-update">
+<span id="status"></span><span id="case-status-snapshot"></span>
 <h2>AFFF Firefighting Foam (PFAS) Lawsuit update: September 2026</h2>
 <p><strong>Personal-injury discovery; water-system settlement administration.</strong> The July 30, 2026 CMO 26O moves Group B selection and expert-discovery proposals to November 20, 2026. The August 31 CMO 33F sets thyroid/liver-cancer Rule 702 response and reply deadlines for November 20, 2026 and January 22, 2027. These expert proceedings are separate from the four finally approved public-water-system settlements.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>15,264 pending actions</strong> in MDL-2873, compared with 15,246 on August 3. Its 19,840 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
 <p><a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">Official court records</a> checked September 14, 2026.</p>
-</section>
-
-<section id="case-status-snapshot">
-<h2>Case status snapshot</h2>
-<ul>
-<li><strong>Federal proceeding:</strong> MDL-2873; U.S. District Court, District of South Carolina (Charleston)</li>
-<li><strong>Judge:</strong> Judge Richard M. Gergel</li>
-<li><strong>JPML transfer date:</strong> 2018-12-07</li>
-<li><strong>Pending actions:</strong> 15,264 as of September 1, 2026</li>
-<li><strong>Current phase:</strong> Personal-injury discovery; water-system settlement administration</li>
-<li><strong>Settlement:</strong> The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.</li>
-</ul>
 </section>
 
 <section id="afff-lawsuit-overview">
@@ -137,17 +120,12 @@ faqs:
 </ul>
 </section>
 
-<section id="afff-settlement-status">
+<section id="settlement">
+<span id="afff-settlement-status"></span><span id="mdl-2873-settlement-update"></span>
 <h2>AFFF lawsuit settlement status</h2>
-<p>AFFF settlement status should be read carefully because different parts of the litigation move on different tracks. The official claims administrator identifies four finally approved settlements designed to resolve defined PFAS drinking-water claims for eligible public water systems. Those settlements do not decide whether an individual firefighter, service member, airport worker, industrial worker, or resident has a personal-injury claim.</p>
+<p>AFFF settlement status should be read carefully because different parts of the litigation move on different tracks. The official claims administrator identifies four finally approved settlements with 3M, DuPont-related companies, Tyco/Chemguard, and BASF for eligible public water systems. Those settlements address drinking-water claims; they do not decide whether an individual firefighter, service member, airport worker, industrial worker, or resident has a personal-injury claim.</p>
 <p>Personal injury claims may depend on disease category, exposure pathway, diagnosis records, expert rulings, bellwether planning, state law, and whether the person can connect exposure to AFFF or a relevant PFAS-contaminated site. Settlement discussions or public settlement reports do not mean every personal injury claim is resolved or that any individual outcome is guaranteed.</p>
 <p>As of the September 14, 2026 review, the official MDL and settlement-administration pages did not identify a global personal-injury settlement or an individual payout schedule. This site does not provide settlement calculators, estimated payouts, or claim-value rankings. Personal-injury settlement posture can change as court rulings, disease-category review, and claim-specific evidence develop.</p>
-</section>
-
-<section id="status">
-<h2>Current status</h2>
-<p>The July 30, 2026 CMO 26O moves Group B selection and expert-discovery proposals to November 20, 2026. The August 31 CMO 33F sets thyroid/liver-cancer Rule 702 response and reply deadlines for November 20, 2026 and January 22, 2027. These expert proceedings are separate from the four finally approved public-water-system settlements.</p>
-<p>The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.</p>
 </section>
 
 <section id="key-issues">
