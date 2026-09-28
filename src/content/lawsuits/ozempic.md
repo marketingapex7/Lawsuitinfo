@@ -87,6 +87,7 @@ faqs:
 </section>
 
 <section id="latest-update">
+<span id="status"></span><span id="case-status-snapshot"></span>
 <h2>Ozempic / GLP-1 Lawsuit update: September 2026</h2>
 <p><strong>Rule 702 hearing window ended; ruling not announced.</strong> The Eastern District of Pennsylvania scheduled the expert-admissibility hearing for September 14–18, 2026. That window has ended, and the public MDL orders page reviewed September 25 does not announce an outcome. This is an expert-evidence proceeding, not a bellwether trial. NAION vision-loss claims are coordinated separately in MDL-3163.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>4,022 pending actions</strong> in MDL-3094, compared with 3,928 on August 3. Its 4,056 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
@@ -128,18 +129,6 @@ faqs:
 <p>The federal proceeding's current schedule and orders are available from the <a href="https://www.paed.uscourts.gov/mdl/mdl3094" target="_blank" rel="noopener noreferrer">Eastern District of Pennsylvania's MDL-3094 page</a>. Court coordination does not create a universal qualification checklist, and state filing deadlines still require individual review.</p>
 </section>
 
-<section id="case-status-snapshot">
-<h2>Case status snapshot</h2>
-<ul>
-<li><strong>Federal proceeding:</strong> MDL-3094; U.S. District Court, Eastern District of Pennsylvania</li>
-<li><strong>Judge:</strong> Judge Karen Spencer Marston</li>
-<li><strong>JPML transfer date:</strong> 2024-02-02</li>
-<li><strong>Pending actions:</strong> 4,022 as of September 1, 2026</li>
-<li><strong>Current phase:</strong> Rule 702 hearing window ended; ruling not announced</li>
-<li><strong>Settlement:</strong> The Eastern District of Pennsylvania public MDL orders reviewed September 25, 2026 do not announce a GLP-1 injury settlement program or official payout amounts. The Rule 702 proceeding concerns expert evidence, not settlement eligibility or an individual award.</li>
-</ul>
-</section>
-
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
 <ul>
@@ -148,12 +137,6 @@ faqs:
 <li>The separate NAION vision-loss MDL-3163 has 216 pending actions as of September 1, compared with 200 on August 3. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
 <li>The public MDL orders checked September 25 contain no announced bellwether trial date or settlement program. <a href="https://www.paed.uscourts.gov/mdl/mdl3094/orders">Source</a></li>
 </ul>
-</section>
-
-<section id="status">
-<h2>Current status</h2>
-<p>The Eastern District of Pennsylvania scheduled the Rule 702 hearing for September 14 through September 18, 2026. That window has ended, and the public MDL orders page reviewed September 25 does not announce an outcome. This is an expert-evidence proceeding, not a bellwether trial. NAION vision-loss claims are coordinated separately in MDL-3163.</p>
-<p>The Eastern District of Pennsylvania public MDL orders reviewed September 25, 2026 do not announce a GLP-1 injury settlement program or official payout amounts. The Rule 702 proceeding concerns expert evidence, not settlement eligibility or an individual award.</p>
 </section>
 
 <section id="eligibility">

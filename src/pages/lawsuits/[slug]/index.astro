@@ -38,7 +38,8 @@ const related = (await getCollection("lawsuits"))
 const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
 const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
-const contentSettlementSlugs = new Set(["paragard", "social-media", "suboxone"]);
+const contentSettlementSlugs = new Set(["afff-pfas", "paragard", "social-media", "suboxone"]);
+const conciseStatusSlugs = new Set(["afff-pfas", "ozempic"]);
 const contentDeadlineSlugs = new Set(["suboxone", "bard-powerport", "hair-relaxer", "hernia-mesh"]);
 const contentEvidenceSlugs = new Set(["suboxone", "bard-powerport", "hair-relaxer", "hernia-mesh", "paragard", "social-media"]);
 const compactContentSlugs = new Set(["bard-powerport", "hair-relaxer", "hernia-mesh"]);
@@ -148,6 +149,9 @@ if (slug === "talcum-powder") {
   toc.splice(3, 0, { id: "talcum-powder-lawsuit", label: "Lawsuit overview" });
   toc.splice(4, 0, { id: "talcum-powder-qualifications", label: "Qualifications" });
 }
+const displayedToc = conciseStatusSlugs.has(slug)
+  ? toc.filter(({ id }) => id !== "case-status-snapshot" && id !== "status" && (slug !== "afff-pfas" || id !== "afff-settlement-status"))
+  : toc;
 ---
 
 <GuideLayout
@@ -185,7 +189,7 @@ if (slug === "talcum-powder") {
   <div class="mt-8 grid gap-8 lg:grid-cols-[220px_1fr_300px]">
     <div class="hidden lg:block">
       <div class="sticky top-24">
-        <TableOfContents items={toc} />
+        <TableOfContents items={displayedToc} />
       </div>
     </div>
     <aside class="space-y-5 lg:order-3">
@@ -199,13 +203,13 @@ if (slug === "talcum-powder") {
           { label: "Related state guides", value: `${stateGuides.length} available` }
         ]}
       />
-      <CaseStatusSnapshot
+      {!conciseStatusSlugs.has(slug) && <CaseStatusSnapshot
         status={lawsuit.data.status}
         category={lawsuit.data.category}
         primaryInjury={lawsuit.data.primaryInjury}
         lastUpdated={lawsuit.data.lastUpdated}
         stateGuideCount={stateGuides.length}
-      />
+      />}
       <DisclaimerBox />
     </aside>
     <div class="prose-legal max-w-none lg:order-2">
