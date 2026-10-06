@@ -1,0 +1,752 @@
+{
+  "_meta": {
+    "reviewedAt": "2026-10-06",
+    "data": "GSC web, Sep 21-Oct 5 2026, plus GSC Insights trending-down list (prior 28 days)",
+    "rule": "A tort x state guide is indexable only if it has a verified state-specific section (src/data/state-dedup) AND shows search demand (>=8 impressions in the window, or clicks in the prior 28 days). Everything else renders with noindex,follow and is left out of sitemap.xml and llms.txt. Re-review quarterly; promote a page by setting index:true once it earns impressions and has genuinely state-specific content.",
+    "why": "Sep 2026 spam update (scaled content). 106 templated state pages earned 13 of 165 clicks."
+  },
+  "guides": {
+    "afff-pfas/california": {
+      "index": false,
+      "impressions": 5,
+      "clicks": 0,
+      "position": 13.0,
+      "reason": "noindex: 5 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/colorado": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 1,
+      "position": 5.5,
+      "reason": "noindex: no verified state-specific section; 2 impr / 1 clicks"
+    },
+    "afff-pfas/florida": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/georgia": {
+      "index": false,
+      "impressions": 5,
+      "clicks": 1,
+      "position": 4.0,
+      "reason": "noindex: 5 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/illinois": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 4.0,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/michigan": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/missouri": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 1,
+      "position": 3.5,
+      "reason": "noindex: 2 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/new-jersey": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5.0,
+      "reason": "noindex: no verified state-specific section; 1 impr / 0 clicks"
+    },
+    "afff-pfas/new-york": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: no verified state-specific section; 0 impr / 0 clicks"
+    },
+    "afff-pfas/north-carolina": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/ohio": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/pennsylvania": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/texas": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "afff-pfas/washington": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 9.0,
+      "reason": "noindex: no verified state-specific section; 4 impr / 0 clicks"
+    },
+    "camp-lejeune/california": {
+      "index": true,
+      "impressions": 12,
+      "clicks": 0,
+      "position": 15.08,
+      "reason": "keep: 12 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/florida": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/georgia": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/illinois": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/michigan": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/missouri": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/north-carolina": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 40.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/ohio": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 1,
+      "position": 2.0,
+      "reason": "noindex: 1 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/pennsylvania": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 0,
+      "position": 8.0,
+      "reason": "noindex: 3 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "camp-lejeune/texas": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 23.5,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "depo-provera/california": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "depo-provera/delaware": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 1,
+      "position": 7.0,
+      "reason": "noindex: no verified state-specific section; 3 impr / 1 clicks"
+    },
+    "depo-provera/florida": {
+      "index": true,
+      "impressions": 9,
+      "clicks": 0,
+      "position": 6.0,
+      "reason": "keep: 9 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "depo-provera/georgia": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 3.5,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "depo-provera/illinois": {
+      "index": true,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 20.0,
+      "reason": "keep: 2 impr / 0 clicks Sep 21-Oct 5 ; clicks in prior 28 days (GSC Insights)"
+    },
+    "depo-provera/michigan": {
+      "index": false,
+      "impressions": 6,
+      "clicks": 0,
+      "position": 5.5,
+      "reason": "noindex: 6 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "depo-provera/missouri": {
+      "index": true,
+      "impressions": 9,
+      "clicks": 0,
+      "position": 10.56,
+      "reason": "keep: 9 impr / 0 clicks Sep 21-Oct 5 ; clicks in prior 28 days (GSC Insights)"
+    },
+    "depo-provera/new-york": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8.0,
+      "reason": "noindex: no verified state-specific section; 2 impr / 0 clicks"
+    },
+    "depo-provera/north-carolina": {
+      "index": true,
+      "impressions": 16,
+      "clicks": 0,
+      "position": 18.0,
+      "reason": "keep: 16 impr / 0 clicks Sep 21-Oct 5 ; clicks in prior 28 days (GSC Insights)"
+    },
+    "depo-provera/ohio": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 1.75,
+      "reason": "noindex: 4 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "depo-provera/pennsylvania": {
+      "index": true,
+      "impressions": 55,
+      "clicks": 0,
+      "position": 5.96,
+      "reason": "keep: 55 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "depo-provera/texas": {
+      "index": true,
+      "impressions": 52,
+      "clicks": 0,
+      "position": 8.52,
+      "reason": "keep: 52 impr / 0 clicks Sep 21-Oct 5 ; clicks in prior 28 days (GSC Insights)"
+    },
+    "ozempic/california": {
+      "index": true,
+      "impressions": 17,
+      "clicks": 0,
+      "position": 6.88,
+      "reason": "keep: 17 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/florida": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/georgia": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/illinois": {
+      "index": true,
+      "impressions": 8,
+      "clicks": 0,
+      "position": 7.88,
+      "reason": "keep: 8 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/michigan": {
+      "index": true,
+      "impressions": 58,
+      "clicks": 3,
+      "position": 9.05,
+      "reason": "keep: 58 impr / 3 clicks Sep 21-Oct 5"
+    },
+    "ozempic/missouri": {
+      "index": true,
+      "impressions": 8,
+      "clicks": 0,
+      "position": 9.25,
+      "reason": "keep: 8 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/north-carolina": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/ohio": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/pennsylvania": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 6.25,
+      "reason": "noindex: 4 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "ozempic/texas": {
+      "index": true,
+      "impressions": 13,
+      "clicks": 0,
+      "position": 6.46,
+      "reason": "keep: 13 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/california": {
+      "index": false,
+      "impressions": 6,
+      "clicks": 1,
+      "position": 6.0,
+      "reason": "noindex: 6 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "paragard/florida": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/georgia": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/illinois": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 4.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/michigan": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/missouri": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 4.0,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/north-carolina": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/ohio": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/pennsylvania": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paragard/texas": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/california": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 1.5,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/florida": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/georgia": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 0,
+      "position": 17.67,
+      "reason": "noindex: 3 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/illinois": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 14.25,
+      "reason": "noindex: 4 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/michigan": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 0,
+      "position": 35.0,
+      "reason": "noindex: 3 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/missouri": {
+      "index": false,
+      "impressions": 7,
+      "clicks": 0,
+      "position": 17.0,
+      "reason": "noindex: 7 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/north-carolina": {
+      "index": true,
+      "impressions": 9,
+      "clicks": 0,
+      "position": 20.56,
+      "reason": "keep: 9 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/ohio": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/pennsylvania": {
+      "index": true,
+      "impressions": 68,
+      "clicks": 0,
+      "position": 7.16,
+      "reason": "keep: 68 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "paraquat/texas": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/california": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10.5,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/florida": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/georgia": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/illinois": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 0,
+      "position": 8.0,
+      "reason": "noindex: 3 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/michigan": {
+      "index": false,
+      "impressions": 7,
+      "clicks": 0,
+      "position": 3.71,
+      "reason": "noindex: 7 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/missouri": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 4.0,
+      "reason": "noindex: 4 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/north-carolina": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 2.5,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/ohio": {
+      "index": false,
+      "impressions": 6,
+      "clicks": 0,
+      "position": 4.5,
+      "reason": "noindex: 6 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/pennsylvania": {
+      "index": true,
+      "impressions": 9,
+      "clicks": 0,
+      "position": 3.11,
+      "reason": "keep: 9 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "roundup/texas": {
+      "index": false,
+      "impressions": 5,
+      "clicks": 0,
+      "position": 18.4,
+      "reason": "noindex: 5 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/california": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/florida": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/georgia": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 1,
+      "position": 6.0,
+      "reason": "noindex: 3 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "social-media/illinois": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 0,
+      "position": 7.0,
+      "reason": "noindex: 3 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/michigan": {
+      "index": true,
+      "impressions": 10,
+      "clicks": 1,
+      "position": 9.7,
+      "reason": "keep: 10 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "social-media/missouri": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/north-carolina": {
+      "index": true,
+      "impressions": 9,
+      "clicks": 0,
+      "position": 5.67,
+      "reason": "keep: 9 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/ohio": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/pennsylvania": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "social-media/texas": {
+      "index": true,
+      "impressions": 8,
+      "clicks": 0,
+      "position": 17.25,
+      "reason": "keep: 8 impr / 0 clicks Sep 21-Oct 5 ; clicks in prior 28 days (GSC Insights)"
+    },
+    "suboxone/california": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 6.5,
+      "reason": "noindex: 4 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/florida": {
+      "index": false,
+      "impressions": 5,
+      "clicks": 1,
+      "position": 9.6,
+      "reason": "noindex: 5 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "suboxone/georgia": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 0,
+      "position": 7.0,
+      "reason": "noindex: 3 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/illinois": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 3.75,
+      "reason": "noindex: 4 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/michigan": {
+      "index": false,
+      "impressions": 7,
+      "clicks": 0,
+      "position": 5.57,
+      "reason": "noindex: 7 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/missouri": {
+      "index": false,
+      "impressions": 7,
+      "clicks": 0,
+      "position": 8.0,
+      "reason": "noindex: 7 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/north-carolina": {
+      "index": false,
+      "impressions": 4,
+      "clicks": 0,
+      "position": 6.5,
+      "reason": "noindex: 4 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/ohio": {
+      "index": true,
+      "impressions": 10,
+      "clicks": 0,
+      "position": 5.4,
+      "reason": "keep: 10 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/pennsylvania": {
+      "index": false,
+      "impressions": 6,
+      "clicks": 0,
+      "position": 3.33,
+      "reason": "noindex: 6 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "suboxone/texas": {
+      "index": true,
+      "impressions": 8,
+      "clicks": 0,
+      "position": 5.5,
+      "reason": "keep: 8 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/california": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/florida": {
+      "index": false,
+      "impressions": 3,
+      "clicks": 1,
+      "position": 5.0,
+      "reason": "noindex: 3 impr / 1 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/georgia": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7.0,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/illinois": {
+      "index": true,
+      "impressions": 14,
+      "clicks": 0,
+      "position": 32.71,
+      "reason": "keep: 14 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/michigan": {
+      "index": false,
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1.0,
+      "reason": "noindex: 1 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/missouri": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/north-carolina": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/ohio": {
+      "index": false,
+      "impressions": 0,
+      "clicks": 0,
+      "position": 0,
+      "reason": "noindex: 0 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/pennsylvania": {
+      "index": true,
+      "impressions": 70,
+      "clicks": 0,
+      "position": 5.83,
+      "reason": "keep: 70 impr / 0 clicks Sep 21-Oct 5"
+    },
+    "talcum-powder/texas": {
+      "index": false,
+      "impressions": 2,
+      "clicks": 0,
+      "position": 14.5,
+      "reason": "noindex: 2 impr / 0 clicks Sep 21-Oct 5"
+    }
+  }
+}

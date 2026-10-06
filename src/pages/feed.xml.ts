@@ -1,6 +1,7 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
 import { site } from "@lib/site";
+import { indexableStateGuides } from "@lib/stateIndex";
 
 export const prerender = true;
 
@@ -15,7 +16,7 @@ function xmlEscape(value: string) {
 
 export async function GET() {
   const lawsuits = await getCollection("lawsuits");
-  const stateGuides = await getCollection("state-guides");
+  const stateGuides = indexableStateGuides(await getCollection("state-guides"));
 
   const items = [
     ...lawsuits.map((entry) => ({

@@ -12,6 +12,7 @@ import { getCaseData, getStateLimitation } from "@lib/caseData";
 import { caseIntentHref } from "@lib/caseLinks";
 import { formatDate, getStateBySlug } from "@lib/site";
 import { shortLawsuitName, stateGuideMetaDescription, stateGuideSeoTitle } from "@lib/seo";
+import { isIndexableStateGuide } from "@lib/stateIndex";
 
 export async function getStaticPaths() {
   const guides = await getCollection("state-guides");
@@ -192,6 +193,7 @@ const mdlNumber = caseData?.litigation.mdlNumber?.replace(/\D/g, "");
   description={seoDescription}
   breadcrumbs={breadcrumbs}
   faqs={guide.data.faqs}
+  noindex={!isIndexableStateGuide(guide.data.lawsuitSlug, guide.data.stateSlug)}
   article={{ dateModified: guide.data.lastUpdated }}
   speakableSelectors={["h1", "#deadlines"]}
 >

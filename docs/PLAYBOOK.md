@@ -170,6 +170,17 @@ PR title: `Add {tort}: case database record + hub + 10 state guides`. PR body: l
 
 ---
 
+## State-page index policy (read before adding state pages)
+
+After the September 2026 spam update, tort x state pages are **noindex by default**. `src/data/state-index-policy.json` lists every guide with `index: true|false` and the reason; `src/lib/stateIndex.ts` applies it to the page's robots meta, `sitemap.xml`, `llms.txt`, `feed.xml`, and the `/states/{state}/` hubs (a hub is indexable only with 3+ indexable guides).
+
+- A guide is indexable only if it has a verified state-specific section (`src/data/state-dedup/`) **and** shows search demand in GSC (8+ impressions in a two-week window, or clicks in the prior 28 days).
+- New state guides are not in the policy file, so they ship as noindex. Promote one by adding it with `index: true` once it qualifies.
+- Re-review the policy quarterly against a fresh GSC Pages export. Don't add more state grids to grow page count.
+- Don't bump `lastUpdated` to silence freshness warnings. Change the date only with a substantive content edit (YMYL rule 6).
+
+---
+
 ## How to add state coverage to an existing case
 
 If you're expanding beyond the 10 launch states (`src/lib/site.ts` → `states` array), you also need to:
