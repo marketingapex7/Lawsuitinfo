@@ -1,6 +1,7 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
-import { minimumIndexableStateGuides, site, states } from "@lib/site";
+import { site, states } from "@lib/site";
+import { indexableStateGuides, isIndexableStateHub } from "@lib/stateIndex";
 import { getAllCaseData } from "@lib/caseData";
 import supportingGuides from "../data/supporting-guides.json";
 
@@ -26,7 +27,9 @@ type SitemapEntry = {
 
 export async function GET() {
   const lawsuits = await getCollection("lawsuits");
-  const stateGuides = await getCollection("state-guides");
+  const allStateGuides = await getCollection("state-guides");
+  // Only state guides that pass the index policy belong in the sitemap; the rest render noindex.
+  const stateGuides = indexableStateGuides(allStateGuides);
   const categories = await getCollection("categories");
   const cases = getAllCaseData();
 
@@ -52,9 +55,7 @@ export async function GET() {
     { loc: "/legal-disclaimer/" },
     { loc: "/advertising-disclosure/" },
     { loc: "/contact/" },
-    ...states.filter((state) =>
-      stateGuides.filter((guide) => guide.data.stateSlug === state.slug).length >= minimumIndexableStateGuides
-    ).map((state) => {
+    ...states.filter((state) => isIndexableStateHub(state.slug, allStateGuides)).map((state) => {
       const stateUpdate = stateGuides
         .filter((guide) => guide.data.stateSlug === state.slug)
         .map((guide) => guide.data.lastUpdated)
