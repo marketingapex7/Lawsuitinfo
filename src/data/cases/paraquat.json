@@ -14,13 +14,22 @@
   "phaseDetail": "The court continues to administer the confidential agreement for certain individual paraquat claims identified in CMO 24. June orders selected opt-out cases for limited discovery. The court canceled the September 15, 2026 hearing concerning attorney Mark DiCello’s cases in a September 11 order.",
   "pendingCounts": [
     {
+      "date": "2026-10-01",
+      "count": 6602,
+      "totalFiled": 8495,
+      "scope": "Pending actions in MDL-3004",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
       "date": "2026-09-01",
       "count": 6666,
       "totalFiled": 8488,
       "scope": "Pending actions in MDL-3004",
       "source": "JPML MDL Statistics Report, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -104,6 +113,10 @@
   ],
   "sources": [
     {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
@@ -132,9 +145,14 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-09-16",
+  "dataAsOf": "2026-10-06",
   "statusVerifiedOn": "2026-09-16",
   "updates": [
+    {
+      "date": "2026-10-06",
+      "summary": "JPML reports 6,602 pending actions in MDL-3004 on October 1, 2026, down 64 from 6,666 on September 1; 8,495 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "date": "2026-09-14",
       "summary": "JPML reports 6,666 pending actions on September 1, 2026, compared with 6,665 on August 3; 8,488 total historical actions are reported separately.",

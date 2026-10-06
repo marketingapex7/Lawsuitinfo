@@ -1,4 +1,5 @@
 ---
+import { monthYear } from "@lib/seo";
 import { getCollection, render } from "astro:content";
 import GuideLayout from "@layouts/GuideLayout.astro";
 import CaseStatusBadge from "@components/CaseStatusBadge.astro";
@@ -35,7 +36,7 @@ const related = (await getCollection("lawsuits"))
   .filter((item) => entrySlug(item) !== slug)
   .sort((a, b) => Number(b.data.category === lawsuit.data.category) - Number(a.data.category === lawsuit.data.category))
   .slice(0, 4);
-const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
+const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit, lawsuit.data.lastUpdated);
 const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
 const contentSettlementSlugs = new Set(["afff-pfas", "paragard", "social-media", "suboxone"]);
@@ -60,7 +61,7 @@ const supportingLinks: Record<string, { href: string; label: string }[]> = {
   "bard-powerport": [{ href: "/lawsuits/bard-powerport/settlement-amounts/", label: "PowerPort settlement amounts" }]
 };
 const toc = [
-  { id: "current-status", label: "September 2026 status" },
+  { id: "current-status", label: `${monthYear(lawsuit.data.lastUpdated)} status` },
   { id: "overview", label: "What the lawsuit is about" },
   { id: "latest-update", label: "Latest update" },
   { id: "case-status-snapshot", label: "Case snapshot" },

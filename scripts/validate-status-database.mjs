@@ -13,8 +13,14 @@ for (const item of cases) {
   if (!Array.isArray(item.updates) || item.updates.length < 3) errors.push(`${item.slug}: fewer than three verified monthly updates`);
   const primaries = item.pendingCounts.filter((entry) => entry.primary);
   if (item.litigation.mdlNumber && primaries.length !== 1) errors.push(`${item.slug}: expected one primary MDL count`);
-  if (primaries[0] && primaries[0].date !== "2026-09-01") errors.push(`${item.slug}: primary count is not September 1, 2026`);
+  // The headline count must be the newest JPML report recorded for this case.
+  const newest = item.pendingCounts.map((entry) => entry.date).sort().at(-1);
+  if (primaries[0] && primaries[0].date !== newest) errors.push(`${item.slug}: primary count (${primaries[0].date}) is not the newest recorded report (${newest})`);
 }
+
+// Every MDL headline count should come from the same monthly JPML report.
+const primaryDates = new Set(cases.flatMap((item) => item.pendingCounts.filter((entry) => entry.primary).map((entry) => entry.date)));
+if (primaryDates.size > 1) errors.push(`primary counts come from different JPML reports: ${[...primaryDates].sort().join(", ")}`);
 
 const expectedFiles = [
   "src/components/CaseStatusOverview.astro",

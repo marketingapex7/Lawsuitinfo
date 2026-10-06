@@ -151,21 +151,24 @@ export function composeTitle(core: string): string {
   return branded.length <= 62 ? branded : core;
 }
 
-export function lawsuitSeoTitle(lawsuit: string) {
+// The month in each title comes from the page's own lastUpdated date, so a title
+// never claims a newer update than the page actually received.
+export function lawsuitSeoTitle(lawsuit: string, lastUpdated?: string) {
+  const m = monthYear(lastUpdated);
   const titles: Record<string, string> = {
-    "AFFF Firefighting Foam": "AFFF Lawsuit Update September 2026: MDL 2873 Status",
-    "Bard Hernia Mesh": "Hernia Mesh Lawsuit Update September 2026",
-    "Bard PowerPort": "Bard PowerPort Lawsuit Update September 2026",
-    "Camp Lejeune Water Contamination": "Camp Lejeune Lawsuit Update September 2026",
-    "Depo-Provera": "Depo-Provera Lawsuit Update September 2026",
-    "Hair Relaxer": "Hair Relaxer Lawsuit Update September 2026",
-    "Ozempic / GLP-1": "Ozempic Lawsuit Update September 2026: MDL 3094",
-    "Paragard IUD": "Paragard Lawsuit Update September 2026: MDL 2974",
-    "Paraquat Parkinson's": "Paraquat Lawsuit Update September 2026: MDL 3004",
-    "Roundup Cancer": "Roundup Lawsuit Update September 2026: Settlement",
-    "Social Media Addiction": "Social Media Lawsuit Update September 2026",
-    "Suboxone Tooth Decay": "Suboxone Lawsuit Update September 2026: MDL 3092",
-    "Talcum Powder": "Talcum Powder Lawsuit Update September 2026"
+    "AFFF Firefighting Foam": `AFFF Lawsuit Update ${m}: MDL 2873 Status`,
+    "Bard Hernia Mesh": `Hernia Mesh Lawsuit Update ${m}`,
+    "Bard PowerPort": `Bard PowerPort Lawsuit Update ${m}`,
+    "Camp Lejeune Water Contamination": `Camp Lejeune Lawsuit Update ${m}`,
+    "Depo-Provera": `Depo-Provera Lawsuit Update ${m}`,
+    "Hair Relaxer": `Hair Relaxer Lawsuit Update ${m}`,
+    "Ozempic / GLP-1": `Ozempic Lawsuit Update ${m}: MDL 3094`,
+    "Paragard IUD": `Paragard Lawsuit Update ${m}: MDL 2974`,
+    "Paraquat Parkinson's": `Paraquat Lawsuit Update ${m}: MDL 3004`,
+    "Roundup Cancer": `Roundup Lawsuit Update ${m}: Settlement`,
+    "Social Media Addiction": `Social Media Lawsuit Update ${m}`,
+    "Suboxone Tooth Decay": `Suboxone Lawsuit Update ${m}: MDL 3092`,
+    "Talcum Powder": `Talcum Powder Lawsuit Update ${m}`
   };
   return titles[lawsuit] ?? `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }
@@ -208,7 +211,7 @@ function fitMetaDescription(description: string, shortSuffix: string) {
     : text;
 }
 
-function monthYear(date?: string) {
+export function monthYear(date?: string) {
   if (!date) return "2026";
   return new Intl.DateTimeFormat("en-US", {
     month: "long",
@@ -233,15 +236,15 @@ export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string, l
     "Hair Relaxer":
       `${period} hair relaxer lawsuit update: MDL-3060 status, uterine and ovarian cancer claims, records, settlement posture, and deadlines.`,
     "Ozempic / GLP-1":
-      `${period} Ozempic lawsuit update: GLP-1 MDL status, Rule 702 schedule, alleged stomach injury claims, eligibility, and state guides.`,
+      `${period} Ozempic lawsuit update: GLP-1 MDL status, pending Rule 702 ruling, alleged stomach injury claims, eligibility, and state guides.`,
     "Paragard IUD":
       `${period} Paragard IUD lawsuit update: MDL-2974 status, device-breakage claims, bellwether trials, eligibility, deadlines, and state guides.`,
     "Paraquat Parkinson's":
       `${period} Paraquat lawsuit update: Parkinson's MDL status, confidential settlement administration, exposure proof, deadlines, and state pages.`,
     "Roundup Cancer":
-      `${period} Roundup lawsuit update: August settlement hearing, Durnell preemption ruling, MDL status, deadlines, and state guides.`,
+      `${period} Roundup lawsuit update: class settlement approval status, Durnell preemption ruling, opt-out trials, MDL status, and deadlines.`,
     "Social Media Addiction":
-      `${period} social media addiction lawsuit update: MDL 3047 status, teen mental-health claims, bellwether trials, eligibility, and state guides.`,
+      `${period} social media addiction lawsuit update: Meta state AG settlement, MDL 3047 status, teen injury claims, school-district trial, and deadlines.`,
     "Suboxone Tooth Decay":
       `${period} Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides.`,
     "Talcum Powder":

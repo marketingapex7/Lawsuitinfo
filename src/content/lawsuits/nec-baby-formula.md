@@ -1,6 +1,6 @@
 ---
 title: "NEC Baby Formula Lawsuit Guide"
-description: "NEC baby formula lawsuit update: September 2026 MDL count, federal appeals, premature-infant product scope, settlement status, and NICU records."
+description: "NEC baby formula lawsuit update: October 2026 MDL count, federal appeals, premature-infant product scope, settlement status, and NICU records."
 lawsuit: "NEC Baby Formula"
 urlSlug: "nec-baby-formula"
 category: "Product Liability"
@@ -34,11 +34,11 @@ timeline:
   -
     label: "Individual legal review"
     detail: "Counsel must assess product identification, warnings, causation, medical alternatives, applicable law, and deadlines."
-lastUpdated: "2026-09-22"
+lastUpdated: "2026-10-06"
 lastReviewed: "2026-09-22"
 faqs:
   - question: "How many NEC baby formula cases are pending in the MDL?"
-    answer: "JPML reported 847 pending actions and 1,057 historical actions in MDL 3026 on September 1, 2026."
+    answer: "JPML reported 844 pending actions and 1,064 historical actions in MDL 3026 on October 1, 2026."
   - question: "Which companies are defendants in MDL 3026?"
     answer: "The federal litigation includes Abbott Laboratories and Mead Johnson entities. Product identification must come from the infant's own NICU and feeding records."
   - question: "Did the Seventh Circuit decide that formula causes NEC?"
@@ -62,7 +62,7 @@ faqs:
 <h2>NEC baby formula lawsuit: the short answer</h2>
 <ul>
 <li><strong>Current stage:</strong> Active federal MDL with case-specific bellwether, appellate, jurisdiction, and pretrial proceedings.</li>
-<li><strong>Pending count:</strong> 847 actions on the September 1, 2026 JPML report; 1,057 is the separate historical total.</li>
+<li><strong>Pending count:</strong> 844 actions on the October 1, 2026 JPML report; 1,064 is the separate historical total.</li>
 <li><strong>Settlement:</strong> No global MDL settlement program or universal payout schedule was identified in reviewed official records.</li>
 <li><strong>Medical boundary:</strong> NICU feeding and treatment decisions require qualified clinicians who know the infant's condition.</li>
 </ul>
@@ -71,8 +71,8 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified NEC litigation updates</h2>
-<h3>September 1, 2026: 847 actions pending</h3>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML report</a> lists 847 pending and 1,057 historical actions. The August figures were 825 and 1,035.</p>
+<h3>October 1, 2026: 844 actions pending</h3>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 844 pending and 1,064 historical actions. The August figures were 825 and 1,035.</p>
 <h3>July 24, 2026: Abbott bellwether judgment affirmed</h3>
 <p>In <a href="https://www.govinfo.gov/content/pkg/USCOURTS-ca7-25-02587/pdf/USCOURTS-ca7-25-02587-0.pdf">Mar v. Abbott Laboratories</a>, the Seventh Circuit affirmed summary judgment because the evidence did not show that the proposed alternative warning would have changed the feeding decision and prevented the infant's death. The court expressly did not decide the broader product-causation issue Abbott asked it to reach.</p>
 <h3>July 28, 2026: five Mead cases returned for further proceedings</h3>

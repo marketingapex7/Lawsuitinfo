@@ -14,13 +14,22 @@
   "phaseDetail": "The July 16, 2026 CMO 23 governs provider depositions in the core discovery pool. The Second Amended CMO 15 schedules core-pool depositions through January 15, 2027 and trial-pool selection for January 29. Its later timetable describes March 2028 as a proposed first trial setting, not a fixed trial date.",
   "pendingCounts": [
     {
+      "date": "2026-10-01",
+      "count": 2022,
+      "totalFiled": 2112,
+      "scope": "Pending actions in MDL-3092",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
       "date": "2026-09-01",
       "count": 1827,
       "totalFiled": 1908,
       "scope": "Pending actions in MDL-3092",
       "source": "JPML MDL Statistics Report, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -138,6 +147,10 @@
   ],
   "sources": [
     {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
@@ -166,9 +179,14 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-09-14",
+  "dataAsOf": "2026-10-06",
   "statusVerifiedOn": "2026-09-14",
   "updates": [
+    {
+      "date": "2026-10-06",
+      "summary": "JPML reports 2,022 pending actions in MDL-3092 on October 1, 2026, up 195 from 1,827 on September 1; 2,112 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "date": "2026-09-14",
       "summary": "JPML reports 1,827 pending actions on September 1, 2026, compared with 1,827 on August 3; 1,908 total historical actions are reported separately.",

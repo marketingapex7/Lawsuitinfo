@@ -1,6 +1,7 @@
 ---
 import { formatCount, latestPendingCount, monthlyChange, nextMajorDate, type CaseData } from "@lib/caseData";
 import { formatDate } from "@lib/site";
+import { monthYear } from "@lib/seo";
 
 interface Props { data: CaseData; compact?: boolean }
 const { data, compact = false } = Astro.props;
@@ -18,7 +19,7 @@ const mdlNumber = data.litigation.mdlNumber?.replace(/\D/g, "");
 <section id="current-status" class="mt-8 rounded-xl border border-accent/25 bg-white p-5 shadow-sm md:p-6">
   <div class="flex flex-wrap items-start justify-between gap-3 border-b border-line pb-4">
     <div>
-      <p class="text-xs font-black uppercase tracking-[0.12em] text-accent-dark">Lawsuit status — September 2026</p>
+      <p class="text-xs font-black uppercase tracking-[0.12em] text-accent-dark">Lawsuit status — {monthYear(data.dataAsOf)}</p>
       <h2 class="mt-1 text-2xl font-black text-ink">{data.caseName}</h2>
     </div>
     <p class="rounded-full bg-[#eef7f8] px-3 py-1 text-xs font-bold text-accent-dark">Verified {formatDate(data.statusVerifiedOn ?? data.dataAsOf)}</p>

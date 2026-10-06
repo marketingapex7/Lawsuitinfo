@@ -1,6 +1,6 @@
 ---
 title: "Social Media Addiction Lawsuit Guide (MDL 3047)"
-description: "Social Media Adolescent Addiction lawsuit update: September 2026 court status, settlement information, filing deadlines and state resources."
+description: "Social media addiction lawsuit update, October 2026: Meta's state attorneys general settlement, MDL 3047 status, what it means for individual claims, and deadlines."
 lawsuit: "Social Media Addiction"
 urlSlug: "social-media"
 category: "Product Liability"
@@ -23,7 +23,7 @@ injuries:
   - "Suicidal ideation or attempts"
   - "Compulsive or problematic use ('addiction')"
   - "Sleep disruption"
-settlementStatus: "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive."
+settlementStatus: "On August 26, 2026, Meta settled the state attorneys general case against it in MDL-3047 during trial. The New York Attorney General reports Meta will pay at least $12.1 billion to the coalition states, rising to $17.1 billion if other major social media companies reach similar settlements with states, along with design changes for users under 18. The money goes to states, not to individual families or school districts. Meta did not admit liability. Personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube are not resolved by this settlement, and no personal-injury settlement program or individual payout schedule has been announced."
 timeline:
   -
     label: "Platform use during adolescence"
@@ -34,21 +34,21 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer compares the use-and-injury timeline with MDL-3047 / JCCP posture and the state filing deadline, including rules that pause deadlines for minors."
-lastUpdated: "2026-09-14"
-lastReviewed: "2026-09-14"
+lastUpdated: "2026-10-06"
+lastReviewed: "2026-10-06"
 faqs:
   -
     question: "What is the social media addiction lawsuit about?"
     answer: "Lawsuits allege that Meta (Instagram, Facebook), TikTok, Snapchat, and YouTube intentionally designed their platforms to be addictive to young users — through features like infinite scroll, autoplay, and algorithmic feeds — and failed to warn families about the mental-health risks, contributing to depression, anxiety, eating disorders, self-harm, and suicidal behavior. The companies dispute the allegations. Federal cases are consolidated in MDL-3047, with a parallel California state-court proceeding (JCCP 5255)."
   -
     question: "How much are social media lawsuit settlements worth?"
-    answer: "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive. The school-district bellwether is listed for February 8, 2027 in the court-linked calendar."
+    answer: "On August 26, 2026, Meta settled the state attorneys general case against it in MDL-3047 during trial. The New York Attorney General reports Meta will pay at least $12.1 billion to the coalition states, rising to $17.1 billion if other major social media companies reach similar settlements with states, along with design changes for users under 18. The money goes to states, not to individual families or school districts. Meta did not admit liability. Personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube are not resolved by this settlement, and no personal-injury settlement program or individual payout schedule has been announced. The school-district bellwether is listed for February 8, 2027 in the court-linked calendar."
   -
     question: "Is the social media lawsuit a class action?"
     answer: "Not for the personal-injury claims. Individual injury cases are coordinated as multidistrict litigation (MDL-3047) and in the California JCCP, where each plaintiff keeps a separate claim. The litigation also includes school-district cases and lawsuits brought by state attorneys general, which are their own actions — none of which is a single class action that binds every user."
   -
     question: "When will the social media lawsuit be settled?"
-    answer: "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive. The school-district bellwether is listed for February 8, 2027 in the court-linked calendar."
+    answer: "On August 26, 2026, Meta settled the state attorneys general case against it in MDL-3047 during trial. The New York Attorney General reports Meta will pay at least $12.1 billion to the coalition states, rising to $17.1 billion if other major social media companies reach similar settlements with states, along with design changes for users under 18. The money goes to states, not to individual families or school districts. Meta did not admit liability. Personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube are not resolved by this settlement, and no personal-injury settlement program or individual payout schedule has been announced. The school-district bellwether is listed for February 8, 2027 in the court-linked calendar."
   -
     question: "Which companies are being sued?"
     answer: "The main defendants are Meta Platforms (Instagram and Facebook), TikTok and its parent ByteDance, Snap Inc. (Snapchat), and Google/YouTube. Which companies are relevant to a particular claim depends on which platforms the young person actually used."
@@ -72,10 +72,11 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Social Media Adolescent Addiction Lawsuit update: September 2026</h2>
-<p><strong>Separate state-AG, school-district and individual litigation tracks.</strong> The court-linked MDL Centrality calendar lists an August 17, 2026 start for the state attorneys general trial against Meta and February 8, 2027 for the school-district bellwether jury trial. Those schedules do not establish a verdict or settlement. Federal individual claims and the separate California JCCP must not be confused with these government-plaintiff tracks.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>3,208 pending actions</strong> in MDL-3047, compared with 3,137 on August 3. Its 3,383 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
-<p><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Official court records</a> checked September 14, 2026.</p>
+<h2>Social Media Adolescent Addiction Lawsuit update: October 2026</h2>
+<p><strong>Meta settled the state attorneys general track in August 2026; individual and school-district claims continue.</strong> On August 26, 2026, Meta settled the state attorneys general case against it in MDL-3047 during trial. The New York Attorney General reports Meta will pay at least $12.1 billion to the coalition states, rising to $17.1 billion if other major social media companies reach similar settlements with states, along with design changes for users under 18. The money goes to states, not to individual families or school districts. Meta did not admit liability. Personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube are not resolved by this settlement, and no personal-injury settlement program or individual payout schedule has been announced. <a href="https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta">New York AG announcement</a> · <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-transformative-17-billion-settlement-meta">California AG announcement</a></p>
+<p>The state attorneys general trial against Meta opened in mid-August 2026 and ended with the settlement; law firm Hunton Andrews Kurth reports Judge Yvonne Gonzalez Rogers approved it on August 26 and that Florida did not join. <a href="https://www.hunton.com/privacy-and-cybersecurity-law-blog/court-approves-meta-settlement-with-29-states-over-alleged-harms-to-children-and-teens">Hunton summary</a></p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>3,824 pending actions</strong> in MDL-3047, compared with 3,208 on September 1, 2026. Its 4,009 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Official court records</a> checked October 6, 2026.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -84,18 +85,19 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-3047; U.S. District Court, Northern District of California</li>
 <li><strong>Judge:</strong> Judge Yvonne Gonzalez Rogers</li>
 <li><strong>JPML transfer date:</strong> 2022-10-06</li>
-<li><strong>Pending actions:</strong> 3,208 as of September 1, 2026</li>
-<li><strong>Current phase:</strong> Separate state-AG, school-district and individual litigation tracks</li>
-<li><strong>Settlement:</strong> The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.</li>
+<li><strong>Pending actions:</strong> 3,824 as of October 1, 2026</li>
+<li><strong>Current phase:</strong> Meta settled the state attorneys general track in August 2026; individual and school-district claims continue</li>
+<li><strong>Settlement:</strong> On August 26, 2026, Meta settled the state attorneys general case against it in MDL-3047 during trial. The New York Attorney General reports Meta will pay at least $12.1 billion to the coalition states, rising to $17.1 billion if other major social media companies reach similar settlements with states, along with design changes for users under 18. The money goes to states, not to individual families or school districts. Meta did not admit liability. Personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube are not resolved by this settlement, and no personal-injury settlement program or individual payout schedule has been announced.</li>
 </ul>
 </section>
 
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
 <ul>
-<li>JPML reports 3,208 pending actions on September 1, 2026, compared with 3,137 on August 3; 3,383 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
-<li>The court-linked calendar lists February 8, 2027 for the school-district bellwether jury trial, with jury selection February 3. <a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Source</a></li>
-<li>The same calendar lists the state attorneys general trial against Meta from August 17, 2026; that schedule is separate from an individual injury trial. <a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Source</a></li>
+<li>JPML reports 3,824 pending actions on October 1, 2026, compared with 3,208 on September 1, 2026; 4,009 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
+<li>August 26, 2026: Meta settles the state attorneys general claims for at least $12.1 billion, up to $17.1 billion if other major platforms reach similar state settlements. Funds go to states; individual and school-district claims continue. <a href="https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta">Source</a></li>
+<li>The pending count rose by 616 actions in September, the largest monthly increase in the JPML reports cited on this page. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
+<li>When checked September 14, 2026, the court-linked calendar listed February 8, 2027 for the school-district bellwether jury trial, with jury selection February 3. <a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Source</a></li>
 <li>The federal court’s September 8 recent filings list conditional transfer order CTO-87, confirming continuing MDL transfers. <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Source</a></li>
 </ul>
 </section>
@@ -103,7 +105,7 @@ faqs:
 <section id="status">
 <h2>Current status</h2>
 <p>The court-linked MDL Centrality calendar lists an August 17, 2026 start for the state attorneys general trial against Meta and February 8, 2027 for the school-district bellwether jury trial. Those schedules do not establish a verdict or settlement. Federal individual claims and the separate California JCCP must not be confused with these government-plaintiff tracks.</p>
-<p>The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.</p>
+<p>On August 26, 2026, Meta settled the state attorneys general case against it in MDL-3047 during trial. The New York Attorney General reports Meta will pay at least $12.1 billion to the coalition states, rising to $17.1 billion if other major social media companies reach similar settlements with states, along with design changes for users under 18. The money goes to states, not to individual families or school districts. Meta did not admit liability. Personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube are not resolved by this settlement, and no personal-injury settlement program or individual payout schedule has been announced.</p>
 </section>
 
 <section id="eligibility">
@@ -118,7 +120,7 @@ faqs:
 
 <section id="settlement">
 <h2>Settlement status</h2>
-<p>The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.</p>
+<p>On August 26, 2026, Meta settled the state attorneys general case against it in MDL-3047 during trial. The New York Attorney General reports Meta will pay at least $12.1 billion to the coalition states, rising to $17.1 billion if other major social media companies reach similar settlements with states, along with design changes for users under 18. The money goes to states, not to individual families or school districts. Meta did not admit liability. Personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube are not resolved by this settlement, and no personal-injury settlement program or individual payout schedule has been announced.</p>
 <p><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Official settlement or court record</a></p>
 </section>
 
@@ -129,10 +131,12 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">public court records</a>; these public indexes are not complete live dockets.</p>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked October 6, 2026 against <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">public court records</a> and the attorneys general announcements; these public indexes are not complete live dockets.</p>
 <ul>
-<li><a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">The court-linked calendar lists February 8, 2027 for the school-district bellwether jury trial, with jury selection February 3.</a></li>
-<li><a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">The same calendar lists the state attorneys general trial against Meta from August 17, 2026; that schedule is separate from an individual injury trial.</a></li>
+<li><a href="https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta">New York Attorney General, August 26, 2026: settlement amounts and conditions.</a></li>
+<li><a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-transformative-17-billion-settlement-meta">California Attorney General, August 26, 2026: design changes and use of funds.</a></li>
+<li><a href="https://www.hunton.com/privacy-and-cybersecurity-law-blog/court-approves-meta-settlement-with-29-states-over-alleged-harms-to-children-and-teens">Hunton Andrews Kurth, August 31, 2026: court approval and non-participating states.</a></li>
+<li><a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Court-linked calendar (checked September 14, 2026): school-district bellwether jury trial February 8, 2027, jury selection February 3.</a></li>
 <li><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">The federal court’s September 8 recent filings list conditional transfer order CTO-87, confirming continuing MDL transfers.</a></li>
 </ul>
 <p>Defendants dispute the allegations. Hearing schedules do not establish an outcome, and pending-action counts do not establish settlement eligibility. State filing deadlines and settlement-program deadlines are different.</p>

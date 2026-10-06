@@ -10,9 +10,18 @@
     "judge": "Judge Yvonne Gonzalez Rogers",
     "established": "2022-10-06"
   },
-  "phase": "Separate state-AG, school-district and individual litigation tracks",
-  "phaseDetail": "The court-linked MDL Centrality calendar lists an August 17, 2026 start for the state attorneys general trial against Meta and February 8, 2027 for the school-district bellwether jury trial. Those schedules do not establish a verdict or settlement. Federal individual claims and the separate California JCCP must not be confused with these government-plaintiff tracks.",
+  "phase": "Meta settled the state attorneys general track; individual and school-district claims continue",
+  "phaseDetail": "On August 26, 2026, Meta settled the state attorneys general claims during trial: at least $12.1 billion to the states, rising to $17.1 billion if other major social media companies reach similar state settlements, plus design changes for users under 18. The funds go to states, not individuals or school districts, and Meta did not admit liability. Individual personal-injury claims, school-district claims and claims against TikTok, Snap and YouTube continue; the separate California JCCP is a different proceeding.",
   "pendingCounts": [
+    {
+      "date": "2026-10-01",
+      "count": 3824,
+      "totalFiled": 4009,
+      "scope": "Pending actions in MDL-3047",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-09-01",
       "count": 3208,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-3047",
       "source": "JPML MDL Statistics Report, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -48,14 +57,25 @@
   ],
   "settlements": [
     {
-      "label": "No global injury settlement announced in records reviewed",
+      "label": "Meta – state attorneys general settlement",
+      "status": "settled — states only",
+      "kind": "public-entity",
+      "amount": "At least $12.1 billion; up to $17.1 billion",
+      "detail": "Announced August 26, 2026. Meta pays at least $12.1 billion to the coalition states, increasing to $17.1 billion if other major social media companies reach similar settlements with states, and agrees to design changes for users under 18. Meta did not admit liability.",
+      "source": "New York Attorney General, August 26, 2026",
+      "sourceUrl": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta",
+      "individualClaims": "Does not pay individual families or school districts and does not resolve personal-injury claims.",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "label": "Personal-injury and school-district claims",
       "status": "none",
-      "detail": "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.",
-      "source": "Official court records reviewed September 14, 2026",
-      "sourceUrl": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products",
       "kind": "none",
-      "individualClaims": "The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.",
-      "verifiedOn": "2026-09-14"
+      "detail": "No settlement program or official individual payout schedule has been announced for personal-injury or school-district claims in MDL-3047.",
+      "source": "Official court records reviewed October 6, 2026",
+      "sourceUrl": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products",
+      "individualClaims": "Outcomes in government cases do not determine what an individual claimant may receive.",
+      "verifiedOn": "2026-10-06"
     }
   ],
   "keyDates": [
@@ -71,14 +91,14 @@
       "appliesTo": "Federal MDL proceedings"
     },
     {
-      "date": "2026-08-17",
-      "label": "State AG trial start listed in court-linked calendar",
-      "detail": "Historical scheduled start; no final verdict is asserted here.",
-      "sourceUrl": "https://www.mdlcentrality.com/SocialMedia/IndexMDL",
-      "source": "Official court or settlement record",
-      "verifiedOn": "2026-09-14",
-      "kind": "court",
-      "status": "historical",
+      "date": "2026-08-26",
+      "label": "Meta settles state attorneys general claims",
+      "detail": "Settlement announced during the state attorneys general trial; at least $12.1 billion to states, up to $17.1 billion. Individual and school-district claims are not resolved.",
+      "sourceUrl": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta",
+      "source": "New York Attorney General",
+      "verifiedOn": "2026-10-06",
+      "kind": "milestone",
+      "status": "completed",
       "appliesTo": "State attorneys general claims against Meta"
     },
     {
@@ -105,6 +125,18 @@
     }
   ],
   "sources": [
+    {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "name": "New York Attorney General — Meta settlement announcement (Aug. 26, 2026)",
+      "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta"
+    },
+    {
+      "name": "California Attorney General — Meta settlement announcement (Aug. 26, 2026)",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-transformative-17-billion-settlement-meta"
+    },
     {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
@@ -138,9 +170,19 @@
       "url": "https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/"
     }
   ],
-  "dataAsOf": "2026-09-14",
-  "statusVerifiedOn": "2026-09-14",
+  "dataAsOf": "2026-10-06",
+  "statusVerifiedOn": "2026-10-06",
   "updates": [
+    {
+      "date": "2026-10-06",
+      "summary": "Meta settled the state attorneys general claims on August 26, 2026: at least $12.1 billion to states, up to $17.1 billion if other major platforms reach similar state settlements. Funds go to states; individual and school-district claims continue.",
+      "sourceUrl": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta"
+    },
+    {
+      "date": "2026-10-06",
+      "summary": "JPML reports 3,824 pending actions in MDL-3047 on October 1, 2026, up 616 from 3,208 on September 1; 4,009 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "date": "2026-09-14",
       "summary": "JPML reports 3,208 pending actions on September 1, 2026, compared with 3,137 on August 3; 3,383 total historical actions are reported separately.",
