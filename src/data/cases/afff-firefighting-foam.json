@@ -14,13 +14,22 @@
   "phaseDetail": "The July 30, 2026 CMO 26O moves Group B selection and expert-discovery proposals to November 20, 2026. The August 31 CMO 33F sets thyroid/liver-cancer Rule 702 response and reply deadlines for November 20, 2026 and January 22, 2027. These expert proceedings are separate from the four finally approved public-water-system settlements.",
   "pendingCounts": [
     {
+      "date": "2026-10-01",
+      "count": 15264,
+      "totalFiled": 19840,
+      "scope": "Pending actions in MDL-2873",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
       "date": "2026-09-01",
       "count": 15264,
       "totalFiled": 19840,
       "scope": "Pending actions in MDL-2873",
       "source": "JPML MDL Statistics Report, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -170,6 +179,10 @@
   ],
   "sources": [
     {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
@@ -218,9 +231,14 @@
       "url": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf"
     }
   ],
-  "dataAsOf": "2026-09-14",
+  "dataAsOf": "2026-10-06",
   "statusVerifiedOn": "2026-09-14",
   "updates": [
+    {
+      "date": "2026-10-06",
+      "summary": "JPML reports 15,264 pending actions in MDL-2873 on October 1, 2026, unchanged from September 1; 19,840 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "date": "2026-09-14",
       "summary": "JPML reports 15,264 pending actions on September 1, 2026, compared with 15,246 on August 3; 19,840 total historical actions are reported separately.",

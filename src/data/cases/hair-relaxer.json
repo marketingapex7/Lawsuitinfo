@@ -14,13 +14,22 @@
   "phaseDetail": "CMO 24, filed August 27, 2026, sets discovery deadlines for specifically named second-wave defendants through July 15, 2027. Those deadlines do not apply to every defendant and are not trial dates. CMO 17 appointed a settlement special master but expressly cautions that the appointment does not signal the likelihood or timing of a settlement. Defendants dispute liability and causation.",
   "pendingCounts": [
     {
+      "date": "2026-10-01",
+      "count": 12381,
+      "totalFiled": 16828,
+      "scope": "Pending actions in MDL-3060",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
       "date": "2026-09-01",
       "count": 12129,
       "totalFiled": 16561,
       "scope": "Pending actions in MDL-3060",
       "source": "JPML, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -118,6 +127,10 @@
   ],
   "sources": [
     {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
@@ -146,9 +159,14 @@
       "url": "https://nighgoldenberg.com/wp-content/uploads/2025/06/Hair-Relaxer-Lawsuit-%E2%80%93-CMO-17-Appointment-of-Special-Master-Ellen-Reisman-for-Settlement-2025-04-22-MDL-3060.pdf"
     }
   ],
-  "dataAsOf": "2026-09-14",
+  "dataAsOf": "2026-10-06",
   "statusVerifiedOn": "2026-09-14",
   "updates": [
+    {
+      "date": "2026-10-06",
+      "summary": "JPML reports 12,381 pending actions in MDL-3060 on October 1, 2026, up 252 from 12,129 on September 1; 16,828 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "date": "2026-09-01",
       "summary": "JPML reports 12,129 pending actions and 16,561 historical actions in MDL-3060.",

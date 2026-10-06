@@ -1,6 +1,6 @@
 ---
 title: "Suboxone Tooth Decay Lawsuit Guide"
-description: "Suboxone Tooth Decay lawsuit update: September 2026 court status, settlement information, filing deadlines and state resources."
+description: "Suboxone Tooth Decay lawsuit update: October 2026 court status, settlement information, filing deadlines and state resources."
 lawsuit: "Suboxone Tooth Decay"
 urlSlug: "suboxone"
 category: "Defective Drug"
@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-09-18"
+lastUpdated: "2026-10-06"
 lastReviewed: "2026-09-14"
 faqs:
   - question: "How much are Suboxone tooth-decay settlements worth?"
@@ -71,8 +71,8 @@ faqs:
 <section id="litigation-updates">
 <span id="timeline"></span>
 <h2>Verified litigation updates: what they mean</h2>
-<h3>September 1, 2026: 1,827 pending actions</h3>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML report</a> lists 1,827 pending actions, unchanged from August 3. The 1,908 historical total includes actions no longer pending.</p>
+<h3>October 1, 2026: 2,022 pending actions</h3>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 2,022 pending actions, compared with 1,827 on September 1, 2026. The 2,112 historical total includes actions no longer pending.</p>
 <p><strong>For readers:</strong> These figures describe the federal docket. They do not count approved claims or people entitled to payment, and an unchanged total does not mean court work stopped.</p>
 <h3>July 16, 2026: provider-deposition order</h3>
 <p><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf">CMO 23</a> governs provider depositions in the core discovery pool.</p>

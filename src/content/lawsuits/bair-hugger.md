@@ -1,6 +1,6 @@
 ---
 title: "Bair Hugger Lawsuit Guide"
-description: "Bair Hugger lawsuit update: September 2026 MDL status, infection allegations, settlement information, deadlines, and surgery records."
+description: "Bair Hugger lawsuit update: October 2026 MDL status, infection allegations, settlement information, deadlines, and surgery records."
 lawsuit: "Bair Hugger"
 urlSlug: "bair-hugger"
 category: "Product Liability"
@@ -34,11 +34,11 @@ timeline:
   -
     label: "Individual legal review"
     detail: "A lawyer must assess product identification, causation evidence, alternative infection risks, applicable law, and filing time."
-lastUpdated: "2026-09-22"
+lastUpdated: "2026-10-06"
 lastReviewed: "2026-09-22"
 faqs:
   - question: "Is the Bair Hugger MDL still active?"
-    answer: "Yes. JPML listed MDL 2666 as active on September 1, 2026, with 8,433 pending actions before Senior Judge Joan N. Ericksen in Minnesota."
+    answer: "Yes. JPML listed MDL 2666 as active on October 1, 2026, with 8,424 pending actions before Senior Judge Joan N. Ericksen in Minnesota."
   - question: "Has the Bair Hugger lawsuit settled?"
     answer: "The official public records reviewed September 22, 2026 do not announce a global settlement program or payout schedule. Individual case outcomes do not establish a settlement for every claim."
   - question: "Does an infection after surgery prove a Bair Hugger claim?"
@@ -62,7 +62,7 @@ faqs:
 <h2>Bair Hugger lawsuit: the short answer</h2>
 <ul>
 <li><strong>Current stage:</strong> Active MDL case administration and plaintiff fact-sheet compliance.</li>
-<li><strong>Pending count:</strong> 8,433 actions on the September 1, 2026 JPML report; the 10,739 historical total is a separate figure.</li>
+<li><strong>Pending count:</strong> 8,424 actions on the October 1, 2026 JPML report; the 10,828 historical total is a separate figure.</li>
 <li><strong>Settlement:</strong> No global settlement program or payout schedule was identified in the official public records reviewed September 22.</li>
 <li><strong>Deadline:</strong> Individual state law and facts require review; the MDL schedule does not calculate a person's filing deadline.</li>
 </ul>
@@ -72,8 +72,8 @@ faqs:
 <section id="litigation-updates">
 <span id="timeline"></span>
 <h2>Verified Bair Hugger litigation updates</h2>
-<h3>September 1, 2026: 8,433 actions pending</h3>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML report</a> lists 8,433 pending actions and 10,739 historical actions. On August 3, the corresponding figures were 8,407 and 10,716.</p>
+<h3>October 1, 2026: 8,424 actions pending</h3>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 8,424 pending actions and 10,828 historical actions. On September 1, 2026, the corresponding figures were 8,433 and 10,739.</p>
 <p><strong>For readers:</strong> Pending actions are not approved claims, and the historical total is not a claimant or payment count.</p>
 <h3>2025–2026: plaintiff fact-sheet enforcement</h3>
 <p>A <a href="https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-26.pdf">January 2026 report and recommendation</a> describes the court's process for identifying cases with missing verified plaintiff fact sheets, issuing orders to show cause, and recommending dismissal when a plaintiff does not comply.</p>

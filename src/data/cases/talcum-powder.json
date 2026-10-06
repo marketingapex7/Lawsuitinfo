@@ -14,13 +14,22 @@
   "phaseDetail": "On July 27, 2026, Johnson & Johnson disclosed a proposed $5.5 billion ovarian-talc resolution conditional on at least 95% participation and other criteria. Its disclosed funding schedule begins in 2027. This is a conditional proposal, not confirmation that all claims are resolved or that individual payments are available. J&J disputes the allegations.",
   "pendingCounts": [
     {
+      "date": "2026-10-01",
+      "count": 69340,
+      "totalFiled": 72024,
+      "scope": "Pending actions in MDL-2738",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
       "date": "2026-09-01",
       "count": 69250,
       "totalFiled": 71935,
       "scope": "Pending actions in MDL-2738",
       "source": "JPML, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -104,10 +113,10 @@
       "appliesTo": "Federal MDL"
     },
     {
-      "date": "2026-09-01",
-      "label": "69,250 actions pending",
-      "detail": "JPML still lists the MDL as active; historical total 71,935.",
-      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "date": "2026-10-01",
+      "label": "69,340 actions pending",
+      "detail": "JPML reports 69,340 pending actions and 72,024 historical actions in MDL-2738 (October 1, 2026 report).",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
       "source": "Court or agency primary record",
       "verifiedOn": "2026-09-14",
       "kind": "milestone",
@@ -116,6 +125,10 @@
     }
   ],
   "sources": [
+    {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
@@ -149,9 +162,14 @@
       "url": "https://www.govinfo.gov/content/pkg/USCOURTS-njd-3_16-md-02738/pdf/USCOURTS-njd-3_16-md-02738-9.pdf"
     }
   ],
-  "dataAsOf": "2026-09-14",
+  "dataAsOf": "2026-10-06",
   "statusVerifiedOn": "2026-09-14",
   "updates": [
+    {
+      "date": "2026-10-06",
+      "summary": "JPML reports 69,340 pending actions in MDL-2738 on October 1, 2026, up 90 from 69,250 on September 1; 72,024 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "date": "2026-09-01",
       "summary": "JPML reports 69,250 pending actions and 71,935 historical actions in MDL-2738.",

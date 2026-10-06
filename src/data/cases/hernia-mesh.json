@@ -11,8 +11,17 @@
     "established": "2018-08-02"
   },
   "phase": "Settlement administration and unresolved-claim process",
-  "phaseDetail": "Court orders establish a settlement fund and a separate Intensive Settlement Process for unresolved claims. CMO 55 schedules that process to begin on or about January 4, 2027. The September 2026 JPML report still lists 23,316 pending actions; pending cases are not proof that every claimant has settled or been paid.",
+  "phaseDetail": "Court orders establish a settlement fund and a separate Intensive Settlement Process for unresolved claims. CMO 55 schedules that process to begin on or about January 4, 2027. The October 2026 JPML report still lists 23,324 pending actions; pending cases are not proof that every claimant has settled or been paid.",
   "pendingCounts": [
+    {
+      "date": "2026-10-01",
+      "count": 23324,
+      "totalFiled": 25217,
+      "scope": "Pending actions in MDL-2846",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-09-01",
       "count": 23316,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-2846",
       "source": "JPML, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -106,6 +115,10 @@
   ],
   "sources": [
     {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
@@ -130,9 +143,14 @@
       "url": "https://www.ohsd.uscourts.gov/sites/ohsd/files//MDL%202846%20Case%20Management%20Order%20No.%2056%20Establishment%20of%20Qualified%20Settlement%20Fund.pdf"
     }
   ],
-  "dataAsOf": "2026-09-14",
+  "dataAsOf": "2026-10-06",
   "statusVerifiedOn": "2026-09-14",
   "updates": [
+    {
+      "date": "2026-10-06",
+      "summary": "JPML reports 23,324 pending actions in MDL-2846 on October 1, 2026, up 8 from 23,316 on September 1; 25,217 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
     {
       "date": "2026-09-01",
       "summary": "JPML reports 23,316 pending actions and 25,213 historical actions in MDL-2846.",

@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-diagnosis timeline with MDL-2738's posture, state filing deadlines, and the available evidence."
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-10-06"
 lastReviewed: "2026-09-14"
 faqs:
   -
@@ -43,7 +43,7 @@ faqs:
     answer: "Claim review often involves people with long-term talcum powder use who later developed ovarian cancer, and people diagnosed with mesothelioma who have a talc-exposure history. Qualification depends on product use, diagnosis, timing, records, and state law."
   -
     question: "Where are the federal talcum powder cases handled?"
-    answer: "Federal ovarian-cancer cases are coordinated in MDL-2738, In re: Johnson & Johnson Talcum Powder Products Liability Litigation, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey. The JPML listed 69,250 pending actions as of September 1, 2026."
+    answer: "Federal ovarian-cancer cases are coordinated in MDL-2738, In re: Johnson & Johnson Talcum Powder Products Liability Litigation, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey. The JPML listed 69,340 pending actions as of October 1, 2026."
   -
     question: "Is there a talcum powder settlement?"
     answer: "Johnson & Johnson disclosed a conditional $5.5 billion ovarian-talc proposal on July 27, 2026. It requires at least 95% participation and other conditions, and the records reviewed on September 14 did not establish that every condition had been met. No amount is guaranteed for any individual claim."
@@ -73,19 +73,19 @@ faqs:
 <section id="overview">
 <h2>What is the talcum powder lawsuit?</h2>
 <p><strong>The talcum powder lawsuit alleges that Johnson & Johnson talc products such as Johnson's Baby Powder caused ovarian cancer and mesothelioma, and that the company failed to warn users.</strong> Federal ovarian-cancer cases are consolidated in MDL-2738 before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey. Johnson & Johnson disputes the claims and says its talc is asbestos-free.</p>
-<p>As of September 1, 2026, the JPML listed <strong>69,250 pending actions</strong> in MDL-2738. J&J disclosed a conditional $5.5 billion ovarian-talc resolution proposal on July 27, 2026; its participation and other conditions distinguish it from a completed global settlement or an individual payout schedule.</p>
+<p>As of October 1, 2026, the JPML listed <strong>69,340 pending actions</strong> in MDL-2738. J&J disclosed a conditional $5.5 billion ovarian-talc resolution proposal on July 27, 2026; its participation and other conditions distinguish it from a completed global settlement or an individual payout schedule.</p>
 <p>Talcum powder lawsuits allege that talc-based products such as Johnson's Baby Powder and Shower to Shower caused ovarian cancer, or mesothelioma linked to asbestos that can be found with talc, and that the companies failed to warn users. Johnson & Johnson disputes the claims and maintains its talc is safe and does not contain asbestos. Claim review usually turns on product-use history, pathology and diagnosis records, timing, and state filing deadlines.</p>
 </section>
 
 <section id="latest-update">
-<h2>Johnson & Johnson Talcum Powder Lawsuit update: September 2026</h2>
+<h2>Johnson & Johnson Talcum Powder Lawsuit update: October 2026</h2>
 <p><strong>Conditional ovarian-cancer settlement proposal; MDL remains active.</strong> On July 27, 2026, Johnson & Johnson disclosed a proposed $5.5 billion ovarian-talc resolution conditional on at least 95% participation and other criteria. Its disclosed funding schedule begins in 2027. This is a conditional proposal, not confirmation that all claims are resolved or that individual payments are available. J&J disputes the allegations.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML, September 1, 2026</a> lists <strong>69,250 pending actions</strong> and 71,935 total historical actions. The figures are docket counts, not settlement eligibility or payment counts.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML, October 1, 2026</a> lists <strong>69,340 pending actions</strong> and 72,024 total historical actions. The figures are docket counts, not settlement eligibility or payment counts.</p>
 <p><strong>Settlement status:</strong> J&J’s July 27, 2026 SEC-filed announcement requires participation representing at least 95% of remaining ovarian-talc claims and other conditions. It calls for an initial payment of no more than $3 billion in 2027, with no additional payments due before 2028. This describes company funding, not an individual claimant payment date. The records reviewed on September 14 do not establish satisfaction of all conditions.</p>
 <h3>What changed this month?</h3>
 <ul>
-<li>JPML reports 69,250 pending actions and 71,935 historical actions in MDL-2738. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
-<li>Pending actions increased by 336 from 68,914 on August 3, 2026. This is a net docket change, not a count of new claims. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">Source</a></li>
+<li>JPML reports 69,340 pending actions and 72,024 historical actions in MDL-2738. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
+<li>Pending actions increased by 90 from 69,250 on September 1, 2026. This is a net docket change, not a count of new claims. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
 <li>J&J disclosed a conditional $5.5 billion ovarian-talc proposal requiring at least 95% participation. <a href="https://www.sec.gov/Archives/edgar/data/200406/000020040626000155/exhibit991.htm">Source</a></li>
 <li>The disclosed company funding begins with no more than $3 billion in 2027; it is not a claimant payment date. <a href="https://www.sec.gov/Archives/edgar/data/200406/000020040626000155/exhibit991.htm">Source</a></li>
 <li>A special master filed recommendations on Rule 702 expert-admissibility motions, distinct from any jury verdict. <a href="https://www.govinfo.gov/content/pkg/USCOURTS-njd-3_16-md-02738/pdf/USCOURTS-njd-3_16-md-02738-9.pdf">Source</a></li>
@@ -99,7 +99,7 @@ faqs:
 <li><strong>Primary injuries:</strong> Ovarian cancer; mesothelioma (asbestos-linked)</li>
 <li><strong>Main products:</strong> Talc-based powders, including Johnson's Baby Powder and Shower to Shower</li>
 <li><strong>MDL or court context:</strong> MDL-2738, District of New Jersey, before Judge Michael A. Shipp</li>
-<li><strong>Pending actions:</strong> 69,250 as of September 1, 2026</li>
+<li><strong>Pending actions:</strong> 69,340 as of October 1, 2026</li>
 <li><strong>Settlement status:</strong> Conditional $5.5 billion ovarian-talc proposal announced July 27, 2026; conditions and claim-specific terms apply</li>
 <li><strong>Key deadline:</strong> Varies by state, diagnosis date, discovery facts, and use history</li>
 </ul>
@@ -182,7 +182,7 @@ faqs:
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
 <ul>
-<li><strong>Federal court context:</strong> Federal talc cases are coordinated in MDL-2738 before Judge Michael A. Shipp in the District of New Jersey; pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML's monthly Pending MDL Dockets report (September 1, 2026)</a>.</li>
+<li><strong>Federal court context:</strong> Federal talc cases are coordinated in MDL-2738 before Judge Michael A. Shipp in the District of New Jersey; pending-action counts come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML's monthly Pending MDL Dockets report (October 1, 2026)</a>.</li>
 <li><strong>Verdict context:</strong> The <em>Ingham</em> reduction is documented in the <a href="https://storage.courtlistener.com/pdf/2020/06/23/robert_ingham_v._johnson__johnson.pdf">Missouri Court of Appeals opinion (June 23, 2020)</a>, with the U.S. Supreme Court's <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/20-1223.html">denial of review (docket 20-1223)</a> leaving it final.</li>
 <li><strong>Bankruptcy context:</strong> Coverage of the March 31, 2025 Red River Talc dismissal is available via <a href="https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/">Drugwatch</a>.</li>
 <li><strong>Imerys talc trust:</strong> Imerys Talc America's Chapter 11 reorganization established the Imerys Talc Personal Injury Trust, a separate compensation path; case and plan documents are available through the <a href="https://iandctalc.com/" target="_blank" rel="noopener noreferrer">Imerys Talc and Cyprus Mines bankruptcy information site</a>.</li>
