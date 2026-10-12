@@ -13,7 +13,7 @@ for (const name of files) {
   const data = JSON.parse(await readFile(file, "utf8"));
   const age = Math.floor((today - new Date(`${data.dataAsOf}T12:00:00Z`)) / 86400000);
   if (age > 45) errors.push(`${name}: case record is ${age} days old`);
-  if (data.litigation.mdlNumber && !data.pendingCounts.some((entry) => entry.primary && entry.date >= "2026-09-01")) errors.push(`${name}: current MDL count not reviewed in September`);
+  if (data.litigation.mdlNumber && !data.pendingCounts.some((entry) => entry.primary && entry.date >= "2026-10-01")) errors.push(`${name}: current MDL count is older than the October 1, 2026 JPML report`);
   for (const entry of data.keyDates ?? []) {
     if (entry.date < todayIso && entry.status === "scheduled") warnings.push(`${name}: ${entry.date} scheduled event needs outcome review`);
   }

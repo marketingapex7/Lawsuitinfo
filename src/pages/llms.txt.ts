@@ -1,6 +1,6 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
-import { site, states } from "@lib/site";
+import { isIndexableStateGuide, site, states } from "@lib/site";
 import { getAllCaseData } from "@lib/caseData";
 import supportingGuides from "../data/supporting-guides.json";
 
@@ -10,7 +10,9 @@ export async function GET() {
   const lawsuits = (await getCollection("lawsuits")).sort((a, b) =>
     a.data.lawsuit.localeCompare(b.data.lawsuit)
   );
-  const stateGuides = await getCollection("state-guides");
+  const stateGuides = (await getCollection("state-guides")).filter((guide) =>
+    isIndexableStateGuide(guide.data.lawsuitSlug, guide.data.stateSlug)
+  );
   const categories = await getCollection("categories");
   const cases = getAllCaseData();
 
@@ -19,7 +21,7 @@ export async function GET() {
     return `- [${entry.data.title}](${url}): Status: ${entry.data.status}. Primary alleged injury: ${entry.data.primaryInjury}. Last updated ${entry.data.lastUpdated}.`;
   });
 
-  const stateLines = states.map((state) => {
+  const stateLines = states.filter((state) => stateGuides.some((guide) => guide.data.stateSlug === state.slug)).map((state) => {
     const guides = stateGuides
       .filter((guide) => guide.data.stateSlug === state.slug)
       .sort((a, b) => a.data.lawsuit.localeCompare(b.data.lawsuit));

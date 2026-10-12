@@ -1,6 +1,6 @@
 import { getCollection } from "astro:content";
 import { entrySlug } from "@lib/content";
-import { minimumIndexableStateGuides, site, states } from "@lib/site";
+import { isIndexableStateGuide, minimumIndexableStateGuides, site, states } from "@lib/site";
 import { getAllCaseData } from "@lib/caseData";
 import supportingGuides from "../data/supporting-guides.json";
 
@@ -26,7 +26,11 @@ type SitemapEntry = {
 
 export async function GET() {
   const lawsuits = await getCollection("lawsuits");
-  const stateGuides = await getCollection("state-guides");
+  const allStateGuides = await getCollection("state-guides");
+  // Thin per-state guides render noindex; state hubs keep their own count rule.
+  const stateGuides = allStateGuides.filter((guide) =>
+    isIndexableStateGuide(guide.data.lawsuitSlug, guide.data.stateSlug)
+  );
   const categories = await getCollection("categories");
   const cases = getAllCaseData();
 
@@ -53,9 +57,9 @@ export async function GET() {
     { loc: "/advertising-disclosure/" },
     { loc: "/contact/" },
     ...states.filter((state) =>
-      stateGuides.filter((guide) => guide.data.stateSlug === state.slug).length >= minimumIndexableStateGuides
+      allStateGuides.filter((guide) => guide.data.stateSlug === state.slug).length >= minimumIndexableStateGuides
     ).map((state) => {
-      const stateUpdate = stateGuides
+      const stateUpdate = allStateGuides
         .filter((guide) => guide.data.stateSlug === state.slug)
         .map((guide) => guide.data.lastUpdated)
         .sort()

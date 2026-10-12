@@ -42,13 +42,13 @@ faqs:
 
 <section id="state-overview">
 <h2>What Michigan residents should know</h2>
-<p>Michigan families with social media injury claims are generally not limited to Michigan state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 3,208 pending actions as of September 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
+<p>Michigan families with social media injury claims are generally not limited to Michigan state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 3,824 pending actions as of October 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
 <p>Michigan law still matters: the state's filing deadline — including rules that pause the clock while a claimant is a minor — plus its damages and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 
 <section id="state-social-media-context">
 <h2>What Michigan families should know about the social media lawsuits</h2>
-<p>Cases filed by Michigan residents in federal court are transferred into <strong>MDL-3047</strong> before Judge Yvonne Gonzalez Rogers in the Northern District of California, where 3,208 actions were pending as of September 1, 2026; many individual cases also proceed in California&rsquo;s JCCP 5255. Where a Michigan family lives does not change the addictive-design and failure-to-warn theories at the center of the cases.</p>
+<p>Cases filed by Michigan residents in federal court are transferred into <strong>MDL-3047</strong> before Judge Yvonne Gonzalez Rogers in the Northern District of California, where 3,824 actions were pending as of October 1, 2026; many individual cases also proceed in California&rsquo;s JCCP 5255. Where a Michigan family lives does not change the addictive-design and failure-to-warn theories at the center of the cases.</p>
 <p>Michigan&rsquo;s general personal injury deadline is 3 years (Mich. Comp. Laws § 600.5805(2)). Because these claims usually involve harm that began when the user was a child or teenager, how Michigan treats a minor&rsquo;s filing deadline is often decisive — many states pause the clock until a young person reaches adulthood. Michigan applies limited discovery-based accrual rules; latent-injury treatment varies by claim type. A lawyer can confirm how the deadline applies to a specific Michigan claim.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products" target="_blank" rel="noopener noreferrer">U.S. District Court, N.D. Cal. — MDL-3047 case page</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>

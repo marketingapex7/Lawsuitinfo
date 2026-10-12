@@ -13,7 +13,7 @@ import DisclaimerBox from "@components/DisclaimerBox.astro";
 import CaseStatusOverview from "@components/CaseStatusOverview.astro";
 import { entrySlug } from "@lib/content";
 import { getCaseData } from "@lib/caseData";
-import { formatDate } from "@lib/site";
+import { formatDate, formatMonthYear } from "@lib/site";
 import { lawsuitMetaDescription, lawsuitSeoTitle } from "@lib/seo";
 
 export async function getStaticPaths() {
@@ -60,7 +60,7 @@ const supportingLinks: Record<string, { href: string; label: string }[]> = {
   "bard-powerport": [{ href: "/lawsuits/bard-powerport/settlement-amounts/", label: "PowerPort settlement amounts" }]
 };
 const toc = [
-  { id: "current-status", label: "September 2026 status" },
+  { id: "current-status", label: caseData ? `${formatMonthYear(caseData.statusVerifiedOn ?? caseData.dataAsOf)} status` : "Current status" },
   { id: "overview", label: "What the lawsuit is about" },
   { id: "latest-update", label: "Latest update" },
   { id: "case-status-snapshot", label: "Case snapshot" },

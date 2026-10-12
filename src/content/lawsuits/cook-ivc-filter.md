@@ -1,6 +1,6 @@
 ---
 title: "Cook IVC Filter Lawsuit Guide"
-description: "Cook IVC filter lawsuit update: September 2026 MDL status, filter models, complications, settlement facts, deadlines, and device records."
+description: "Cook IVC filter lawsuit update: MDL status, filter models, complications, settlement facts, deadlines, and device records."
 lawsuit: "Cook IVC Filter"
 urlSlug: "cook-ivc-filter"
 category: "Product Liability"
@@ -34,11 +34,11 @@ timeline:
   -
     label: "Individual legal review"
     detail: "Counsel must evaluate the product, claimed defect, injury, causation evidence, warnings, state law, and filing time."
-lastUpdated: "2026-09-22"
+lastUpdated: "2026-10-11"
 lastReviewed: "2026-09-22"
 faqs:
   - question: "Is the Cook IVC filter MDL still active?"
-    answer: "Yes. JPML listed MDL 2570 as active on September 1, 2026, with 6,501 pending actions before Senior Judge Richard L. Young in Indiana."
+    answer: "Yes. JPML listed MDL 2570 as active on October 1, 2026, with 6,470 pending actions before Senior Judge Richard L. Young in Indiana."
   - question: "Which IVC filters are covered by this guide?"
     answer: "This guide concerns Cook filters, including Cook Celect, Celect Platinum, and Günther Tulip products when the medical record identifies them. Bard, Cordis, Boston Scientific, and other manufacturers require separate review."
   - question: "Has the Cook IVC filter litigation settled?"
@@ -62,7 +62,7 @@ faqs:
 <h2>Cook IVC filter lawsuit: the short answer</h2>
 <ul>
 <li><strong>Current stage:</strong> Active MDL with a second Günther Tulip bellwether process and individual case administration.</li>
-<li><strong>Pending count:</strong> 6,501 actions on the September 1, 2026 JPML report; 11,478 is the separate historical total.</li>
+<li><strong>Pending count:</strong> 6,470 actions on the October 1, 2026 JPML report; 11,478 is the separate historical total.</li>
 <li><strong>Settlement:</strong> No MDL-wide settlement program or payment schedule was identified in reviewed official records.</li>
 <li><strong>Deadline:</strong> State law and individual facts control; the MDL schedule is not a personal filing deadline.</li>
 </ul>
@@ -71,8 +71,8 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified Cook IVC filter litigation updates</h2>
-<h3>September 1, 2026: 6,501 actions pending</h3>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">JPML report</a> lists 6,501 pending actions and 11,478 historical actions. On August 3, the corresponding figures were 6,537 and 11,474.</p>
+<h3>October 1, 2026: 6,470 actions pending</h3>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 6,501 pending actions and 11,478 historical actions. On August 3, the corresponding figures were 6,537 and 11,474.</p>
 <p><strong>For readers:</strong> A pending action is not an approved claim, and the historical total is not a settlement-participant count.</p>
 <h3>June 26, 2025: second Tulip bellwether plan</h3>
 <p><a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Management%20Order%2034.pdf">Case Management Order 34</a> created a pool of eligible Günther Tulip cases and a selection process for future trial dates. The order says the court sought further progress because a Tulip case had not yet been tried.</p>

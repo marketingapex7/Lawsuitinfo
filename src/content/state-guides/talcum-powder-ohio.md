@@ -45,14 +45,14 @@ faqs:
 
 <section id="state-overview">
 <h2>What Ohio residents should know</h2>
-<p>Ohio residents with talcum powder claims are generally not limited to Ohio state court. Most federal ovarian-cancer cases are coordinated in the multidistrict litigation, <strong>MDL-2738</strong>, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, which held 69,250 pending actions as of September 1, 2026 — the largest active MDL by pending actions.</p>
+<p>Ohio residents with talcum powder claims are generally not limited to Ohio state court. Most federal ovarian-cancer cases are coordinated in the multidistrict litigation, <strong>MDL-2738</strong>, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, which held 69,340 pending actions as of October 1, 2026 — the largest active MDL by pending actions.</p>
 <p>Ohio law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL or in state court.</p>
 </section>
 
 <section id="state-talcum-powder-context">
 <h2>Where Ohio talcum powder cases are handled</h2>
-<p>Ohio residents' federal talcum powder claims are coordinated in MDL-2738 before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, the country's largest active MDL by pending actions (69,250 pending actions as of September 1, 2026). With J&amp;J's three bankruptcy attempts rejected &mdash; most recently in March 2025 &mdash; cases are again proceeding in the trial system. For Ohio claimants, documentation drives review: the talc product, years of use, and pathology confirming ovarian cancer or mesothelioma.</p>
-<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf" target="_blank" rel="noopener noreferrer">JPML &mdash; Pending MDL Dockets by Actions Pending, September 1, 2026 (MDL-2738, Judge Shipp, 69,250)</a>; <a href="https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/" target="_blank" rel="noopener noreferrer">Drugwatch &mdash; third J&J talc bankruptcy (Red River) denied March 31, 2025</a>.</p>
+<p>Ohio residents' federal talcum powder claims are coordinated in MDL-2738 before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, the country's largest active MDL by pending actions (69,340 pending actions as of October 1, 2026). With J&amp;J's three bankruptcy attempts rejected &mdash; most recently in March 2025 &mdash; cases are again proceeding in the trial system. For Ohio claimants, documentation drives review: the talc product, years of use, and pathology confirming ovarian cancer or mesothelioma.</p>
+<p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf" target="_blank" rel="noopener noreferrer">JPML &mdash; Pending MDL Dockets by Actions Pending, October 1, 2026 (MDL-2738, Judge Shipp, 69,340)</a>; <a href="https://www.drugwatch.com/news/2025/04/01/judge-shoots-down-jjs-multibillion-dollar-talc-settlement-plan/" target="_blank" rel="noopener noreferrer">Drugwatch &mdash; third J&J talc bankruptcy (Red River) denied March 31, 2025</a>.</p>
 </section>
 
 <section id="eligibility">

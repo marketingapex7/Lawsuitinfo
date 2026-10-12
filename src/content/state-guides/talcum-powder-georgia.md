@@ -45,7 +45,7 @@ faqs:
 
 <section id="state-overview">
 <h2>What Georgia residents should know</h2>
-<p>Georgia residents with talcum powder claims are generally not limited to Georgia state court. Most federal ovarian-cancer cases are coordinated in the multidistrict litigation, <strong>MDL-2738</strong>, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, which held 69,250 pending actions as of September 1, 2026 — the largest active MDL by pending actions.</p>
+<p>Georgia residents with talcum powder claims are generally not limited to Georgia state court. Most federal ovarian-cancer cases are coordinated in the multidistrict litigation, <strong>MDL-2738</strong>, before Judge Michael A. Shipp in the U.S. District Court for the District of New Jersey, which held 69,340 pending actions as of October 1, 2026 — the largest active MDL by pending actions.</p>
 <p>Georgia law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL or in state court.</p>
 </section>
 

@@ -11,8 +11,17 @@
     "established": "2025-02-07"
   },
   "phase": "Settlement registration; litigation continues for remaining claims",
-  "phaseDetail": "Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled. The court calendar listed a September 18 Rule 702 hearing for ongoing litigation; the public orders page reviewed September 25 does not state an outcome. Eligibility and payments are not automatic.",
+  "phaseDetail": "Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled. The court calendar listed a September 18 Rule 702 hearing for ongoing litigation; the public orders page reviewed October 11 does not state an outcome. Eligibility and payments are not automatic.",
   "pendingCounts": [
+    {
+      "date": "2026-10-01",
+      "count": 6412,
+      "totalFiled": 6524,
+      "scope": "Pending actions in MDL-3140",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-09-01",
       "count": 6403,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-3140",
       "source": "JPML MDL Statistics Report, September 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-08-03",
@@ -56,11 +65,11 @@
     {
       "label": "Private settlement program",
       "status": "active — individual eligibility required",
-      "detail": "Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 25 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.",
-      "source": "Official court records reviewed September 25, 2026",
+      "detail": "Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed October 11 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.",
+      "source": "Official court records reviewed October 11, 2026",
       "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%2014%20with%20Exhibits.pdf",
       "kind": "individual",
-      "individualClaims": "Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed September 25 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.",
+      "individualClaims": "Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed October 11 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.",
       "verifiedOn": "2026-09-25"
     }
   ],
@@ -86,6 +95,17 @@
       "kind": "milestone",
       "status": "completed",
       "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-09-04",
+      "label": "Settlement administration appointments (CMOs 15–17)",
+      "detail": "The court appointed a supplemental compensation fund allocation master (CMO 15), a qualified settlement fund administrator (CMO 16) and a lien resolution master (CMO 17).",
+      "kind": "claim",
+      "status": "historical",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20CMO%2016.pdf",
+      "source": "Official court record",
+      "verifiedOn": "2026-10-11",
+      "appliesTo": "Federal MDL settlement program"
     },
     {
       "date": "2026-09-18",
@@ -119,9 +139,28 @@
       "kind": "bellwether",
       "status": "cancelled",
       "appliesTo": "Original Pilot cases"
+    },
+    {
+      "date": "2026-12-18",
+      "label": "Case management conference",
+      "detail": "The court's MDL page lists a case management conference on December 18, 2026, at 9:00 a.m. CT.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date",
+      "source": "Official court record",
+      "verifiedOn": "2026-10-11",
+      "appliesTo": "Federal MDL proceedings"
     }
   ],
   "sources": [
+    {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "name": "CMO 15–17 (September 4, 2026): settlement fund and lien appointments",
+      "url": "https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20CMO%2016.pdf"
+    },
     {
       "name": "JPML — September 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
@@ -163,9 +202,19 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-June-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-09-25",
-  "statusVerifiedOn": "2026-09-25",
+  "dataAsOf": "2026-10-11",
+  "statusVerifiedOn": "2026-10-11",
   "updates": [
+    {
+      "date": "2026-10-11",
+      "summary": "JPML reports 6,412 pending actions in MDL-3140 on October 1, 2026, up 9 from 6,403 on September 1; 6,524 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "date": "2026-10-11",
+      "summary": "September 4 orders appoint a supplemental compensation fund allocation master (CMO 15), a qualified settlement fund administrator (CMO 16) and a lien resolution master (CMO 17). The orders page reviewed October 11 shows no Rule 702 ruling and lists a December 18 case management conference.",
+      "sourceUrl": "https://www.flnd.uscourts.gov/mdl3140-orders-by-date"
+    },
     {
       "date": "2026-09-14",
       "summary": "JPML reports 6,403 pending actions on September 1, 2026, compared with 6,294 on August 3; 6,510 total historical actions are reported separately.",
