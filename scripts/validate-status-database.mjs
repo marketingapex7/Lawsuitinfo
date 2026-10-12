@@ -8,12 +8,14 @@ const caseFiles = (await readdir(casesDir)).filter((name) => name.endsWith(".jso
 const cases = await Promise.all(caseFiles.map(async (name) => JSON.parse(await readFile(path.join(casesDir, name), "utf8"))));
 
 for (const item of cases) {
-  if (item.dataAsOf < "2026-09-01") errors.push(`${item.slug}: dataAsOf is older than September 2026`);
+  // MDL cases follow the monthly JPML report; non-MDL programs (e.g., Camp Lejeune) follow their agency's own reporting cadence.
+  const minimumDataAsOf = item.litigation.mdlNumber ? "2026-10-01" : "2026-09-01";
+  if (item.dataAsOf < minimumDataAsOf) errors.push(`${item.slug}: dataAsOf is older than ${minimumDataAsOf}`);
   if (!item.statusVerifiedOn) errors.push(`${item.slug}: missing statusVerifiedOn`);
   if (!Array.isArray(item.updates) || item.updates.length < 3) errors.push(`${item.slug}: fewer than three verified monthly updates`);
   const primaries = item.pendingCounts.filter((entry) => entry.primary);
   if (item.litigation.mdlNumber && primaries.length !== 1) errors.push(`${item.slug}: expected one primary MDL count`);
-  if (primaries[0] && primaries[0].date !== "2026-09-01") errors.push(`${item.slug}: primary count is not September 1, 2026`);
+  if (primaries[0] && primaries[0].date !== "2026-10-01") errors.push(`${item.slug}: primary count is not October 1, 2026`);
 }
 
 const expectedFiles = [

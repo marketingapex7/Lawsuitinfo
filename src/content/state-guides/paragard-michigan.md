@@ -42,13 +42,13 @@ faqs:
 
 <section id="state-overview">
 <h2>What Michigan residents should know</h2>
-<p>Michigan residents with Paragard claims are generally not limited to Michigan state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-2974</strong>, before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia, which held 4,185 pending actions as of September 1, 2026.</p>
+<p>Michigan residents with Paragard claims are generally not limited to Michigan state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-2974</strong>, before Judge Leigh Martin May in the U.S. District Court for the Northern District of Georgia, which held 4,224 pending actions as of October 1, 2026.</p>
 <p>Michigan law still matters: the state's filing deadline, discovery rule, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 
 <section id="state-paragard-context">
 <h2>What Michigan residents should know about the Paragard lawsuits</h2>
-<p>Cases filed by Michigan residents in federal court are transferred into <strong>MDL-2974</strong> before Judge Leigh Martin May in the Northern District of Georgia, where 4,185 actions were pending as of September 1, 2026. The first bellwether trial ended in a defense verdict for Teva in February 2026, and the public court materials reviewed September 14, 2026 did not verify a later trial setting; no global settlement exists.</p>
+<p>Cases filed by Michigan residents in federal court are transferred into <strong>MDL-2974</strong> before Judge Leigh Martin May in the Northern District of Georgia, where 4,224 actions were pending as of October 1, 2026. The first bellwether trial ended in a defense verdict for Teva in February 2026, and the public court materials reviewed September 14, 2026 did not verify a later trial setting; no global settlement exists.</p>
 <p>Michigan&rsquo;s personal injury deadline is 3 years (Mich. Comp. Laws § 600.5805(2)). Because a broken Paragard is often discovered only when the device fractures during removal, accrual and discovery-rule questions can be important. Michigan applies limited discovery-based accrual rules; latent-injury treatment varies by claim type. A lawyer can confirm how the deadline applies to a specific Michigan claim.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.gand.uscourts.gov/20md2974" target="_blank" rel="noopener noreferrer">U.S. District Court, N.D. Ga. — MDL-2974 (Paragard) case page</a>; <a href="https://www.law.com/dailyreportonline/2026/02/17/after-first-paragard-iud-bellwether-trial-georgia-judge-considers-revising-bellwether-plan/" target="_blank" rel="noopener noreferrer">Law.com (Daily Report) — first Paragard bellwether defense verdict (Feb. 2026)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>

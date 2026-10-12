@@ -42,7 +42,7 @@ faqs:
 
 <section id="state-overview">
 <h2>What California residents should know</h2>
-<p>California families with social media injury claims are generally not limited to California state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 3,208 pending actions as of September 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
+<p>California families with social media injury claims are generally not limited to California state court. Most federal cases are transferred into the multidistrict litigation, <strong>MDL-3047</strong>, before Judge Yvonne Gonzalez Rogers in the Northern District of California, which held 3,824 pending actions as of October 1, 2026; a parallel California state-court proceeding (JCCP 5255) handles many individual cases.</p>
 <p>California law still matters: the state's filing deadline — including rules that pause the clock while a claimant is a minor — plus its damages and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 

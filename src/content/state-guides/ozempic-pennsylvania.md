@@ -16,7 +16,7 @@ lastReviewed: "2026-09-25"
 faqs:
   -
     question: "Why is Pennsylvania important in the Ozempic / GLP-1 litigation?"
-    answer: "MDL-3094, the consolidated federal GLP-1 injury litigation, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court. The September 1, 2026 JPML report listed 4,022 pending actions."
+    answer: "MDL-3094, the consolidated federal GLP-1 injury litigation, is based in the U.S. District Court for the Eastern District of Pennsylvania, so Pennsylvania residents' federal cases are coordinated in their home-state federal court. The October 1, 2026 JPML report listed 4,025 pending actions."
   -
     question: "What is the Ozempic lawsuit in Pennsylvania about?"
     answer: "Lawsuits allege GLP-1 medications such as Ozempic can cause gastroparesis, ileus, and bowel obstruction, and that warnings were inadequate. Pennsylvania residents' cases are generally transferred into federal MDL-3094 for coordinated proceedings. Defendants dispute the allegations."
@@ -45,7 +45,7 @@ faqs:
 
 <section id="state-overview">
 <h2>What Pennsylvania residents should know</h2>
-<p>Pennsylvania residents with GLP-1 injury claims are generally not limited to Pennsylvania state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 4,022 pending actions as of September 1, 2026.</p>
+<p>Pennsylvania residents with GLP-1 injury claims are generally not limited to Pennsylvania state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 4,025 pending actions as of October 1, 2026.</p>
 <p>Pennsylvania law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 

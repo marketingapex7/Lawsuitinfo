@@ -1,6 +1,6 @@
 ---
 title: "Roundup Cancer Lawsuit Guide"
-description: "Roundup Cancer lawsuit update: September 2026 court status, settlement information, filing deadlines and state resources."
+description: "Roundup Cancer lawsuit update: court status, settlement information, filing deadlines and state resources."
 lawsuit: "Roundup Cancer"
 urlSlug: "roundup"
 category: "Toxic Exposure"
@@ -32,8 +32,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-09-16"
-lastReviewed: "2026-09-16"
+lastUpdated: "2026-10-11"
+lastReviewed: "2026-10-11"
 faqs:
   -
     question: "How much are Roundup lawsuit settlements worth?"
@@ -72,10 +72,11 @@ faqs:
 <p>Roundup lawsuits allege that glyphosate-based herbicide exposure caused non-Hodgkin lymphoma and that warnings were inadequate. Monsanto/Bayer disputes the claims. Federal MDL-2741 proceedings, the proposed Missouri King class settlement and individual state cases are distinct proceedings.</p>
 </section>
 <section id="latest-update">
-<h2>Roundup Cancer Lawsuit update: September 2026</h2>
-<p><strong>Proposed class settlement awaiting an approval decision.</strong> The King v. Monsanto fairness hearing was held September 14, 2026. The official administrator says the court will now decide whether to approve the settlement and that the timing is unknown. The separate federal MDL remains before Judge Vince Chhabria.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>3,925 pending actions</strong> in MDL-2741, compared with 3,932 on August 3. Its 5,323 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
-<p><a href="https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">Official court records</a> checked September 14, 2026.</p>
+<h2>Roundup Cancer Lawsuit update: October 2026</h2>
+<p><strong>Proposed class settlement still awaiting an approval decision.</strong> The King v. Monsanto fairness hearing was held September 14, 2026. As of October 11, the <a href="https://www.weedkillerclass.com/Home/FAQs">official administrator's FAQ</a> says the court will now decide whether to approve the settlement and that the timing is unknown. Settlement registration does not open until after final approval. The separate federal MDL remains before Judge Vince Chhabria.</p>
+<p>On September 29, a Missouri state court in St. Louis opened a trial for three non-Hodgkin lymphoma plaintiffs who are not part of the settlement. Their claims rely on design-defect and inadequate-testing theories, which the Supreme Court's <em>Durnell</em> ruling on label warnings did not directly address (<a href="https://www.claimsjournal.com/news/national/2026/09/30/340468.htm">Reuters via Claims Journal</a>). Monsanto disputes the claims.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>1,104 pending actions</strong> in MDL-2741, compared with 3,925 on September 1. The JPML report does not explain the drop. Its 5,324 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p><a href="https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">Official court records</a> checked September 14, 2026; settlement administrator FAQ checked October 11, 2026.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -84,7 +85,7 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-2741; U.S. District Court, Northern District of California</li>
 <li><strong>Judge:</strong> Judge Vince Chhabria</li>
 <li><strong>JPML transfer date:</strong> 2016-10-03</li>
-<li><strong>Pending actions:</strong> 3,925 as of September 1, 2026</li>
+<li><strong>Pending actions:</strong> 1,104 as of October 1, 2026</li>
 <li><strong>Current phase:</strong> Proposed class settlement awaiting approval decision</li>
 <li><strong>Settlement:</strong> The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The fairness hearing was held September 14, 2026; the administrator says the court will now decide whether to approve the settlement and that the timing is unknown.</li>
 </ul>
@@ -109,8 +110,9 @@ faqs:
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
 <ul>
-<li>JPML reports 3,925 pending actions on September 1, 2026, compared with 3,932 on August 3; 5,323 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
-<li>The fairness hearing was held September 14; the administrator says the court will now decide whether to approve the settlement, with timing unknown. <a href="https://www.weedkillerclass.com/Home/FAQs">Source</a></li>
+<li>JPML reports 1,104 pending actions on October 1, 2026, compared with 3,925 on September 1; 5,324 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
+<li>A St. Louis state-court trial for three plaintiffs outside the settlement opened September 29 on design-defect and inadequate-testing theories. <a href="https://www.claimsjournal.com/news/national/2026/09/30/340468.htm">Source</a></li>
+<li>The fairness hearing was held September 14; as of October 11 the administrator says the court will now decide whether to approve the settlement, with timing unknown. <a href="https://www.weedkillerclass.com/Home/FAQs">Source</a></li>
 <li>The administrator lists June 4, 2026 as the objection and exclusion deadline; later benefit deadlines depend on final approval and appeals. <a href="https://www.weedkillerclass.com/">Source</a></li>
 <li>The Supreme Court decided Monsanto v. Durnell on June 25, 2026, holding the label-based failure-to-warn claim at issue expressly preempted by FIFRA. <a href="https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf">Source</a></li>
 </ul>
@@ -187,7 +189,7 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">public court records</a>; these public indexes are not complete live dockets.</p>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
 <li><a href="https://www.weedkillerclass.com/Home/FAQs">The fairness hearing was held September 14; the court's approval decision remains pending with timing unknown.</a></li>
 <li><a href="https://www.weedkillerclass.com/">The administrator lists June 4, 2026 as the objection and exclusion deadline; later benefit deadlines depend on final approval and appeals.</a></li>

@@ -45,7 +45,7 @@ faqs:
 
 <section id="state-overview">
 <h2>What Georgia residents should know</h2>
-<p>Georgia residents with GLP-1 injury claims are generally not limited to Georgia state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 4,022 pending actions as of September 1, 2026.</p>
+<p>Georgia residents with GLP-1 injury claims are generally not limited to Georgia state court. Most filed cases are transferred into the federal multidistrict litigation, <strong>MDL-3094</strong>, before Judge Karen S. Marston in the Eastern District of Pennsylvania, which held 4,025 pending actions as of October 1, 2026.</p>
 <p>Georgia law still matters: the state's filing deadline, damages rules, and procedural law can shape an individual claim even when the case is litigated in the MDL.</p>
 </section>
 

@@ -1,6 +1,6 @@
 ---
 title: "Social Media Addiction Lawsuit Guide (MDL 3047)"
-description: "Social Media Adolescent Addiction lawsuit update: September 2026 court status, settlement information, filing deadlines and state resources."
+description: "Social Media Adolescent Addiction lawsuit update: court status, settlement information, filing deadlines and state resources."
 lawsuit: "Social Media Addiction"
 urlSlug: "social-media"
 category: "Product Liability"
@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer compares the use-and-injury timeline with MDL-3047 / JCCP posture and the state filing deadline, including rules that pause deadlines for minors."
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-10-11"
 lastReviewed: "2026-09-14"
 faqs:
   -
@@ -72,9 +72,9 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Social Media Adolescent Addiction Lawsuit update: September 2026</h2>
+<h2>Social Media Adolescent Addiction Lawsuit update</h2>
 <p><strong>Separate state-AG, school-district and individual litigation tracks.</strong> The court-linked MDL Centrality calendar lists an August 17, 2026 start for the state attorneys general trial against Meta and February 8, 2027 for the school-district bellwether jury trial. Those schedules do not establish a verdict or settlement. Federal individual claims and the separate California JCCP must not be confused with these government-plaintiff tracks.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1, 2026 JPML report</a> lists <strong>3,208 pending actions</strong> in MDL-3047, compared with 3,137 on August 3. Its 3,383 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>3,824 pending actions</strong> in MDL-3047, compared with 3,208 on September 1. Its 4,009 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
 <p><a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Official court records</a> checked September 14, 2026.</p>
 </section>
 
@@ -84,7 +84,7 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-3047; U.S. District Court, Northern District of California</li>
 <li><strong>Judge:</strong> Judge Yvonne Gonzalez Rogers</li>
 <li><strong>JPML transfer date:</strong> 2022-10-06</li>
-<li><strong>Pending actions:</strong> 3,208 as of September 1, 2026</li>
+<li><strong>Pending actions:</strong> 3,824 as of October 1, 2026</li>
 <li><strong>Current phase:</strong> Separate state-AG, school-district and individual litigation tracks</li>
 <li><strong>Settlement:</strong> The federal court page and court-linked MDL Centrality materials reviewed September 14, 2026 do not identify a global personal-injury settlement program or official individual payout schedule. Outcomes in government cases or individual proceedings do not determine what another claimant will receive.</li>
 </ul>
@@ -93,7 +93,7 @@ faqs:
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
 <ul>
-<li>JPML reports 3,208 pending actions on September 1, 2026, compared with 3,137 on August 3; 3,383 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">Source</a></li>
+<li>JPML reports 3,824 pending actions on October 1, 2026, compared with 3,208 on September 1; 4,009 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
 <li>The court-linked calendar lists February 8, 2027 for the school-district bellwether jury trial, with jury selection February 3. <a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Source</a></li>
 <li>The same calendar lists the state attorneys general trial against Meta from August 17, 2026; that schedule is separate from an individual injury trial. <a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">Source</a></li>
 <li>The federal court’s September 8 recent filings list conditional transfer order CTO-87, confirming continuing MDL transfers. <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">Source</a></li>
@@ -129,7 +129,7 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">public court records</a>; these public indexes are not complete live dockets.</p>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolscent-addictionpersonal-injury-products">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
 <li><a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">The court-linked calendar lists February 8, 2027 for the school-district bellwether jury trial, with jury selection February 3.</a></li>
 <li><a href="https://www.mdlcentrality.com/SocialMedia/IndexMDL">The same calendar lists the state attorneys general trial against Meta from August 17, 2026; that schedule is separate from an individual injury trial.</a></li>

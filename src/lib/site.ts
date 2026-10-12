@@ -1,3 +1,5 @@
+import indexableStateGuides from "../data/indexable-state-guides.json";
+
 export const site = {
   name: "Lawsuit Status Guide",
   url: "https://lawsuitstatusguide.com",
@@ -113,4 +115,15 @@ export function formatDate(date: string) {
     day: "numeric",
     year: "numeric"
   }).format(new Date(`${date}T12:00:00`));
+}
+
+export function formatMonthYear(date: string) {
+  return new Intl.DateTimeFormat("en-US", { month: "long", year: "numeric" }).format(new Date(`${date}T12:00:00`));
+}
+
+const indexableStateGuideSet = new Set<string>(indexableStateGuides.guides);
+
+/** State guides outside the curated list render noindex and stay out of sitemap/llms/feed. */
+export function isIndexableStateGuide(lawsuitSlug: string, stateSlug: string) {
+  return indexableStateGuideSet.has(`${lawsuitSlug}/${stateSlug}`);
 }
