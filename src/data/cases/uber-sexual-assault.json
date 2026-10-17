@@ -1,0 +1,168 @@
+{
+  "slug": "uber-sexual-assault",
+  "caseName": "Uber Passenger Sexual Assault Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3084",
+    "mdlName": "In re: Uber Technologies, Inc., Passenger Sexual Assault Litigation",
+    "court": "U.S. District Court, Northern District of California",
+    "courtShort": "N.D. Cal.",
+    "judge": "Senior Judge Charles R. Breyer",
+    "established": "2023-10-04"
+  },
+  "phase": "Bellwether trials under way; two jury verdicts and one pre-trial settlement",
+  "phaseDetail": "Judge Breyer has sent individual bellwether cases back to the plaintiffs' home federal districts for trial. A Phoenix jury returned an $8.5 million compensatory verdict in February 2026 and a North Carolina jury awarded $5,000 in April 2026; Uber has said it will appeal the first verdict. The third bellwether, a Texas case, settled on confidential terms in early October 2026 after jury selection and before opening statements. No global settlement program has been announced.",
+  "pendingCounts": [
+    {
+      "date": "2026-10-01",
+      "count": 4916,
+      "totalFiled": 5221,
+      "scope": "Pending actions in MDL-3084",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-09-01",
+      "count": 4588,
+      "totalFiled": 4890,
+      "scope": "Pending actions in MDL-3084",
+      "source": "JPML MDL Statistics Report, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": false
+    },
+    {
+      "date": "2026-08-03",
+      "count": 4397,
+      "totalFiled": 4693,
+      "scope": "Pending actions in MDL-3084",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    }
+  ],
+  "defendants": [
+    "Uber Technologies, Inc. and related Uber entities"
+  ],
+  "settlements": [
+    {
+      "label": "No global settlement program announced",
+      "status": "none",
+      "detail": "No court-approved global settlement program or public payout schedule was identified in records reviewed October 17, 2026. Uber has resolved some individual cases, including the third federal bellwether, on confidential terms. A jury verdict in one case does not set the value of another claim.",
+      "source": "Top Class Actions report on the third bellwether settlement, October 9, 2026",
+      "sourceUrl": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/",
+      "kind": "none",
+      "individualClaims": "Individual settlements reported so far are confidential. A jury verdict in one case does not set the value of another claim.",
+      "verifiedOn": "2026-10-17"
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2023-10-04",
+      "label": "MDL-3084 created",
+      "detail": "The JPML centralized federal Uber passenger sexual assault cases before Judge Charles R. Breyer in the Northern District of California.",
+      "kind": "court",
+      "status": "historical",
+      "source": "JPML pending MDL dockets by MDL number, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-October-1-2026.pdf",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-02-05",
+      "label": "First bellwether verdict: $8.5 million (Phoenix)",
+      "detail": "A federal jury in Phoenix awarded Jaylynn Dean $8.5 million in compensatory damages and no punitive damages after finding the driver was Uber's agent. Uber said it would appeal.",
+      "kind": "bellwether",
+      "status": "completed",
+      "source": "Reuters via BNN Bloomberg, February 5, 2026",
+      "sourceUrl": "https://www.bnnbloomberg.ca/business/2026/02/05/uber-ordered-to-pay-us85-million-in-trial-over-driver-sex-assault-claims",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal bellwether trial"
+    },
+    {
+      "date": "2026-04-22",
+      "label": "Second bellwether verdict: $5,000 (North Carolina)",
+      "detail": "After a four-day trial in the Western District of North Carolina, a jury found Uber legally responsible for a 2019 incident and awarded $5,000. Plaintiffs' counsel reported the verdict on April 22.",
+      "kind": "bellwether",
+      "status": "completed",
+      "source": "Plaintiffs' counsel announcement, April 22, 2026",
+      "sourceUrl": "https://chaffinluhana.com/firm-news/federal-jury-finds-uber-liable-driver-assault-bellwether-trial/",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal bellwether trial"
+    },
+    {
+      "date": "2026-10-02",
+      "label": "Third bellwether settled before opening statements",
+      "detail": "The Texas bellwether (Jane Doe QLF 001, W.D. Tex.) settled on confidential terms after jury selection.",
+      "kind": "bellwether",
+      "status": "completed",
+      "source": "Top Class Actions, October 9, 2026",
+      "sourceUrl": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal bellwether trial"
+    }
+  ],
+  "sources": [
+    {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "JPML — October 1, 2026 assignments and transfer dates",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-October-1-2026.pdf"
+    },
+    {
+      "name": "Published court opinions in 3:23-md-03084 (GovInfo)",
+      "url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_23-md-03084"
+    },
+    {
+      "name": "Reuters via BNN Bloomberg — $8.5 million Phoenix bellwether verdict (Feb. 5, 2026)",
+      "url": "https://www.bnnbloomberg.ca/business/2026/02/05/uber-ordered-to-pay-us85-million-in-trial-over-driver-sex-assault-claims"
+    },
+    {
+      "name": "Plaintiffs' counsel — North Carolina bellwether verdict (Apr. 22, 2026)",
+      "url": "https://chaffinluhana.com/firm-news/federal-jury-finds-uber-liable-driver-assault-bellwether-trial/"
+    },
+    {
+      "name": "Top Class Actions — third bellwether settled before trial (Oct. 9, 2026)",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/"
+    }
+  ],
+  "dataAsOf": "2026-10-17",
+  "statusVerifiedOn": "2026-10-17",
+  "updates": [
+    {
+      "date": "2026-10-17",
+      "summary": "JPML reports 4,916 pending actions in MDL-3084 on October 1, 2026, up 328 from 4,588 on September 1; 5,221 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "date": "2026-10-09",
+      "summary": "The third federal bellwether, a Texas case known as Jane Doe QLF 001, settled on confidential terms after jury selection and before opening statements.",
+      "sourceUrl": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/"
+    },
+    {
+      "date": "2026-09-01",
+      "summary": "JPML reports 4,588 pending actions on September 1, 2026, compared with 4,397 on August 3.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-04-22",
+      "summary": "A Western District of North Carolina jury found Uber legally responsible in the second bellwether and awarded $5,000.",
+      "sourceUrl": "https://chaffinluhana.com/firm-news/federal-jury-finds-uber-liable-driver-assault-bellwether-trial/"
+    },
+    {
+      "date": "2026-02-05",
+      "summary": "A Phoenix federal jury awarded $8.5 million in compensatory damages, and no punitive damages, in the first bellwether. Uber said it would appeal.",
+      "sourceUrl": "https://www.bnnbloomberg.ca/business/2026/02/05/uber-ordered-to-pay-us85-million-in-trial-over-driver-sex-assault-claims"
+    }
+  ]
+}
