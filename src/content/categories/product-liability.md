@@ -19,7 +19,10 @@ lawsuitSlugs:
   - "afff-pfas"
   - "paraquat"
   - "roundup"
-lastUpdated: "2026-09-22"
+  - "uber-sexual-assault"
+  - "lyft-sexual-assault"
+  - "roblox"
+lastUpdated: "2026-10-17"
 ---
 
 <p>This category links drug, medical-device, consumer-product, and exposure-related injury guides. Product identification, use history, medical records, recall details, and state deadlines are usually central to review.</p>

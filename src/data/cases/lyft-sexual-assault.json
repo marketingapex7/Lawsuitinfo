@@ -1,0 +1,129 @@
+{
+  "slug": "lyft-sexual-assault",
+  "caseName": "Lyft Passenger Sexual Assault Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3171",
+    "mdlName": "In re: Lyft, Inc. Passenger Sexual Assault Litigation",
+    "court": "U.S. District Court, Northern District of California",
+    "courtShort": "N.D. Cal.",
+    "judge": "Judge Rita F. Lin",
+    "established": "2026-02-05"
+  },
+  "phase": "Early pretrial stage; federal cases growing quickly",
+  "phaseDetail": "The JPML created MDL-3171 on February 5, 2026 over Lyft's opposition. The federal docket roughly doubled between the August and October 2026 JPML reports. No bellwether trial date or settlement program was identified in records reviewed October 17, 2026. A separate California state-court coordinated proceeding (JCCP No. 5061) also handles Lyft cases.",
+  "pendingCounts": [
+    {
+      "date": "2026-10-01",
+      "count": 134,
+      "totalFiled": 148,
+      "scope": "Pending actions in MDL-3171",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-09-01",
+      "count": 106,
+      "totalFiled": 115,
+      "scope": "Pending actions in MDL-3171",
+      "source": "JPML MDL Statistics Report, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": false
+    },
+    {
+      "date": "2026-08-03",
+      "count": 72,
+      "totalFiled": 78,
+      "scope": "Pending actions in MDL-3171",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    }
+  ],
+  "defendants": [
+    "Lyft, Inc."
+  ],
+  "settlements": [
+    {
+      "label": "No settlement program announced",
+      "status": "none",
+      "detail": "No global settlement program or public payout schedule for MDL-3171 was identified in records reviewed October 17, 2026. The MDL is in its first year of pretrial proceedings.",
+      "source": "JPML transfer order and October 1, 2026 JPML report",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf",
+      "kind": "none",
+      "individualClaims": "No official individual payout amounts have been published.",
+      "verifiedOn": "2026-10-17"
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2026-02-05",
+      "label": "MDL-3171 created",
+      "detail": "The JPML centralized 17 actions from 10 districts before Judge Rita F. Lin in the Northern District of California. Lyft had opposed centralization.",
+      "kind": "court",
+      "status": "historical",
+      "source": "JPML transfer order, February 5, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "134 pending federal cases",
+      "detail": "Up from 72 on the August 3 JPML report.",
+      "kind": "milestone",
+      "status": "historical",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal MDL proceedings"
+    }
+  ],
+  "sources": [
+    {
+      "name": "JPML — MDL-3171 transfer order (Feb. 5, 2026)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf"
+    },
+    {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "JPML — October 1, 2026 assignments and transfer dates",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-October-1-2026.pdf"
+    }
+  ],
+  "dataAsOf": "2026-10-17",
+  "statusVerifiedOn": "2026-10-17",
+  "updates": [
+    {
+      "date": "2026-10-17",
+      "summary": "JPML reports 134 pending actions in MDL-3171 on October 1, 2026, up from 106 on September 1; 148 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "date": "2026-09-01",
+      "summary": "JPML reports 106 pending actions on September 1, 2026, compared with 72 on August 3.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-08-03",
+      "summary": "JPML reports 72 pending actions in MDL-3171 on August 3, 2026.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "date": "2026-02-05",
+      "summary": "The JPML created MDL-3171 before Judge Rita F. Lin, rejecting Lyft's argument that claims should proceed in the California state coordinated proceeding.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf"
+    }
+  ]
+}

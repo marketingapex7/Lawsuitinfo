@@ -1,0 +1,170 @@
+{
+  "slug": "roblox",
+  "caseName": "Roblox Child Exploitation Lawsuit",
+  "litigation": {
+    "type": "Federal MDL",
+    "mdlNumber": "MDL-3166",
+    "mdlName": "In re: Roblox Corporation Child Sexual Exploitation and Assault Litigation",
+    "court": "U.S. District Court, Northern District of California",
+    "courtShort": "N.D. Cal.",
+    "judge": "Judge Richard Seeborg",
+    "established": "2025-12-12"
+  },
+  "phase": "Pretrial: arbitration motions being briefed; no trial date",
+  "phaseDetail": "The court is first deciding whether bellwether plaintiffs' claims must go to arbitration. A May 18, 2026 order set a fall 2026 briefing schedule for Roblox's and Discord's bellwether motions to compel arbitration, with the hearing to be set by the court; the public record reviewed does not show a ruling. Defenses under Section 230 and the First Amendment are also expected to be litigated. No trial date or settlement program has been announced; in April 2026 the court gave notice that it intends to appoint a settlement master to mediate.",
+  "pendingCounts": [
+    {
+      "date": "2026-10-01",
+      "count": 180,
+      "totalFiled": 190,
+      "scope": "Pending actions in MDL-3166",
+      "source": "JPML MDL Statistics Report, October 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
+      "primary": true
+    },
+    {
+      "date": "2026-09-01",
+      "count": 182,
+      "totalFiled": 187,
+      "scope": "Pending actions in MDL-3166",
+      "source": "JPML MDL Statistics Report, September 1, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf",
+      "primary": false
+    },
+    {
+      "date": "2026-08-03",
+      "count": 177,
+      "totalFiled": 182,
+      "scope": "Pending actions in MDL-3166",
+      "source": "JPML MDL Statistics Report, August 3, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf",
+      "primary": false
+    }
+  ],
+  "defendants": [
+    "Roblox Corporation",
+    "Discord Inc. (in some cases)",
+    "Snap Inc. (in some cases)",
+    "Meta Platforms, Inc. (in some cases)"
+  ],
+  "settlements": [
+    {
+      "label": "No settlement program announced",
+      "status": "none",
+      "detail": "No global settlement or public payout schedule was identified in records reviewed October 17, 2026. An April 16, 2026 notice says the court intends to appoint Thomas J. Perrelli as settlement master, solely to mediate settlement discussions.",
+      "source": "Notice of intent to appoint settlement master (Apr. 16, 2026)",
+      "sourceUrl": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Notice-of-Intent-to-Appoint-Settlement-Master-Thomas-J-Perrelli-Docket-Entry-301-1-1.pdf",
+      "kind": "none",
+      "individualClaims": "No official individual payout amounts have been published.",
+      "verifiedOn": "2026-10-17"
+    }
+  ],
+  "keyDates": [
+    {
+      "date": "2025-12-12",
+      "label": "MDL-3166 created",
+      "detail": "The JPML centralized 31 actions from 12 districts, with nearly 80 actions and potential tag-alongs in 18 districts, before Judge Richard Seeborg. Roblox, Discord, Snap and Meta had opposed centralization.",
+      "kind": "court",
+      "status": "historical",
+      "source": "JPML transfer order, December 12, 2025",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3166-Transfer_Order-12-25.pdf",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-01-30",
+      "label": "Plaintiffs' co-lead counsel appointed",
+      "detail": "Order appointing plaintiffs' co-lead counsel and directing the parties to meet and confer (Dkt. 137).",
+      "kind": "court",
+      "status": "historical",
+      "source": "Court order, Dkt. 137 (copy posted by plaintiffs' counsel)",
+      "sourceUrl": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Appointing-Plaintiffs-Co-Lead-Counsel-and-Directing-Parties-to-Meet-and-Confer-Docket-Entry-137-.pdf",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-04-16",
+      "label": "Notice of intent to appoint settlement master",
+      "detail": "The court gave notice that it intends to appoint Thomas J. Perrelli to mediate settlement discussions. He would not decide any issues in the case.",
+      "kind": "court",
+      "status": "historical",
+      "source": "Notice, Dkt. 301 (copy posted by plaintiffs' counsel)",
+      "sourceUrl": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Notice-of-Intent-to-Appoint-Settlement-Master-Thomas-J-Perrelli-Docket-Entry-301-1-1.pdf",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "Arbitration-motion briefing schedule set",
+      "detail": "Order sets September 8 for Roblox's and Discord's bellwether motions to compel arbitration, October 13 for oppositions and November 10 for replies, with the hearing to be set by the court.",
+      "kind": "court",
+      "status": "historical",
+      "source": "Order, Dkt. 342 (copy posted by plaintiffs' counsel)",
+      "sourceUrl": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Re-Schedule-and-Word-Limits-for-Motions-to-Compel-Arbitration-Docket-Entry-342-.pdf",
+      "verifiedOn": "2026-10-17",
+      "appliesTo": "Federal MDL proceedings"
+    }
+  ],
+  "sources": [
+    {
+      "name": "JPML — MDL-3166 transfer order (Dec. 12, 2025)",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3166-Transfer_Order-12-25.pdf"
+    },
+    {
+      "name": "JPML — October 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "name": "JPML — September 1, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "name": "JPML — August 3, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf"
+    },
+    {
+      "name": "Order re: schedule for motions to compel arbitration (May 18, 2026, Dkt. 342)",
+      "url": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Re-Schedule-and-Word-Limits-for-Motions-to-Compel-Arbitration-Docket-Entry-342-.pdf"
+    },
+    {
+      "name": "Notice of intent to appoint settlement master (Apr. 16, 2026, Dkt. 301)",
+      "url": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Notice-of-Intent-to-Appoint-Settlement-Master-Thomas-J-Perrelli-Docket-Entry-301-1-1.pdf"
+    },
+    {
+      "name": "Order appointing plaintiffs' co-lead counsel (Jan. 30, 2026, Dkt. 137)",
+      "url": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Appointing-Plaintiffs-Co-Lead-Counsel-and-Directing-Parties-to-Meet-and-Confer-Docket-Entry-137-.pdf"
+    },
+    {
+      "name": "Published court opinions in 3:25-md-03166 (GovInfo)",
+      "url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-md-03166"
+    },
+    {
+      "name": "NCMEC CyberTipline — report online child exploitation",
+      "url": "https://report.cybertip.org/"
+    }
+  ],
+  "dataAsOf": "2026-10-17",
+  "statusVerifiedOn": "2026-10-17",
+  "updates": [
+    {
+      "date": "2026-10-17",
+      "summary": "JPML reports 180 pending actions in MDL-3166 on October 1, 2026, compared with 182 on September 1; 190 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
+    },
+    {
+      "date": "2026-09-01",
+      "summary": "JPML reports 182 pending actions on September 1, 2026, compared with 177 on August 3.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-05-18",
+      "summary": "A court order set the briefing schedule for bellwether motions to compel arbitration, with replies due November 10, 2026 and the hearing to be set by the court.",
+      "sourceUrl": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Re-Schedule-and-Word-Limits-for-Motions-to-Compel-Arbitration-Docket-Entry-342-.pdf"
+    },
+    {
+      "date": "2026-04-16",
+      "summary": "The court gave notice of its intent to appoint Thomas J. Perrelli as settlement master to mediate settlement discussions.",
+      "sourceUrl": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Notice-of-Intent-to-Appoint-Settlement-Master-Thomas-J-Perrelli-Docket-Entry-301-1-1.pdf"
+    }
+  ]
+}

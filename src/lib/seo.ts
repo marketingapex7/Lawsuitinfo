@@ -165,7 +165,10 @@ export function lawsuitSeoTitle(lawsuit: string) {
     "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement",
     "Social Media Addiction": "Social Media Lawsuit Update 2026",
     "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: MDL 3092",
-    "Talcum Powder": "Talcum Powder Lawsuit Update 2026"
+    "Talcum Powder": "Talcum Powder Lawsuit Update 2026",
+    "Uber Sexual Assault": "Uber Sexual Assault Lawsuit Update 2026: MDL 3084",
+    "Lyft Sexual Assault": "Lyft Sexual Assault Lawsuit Update 2026: MDL 3171",
+    "Roblox Child Exploitation": "Roblox Lawsuit Update 2026: MDL 3166 Status"
   };
   return titles[lawsuit] ?? `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }
@@ -245,7 +248,13 @@ export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string, l
     "Suboxone Tooth Decay":
       `${period} Suboxone lawsuit update: dental injury MDL status, core discovery schedule, records, deadlines, and state guides.`,
     "Talcum Powder":
-      `${period} talcum powder lawsuit update: J&J ovarian cancer and mesothelioma claims, MDL-2738 status, failed bankruptcies, verdicts, and state guides.`
+      `${period} talcum powder lawsuit update: J&J ovarian cancer and mesothelioma claims, MDL-2738 status, failed bankruptcies, verdicts, and state guides.`,
+    "Uber Sexual Assault":
+      `${period} Uber sexual assault lawsuit update: MDL 3084 case count, bellwether verdicts, confidential settlements, records, and deadlines.`,
+    "Lyft Sexual Assault":
+      `${period} Lyft sexual assault lawsuit update: MDL 3171 case count, judge, California JCCP cases, settlement status, records, and deadlines.`,
+    "Roblox Child Exploitation":
+      `${period} Roblox lawsuit update: child exploitation MDL 3166 case count, defendants, arbitration motions, settlement status, and deadlines.`
   };
   if (descriptions[lawsuit]) return fitMetaDescription(descriptions[lawsuit], " for research.");
   const injury = metaInjury(primaryInjury);
