@@ -34,7 +34,7 @@ timeline:
   -
     label: "Bankruptcy claim review"
     detail: "Counsel must review claim status, trust procedures, deadlines, causation evidence, damages, and other applicable law."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-10-23"
 lastReviewed: "2026-09-22"
 faqs:
   - question: "How many Exactech cases are pending in the MDL?"
@@ -45,6 +45,10 @@ faqs:
     answer: "No. Recall scope varies by product, component, manufacturing period, packaging, and serial or lot information. A brand name in a chart is not enough to determine recall status."
   - question: "Has the Exactech litigation settled?"
     answer: "A bankruptcy plan created a Settlement Trust and claim-administration process. That is not a universal settlement check or fixed value for every claimant."
+  - question: "What is the Exactech Settlement Trust?"
+    answer: "The Settlement Trust was created by the September 2025 confirmation order in Exactech's Chapter 11 case (District of Delaware, Case 24-12441). The confirmed plan moved specified rights and responsibilities to post-confirmation trusts, including the Settlement Trust, which administers covered claims under the plan's terms. Whether and how much a claimant recovers depends on those terms, the claim's evidence, and available funds."
+  - question: "When will the Exactech lawsuit be settled?"
+    answer: "There is no single settlement date. Covered claims run through the Settlement Trust process created by the confirmed bankruptcy plan, while MDL-3044 still listed 1,838 pending actions on the October 1, 2026 JPML report. This guide has not verified a universal payment date or amount for Exactech claims."
   - question: "Should a recalled implant be removed?"
     answer: "That is a medical decision. The FDA does not recommend removal of a well-functioning Exactech joint replacement solely because of the recall; patients should discuss symptoms and options with their healthcare provider."
   - question: "What records identify an Exactech implant?"
@@ -59,7 +63,7 @@ faqs:
 
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
-<h2>Exactech lawsuit: the short answer</h2>
+<h2>Exactech lawsuit update 2026: the short answer</h2>
 <ul>
 <li><strong>MDL count:</strong> 1,838 pending actions on the October 1, 2026 JPML report.</li>
 <li><strong>Bankruptcy status:</strong> A September 2025 confirmation order created a Settlement Trust and post-confirmation claim process.</li>
@@ -99,7 +103,7 @@ faqs:
 </section>
 
 <section id="settlement-status">
-<h2>Exactech settlement and bankruptcy status</h2>
+<h2>Exactech settlement trust and bankruptcy status</h2>
 <p>The confirmed Chapter 11 plan established a Settlement Trust rather than a simple public per-person settlement schedule. Eligibility, deadlines, allowed claim status, valuation, insurance issues, and distributions depend on controlling bankruptcy and trust documents.</p>
 <p>The Department of Justice announced a separate $8 million False Claims Act resolution in 2025. That government settlement does not establish compensation for an individual implant-injury claim.</p>
 </section>

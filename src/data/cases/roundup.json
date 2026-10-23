@@ -56,13 +56,13 @@
     {
       "label": "King v. Monsanto proposed class settlement",
       "status": "pending final approval",
-      "detail": "The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The fairness hearing was held September 14, 2026; the administrator says the court will now decide whether to approve the settlement and that the timing is unknown. June 4 objection and opt-out deadlines have passed.",
+      "detail": "The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The fairness hearing was held September 14, 2026; the administrator says the court will now decide whether to approve the settlement and that it does not know how long the decision will take. June 4 objection and opt-out deadlines have passed.",
       "source": "Official King settlement administrator",
       "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs",
       "kind": "proposed",
       "amount": "Up to $7.25 billion",
       "individualClaims": "Class terms and later approval events control; no automatic individual award.",
-      "verifiedOn": "2026-09-16"
+      "verifiedOn": "2026-10-23"
     }
   ],
   "keyDates": [
@@ -180,8 +180,13 @@
     }
   ],
   "dataAsOf": "2026-10-11",
-  "statusVerifiedOn": "2026-10-11",
+  "statusVerifiedOn": "2026-10-23",
   "updates": [
+    {
+      "date": "2026-10-23",
+      "summary": "The settlement administrator's FAQ, checked October 23, still says the court will decide whether to approve the King v. Monsanto settlement and fees; no final approval order is posted. Subclass 1 registration would be due within 180 days after final approval.",
+      "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs"
+    },
     {
       "date": "2026-10-11",
       "summary": "JPML reports 1,104 pending actions in MDL-2741 on October 1, 2026, down 2,821 from 3,925 on September 1; 5,324 total historical actions are reported separately.",

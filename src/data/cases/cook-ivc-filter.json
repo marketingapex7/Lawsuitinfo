@@ -10,8 +10,8 @@
     "judge": "Senior Judge Richard L. Young",
     "established": "2014-10-15"
   },
-  "phase": "Active MDL; Tulip bellwether selection and individual case administration",
-  "phaseDetail": "JPML lists MDL-2570 as active before Senior Judge Richard L. Young. The court's June 2025 Case Management Order 34 created a second bellwether pool for Günther Tulip cases while the MDL continues to administer thousands of individual actions.",
+  "phase": "Active MDL; second Tulip bellwether pool in discovery",
+  "phaseDetail": "JPML lists MDL-2570 as active before Senior Judge Richard L. Young. The July 14, 2026 Second Amended Case Management Order 34 sets fact discovery to close December 21, 2026 for three Günther Tulip bellwether candidates; the court is to select two for trial by May 26, 2027 and set trial dates at a June 2027 conference. No trial dates are set.",
   "pendingCounts": [
     {
       "date": "2026-10-01",
@@ -49,12 +49,12 @@
   ],
   "settlements": [
     {
-      "label": "No MDL-wide settlement program identified in reviewed records",
+      "label": "No MDL-wide settlement program or settlement track identified in reviewed records",
       "kind": "none",
       "status": "not announced",
-      "detail": "The Southern District of Indiana MDL page and official records reviewed September 22, 2026 do not announce a global settlement program, universal compensation matrix, or payment deadline. An individual settlement or verdict does not set the value of another case.",
+      "detail": "The Southern District of Indiana MDL-2570 page and case management order list, reviewed October 23, 2026, do not post a global settlement program, settlement track, mediation order, universal compensation matrix, or payment deadline. The July 14, 2026 Second Amended CMO 34 contains no settlement or mediation terms. An individual settlement or verdict does not set the value of another case.",
       "individualClaims": "No universal Cook IVC filter payment amount is verified here.",
-      "verifiedOn": "2026-09-22",
+      "verifiedOn": "2026-10-23",
       "source": "Southern District of Indiana MDL-2570 page",
       "sourceUrl": "https://www.insd.uscourts.gov/node/432"
     }
@@ -72,6 +72,17 @@
       "appliesTo": "Federal MDL"
     },
     {
+      "date": "2020-10-26",
+      "label": "Time-barred case screening order",
+      "detail": "Case Management Order 28 required plaintiffs' counsel to screen pending cases and dismiss claims barred by the statute of limitations or repose, and set a short-motion process for Cook to seek dismissal of others, following the court's earlier limitations and repose rulings.",
+      "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Mgmt%20Order%2028.pdf",
+      "source": "Southern District of Indiana, Case Management Order 28",
+      "verifiedOn": "2026-10-23",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
       "date": "2025-06-26",
       "label": "Second Tulip bellwether plan entered",
       "detail": "Case Management Order 34 established a process for forming a pool of eligible Günther Tulip cases and selecting cases for trial dates.",
@@ -79,6 +90,17 @@
       "source": "Southern District of Indiana, Case Management Order 34",
       "verifiedOn": "2026-09-22",
       "kind": "court",
+      "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2026-07-14",
+      "label": "Second Amended Tulip bellwether schedule",
+      "detail": "Second Amended CMO 34 names three Günther Tulip bellwether candidates and sets fact discovery to close December 21, 2026 and expert discovery to close April 26, 2027.",
+      "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf",
+      "source": "Southern District of Indiana, Second Amended Case Management Order 34",
+      "verifiedOn": "2026-10-23",
+      "kind": "bellwether",
       "status": "completed",
       "appliesTo": "Federal MDL"
     },
@@ -91,6 +113,28 @@
       "verifiedOn": "2026-09-22",
       "kind": "milestone",
       "status": "completed",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2026-12-21",
+      "label": "Tulip bellwether fact discovery closes",
+      "detail": "Deadline under Second Amended CMO 34 for the three Günther Tulip bellwether candidates.",
+      "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf",
+      "source": "Southern District of Indiana, Second Amended Case Management Order 34",
+      "verifiedOn": "2026-10-23",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "appliesTo": "Federal MDL"
+    },
+    {
+      "date": "2027-05-26",
+      "label": "Court to select two Tulip cases for trial",
+      "detail": "Under Second Amended CMO 34, the court selects two of the three candidates for trial after expert discovery; trial dates are to be set at a June 2027 conference.",
+      "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf",
+      "source": "Southern District of Indiana, Second Amended Case Management Order 34",
+      "verifiedOn": "2026-10-23",
+      "kind": "bellwether",
+      "status": "scheduled",
       "appliesTo": "Federal MDL"
     }
   ],
@@ -116,6 +160,18 @@
       "url": "https://www.insd.uscourts.gov/node/432"
     },
     {
+      "name": "Southern District of Indiana — MDL-2570 case management orders",
+      "url": "https://www.insd.uscourts.gov/cook-mdl-case-management"
+    },
+    {
+      "name": "Southern District of Indiana — Second Amended Case Management Order 34 (July 14, 2026)",
+      "url": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf"
+    },
+    {
+      "name": "Southern District of Indiana — Case Management Order 28 (time-barred case screening)",
+      "url": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Mgmt%20Order%2028.pdf"
+    },
+    {
       "name": "Southern District of Indiana — Case Management Order 34",
       "url": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Management%20Order%2034.pdf"
     },
@@ -125,8 +181,13 @@
     }
   ],
   "dataAsOf": "2026-10-11",
-  "statusVerifiedOn": "2026-09-22",
+  "statusVerifiedOn": "2026-10-23",
   "updates": [
+    {
+      "date": "2026-10-23",
+      "summary": "The court's case management order list shows a July 14, 2026 Second Amended CMO 34: three Tulip bellwether candidates, fact discovery closing December 21, 2026, and the court selecting two for trial by May 26, 2027. Reviewed court pages post no settlement track or mediation order.",
+      "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf"
+    },
     {
       "date": "2026-10-11",
       "summary": "JPML reports 6,470 pending actions in MDL-2570 on October 1, 2026, down 31 from 6,501 on September 1; 11,478 total historical actions are reported separately.",

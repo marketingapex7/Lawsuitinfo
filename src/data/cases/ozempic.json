@@ -222,8 +222,13 @@
     }
   ],
   "dataAsOf": "2026-10-11",
-  "statusVerifiedOn": "2026-10-11",
+  "statusVerifiedOn": "2026-10-23",
   "updates": [
+    {
+      "date": "2026-10-23",
+      "summary": "The public MDL-3094 orders page, checked October 23, lists the October 8 scheduling order for Rule 702 closing arguments on Cross Cutting Issues 2 and 3 but no ruling on those motions.",
+      "sourceUrl": "https://www.paed.uscourts.gov/mdl/mdl3094/orders"
+    },
     {
       "date": "2026-10-11",
       "summary": "An October 8 scheduling order sets closing arguments on the pending Rule 702 motions for Cross Cutting Issues 2 and 3 for October 13, 2026. The public orders page reviewed October 11 shows no Rule 702 ruling, bellwether trial date or settlement program.",

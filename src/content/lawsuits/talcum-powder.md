@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-diagnosis timeline with MDL-2738's posture, state filing deadlines, and the available evidence."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-10-23"
 lastReviewed: "2026-09-14"
 faqs:
   -
@@ -53,6 +53,9 @@ faqs:
   -
     question: "When will the talcum powder lawsuit be settled, and has anyone been paid?"
     answer: "J&J's July 27, 2026 proposal is conditional and does not establish a universal claimant payment date. Some plaintiffs have been paid after verdicts became final on appeal, and the separate Imerys trust pays approved claims under its own procedures. Any figure presented online as an 'average talcum powder settlement' is speculation, and no amount is guaranteed."
+  -
+    question: "What is the average settlement for a talcum powder lawsuit?"
+    answer: "There is no verified average talcum powder settlement. Johnson & Johnson's July 27, 2026 proposal is conditional and does not set a per-claimant amount, and the separate Imerys trust pays approved claims under its own procedures. Figures presented online as an average are estimates, not court-approved values."
   -
     question: "How much have talcum powder verdicts been?"
     answer: "Results have been mixed. A Missouri jury awarded about $4.69 billion in Ingham v. Johnson & Johnson (2018), later reduced to roughly $2.1 billion on appeal, with the U.S. Supreme Court declining review in 2021. Other juries have returned defense verdicts. Past verdicts do not predict any individual outcome."

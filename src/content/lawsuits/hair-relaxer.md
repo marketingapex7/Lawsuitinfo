@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare use history and diagnosis timing with MDL-3060 status and state filing deadlines."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-10-23"
 lastReviewed: "2026-09-14"
 faqs:
   -
@@ -60,8 +60,8 @@ faqs:
     question: "What proof may help a hair relaxer claim?"
     answer: "Useful records may include product brand history, salon records, purchase receipts, photos of products, witness statements, diagnosis records, pathology reports, and oncology records."
   -
-    question: "Do state deadlines matter?"
-    answer: "Yes. Filing deadlines vary by state and may depend on diagnosis date, discovery facts, product-use history, wrongful-death issues, and other facts."
+    question: "What is the hair relaxer lawsuit statute of limitations?"
+    answer: "There is no single national statute of limitations for hair relaxer lawsuits. Filing deadlines vary by state and may depend on diagnosis date, discovery facts, product-use history, wrongful-death issues, and other facts."
 ---
 
 <section id="overview">
