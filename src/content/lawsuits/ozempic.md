@@ -34,15 +34,15 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-injury timeline with MDL-3094's litigation posture, state filing deadlines, and the evidence available."
-lastUpdated: "2026-10-11"
-lastReviewed: "2026-10-11"
+lastUpdated: "2026-10-23"
+lastReviewed: "2026-10-23"
 faqs:
   -
     question: "What is the Ozempic lawsuit about?"
     answer: "Lawsuits allege that GLP-1 receptor agonist medications such as Ozempic can cause gastroparesis, ileus, bowel obstruction, and related severe gastrointestinal injuries, and that the manufacturers did not adequately warn patients and doctors about those risks. Defendants dispute the allegations."
   -
     question: "How much are Ozempic lawsuit settlements worth?"
-    answer: "The Eastern District of Pennsylvania public MDL orders reviewed October 11, 2026 do not announce a GLP-1 injury settlement program or official payout amounts. The Rule 702 proceeding concerns expert evidence, not settlement eligibility or an individual award. The August 28, 2026 order scheduled the expert-admissibility hearing for September 14–18, 2026. That hearing has ended, and an October 8 order sets closing arguments on the Rule 702 motions for October 13, 2026. This is a Rule 702 evidentiary proceeding, not a bellwether trial, and the public orders reviewed October 11 do not announce a ruling or bellwether trial date. NAION vision-loss claims are coordinated separately in MDL-3163."
+    answer: "There are no official Ozempic settlement amounts. The Eastern District of Pennsylvania's public MDL-3094 orders page, reviewed October 23, 2026, announces no GLP-1 injury settlement program, matrix, or payout figures. Per-person amounts published online are estimates, not court-approved values, and no outcome is guaranteed."
   -
     question: "Is the Ozempic lawsuit a class action?"
     answer: "No. The federal Ozempic and GLP-1 cases are consolidated as multidistrict litigation (MDL-3094), not a class action. In an MDL, each plaintiff keeps an individual claim that is coordinated for pretrial proceedings — unlike a class action, where a single outcome binds the whole class."
@@ -66,10 +66,16 @@ faqs:
     answer: "NAION (non-arteritic anterior ischemic optic neuropathy) is a sudden optic-nerve injury that can cause permanent vision loss or blindness in the affected eye. NAION claims proceed in their own federal proceeding — MDL-3163, with 247 pending actions as of October 1, 2026 — separate from the gastrointestinal-injury MDL-3094."
   -
     question: "When are the first Ozempic trials?"
-    answer: "The Eastern District of Pennsylvania public MDL orders reviewed October 11, 2026 do not announce a GLP-1 injury settlement program or official payout amounts. The Rule 702 proceeding concerns expert evidence, not settlement eligibility or an individual award. The August 28, 2026 order scheduled the expert-admissibility hearing for September 14–18, 2026. That hearing has ended, and an October 8 order sets closing arguments on the Rule 702 motions for October 13, 2026. This is a Rule 702 evidentiary proceeding, not a bellwether trial, and the public orders reviewed October 11 do not announce a ruling or bellwether trial date. NAION vision-loss claims are coordinated separately in MDL-3163."
+    answer: "No bellwether trial date had been announced as of October 23, 2026. The court held a Rule 702 expert-admissibility hearing on September 14–18, 2026, and an October 8 order set closing arguments on the Rule 702 motions for Cross Cutting Issues 2 and 3 for October 13. A Rule 702 hearing is an evidentiary proceeding, not a trial. The public orders page reviewed October 23 lists no ruling on those motions."
   -
     question: "Has there been an Ozempic settlement?"
-    answer: "The Eastern District of Pennsylvania public MDL orders reviewed October 11, 2026 do not announce a GLP-1 injury settlement program or official payout amounts. The Rule 702 proceeding concerns expert evidence, not settlement eligibility or an individual award. The August 28, 2026 order scheduled the expert-admissibility hearing for September 14–18, 2026. That hearing has ended, and an October 8 order sets closing arguments on the Rule 702 motions for October 13, 2026. This is a Rule 702 evidentiary proceeding, not a bellwether trial, and the public orders reviewed October 11 do not announce a ruling or bellwether trial date. NAION vision-loss claims are coordinated separately in MDL-3163."
+    answer: "No. As of October 23, 2026, the public MDL-3094 orders page announces no settlement program for GLP-1 gastrointestinal injury claims, and the defendants dispute the allegations."
+  -
+    question: "When will the Ozempic lawsuit be settled?"
+    answer: "No settlement date or program has been announced. As of October 23, 2026, the court was still deciding Rule 702 motions on expert evidence after closing arguments were set for October 13, and no bellwether trial date was set. Settlement timing in an MDL is not predictable from the docket, and any date offered online is speculation."
+  -
+    question: "How many Ozempic lawsuits are pending in MDL 3094?"
+    answer: "The October 1, 2026 JPML report lists 4,025 pending actions in MDL-3094, compared with 4,022 on September 1. Its 4,139 total historical actions include cases no longer pending. The next JPML report is expected in early November. A pending action is not a count of people eligible for payment."
   -
     question: "Is Ozempic recalled?"
     answer: "No. Ozempic and the other GLP-1 medications remain FDA-approved and on the market. The lawsuits are about warnings and alleged injuries, not about whether the drugs are available."
@@ -88,10 +94,10 @@ faqs:
 
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
-<h2>Ozempic / GLP-1 Lawsuit update: October 2026</h2>
-<p><strong>Rule 702 closing arguments set for October 13; no ruling yet.</strong> The Eastern District of Pennsylvania held the expert-admissibility hearing on September 14–18, 2026. An <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_6.pdf">October 8 scheduling order</a> sets closing arguments on the pending Rule 702 motions for Cross Cutting Issues 2 and 3 for the morning of October 13, replacing that day's status conference. The public MDL orders page reviewed October 11 does not announce a ruling. This is an expert-evidence proceeding, not a bellwether trial. NAION vision-loss claims are coordinated separately in MDL-3163.</p>
+<h2>Ozempic lawsuit update (GLP-1 MDL 3094): October 2026</h2>
+<p><strong>Waiting on a Rule 702 ruling; no ruling posted as of October 23.</strong> The Eastern District of Pennsylvania held the expert-admissibility hearing on September 14–18, 2026. An <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_6.pdf">October 8 scheduling order</a> sets closing arguments on the pending Rule 702 motions for Cross Cutting Issues 2 and 3 for the morning of October 13, replacing that day's status conference. The public MDL orders page reviewed October 23 lists no ruling on those motions and no bellwether trial date. This is an expert-evidence proceeding, not a bellwether trial. NAION vision-loss claims are coordinated separately in MDL-3163.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>4,025 pending actions</strong> in MDL-3094, compared with 4,022 on September 1. Its 4,139 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
-<p><a href="https://www.paed.uscourts.gov/mdl/mdl3094/orders">Official court records</a> checked October 11, 2026.</p>
+<p><a href="https://www.paed.uscourts.gov/mdl/mdl3094/orders">Official court records</a> checked October 23, 2026.</p>
 </section>
 
 <section id="ozempic-drugs-included">

@@ -77,8 +77,9 @@ const toc = [
 
 if (slug === "roundup") {
   toc.splice(3, 0, { id: "roundup-eligibility", label: "Who qualifies" });
-  toc.splice(6, 0, { id: "when-roundup-lawsuit-started", label: "When it started" });
-  toc.splice(12, 0, { id: "roundup-deadline-questions", label: "Statute of limitations" });
+  toc.splice(3, 0, { id: "king-final-approval", label: "Final approval status" });
+  toc.splice(7, 0, { id: "when-roundup-lawsuit-started", label: "When it started" });
+  toc.splice(13, 0, { id: "roundup-deadline-questions", label: "Statute of limitations" });
   const genericEligibilityIndex = toc.findIndex((item) => item.id === "eligibility");
   if (genericEligibilityIndex >= 0) toc.splice(genericEligibilityIndex, 1);
 }
@@ -165,7 +166,7 @@ const displayedToc = conciseStatusSlugs.has(slug)
 >
   <header class="max-w-3xl">
     <CaseStatusBadge status={lawsuit.data.status} />
-    <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.lawsuit}</h1>
+    <h1 class="mt-4 text-4xl font-black leading-tight tracking-normal text-ink">{lawsuit.data.lawsuit} Lawsuit Update</h1>
     <p class="mt-4 text-lg leading-8 text-muted">{lawsuit.data.description}</p>
     <p class="mt-4 rounded-lg border border-line bg-panel p-3 text-sm leading-6 text-muted">
       This guide is for general information only. It does not provide legal advice, does not create an attorney-client relationship, and case status can change.

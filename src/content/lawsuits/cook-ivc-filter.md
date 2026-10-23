@@ -1,6 +1,6 @@
 ---
 title: "Cook IVC Filter Lawsuit Guide"
-description: "Cook IVC filter lawsuit update: MDL status, filter models, complications, settlement facts, deadlines, and device records."
+description: "Cook IVC filter lawsuit update for 2026: MDL 2570 status, settlement negotiation status, Tulip bellwether schedule, filing deadlines, and device records."
 lawsuit: "Cook IVC Filter"
 urlSlug: "cook-ivc-filter"
 category: "Product Liability"
@@ -23,7 +23,7 @@ injuries:
   - "Filter tilt"
   - "Difficult or failed retrieval"
   - "Additional endovascular or surgical treatment"
-settlementStatus: "The official MDL records reviewed September 22, 2026 do not announce a global Cook IVC filter settlement program, compensation matrix, or universal payment deadline."
+settlementStatus: "The official MDL page and case management orders reviewed October 23, 2026 do not post a global Cook IVC filter settlement program, settlement track, compensation matrix, or universal payment deadline."
 timeline:
   -
     label: "Filter placement"
@@ -34,15 +34,21 @@ timeline:
   -
     label: "Individual legal review"
     detail: "Counsel must evaluate the product, claimed defect, injury, causation evidence, warnings, state law, and filing time."
-lastUpdated: "2026-10-11"
-lastReviewed: "2026-09-22"
+lastUpdated: "2026-10-23"
+lastReviewed: "2026-10-23"
 faqs:
   - question: "Is the Cook IVC filter MDL still active?"
     answer: "Yes. JPML listed MDL 2570 as active on October 1, 2026, with 6,470 pending actions before Senior Judge Richard L. Young in Indiana."
   - question: "Which IVC filters are covered by this guide?"
     answer: "This guide concerns Cook filters, including Cook Celect, Celect Platinum, and Günther Tulip products when the medical record identifies them. Bard, Cordis, Boston Scientific, and other manufacturers require separate review."
   - question: "Has the Cook IVC filter litigation settled?"
-    answer: "The official public records reviewed September 22, 2026 do not announce an MDL-wide settlement program or universal payout schedule."
+    answer: "No MDL-wide settlement had been announced in official records as of October 23, 2026. The court's MDL page and case management orders do not post a global settlement program, settlement track, or universal payout schedule."
+  - question: "What is the status of Cook IVC filter settlement negotiations?"
+    answer: "Some secondary sources describe settlement negotiations, but the Southern District of Indiana's public MDL-2570 pages reviewed October 23, 2026 post no order creating a settlement track, mediation program, or settlement conference schedule. The latest posted scheduling order, July 14, 2026 Second Amended CMO 34, covers bellwether discovery and contains no settlement terms. Private negotiations would not necessarily appear on the public docket."
+  - question: "What is the deadline to file an IVC filter lawsuit?"
+    answer: "There is no single national IVC filter lawsuit deadline. State statutes of limitation and repose control, and MDL-2570 has enforced them: Case Management Order 28 required plaintiffs' counsel to screen pending cases and dismiss time-barred claims, and set a process for Cook to seek dismissal of others. Implant date, complication or discovery date, and the governing state's law all matter."
+  - question: "When is the next Cook IVC filter trial?"
+    answer: "No trial date is set. Under the July 14, 2026 Second Amended CMO 34, fact discovery for three Günther Tulip bellwether candidates closes December 21, 2026, the court selects two for trial by May 26, 2027, and trial dates are to be set at a June 2027 conference."
   - question: "Does an adverse-event report prove a lawsuit?"
     answer: "No. An adverse-event report, retrieval recommendation, imaging finding, or complication is evidence to review; it does not by itself establish defect, causation, damages, or liability."
   - question: "What records identify an IVC filter?"
@@ -59,12 +65,13 @@ faqs:
 
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
-<h2>Cook IVC filter lawsuit: the short answer</h2>
+<h2>Cook IVC filter lawsuit update 2026: the short answer</h2>
 <ul>
-<li><strong>Current stage:</strong> Active MDL with a second Günther Tulip bellwether process and individual case administration.</li>
+<li><strong>Current stage:</strong> Active MDL. Three Günther Tulip bellwether candidates are in fact discovery, which closes December 21, 2026 under the <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf">July 14, 2026 Second Amended CMO 34</a>.</li>
+<li><strong>Next trial:</strong> None scheduled. The court is to pick two of the three cases for trial by May 26, 2027 and set dates at a June 2027 conference.</li>
 <li><strong>Pending count:</strong> 6,470 actions on the October 1, 2026 JPML report; 11,478 is the separate historical total.</li>
-<li><strong>Settlement:</strong> No MDL-wide settlement program or payment schedule was identified in reviewed official records.</li>
-<li><strong>Deadline:</strong> State law and individual facts control; the MDL schedule is not a personal filing deadline.</li>
+<li><strong>Settlement:</strong> No MDL-wide settlement program, settlement track, or payment schedule appears in the court's public MDL records reviewed October 23, 2026.</li>
+<li><strong>Deadline:</strong> State statutes of limitation and repose control, and the MDL has dismissed time-barred cases. The MDL schedule is not a personal filing deadline.</li>
 </ul>
 <p>The <a href="/mdl/2570/">MDL 2570 tracker</a> contains the count history, court assignment, dates, and sources.</p>
 </section>
@@ -72,8 +79,19 @@ faqs:
 <section id="litigation-updates">
 <h2>Verified Cook IVC filter litigation updates</h2>
 <h3>October 1, 2026: 6,470 actions pending</h3>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 6,501 pending actions and 11,478 historical actions. On August 3, the corresponding figures were 6,537 and 11,474.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 6,470 pending actions and 11,478 historical actions. On September 1, the corresponding figures were 6,501 and 11,478.</p>
 <p><strong>For readers:</strong> A pending action is not an approved claim, and the historical total is not a settlement-participant count.</p>
+<h3>July 14, 2026: Tulip bellwether schedule amended</h3>
+<p><a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf">Second Amended Case Management Order 34</a> names three Günther Tulip bellwether candidates and sets these deadlines:</p>
+<ul>
+<li>December 21, 2026: fact discovery closes</li>
+<li>January 8, 2027: plaintiffs' expert reports</li>
+<li>March 19, 2027: Cook's expert reports</li>
+<li>April 26, 2027: expert discovery closes</li>
+<li>May 26, 2027: court selects two of the three cases for trial</li>
+<li>June 2027: conference to set trial dates</li>
+</ul>
+<p><strong>For readers:</strong> No trial date is set, and the order contains no settlement or mediation terms.</p>
 <h3>June 26, 2025: second Tulip bellwether plan</h3>
 <p><a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Management%20Order%2034.pdf">Case Management Order 34</a> created a pool of eligible Günther Tulip cases and a selection process for future trial dates. The order says the court sought further progress because a Tulip case had not yet been tried.</p>
 <p><strong>For readers:</strong> A bellwether plan schedules representative case work; it does not decide the outcome or value of every case.</p>
@@ -100,8 +118,9 @@ faqs:
 </section>
 
 <section id="settlement-status">
-<h2>Cook IVC filter settlements and verdicts</h2>
-<p>The <a href="https://www.insd.uscourts.gov/node/432">official MDL page</a> and reviewed orders do not announce an MDL-wide settlement program, universal compensation matrix, or payment deadline. A settlement or verdict in one case depends on that case's proof and does not establish a standard payment for others.</p>
+<h2>Cook IVC filter settlement update: is there a settlement track?</h2>
+<p>The <a href="https://www.insd.uscourts.gov/node/432">official MDL page</a> and the court's <a href="https://www.insd.uscourts.gov/cook-mdl-case-management">case management order list</a>, reviewed October 23, 2026, do not post an MDL-wide settlement program, settlement track, mediation order, universal compensation matrix, or payment deadline. The most recent posted schedule, the July 2026 Second Amended CMO 34, is a bellwether discovery plan with no settlement terms.</p>
+<p>Some law-firm and news sites describe ongoing settlement negotiations. Private negotiations would not necessarily appear on the court's public pages, so the absence of a posted order does not mean no talks are happening. It does mean there is no court-announced program, matrix, or claim deadline to rely on. A settlement or verdict in one case depends on that case's proof and does not establish a standard payment for others.</p>
 </section>
 
 <section id="records">
@@ -118,8 +137,9 @@ faqs:
 
 <section id="cook-ivc-filter-deadlines">
 <span id="state-law"></span>
-<h2>What is the deadline to file?</h2>
-<p>There is no single national deadline for every Cook IVC filter claim. State statutes of limitation and repose, implant and diagnosis dates, discovery facts, product identification, and prior filings can change the time available. MDL orders apply to particular filed cases and do not calculate a new claimant's deadline.</p>
+<h2>IVC filter lawsuit deadline: statute of limitations and repose</h2>
+<p>There is no single national deadline for every Cook IVC filter claim. State statutes of limitation and repose, implant and complication dates, discovery facts, product identification, and prior filings can change the time available. MDL orders apply to particular filed cases and do not calculate a new claimant's deadline.</p>
+<p>Deadlines have been enforced in this MDL. After earlier rulings on limitations and repose, the court entered <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Mgmt%20Order%2028.pdf">Case Management Order 28</a> in October 2020. It required plaintiffs' counsel to screen pending cases and voluntarily dismiss those barred by the statute of limitations or repose, and it created a short-motion process for Cook to seek dismissal of other cases it considered time-barred. Because Cook filters have been in litigation since 2014, the date a person learned of a complication, and the state whose law applies, can decide whether a claim is timely. A licensed attorney must make that determination.</p>
 </section>
 
 <section id="lawyer-questions">
@@ -135,5 +155,5 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Official sources and scope notes</h2>
-<p>This guide uses the JPML's September 2026 statistics and transfer order, the <a href="https://www.insd.uscourts.gov/node/432">Southern District of Indiana MDL page</a>, Case Management Order 34, and <a href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pss.cfm?t_id=303">FDA postmarket study records</a>. It summarizes disputed litigation and does not give medical advice or determine whether a filter should be removed.</p>
+<p>This guide uses the JPML's October 2026 statistics and transfer order, the <a href="https://www.insd.uscourts.gov/node/432">Southern District of Indiana MDL page</a> and <a href="https://www.insd.uscourts.gov/cook-mdl-case-management">case management order list</a> (reviewed October 23, 2026), Case Management Orders 28 and 34 including the <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf">July 2026 Second Amended CMO 34</a>, and <a href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pss.cfm?t_id=303">FDA postmarket study records</a>. It summarizes disputed litigation and does not give medical advice or determine whether a filter should be removed.</p>
 </section>

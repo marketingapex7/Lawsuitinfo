@@ -162,13 +162,17 @@ export function lawsuitSeoTitle(lawsuit: string) {
     "Ozempic / GLP-1": "Ozempic Lawsuit Update 2026: MDL 3094 Status",
     "Paragard IUD": "Paragard Lawsuit Update 2026: MDL 2974",
     "Paraquat Parkinson's": "Paraquat Lawsuit Update 2026: MDL 3004",
-    "Roundup Cancer": "Roundup Lawsuit Update 2026: Settlement",
+    "Roundup Cancer": "Roundup Lawsuit & Settlement Update 2026",
     "Social Media Addiction": "Social Media Lawsuit Update 2026",
     "Suboxone Tooth Decay": "Suboxone Lawsuit Update 2026: MDL 3092",
     "Talcum Powder": "Talcum Powder Lawsuit Update 2026",
     "Uber Sexual Assault": "Uber Sexual Assault Lawsuit Update 2026: MDL 3084",
     "Lyft Sexual Assault": "Lyft Sexual Assault Lawsuit Update 2026: MDL 3171",
-    "Roblox Child Exploitation": "Roblox Lawsuit Update 2026: MDL 3166 Status"
+    "Roblox Child Exploitation": "Roblox Lawsuit Update 2026: MDL 3166 Status",
+    "Cook IVC Filter": "Cook IVC Filter Lawsuit Update 2026: Settlement & Deadline",
+    "Exactech Implant": "Exactech Lawsuit Update 2026: Settlement Trust Status",
+    "Bair Hugger": "Bair Hugger Lawsuit Update 2026",
+    "NEC Baby Formula": "NEC Baby Formula Lawsuit Update 2026"
   };
   return titles[lawsuit] ?? `${shortLawsuitName(lawsuit)} Lawsuit: Status & Deadlines`;
 }
@@ -233,6 +237,10 @@ export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string, l
       `${period} Camp Lejeune update: closed filing deadline, Elective Option payouts, pending claims, settlement status, and state guides.`,
     "Depo-Provera":
       `${period} Depo-Provera lawsuit update: meningioma MDL status, expert hearing dates, trial schedule, records, deadlines, and state guides.`,
+    "Cook IVC Filter":
+      `${period} Cook IVC filter lawsuit update: MDL 2570 case count, settlement status, Tulip bellwether schedule, filing deadlines, and device records.`,
+    "Exactech Implant":
+      `${period} Exactech lawsuit update: MDL 3044 case count, Settlement Trust status, recall scope, implant records, and deadline questions.`,
     "Hair Relaxer":
       `${period} hair relaxer lawsuit update: MDL-3060 status, uterine and ovarian cancer claims, records, settlement posture, and deadlines.`,
     "Ozempic / GLP-1":
@@ -242,7 +250,7 @@ export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string, l
     "Paraquat Parkinson's":
       `${period} Paraquat lawsuit update: Parkinson's MDL status, confidential settlement administration, exposure proof, deadlines, and state pages.`,
     "Roundup Cancer":
-      `${period} Roundup lawsuit update: August settlement hearing, Durnell preemption ruling, MDL status, deadlines, and state guides.`,
+      `${period} Roundup lawsuit and settlement update: King v. Monsanto final approval status, claim deadlines, MDL 2741 pending cases, and state guides.`,
     "Social Media Addiction":
       `${period} social media addiction lawsuit update: MDL 3047 status, teen mental-health claims, bellwether trials, eligibility, and state guides.`,
     "Suboxone Tooth Decay":
