@@ -35,8 +35,14 @@ const related = (await getCollection("lawsuits"))
   .filter((item) => entrySlug(item) !== slug)
   .sort((a, b) => Number(b.data.category === lawsuit.data.category) - Number(a.data.category === lawsuit.data.category))
   .slice(0, 4);
-const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit);
-const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated);
+const primaryMdlDigits = caseData?.litigation.mdlNumber?.replace(/\D/g, "");
+const latestPendingCount = primaryMdlDigits
+  ? [...(caseData?.pendingCounts ?? [])]
+      .filter((entry) => entry.scope.replace(/\D/g, " ").split(/\s+/).includes(primaryMdlDigits))
+      .sort((a, b) => b.date.localeCompare(a.date))[0]?.count
+  : undefined;
+const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit, { lastUpdated: lawsuit.data.lastUpdated, latestPendingCount });
+const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated, latestPendingCount);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
 const contentSettlementSlugs = new Set(["afff-pfas", "paragard", "social-media", "suboxone"]);
 const conciseStatusSlugs = new Set(["afff-pfas", "ozempic"]);
@@ -82,6 +88,7 @@ if (slug === "roundup") {
   toc.splice(13, 0, { id: "roundup-deadline-questions", label: "Statute of limitations" });
   const genericEligibilityIndex = toc.findIndex((item) => item.id === "eligibility");
   if (genericEligibilityIndex >= 0) toc.splice(genericEligibilityIndex, 1);
+  toc.splice(1, 0, { id: "roundup-quick-answers", label: "Quick answers" });
 }
 
 if (slug === "paraquat") {

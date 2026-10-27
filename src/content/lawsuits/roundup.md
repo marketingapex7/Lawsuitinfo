@@ -1,6 +1,6 @@
 ---
 title: "Roundup Cancer Lawsuit Guide"
-description: "Roundup lawsuit and settlement update: King v. Monsanto final approval status, claim deadlines, MDL 2741 case count, and state resources."
+description: "As of October 23, 2026, the proposed $7.25 billion King v. Monsanto Roundup settlement is still awaiting final approval. The opt-out deadline has passed, and claim registration opens only after approval."
 lawsuit: "Roundup Cancer"
 urlSlug: "roundup"
 category: "Toxic Exposure"
@@ -81,6 +81,17 @@ faqs:
     question: "Is a settlement guaranteed?"
     answer: "No. Settlement status and outcomes vary."
 ---
+
+<section id="roundup-quick-answers">
+<h2>Roundup lawsuit status: quick answers (October 2026)</h2>
+<ul>
+<li><strong>Lawsuit status:</strong> The proposed $7.25 billion <em>King v. Monsanto</em> class settlement is awaiting the court's final approval decision. The fairness hearing was held September 14, 2026, and the <a href="https://www.weedkillerclass.com/Home/FAQs">settlement administrator</a> says the timing of a decision is unknown (checked October 23, 2026).</li>
+<li><strong>Settlement update:</strong> No final approval order had been posted as of October 23. Payments cannot begin until approval, any appeals and claim review are complete. <a href="#king-final-approval">What final approval would start</a>.</li>
+<li><strong>Deadlines:</strong> The June 4, 2026 objection and opt-out deadline has passed. Settlement registration has not opened. Deadlines for individual lawsuits depend on state law. <a href="#roundup-deadline-questions">Deadline details</a>.</li>
+<li><strong>Claims:</strong> Settlement claims go through the court-appointed administrator at <a href="https://www.weedkillerclass.com/">WeedKillerClass.com</a>, not this site.</li>
+<li><strong>Federal MDL and trials:</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1 JPML report</a> lists 1,104 pending actions in MDL-2741. A St. Louis state-court trial for three plaintiffs outside the settlement opened September 29. Monsanto disputes the claims.</li>
+</ul>
+</section>
 
 <section id="overview">
 <h2>What the Roundup Cancer lawsuit is about</h2>

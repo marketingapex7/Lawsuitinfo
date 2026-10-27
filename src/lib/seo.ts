@@ -151,7 +151,46 @@ export function composeTitle(core: string): string {
   return branded.length <= 62 ? branded : core;
 }
 
-export function lawsuitSeoTitle(lawsuit: string) {
+function shortMonthYear(date?: string) {
+  if (!date) return "2026";
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    year: "numeric",
+    timeZone: "UTC"
+  }).format(new Date(`${date}T00:00:00Z`));
+}
+
+export type LawsuitSeoContext = {
+  // Page frontmatter lastUpdated (YYYY-MM-DD); drives the month shown in titles.
+  lastUpdated?: string;
+  // Latest JPML pending-action count for the page's primary MDL.
+  latestPendingCount?: number;
+};
+
+// Search Console (Oct 2026) showed these pages earning page-1 impressions with
+// near-zero CTR. Their titles lead with the dated status answer instead of the
+// generic "Lawsuit Update 2026" pattern. Month and case counts are derived from
+// content/case data so they move with each verified refresh.
+function ctrTitle(lawsuit: string, context: LawsuitSeoContext): string | undefined {
+  const period = shortMonthYear(context.lastUpdated);
+  const count = context.latestPendingCount?.toLocaleString("en-US");
+  switch (lawsuit) {
+    case "Roundup Cancer":
+      return `Roundup Lawsuit Update (${period}): $7.25B Settlement Status`;
+    case "Ozempic / GLP-1":
+      return count
+        ? `Ozempic Lawsuit Update (${period}): ${count} Federal Cases`
+        : `Ozempic Lawsuit Update (${period}): MDL 3094 Status`;
+    case "Bard Hernia Mesh":
+      return `Hernia Mesh Lawsuit Update (${period}): Bard Settlement Status`;
+    default:
+      return undefined;
+  }
+}
+
+export function lawsuitSeoTitle(lawsuit: string, context: LawsuitSeoContext = {}) {
+  const dated = ctrTitle(lawsuit, context);
+  if (dated) return dated;
   const titles: Record<string, string> = {
     "AFFF Firefighting Foam": "AFFF Lawsuit Update 2026: MDL 2873 Status",
     "Bard Hernia Mesh": "Hernia Mesh Lawsuit Update 2026",
@@ -224,8 +263,38 @@ function monthYear(date?: string) {
   }).format(new Date(`${date}T00:00:00Z`));
 }
 
-export function lawsuitMetaDescription(lawsuit: string, primaryInjury: string, lastUpdated?: string) {
+// Answer-first snippets for the low-CTR pages (see ctrTitle). These state the
+// current status, so update them whenever the status they describe changes.
+function ctrMetaDescription(lawsuit: string, period: string, count?: string): string | undefined {
+  switch (lawsuit) {
+    case "Roundup Cancer":
+      return `Updated ${period}: the $7.25B King v. Monsanto Roundup settlement still awaits final approval. Opt-out deadline passed; claims open after approval.`;
+    case "Ozempic / GLP-1":
+      return count
+        ? `Updated ${period}: ${count} Ozempic and GLP-1 cases are pending in MDL 3094. The judge is weighing expert-evidence motions; no settlement announced.`
+        : undefined;
+    case "Bard Hernia Mesh":
+      return count
+        ? `Updated ${period}: ${count} Bard hernia mesh cases pending in MDL 2846. A settlement fund is set up; a process for unresolved claims starts Jan. 2027.`
+        : undefined;
+    default:
+      return undefined;
+  }
+}
+
+export function lawsuitMetaDescription(
+  lawsuit: string,
+  primaryInjury: string,
+  lastUpdated?: string,
+  latestPendingCount?: number
+) {
   const period = monthYear(lastUpdated);
+  const answerFirst = ctrMetaDescription(lawsuit, period, latestPendingCount?.toLocaleString("en-US"));
+  if (answerFirst) {
+    return answerFirst.length > META_MAX
+      ? `${answerFirst.slice(0, META_MAX - 3).replace(/\s+\S*$/, "").replace(/[,:;]\s*$/, "")}.`
+      : answerFirst;
+  }
   const descriptions: Record<string, string> = {
     "AFFF Firefighting Foam":
       `${period} AFFF lawsuit update: MDL 2873 status, PFAS claims, water-system settlements, personal-injury deadlines, and state pages.`,
