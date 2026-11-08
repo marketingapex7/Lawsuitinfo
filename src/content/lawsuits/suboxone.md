@@ -58,7 +58,7 @@ faqs:
 
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
-<h2>Suboxone lawsuit: the short answer</h2>
+<h2>Suboxone tooth decay lawsuit update: the short answer</h2>
 <ul>
 <li><strong>Current stage:</strong> Core discovery and provider depositions under the court's bellwether process.</li>
 <li><strong>Settlement:</strong> No dental-injury settlement program or payout schedule announced in the public court records reviewed September 14, 2026.</li>
@@ -72,7 +72,7 @@ faqs:
 <span id="timeline"></span>
 <h2>Verified litigation updates: what they mean</h2>
 <h3>October 1, 2026: 2,022 pending actions</h3>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 1,827 pending actions, unchanged from August 3. The 2,112 historical total includes actions no longer pending.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 2,022 pending actions, up 195 from 1,827 on September 1. The 2,112 historical total includes actions no longer pending.</p>
 <p><strong>For readers:</strong> These figures describe the federal docket. They do not count approved claims or people entitled to payment, and an unchanged total does not mean court work stopped.</p>
 <h3>July 16, 2026: provider-deposition order</h3>
 <p><a href="https://www.ohnd.uscourts.gov/sites/ohnd/files/Doc%20%23797.pdf">CMO 23</a> governs provider depositions in the core discovery pool.</p>

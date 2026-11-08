@@ -124,6 +124,12 @@ if (slug === "camp-lejeune") {
   toc.splice(16, 0, { id: "camp-lejeune-pending-claims", label: "Pending claims" });
 }
 
+if (slug === "cook-ivc-filter" || slug === "exactech") {
+  const prefix = slug === "exactech" ? "exactech" : "cook-ivc-filter";
+  toc.splice(2, 0, { id: `${prefix}-deadlines`, label: "Filing deadline questions" });
+  toc.splice(3, 0, { id: "settlement-status", label: "Settlement status explained" });
+}
+
 if (slug === "suboxone") {
   toc.splice(0, toc.length,
     { id: "current-status", label: "Current status" },
@@ -159,7 +165,7 @@ if (slug === "talcum-powder") {
 }
 const displayedToc = conciseStatusSlugs.has(slug)
   ? toc.filter(({ id }) => id !== "case-status-snapshot" && id !== "status" && (slug !== "afff-pfas" || id !== "afff-settlement-status"))
-  : toc;
+  : toc.filter(({ id }) => slug !== "paraquat" || id !== "status");
 ---
 
 <GuideLayout

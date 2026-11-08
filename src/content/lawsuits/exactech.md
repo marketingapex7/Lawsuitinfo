@@ -64,6 +64,7 @@ faqs:
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
 <h2>Exactech lawsuit update 2026: the short answer</h2>
+<p>The key distinction is between the federal MDL and the bankruptcy Settlement Trust. <a href="#settlement-status">Read what the trust process means</a>, <a href="#exactech-deadlines">which deadline questions need review</a>, and <a href="/lawsuits/exactech/recall-records/">how to identify your implant</a>. An MDL case count does not establish trust eligibility or payment.</p>
 <ul>
 <li><strong>MDL count:</strong> 1,838 pending actions on the October 1, 2026 JPML report.</li>
 <li><strong>Bankruptcy status:</strong> A September 2025 confirmation order created a Settlement Trust and post-confirmation claim process.</li>

@@ -82,7 +82,7 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Paraquat Parkinson's Lawsuit update</h2>
+<h2>Paraquat lawsuit update: settlement administration and opt-out cases</h2>
 <p><strong>Settlement administration and selected opt-out proceedings.</strong> The court continues to administer the confidential agreement for certain individual paraquat claims identified in CMO 24. June orders selected opt-out cases for limited discovery. A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>6,602 pending actions</strong> in MDL-3004, compared with 6,666 on September 1. Its 8,495 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
 <p><a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">Official court records</a> checked September 16, 2026.</p>
@@ -143,11 +143,7 @@ faqs:
 <p>A signed settlement program does not mean every claim qualifies or that any amount is guaranteed. New cases continue to be filed and transferred into the MDL, and individual eligibility remains fact-specific.</p>
 </section>
 
-<section id="status">
-<h2>Current status</h2>
-<p>The court continues to administer the confidential agreement for certain individual paraquat claims identified in CMO 24. June orders selected opt-out cases for limited discovery. A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases.</p>
-<p>CMO 24 identifies a confidential Master Settlement Agreement executed September 3, 2025 for certain individual claims. The special master reviews qualification, eligibility and opt-out information. Public orders checked September 14, 2026 do not disclose a payout grid, settlement total or average individual award. A pending MDL action does not by itself establish settlement eligibility.</p>
-</section>
+<span id="status"></span>
 
 <section id="key-issues">
 <h2>Key issues in the lawsuit</h2>

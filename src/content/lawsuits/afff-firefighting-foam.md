@@ -84,7 +84,8 @@ faqs:
 
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
-<h2>AFFF Firefighting Foam (PFAS) Lawsuit update</h2>
+<h2>AFFF lawsuit update: injury claims and water-system settlements</h2>
+<p>Looking for settlement information? The <a href="/lawsuits/afff-pfas/settlement/">AFFF settlement guide</a> separates public-water-system programs from individual injury claims. For a possible injury claim, start with <a href="#afff-qualifications">exposure and diagnosis factors</a> and <a href="#afff-deadlines">deadline considerations</a>.</p>
 <p><strong>Personal-injury discovery; water-system settlement administration.</strong> The July 30, 2026 CMO 26O moves Group B selection and expert-discovery proposals to November 20, 2026. The August 31 CMO 33F sets thyroid/liver-cancer Rule 702 response and reply deadlines for November 20, 2026 and January 22, 2027. These expert proceedings are separate from the four finally approved public-water-system settlements.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>15,264 pending actions</strong> in MDL-2873, compared with 15,264 on September 1. Its 19,840 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
 <p><a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">Official court records</a> checked September 14, 2026.</p>

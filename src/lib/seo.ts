@@ -307,9 +307,9 @@ export function lawsuitMetaDescription(
     "Depo-Provera":
       `${period} Depo-Provera lawsuit update: meningioma MDL status, expert hearing dates, trial schedule, records, deadlines, and state guides.`,
     "Cook IVC Filter":
-      `${period} Cook IVC filter lawsuit update: MDL 2570 case count, settlement status, Tulip bellwether schedule, filing deadlines, and device records.`,
+      `No single IVC filter lawsuit deadline applies nationwide. Review Cook MDL 2570 updates, state filing-time factors, settlement status, and records to gather.`,
     "Exactech Implant":
-      `${period} Exactech lawsuit update: MDL 3044 case count, Settlement Trust status, recall scope, implant records, and deadline questions.`,
+      `Exactech lawsuit update: understand the bankruptcy Settlement Trust, MDL 3044 case count, implant recall records, payment limits, and deadline questions.`,
     "Hair Relaxer":
       `${period} hair relaxer lawsuit update: MDL-3060 status, uterine and ovarian cancer claims, records, settlement posture, and deadlines.`,
     "Ozempic / GLP-1":
