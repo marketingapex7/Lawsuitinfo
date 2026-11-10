@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "test:tracking": "node --test tests/tracking.test.mjs",
     "dev": "astro dev --host 127.0.0.1",
     "build": "npm run validate:content && npm run validate:status-database && npm run validate:freshness && npm run validate:dataforseo && astro build && npm run validate:priority-pages && npm run validate:links && npm run validate:wave-one",
     "preview": "astro preview --host 127.0.0.1",

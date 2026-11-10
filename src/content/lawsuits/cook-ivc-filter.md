@@ -149,8 +149,8 @@ faqs:
 <section id="cook-ivc-filter-deadlines">
 <span id="state-law"></span>
 <h2>IVC filter lawsuit deadline: statute of limitations and repose</h2>
+<p><strong>There is no single national deadline for every Cook IVC filter claim.</strong> State statutes of limitation and repose, implant and complication dates, discovery facts, product identification, and prior filings can change the time available. MDL orders apply to particular filed cases and do not calculate a new claimant's deadline.</p>
 <p>For a deadline review, gather the implant date, first documented complication, when you learned of that complication, retrieval or revision dates, states where treatment occurred, and any prior lawsuit or claim paperwork. An attorney needs the complete chronology to assess which law applies.</p>
-<p>There is no single national deadline for every Cook IVC filter claim. State statutes of limitation and repose, implant and complication dates, discovery facts, product identification, and prior filings can change the time available. MDL orders apply to particular filed cases and do not calculate a new claimant's deadline.</p>
 <p>Deadlines have been enforced in this MDL. After earlier rulings on limitations and repose, the court entered <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%20Case%20Mgmt%20Order%2028.pdf">Case Management Order 28</a> in October 2020. It required plaintiffs' counsel to screen pending cases and voluntarily dismiss those barred by the statute of limitations or repose, and it created a short-motion process for Cook to seek dismissal of other cases it considered time-barred. Because Cook filters have been in litigation since 2014, the date a person learned of a complication, and the state whose law applies, can decide whether a claim is timely. A licensed attorney must make that determination.</p>
 </section>
 
