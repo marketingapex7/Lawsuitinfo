@@ -23,7 +23,7 @@ injuries:
   - "Filter tilt"
   - "Difficult or failed retrieval"
   - "Additional endovascular or surgical treatment"
-settlementStatus: "The official MDL page and case management orders reviewed October 23, 2026 do not post a global Cook IVC filter settlement program, settlement track, compensation matrix, or universal payment deadline."
+settlementStatus: "The official MDL page and case management orders reviewed November 10, 2026 do not post a global Cook IVC filter settlement program, settlement track, compensation matrix, or universal payment deadline."
 timeline:
   -
     label: "Filter placement"
@@ -34,17 +34,19 @@ timeline:
   -
     label: "Individual legal review"
     detail: "Counsel must evaluate the product, claimed defect, injury, causation evidence, warnings, state law, and filing time."
-lastUpdated: "2026-10-23"
+lastUpdated: "2026-11-10"
 lastReviewed: "2026-10-23"
 faqs:
+  - question: "How can I track Cook IVC filter settlement negotiation status?"
+    answer: "Check the Southern District of Indiana MDL-2570 case page and case-management orders, then use the PACER docket 1:14-ml-2570-RLY-TAB for filed records. Ask counsel about private negotiations or an individual case. A scheduled bellwether discovery deadline is not proof of a settlement or a payment date."
   - question: "Is the Cook IVC filter MDL still active?"
-    answer: "Yes. JPML listed MDL 2570 as active on October 1, 2026, with 6,470 pending actions before Senior Judge Richard L. Young in Indiana."
+    answer: "Yes. The November 2, 2026 JPML report lists MDL-2570 as active, with 6,467 pending actions before Senior Judge Richard L. Young in Indiana."
   - question: "Which IVC filters are covered by this guide?"
     answer: "This guide concerns Cook filters, including Cook Celect, Celect Platinum, and Günther Tulip products when the medical record identifies them. Bard, Cordis, Boston Scientific, and other manufacturers require separate review."
   - question: "Has the Cook IVC filter litigation settled?"
-    answer: "No MDL-wide settlement had been announced in official records as of October 23, 2026. The court's MDL page and case management orders do not post a global settlement program, settlement track, or universal payout schedule."
+    answer: "No MDL-wide settlement had been announced in official records as of November 10, 2026. The court's MDL page and case management orders do not post a global settlement program, settlement track, or universal payout schedule."
   - question: "What is the status of Cook IVC filter settlement negotiations?"
-    answer: "Some secondary sources describe settlement negotiations, but the Southern District of Indiana's public MDL-2570 pages reviewed October 23, 2026 post no order creating a settlement track, mediation program, or settlement conference schedule. The latest posted scheduling order, July 14, 2026 Second Amended CMO 34, covers bellwether discovery and contains no settlement terms. Private negotiations would not necessarily appear on the public docket."
+    answer: "As of November 10, 2026, the public MDL-2570 case page and case-management order list do not post an MDL-wide settlement track or payment program. Second Amended CMO 34 is a bellwether discovery schedule, not a settlement agreement. Public pages do not establish the status of private negotiations."
   - question: "What is the deadline to file an IVC filter lawsuit?"
     answer: "There is no single national IVC filter lawsuit deadline. State statutes of limitation and repose control, and MDL-2570 has enforced them: Case Management Order 28 required plaintiffs' counsel to screen pending cases and dismiss time-barred claims, and set a process for Cook to seek dismissal of others. Implant date, complication or discovery date, and the governing state's law all matter."
   - question: "When is the next Cook IVC filter trial?"
@@ -69,8 +71,8 @@ faqs:
 <ul>
 <li><strong>Current stage:</strong> Active MDL. Three Günther Tulip bellwether candidates are in fact discovery, which closes December 21, 2026 under the <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf">July 14, 2026 Second Amended CMO 34</a>.</li>
 <li><strong>Next trial:</strong> None scheduled. The court is to pick two of the three cases for trial by May 26, 2027 and set dates at a June 2027 conference.</li>
-<li><strong>Pending count:</strong> 6,470 actions on the October 1, 2026 JPML report; 11,478 is the separate historical total.</li>
-<li><strong>Settlement:</strong> No MDL-wide settlement program, settlement track, or payment schedule appears in the court's public MDL records reviewed October 23, 2026.</li>
+<li><strong>Pending count:</strong> <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">6,467 actions on November 2, 2026</a>, down from 6,470 on October 1; 11,478 is the separate historical total.</li>
+<li><strong>Settlement:</strong> No MDL-wide settlement program, settlement track, or payment schedule appears in the court's public MDL records reviewed November 10, 2026.</li>
 <li><strong>IVC filter lawsuit deadline:</strong> There is no single national filing date. State statutes of limitation and repose control. <a href="#cook-ivc-filter-deadlines">See the deadline explanation and dates to gather</a>; the MDL schedule is not a personal filing deadline.</li>
 </ul>
 <p>The <a href="/mdl/2570/">MDL 2570 tracker</a> contains the count history, court assignment, dates, and sources.</p>
@@ -78,6 +80,8 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified Cook IVC filter litigation updates</h2>
+<h3>November 2, 2026: 6,467 actions pending</h3>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a> lists 6,467 pending actions, down 3 from October 1, and a separate historical total of 11,478. These are action counts, not approved claim or payment counts.</p>
 <h3>October 1, 2026: 6,470 actions pending</h3>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 6,470 pending actions and 11,478 historical actions. On September 1, the corresponding figures were 6,501 and 11,478.</p>
 <p><strong>For readers:</strong> A pending action is not an approved claim, and the historical total is not a settlement-participant count.</p>
@@ -118,9 +122,16 @@ faqs:
 </section>
 
 <section id="settlement-status">
-<h2>Cook IVC filter settlement update: is there a settlement track?</h2>
-<p>The <a href="https://www.insd.uscourts.gov/node/432">official MDL page</a> and the court's <a href="https://www.insd.uscourts.gov/cook-mdl-case-management">case management order list</a>, reviewed October 23, 2026, do not post an MDL-wide settlement program, settlement track, mediation order, universal compensation matrix, or payment deadline. The most recent posted schedule, the July 2026 Second Amended CMO 34, is a bellwether discovery plan with no settlement terms.</p>
-<p>Some law-firm and news sites describe ongoing settlement negotiations. Private negotiations would not necessarily appear on the court's public pages, so the absence of a posted order does not mean no talks are happening. It does mean there is no court-announced program, matrix, or claim deadline to rely on. A settlement or verdict in one case depends on that case's proof and does not establish a standard payment for others.</p>
+<h2>Cook IVC filter settlement negotiation status: how to track it</h2>
+<p><strong>The public MDL-2570 pages reviewed November 10, 2026 do not announce an MDL-wide settlement track or payment program.</strong> The <a href="https://www.insd.uscourts.gov/node/432">official case page</a> and <a href="https://www.insd.uscourts.gov/cook-mdl-case-management">case-management order list</a> continue to identify a bellwether discovery process. That process is not a settlement agreement.</p>
+<p>A bellwether discovery schedule does not by itself establish the status of settlement negotiations. The <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf">July 14, 2026 Second Amended CMO 34</a> sets fact discovery to close December 21, 2026 and case selection by May 26, 2027; it does not announce settlement terms. A trial date is to be set later under that schedule.</p>
+<h3 id="track-cook-settlement-negotiations">Where to check for an actual change</h3>
+<ol>
+<li><strong>Public MDL pages:</strong> Check the court's case page and order list for a dated settlement, mediation or case-management order.</li>
+<li><strong>Filed docket records:</strong> The court's <a href="https://www.insd.uscourts.gov/mdl-orders">selected-order search</a> links to PACER case 1:14-ml-2570-RLY-TAB for the full filed record. The public website is not a complete live docket.</li>
+<li><strong>An individual case:</strong> Ask counsel about private negotiations, an offer, a release or a payment schedule. Those details may not appear on the public pages.</li>
+</ol>
+<p>Check what a document covers: bellwether preparation, private talks, an individual agreement and an MDL-wide program describe different stages. A verdict or settlement in one case does not set a universal payment amount, and silence on a public page does not prove that no private talks are occurring.</p>
 </section>
 
 <section id="records">
@@ -156,5 +167,5 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Official sources and scope notes</h2>
-<p>This guide uses the JPML's October 2026 statistics and transfer order, the <a href="https://www.insd.uscourts.gov/node/432">Southern District of Indiana MDL page</a> and <a href="https://www.insd.uscourts.gov/cook-mdl-case-management">case management order list</a> (reviewed October 23, 2026), Case Management Orders 28 and 34 including the <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf">July 2026 Second Amended CMO 34</a>, and <a href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pss.cfm?t_id=303">FDA postmarket study records</a>. It summarizes disputed litigation and does not give medical advice or determine whether a filter should be removed.</p>
+<p>This guide uses the JPML's <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 statistics</a> and transfer order, the <a href="https://www.insd.uscourts.gov/node/432">Southern District of Indiana MDL page</a> and <a href="https://www.insd.uscourts.gov/cook-mdl-case-management">case management order list</a> (reviewed November 10, 2026), Case Management Orders 28 and 34 including the <a href="https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf">July 2026 Second Amended CMO 34</a>, and <a href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pss.cfm?t_id=303">FDA postmarket study records</a>. It summarizes disputed litigation and does not give medical advice or determine whether a filter should be removed.</p>
 </section>

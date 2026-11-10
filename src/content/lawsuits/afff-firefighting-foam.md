@@ -22,7 +22,7 @@ injuries:
   - "Thyroid disease"
   - "Ulcerative colitis"
   - "PFAS exposure-related claims"
-settlementStatus: "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
+settlementStatus: "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
 timeline:
   -
     label: "Product use or exposure"
@@ -33,12 +33,12 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-11-10"
 lastReviewed: "2026-09-14"
 faqs:
   -
     question: "How much are firefighting foam (AFFF) settlements worth?"
-    answer: "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
+    answer: "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
   -
     question: "Is the AFFF lawsuit a class action?"
     answer: "The personal-injury cases are coordinated as multidistrict litigation (MDL-2873), where each plaintiff keeps an individual claim. The separate public water-system settlements resolved class-style claims for water utilities — not individuals' injury claims."
@@ -62,7 +62,7 @@ faqs:
     answer: "Possible claim review may involve firefighters, military personnel, airport workers, industrial workers, or residents with documented AFFF or PFAS exposure and a diagnosis being reviewed in the litigation."
   -
     question: "What is the AFFF lawsuit settlement status?"
-    answer: "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
+    answer: "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
   -
     question: "What PFAS exposure records may matter?"
     answer: "Fire department records, military records, airport or industrial employment records, training logs, incident reports, foam-use records, water testing records, address history, and medical records may be relevant."
@@ -71,7 +71,7 @@ faqs:
     answer: "Defendants may dispute exposure, causation, warnings, liability, and damages."
   -
     question: "Is there a guaranteed settlement?"
-    answer: "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
+    answer: "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule."
   -
     question: "Can state law still matter?"
     answer: "Yes. Deadlines and claim evaluation may depend on state law even when cases are coordinated nationally."
@@ -84,11 +84,12 @@ faqs:
 
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
-<h2>AFFF lawsuit update: injury claims and water-system settlements</h2>
-<p>Looking for settlement information? The <a href="/lawsuits/afff-pfas/settlement/">AFFF settlement guide</a> separates public-water-system programs from individual injury claims. For a possible injury claim, start with <a href="#afff-qualifications">exposure and diagnosis factors</a> and <a href="#afff-deadlines">deadline considerations</a>.</p>
-<p><strong>Personal-injury discovery; water-system settlement administration.</strong> The July 30, 2026 CMO 26O moves Group B selection and expert-discovery proposals to November 20, 2026. The August 31 CMO 33F sets thyroid/liver-cancer Rule 702 response and reply deadlines for November 20, 2026 and January 22, 2027. These expert proceedings are separate from the four finally approved public-water-system settlements.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>15,264 pending actions</strong> in MDL-2873, compared with 15,264 on September 1. Its 19,840 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
-<p><a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">Official court records</a> checked September 14, 2026.</p>
+<h2>AFFF lawsuit update: November 2026 status</h2>
+<p><strong>Personal-injury discovery continues; four additional water-system settlements await final approval.</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> lists <strong>15,270 pending actions</strong> in MDL-2873, up from 15,264 on October 1. The separate historical total is 19,846 actions, not a count of people eligible for payment.</p>
+<p>CMO 26O sets Group B case-selection and expert-discovery proposals for November 20, 2026. CMO 33F sets thyroid/liver-cancer expert-motion responses for November 20 and replies for January 22, 2027. These are discovery and briefing deadlines, not trial dates. <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf">CMO 26O</a>; <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf">CMO 33F</a>.</p>
+<p>The <a href="https://www.pfaswatersettlement.com/">official administrator</a> lists four additional proposed C.A.A.N. water-system settlements with preliminary approval. They are separate from individual injury claims. <a href="#afff-settlement-status">See the settlement explanation and upcoming dates</a>.</p>
+<p>For a possible injury claim, review <a href="#afff-qualifications">exposure and diagnosis factors</a> and <a href="#afff-deadlines">deadline considerations</a>. The <a href="/lawsuits/afff-pfas/settlement/">AFFF settlement guide</a> explains the different claim types.</p>
+<p><a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">Public court orders</a> and administrator pages checked November 10, 2026. Public indexes are not a complete live PACER docket.</p>
 </section>
 
 <section id="afff-lawsuit-overview">
@@ -113,6 +114,8 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists 15,270 pending and 19,846 historical actions. The entries below retain the earlier dated counts and orders.</p>
+<p><strong>October 30, 2026:</strong> <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf">CMO 4E</a> clarifies limited disclosure of case-caption, plaintiff-name and alleged-exposure-source information for proceedings before the JPML. It does not announce a settlement or trial date.</p>
 <ul>
 <li>JPML reports 15,264 pending actions on October 1, 2026, compared with 15,264 on September 1; 19,840 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
 <li>CMO 26O moves Group B case-selection and expert-discovery proposals to November 20, 2026. <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf">Source</a></li>
@@ -126,7 +129,15 @@ faqs:
 <h2>AFFF lawsuit settlement status</h2>
 <p>AFFF settlement status should be read carefully because different parts of the litigation move on different tracks. The official claims administrator identifies four finally approved settlements with 3M, DuPont-related companies, Tyco/Chemguard, and BASF for eligible public water systems. Those settlements address drinking-water claims; they do not decide whether an individual firefighter, service member, airport worker, industrial worker, or resident has a personal-injury claim.</p>
 <p>Personal injury claims may depend on disease category, exposure pathway, diagnosis records, expert rulings, bellwether planning, state law, and whether the person can connect exposure to AFFF or a relevant PFAS-contaminated site. Settlement discussions or public settlement reports do not mean every personal injury claim is resolved or that any individual outcome is guaranteed.</p>
-<p>As of the September 14, 2026 review, the official MDL and settlement-administration pages did not identify a global personal-injury settlement or an individual payout schedule. This site does not provide settlement calculators, estimated payouts, or claim-value rankings. Personal-injury settlement posture can change as court rulings, disease-category review, and claim-specific evidence develop.</p>
+<p>As of the November 10, 2026 review, the official MDL and settlement-administration pages did not identify a global personal-injury settlement or an individual payout schedule. This site does not provide settlement calculators, estimated payouts, or claim-value rankings. Personal-injury settlement posture can change as court rulings, disease-category review, and claim-specific evidence develop.</p>
+<h3>Four additional proposed water-system settlements</h3>
+<p>The <a href="https://www.pfaswatersettlement.com/">court-supervised administrator</a> distinguishes the four finally approved settlements with 3M, DuPont-related companies, Tyco/Chemguard and BASF from four additional proposed settlements with Carrier, Amerex, Archroma and Nation Ford (C.A.A.N.). The additional proposals have preliminary approval, not final approval.</p>
+<ul>
+<li>November 23, 2026: objections due for the proposed C.A.A.N. water-system settlements.</li>
+<li>December 22, 2026: exclusion requests due.</li>
+<li>January 15, 2027: scheduled final fairness hearing.</li>
+</ul>
+<p>These dates concern eligible public-water-system class members. They are not personal-injury filing deadlines, trial dates or individual payment dates. Review the administrator's notices for the applicable settlement.</p>
 </section>
 
 <section id="key-issues">
@@ -203,7 +214,7 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">public court records</a>; these public indexes are not complete live dockets.</p>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked November 10, 2026 against <a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
 <li><a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf">CMO 26O moves Group B case-selection and expert-discovery proposals to November 20, 2026.</a></li>
 <li><a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf">CMO 33F sets thyroid/liver-cancer expert-motion responses for November 20, 2026 and replies for January 22, 2027; it does not set a trial.</a></li>
