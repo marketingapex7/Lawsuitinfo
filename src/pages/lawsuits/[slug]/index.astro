@@ -15,6 +15,7 @@ import { entrySlug } from "@lib/content";
 import { getCaseData } from "@lib/caseData";
 import { formatDate, formatMonthYear } from "@lib/site";
 import { lawsuitMetaDescription, lawsuitSeoTitle } from "@lib/seo";
+import { caseIntentHref } from "@lib/caseLinks";
 
 export async function getStaticPaths() {
   const lawsuits = await getCollection("lawsuits");
@@ -194,7 +195,13 @@ const displayedToc = conciseStatusSlugs.has(slug)
     </div>
   </header>
 
-  {caseData && <CaseStatusOverview data={caseData} />}
+  <nav class="mt-5 grid grid-cols-2 gap-2 text-sm font-bold text-accent-dark lg:hidden" aria-label="Jump to answers">
+    <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(slug, "update")} data-track="section_navigation">Current update</a>
+    <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(slug, "settlement")} data-track="section_navigation">Settlement status</a>
+    <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(slug, "deadline")} data-track="section_navigation">Filing deadlines</a>
+    <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href="#faq" data-track="section_navigation">FAQ</a>
+  </nav>
+  {caseData && <CaseStatusOverview data={caseData} compact />}
   <nav class="mt-4 flex flex-wrap gap-3 text-sm font-bold text-accent-dark" aria-label="Case resources">
     {mdlNumber && <a class="underline" href={`/mdl/${mdlNumber}/`} data-track="lawsuit_to_mdl">MDL {mdlNumber} page</a>}
     {(supportingLinks[slug] ?? []).map((link) => <a class="underline" href={link.href}>{link.label}</a>)}
@@ -209,26 +216,6 @@ const displayedToc = conciseStatusSlugs.has(slug)
         <TableOfContents items={displayedToc} />
       </div>
     </div>
-    <aside class="space-y-5 lg:order-3">
-      <QuickFactsCard
-        facts={[
-          { label: "Case type", value: lawsuit.data.caseType },
-          { label: "Primary alleged injury", value: lawsuit.data.primaryInjury },
-          { label: "Current status", value: lawsuit.data.status },
-          { label: "Who may be affected", value: lawsuit.data.affected },
-          { label: "Evidence commonly needed", value: lawsuit.data.evidence.join(", ") },
-          { label: "Related state guides", value: `${stateGuides.length} available` }
-        ]}
-      />
-      {!conciseStatusSlugs.has(slug) && <CaseStatusSnapshot
-        status={lawsuit.data.status}
-        category={lawsuit.data.category}
-        primaryInjury={lawsuit.data.primaryInjury}
-        lastUpdated={lawsuit.data.lastUpdated}
-        stateGuideCount={stateGuides.length}
-      />}
-      <DisclaimerBox />
-    </aside>
     <div class="prose-legal max-w-none lg:order-2">
       <Content />
 
@@ -296,6 +283,26 @@ const displayedToc = conciseStatusSlugs.has(slug)
         </div>
       </section>
     </div>
+    <aside class="space-y-5 lg:order-3">
+      <QuickFactsCard
+        facts={[
+          { label: "Case type", value: lawsuit.data.caseType },
+          { label: "Primary alleged injury", value: lawsuit.data.primaryInjury },
+          { label: "Current status", value: lawsuit.data.status },
+          { label: "Who may be affected", value: lawsuit.data.affected },
+          { label: "Evidence commonly needed", value: lawsuit.data.evidence.join(", ") },
+          { label: "Related state guides", value: `${stateGuides.length} available` }
+        ]}
+      />
+      {!conciseStatusSlugs.has(slug) && <CaseStatusSnapshot
+        status={lawsuit.data.status}
+        category={lawsuit.data.category}
+        primaryInjury={lawsuit.data.primaryInjury}
+        lastUpdated={lawsuit.data.lastUpdated}
+        stateGuideCount={stateGuides.length}
+      />}
+      <DisclaimerBox />
+    </aside>
   </div>
 
   <FAQSection faqs={lawsuit.data.faqs} />

@@ -136,6 +136,7 @@ const TITLE_NAMES: Record<string, string> = {
   "Depo-Provera": "Depo-Provera",
   "Hair Relaxer": "Hair Relaxer",
   "Talcum Powder": "Talcum Powder",
+  "Exactech Implant": "Exactech",
   "Paragard IUD": "Paragard",
   "Social Media Addiction": "Social Media"
 };
@@ -307,7 +308,7 @@ export function lawsuitMetaDescription(
     "Depo-Provera":
       `${period} Depo-Provera lawsuit update: meningioma MDL status, expert hearing dates, trial schedule, records, deadlines, and state guides.`,
     "Cook IVC Filter":
-      `No single IVC filter lawsuit deadline applies nationwide. Review Cook MDL 2570 updates, state filing-time factors, settlement status, and records to gather.`,
+      `There is no single IVC filter lawsuit deadline. State law and claim history matter. See Cook MDL 2570 status, settlement updates and key records.`,
     "Exactech Implant":
       `Exactech lawsuit update: understand the bankruptcy Settlement Trust, MDL 3044 case count, implant recall records, payment limits, and deadline questions.`,
     "Hair Relaxer":

@@ -7,6 +7,10 @@ const defaultAnchors: Record<CaseIntent, string> = {
 };
 
 const caseAnchors: Record<string, Partial<Record<CaseIntent, string>>> = {
+  "bair-hugger": {
+    settlement: "settlement-status",
+    deadline: "bair-hugger-deadlines"
+  },
   "afff-pfas": {
     settlement: "afff-settlement-status",
     deadline: "afff-deadlines"
@@ -18,6 +22,18 @@ const caseAnchors: Record<string, Partial<Record<CaseIntent, string>>> = {
   ozempic: {
     deadline: "ozempic-deadlines"
   },
+  "cook-ivc-filter": {
+    settlement: "settlement-status",
+    deadline: "cook-ivc-filter-deadlines"
+  },
+  exactech: {
+    settlement: "settlement-status",
+    deadline: "exactech-deadlines"
+  },
+  "nec-baby-formula": {
+    settlement: "settlement-status",
+    deadline: "nec-baby-formula-deadlines"
+  },
   paraquat: {
     settlement: "paraquat-settlement-status",
     deadline: "paraquat-deadlines"
@@ -28,6 +44,9 @@ const caseAnchors: Record<string, Partial<Record<CaseIntent, string>>> = {
   suboxone: {
     settlement: "suboxone-settlement-status",
     deadline: "suboxone-deadlines"
+  },
+  "talcum-powder": {
+    deadline: "talcum-powder-deadlines"
   }
 };
 
