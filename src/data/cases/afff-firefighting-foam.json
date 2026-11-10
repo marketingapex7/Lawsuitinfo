@@ -11,8 +11,17 @@
     "established": "2018-12-07"
   },
   "phase": "Personal-injury discovery; water-system settlement administration",
-  "phaseDetail": "The July 30, 2026 CMO 26O moves Group B selection and expert-discovery proposals to November 20, 2026. The August 31 CMO 33F sets thyroid/liver-cancer Rule 702 response and reply deadlines for November 20, 2026 and January 22, 2027. These expert proceedings are separate from the four finally approved public-water-system settlements.",
+  "phaseDetail": "CMO 26O sets Group B case-selection and expert-discovery proposals for November 20, 2026. CMO 33F sets thyroid/liver-cancer Rule 702 responses for November 20, 2026 and replies for January 22, 2027; these are not trial dates. Separately, the water-system administrator lists four additional proposed C.A.A.N. settlements with preliminary approval and a January 15, 2027 final fairness hearing. Public orders and administrator pages were reviewed November 10, 2026.",
   "pendingCounts": [
+    {
+      "date": "2026-11-02",
+      "count": 15270,
+      "totalFiled": 19846,
+      "scope": "Pending actions in MDL-2873",
+      "source": "JPML MDL Statistics Report, November 2, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-10-01",
       "count": 15264,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-2873",
       "source": "JPML MDL Statistics Report, October 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-09-01",
@@ -99,12 +108,22 @@
       "individualClaims": "Public water systems only; this settlement does not resolve individual personal-injury claims."
     },
     {
+      "label": "Carrier, Amerex, Archroma and Nation Ford — proposed public-water-system settlements",
+      "status": "preliminary approval; final approval pending",
+      "kind": "proposed",
+      "detail": "The administrator lists four additional proposed water-system settlements with preliminary approval. Its C.A.A.N. schedule lists objections due November 23, 2026, exclusion requests due December 22, 2026, and a final fairness hearing on January 15, 2027. These are not individual personal-injury programs.",
+      "source": "Official public-water-system settlement administrator",
+      "sourceUrl": "https://www.pfaswatersettlement.com/",
+      "verifiedOn": "2026-11-10",
+      "individualClaims": "Eligible public-water-system claims only; no individual personal-injury payment program is announced by these proposals."
+    },
+    {
       "label": "Personal-injury claims",
       "status": "none",
-      "detail": "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
-      "verifiedOn": "2026-09-14",
+      "detail": "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
+      "verifiedOn": "2026-11-10",
       "kind": "none",
-      "individualClaims": "The official administrator identifies four finally approved settlements for eligible public water systems. These contamination settlements do not compensate individual injury claims. A review of the public MDL orders and administrator website on September 14, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
+      "individualClaims": "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders.asp",
       "source": "Public MDL orders and official water-system administrator"
     }
@@ -149,7 +168,7 @@
       "detail": "CMO 26O extends the July 20 proposal date to November 20.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf",
       "source": "Official court or settlement record",
-      "verifiedOn": "2026-09-14",
+      "verifiedOn": "2026-11-10",
       "kind": "bellwether",
       "status": "scheduled",
       "appliesTo": "Group B personal-injury discovery pool"
@@ -160,10 +179,43 @@
       "detail": "CMO 33F sets the response deadline; this is briefing, not a trial.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
       "source": "Official court or settlement record",
-      "verifiedOn": "2026-09-14",
+      "verifiedOn": "2026-11-10",
       "kind": "court",
       "status": "scheduled",
       "appliesTo": "Thyroid/liver-cancer expert motions"
+    },
+    {
+      "date": "2026-11-23",
+      "label": "C.A.A.N. water-system settlement objections due",
+      "detail": "Administrator-listed objection deadline for the four proposed C.A.A.N. settlements; public-water-system class members only.",
+      "sourceUrl": "https://www.pfaswatersettlement.com/",
+      "source": "Official court or settlement-administrator record",
+      "verifiedOn": "2026-11-10",
+      "kind": "claim",
+      "status": "scheduled",
+      "appliesTo": "Proposed C.A.A.N. public-water-system settlements only"
+    },
+    {
+      "date": "2026-12-22",
+      "label": "C.A.A.N. water-system exclusion requests due",
+      "detail": "Administrator-listed exclusion deadline for the four proposed C.A.A.N. settlements; not a personal-injury filing deadline.",
+      "sourceUrl": "https://www.pfaswatersettlement.com/",
+      "source": "Official court or settlement-administrator record",
+      "verifiedOn": "2026-11-10",
+      "kind": "claim",
+      "status": "scheduled",
+      "appliesTo": "Proposed C.A.A.N. public-water-system settlements only"
+    },
+    {
+      "date": "2027-01-15",
+      "label": "C.A.A.N. water-system final fairness hearing",
+      "detail": "Scheduled final-approval hearing for the four proposed C.A.A.N. water-system settlements, not an injury trial or payment date.",
+      "sourceUrl": "https://www.pfaswatersettlement.com/",
+      "source": "Official court or settlement-administrator record",
+      "verifiedOn": "2026-11-10",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "Proposed C.A.A.N. public-water-system settlements only"
     },
     {
       "date": "2027-01-22",
@@ -171,13 +223,17 @@
       "detail": "CMO 33F sets the reply deadline.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
       "source": "Official court or settlement record",
-      "verifiedOn": "2026-09-14",
+      "verifiedOn": "2026-11-10",
       "kind": "court",
       "status": "scheduled",
       "appliesTo": "Thyroid/liver-cancer expert motions"
     }
   ],
   "sources": [
+    {
+      "name": "JPML — November 2, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "name": "JPML — October 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
@@ -229,11 +285,34 @@
     {
       "name": "Tyco $750M final approval order (PDF)",
       "url": "https://www.pfaswatersettlement.com/wp-content/uploads/2024/11/ECF-6406-Tyco-Final-Approval-Order.pdf"
+    },
+    {
+      "name": "Carrier settlement FAQ — preliminary approval, scope and January 15, 2027 hearing",
+      "url": "https://www.pfaswatersettlement.com/frequently-asked-questions-carrier/"
+    },
+    {
+      "name": "October 30, 2026 CMO 4E — limited disclosures in JPML proceedings",
+      "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf"
     }
   ],
-  "dataAsOf": "2026-10-11",
-  "statusVerifiedOn": "2026-09-14",
+  "dataAsOf": "2026-11-10",
+  "statusVerifiedOn": "2026-11-10",
   "updates": [
+    {
+      "date": "2026-11-10",
+      "summary": "JPML reports 15,270 pending actions in MDL-2873 on November 2, 2026, up 6 from October 1; 19,846 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
+    {
+      "date": "2026-11-10",
+      "summary": "The public-water-system administrator now lists four additional proposed C.A.A.N. settlements with preliminary approval; final fairness is scheduled for January 15, 2027. These proposals do not announce an individual personal-injury payment program.",
+      "sourceUrl": "https://www.pfaswatersettlement.com/"
+    },
+    {
+      "date": "2026-10-30",
+      "summary": "CMO 4E clarifies limited disclosure of case-caption, plaintiff-name and alleged-exposure-source information for proceedings before the JPML. It does not announce a settlement or trial date.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf"
+    },
     {
       "date": "2026-10-11",
       "summary": "JPML reports 15,264 pending actions in MDL-2873 on October 1, 2026, unchanged from 15,264 on September 1; 19,840 total historical actions are reported separately.",

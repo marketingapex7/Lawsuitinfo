@@ -14,13 +14,22 @@
   "phaseDetail": "JPML lists MDL-2570 as active before Senior Judge Richard L. Young. The July 14, 2026 Second Amended Case Management Order 34 sets fact discovery to close December 21, 2026 for three Günther Tulip bellwether candidates; the court is to select two for trial by May 26, 2027 and set trial dates at a June 2027 conference. No trial dates are set.",
   "pendingCounts": [
     {
+      "date": "2026-11-02",
+      "count": 6467,
+      "totalFiled": 11478,
+      "scope": "Pending actions in MDL-2570",
+      "source": "JPML MDL Statistics Report, November 2, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf",
+      "primary": true
+    },
+    {
       "date": "2026-10-01",
       "count": 6470,
       "totalFiled": 11478,
       "scope": "Pending actions in MDL-2570",
       "source": "JPML MDL Statistics Report, October 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-09-01",
@@ -52,9 +61,9 @@
       "label": "No MDL-wide settlement program or settlement track identified in reviewed records",
       "kind": "none",
       "status": "not announced",
-      "detail": "The Southern District of Indiana MDL-2570 page and case management order list, reviewed October 23, 2026, do not post a global settlement program, settlement track, mediation order, universal compensation matrix, or payment deadline. The July 14, 2026 Second Amended CMO 34 contains no settlement or mediation terms. An individual settlement or verdict does not set the value of another case.",
+      "detail": "The Southern District of Indiana MDL-2570 case page and case-management order list, reviewed November 10, 2026, do not post an MDL-wide settlement track, mediation program, compensation matrix or payment schedule. The July 14, 2026 Second Amended CMO 34 sets bellwether discovery dates and contains no settlement terms. Those public pages are not a complete live PACER docket and do not establish the status of private negotiations.",
       "individualClaims": "No universal Cook IVC filter payment amount is verified here.",
-      "verifiedOn": "2026-10-23",
+      "verifiedOn": "2026-11-10",
       "source": "Southern District of Indiana MDL-2570 page",
       "sourceUrl": "https://www.insd.uscourts.gov/node/432"
     }
@@ -99,7 +108,7 @@
       "detail": "Second Amended CMO 34 names three Günther Tulip bellwether candidates and sets fact discovery to close December 21, 2026 and expert discovery to close April 26, 2027.",
       "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf",
       "source": "Southern District of Indiana, Second Amended Case Management Order 34",
-      "verifiedOn": "2026-10-23",
+      "verifiedOn": "2026-11-10",
       "kind": "bellwether",
       "status": "completed",
       "appliesTo": "Federal MDL"
@@ -121,7 +130,7 @@
       "detail": "Deadline under Second Amended CMO 34 for the three Günther Tulip bellwether candidates.",
       "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf",
       "source": "Southern District of Indiana, Second Amended Case Management Order 34",
-      "verifiedOn": "2026-10-23",
+      "verifiedOn": "2026-11-10",
       "kind": "bellwether",
       "status": "scheduled",
       "appliesTo": "Federal MDL"
@@ -132,13 +141,17 @@
       "detail": "Under Second Amended CMO 34, the court selects two of the three candidates for trial after expert discovery; trial dates are to be set at a June 2027 conference.",
       "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/MDL%202570%202nd%20Amended%20Case%20Management%20Order%2034.pdf",
       "source": "Southern District of Indiana, Second Amended Case Management Order 34",
-      "verifiedOn": "2026-10-23",
+      "verifiedOn": "2026-11-10",
       "kind": "bellwether",
       "status": "scheduled",
       "appliesTo": "Federal MDL"
     }
   ],
   "sources": [
+    {
+      "name": "JPML — November 2, 2026 pending and historical actions",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "name": "JPML — October 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
@@ -180,9 +193,19 @@
       "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pss.cfm?t_id=303"
     }
   ],
-  "dataAsOf": "2026-10-11",
-  "statusVerifiedOn": "2026-10-23",
+  "dataAsOf": "2026-11-10",
+  "statusVerifiedOn": "2026-11-10",
   "updates": [
+    {
+      "date": "2026-11-10",
+      "summary": "JPML reports 6,467 pending actions in MDL-2570 on November 2, 2026, down 3 from October 1; 11,478 historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
+    {
+      "date": "2026-11-10",
+      "summary": "Public case and case-management pages reviewed November 10 do not announce an MDL-wide settlement track. Second Amended CMO 34 remains a bellwether discovery schedule, with fact discovery closing December 21, 2026.",
+      "sourceUrl": "https://www.insd.uscourts.gov/cook-mdl-case-management"
+    },
     {
       "date": "2026-10-23",
       "summary": "The court's case management order list shows a July 14, 2026 Second Amended CMO 34: three Tulip bellwether candidates, fact discovery closing December 21, 2026, and the court selecting two for trial by May 26, 2027. Reviewed court pages post no settlement track or mediation order.",

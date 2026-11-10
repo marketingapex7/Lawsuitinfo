@@ -15,7 +15,19 @@ for (const item of cases) {
   if (!Array.isArray(item.updates) || item.updates.length < 3) errors.push(`${item.slug}: fewer than three verified monthly updates`);
   const primaries = item.pendingCounts.filter((entry) => entry.primary);
   if (item.litigation.mdlNumber && primaries.length !== 1) errors.push(`${item.slug}: expected one primary MDL count`);
-  if (primaries[0] && primaries[0].date !== "2026-10-01") errors.push(`${item.slug}: primary count is not October 1, 2026`);
+  const primary = primaries[0];
+  if (primary) {
+    if (primary.date < minimumDataAsOf) errors.push(`${item.slug}: primary count is older than ${minimumDataAsOf}`);
+    // A verified newer report must be allowed, while an older count must not
+    // remain primary. Compare only the same scope: Ozempic also tracks the
+    // separate NAION MDL, whose counts must not replace the GI headline.
+    const latestScopeDate = item.pendingCounts
+      .filter((entry) => entry.scope === primary.scope)
+      .map((entry) => entry.date)
+      .sort()
+      .at(-1);
+    if (primary.date !== latestScopeDate) errors.push(`${item.slug}: primary count is not the latest for its scope`);
+  }
 }
 
 const expectedFiles = [

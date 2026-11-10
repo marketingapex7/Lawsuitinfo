@@ -11,7 +11,7 @@
     "established": "2022-08-10"
   },
   "phase": "Existing claims and settlement processing; new administrative claims closed",
-  "phaseDetail": "DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million as of September 18, 2026. The Navy no longer accepts new CLJA administrative claims after August 10, 2024. Timely claims still require attention to documents, denial notices, individual litigation deadlines and settlement terms.",
+  "phaseDetail": "DOJ's claims page, reviewed November 10, 2026, still reports more than $1.1 billion offered and more than $879 million paid as of September 18, 2026. It also states that DOJ is not reconsidering Elective Option determinations or accepting additional EO documentation. The new administrative claim window closed August 10, 2024; timely claims remain subject to individual notices, court deadlines and settlement terms.",
   "pendingCounts": [],
   "defendants": [
     "United States of America (Department of the Navy)"
@@ -23,8 +23,8 @@
       "status": "active",
       "amount": "More than $1.1 billion offered; more than $879 million paid (September 18, 2026)",
       "detail": "DOJ’s September 18, 2026 totals describe aggregate CLJA settlement activity. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.",
-      "individualClaims": "DOJ says accepted EO offers can be paid within 60 days or less with timely, accurate payment documents. That is not a deadline for receiving an offer.",
-      "verifiedOn": "2026-09-25",
+      "individualClaims": "DOJ says accepted EO offers can be paid within 60 days or less with timely, accurate payment documents. That is not a deadline for receiving an offer. Its current notice says EO determinations are not being reconsidered and additional EO documentation is not accepted; payment paperwork is a separate step.",
+      "verifiedOn": "2026-11-10",
       "source": "DOJ CLJA claims information",
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
     }
@@ -98,9 +98,14 @@
       "url": "https://www.nced.uscourts.gov/attorney/clwl.aspx"
     }
   ],
-  "dataAsOf": "2026-09-25",
-  "updateNote": "Earlier court and administrative claim totals were removed because the cited pages did not substantiate those dated figures. Filed administrative claims and filed lawsuits are different measures and are not interchangeable with pending cases.",
+  "dataAsOf": "2026-11-10",
+  "updateNote": "DOJ's public claims page and the E.D.N.C. litigation information page were reviewed November 10, 2026. The DOJ totals remain explicitly dated September 18, 2026; this review does not make them November totals. The current DOJ notice about EO determinations and additional documentation has been added. Earlier unsupported court and administrative totals remain excluded; those measures are not interchangeable with pending cases.",
   "updates": [
+    {
+      "date": "2026-11-10",
+      "summary": "Source review: DOJ's current notice says EO determinations are not being reconsidered and additional EO documentation is not accepted. Its published aggregate settlement totals remain dated September 18, 2026.",
+      "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
+    },
     {
       "date": "2026-09-18",
       "summary": "DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million across CLJA settlements.",
@@ -122,5 +127,5 @@
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
     }
   ],
-  "statusVerifiedOn": "2026-09-25"
+  "statusVerifiedOn": "2026-11-10"
 }

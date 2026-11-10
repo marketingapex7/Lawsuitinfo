@@ -128,6 +128,9 @@ if (slug === "cook-ivc-filter" || slug === "exactech") {
   const prefix = slug === "exactech" ? "exactech" : "cook-ivc-filter";
   toc.splice(2, 0, { id: `${prefix}-deadlines`, label: "Filing deadline questions" });
   toc.splice(3, 0, { id: "settlement-status", label: "Settlement status explained" });
+  if (slug === "cook-ivc-filter") {
+    toc.splice(4, 0, { id: "track-cook-settlement-negotiations", label: "Track settlement negotiations" });
+  }
 }
 
 if (slug === "suboxone") {
