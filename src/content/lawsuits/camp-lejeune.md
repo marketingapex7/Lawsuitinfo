@@ -36,7 +36,7 @@ timeline:
   -
     label: "Claim filed by August 10, 2024"
     detail: "The CLJA required an administrative claim with the Navy by the statutory deadline. Claims filed in time continue through review, settlement programs, or litigation in the Eastern District of North Carolina."
-lastUpdated: "2026-09-25"
+lastUpdated: "2026-11-10"
 lastReviewed: "2026-09-25"
 faqs:
   -
@@ -85,15 +85,15 @@ faqs:
 </section>
 
 <section id="latest-update">
-<h2>Camp Lejeune Water Contamination Claims update: September 2026</h2>
-<p><strong>Existing claims and settlement processing; new administrative claims closed.</strong> DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million as of September 18, 2026. The Navy no longer accepts new CLJA administrative claims after August 10, 2024. Timely claims still require attention to documents, denial notices, individual litigation deadlines and settlement terms.</p>
+<h2>Camp Lejeune Water Contamination Claims update: November 2026</h2>
+<p><strong>Existing claims and settlement processing; new administrative claims closed.</strong> DOJ's claims page, reviewed November 10, 2026, still reports more than $1.1 billion offered and more than $879 million paid as of September 18, 2026. It also states that DOJ is not reconsidering Elective Option determinations or accepting additional EO documentation. The new administrative claim window closed August 10, 2024; timely claims remain subject to individual notices, court deadlines and settlement terms.</p>
 
 <p><strong>Settlement status:</strong> DOJ’s September 18, 2026 totals describe aggregate CLJA settlement activity. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.</p>
-<h3>What changed this month?</h3>
+<h3>What the November source review confirmed</h3>
 <ul>
-<li>DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million across CLJA settlements. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
-<li>The Navy continues reviewing existing claims and requesting supporting records; new administrative claims remain closed. <a href="https://www.navy.mil/clja/">Source</a></li>
-<li>The Navy portal supports claim-status checks, document uploads and claim-specific messages for existing claims. <a href="https://www.navy.mil/clja/">Source</a></li>
+<li>DOJ's current notice says EO determinations are not being reconsidered and additional EO documentation is not accepted. Claimants should distinguish this notice from instructions for completing an accepted settlement's payment paperwork. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
+<li>The published settlement totals are still dated September 18, 2026; they are not November totals. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
+<li>The court's public information page links to litigation resources and explains that the plaintiffs' leadership group does not act as each claimant's individual attorney. <a href="https://www.nced.uscourts.gov/attorney/clwl.aspx">Source</a></li>
 <li>DOJ distinguishes accepted EO payment processing from the uncertain timing of an initial offer. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
 </ul>
 </section>
@@ -130,6 +130,7 @@ faqs:
 <section id="litigation-updates">
 <h2>Litigation updates</h2>
 <ul>
+<li><strong>November 10, 2026 source review:</strong> DOJ's claims page carries a notice that it is not reconsidering EO determinations or accepting additional EO documentation. The aggregate settlement figures on that page remain dated September 18, 2026.</li>
 <li><strong>September 18, 2026:</strong> DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million.</li>
 <li><strong>July 17, 2026:</strong> DOJ reported more than $968 million in settlement offers and more than $801 million in payouts.</li>
 <li><strong>2025:</strong> Elective Option acceptance accelerated; the court resolved disputes over trial structure and jury rights under the CLJA.</li>
@@ -163,8 +164,8 @@ faqs:
 <h2>What pending claimants can do</h2>
 <ul>
 <li>Confirm your administrative claim was filed and is on record with the Navy Tort Claims Unit.</li>
-<li>Keep medical records current — updated diagnosis and treatment records affect tier placement and offer values.</li>
-<li>Respond promptly to document requests; incomplete files are the most common processing delay.</li>
+<li>Keep medical and claim records organized for your lawyer. DOJ's current notice says additional EO documentation is not accepted and EO determinations are not being reconsidered.</li>
+<li>Follow claim-specific court notices and accepted-settlement payment instructions; ask counsel which requests apply to your claim.</li>
 <li>Before accepting or declining an Elective Option offer, have counsel compare it to realistic litigated values for the same diagnosis tier.</li>
 </ul>
 </section>
