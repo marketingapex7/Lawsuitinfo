@@ -1,6 +1,6 @@
 ---
 title: "Exactech Implant Lawsuit Guide"
-description: "Exactech lawsuit update: MDL count, recall scope, bankruptcy trust status, implant records, revision evidence, and deadlines."
+description: "The November 2, 2026 federal court report lists 1,838 pending actions in the Exactech implant MDL (No. 3044). Exactech's confirmed bankruptcy plan created a Settlement Trust for covered injury and wrongful-death claims. Eligibility and payment depend on the trust rules and the individual claim."
 lawsuit: "Exactech Implant"
 urlSlug: "exactech"
 category: "Product Liability"
@@ -34,11 +34,11 @@ timeline:
   -
     label: "Bankruptcy claim review"
     detail: "Counsel must review claim status, trust procedures, deadlines, causation evidence, damages, and other applicable law."
-lastUpdated: "2026-10-23"
-lastReviewed: "2026-09-22"
+lastUpdated: "2026-11-11"
+lastReviewed: "2026-11-11"
 faqs:
   - question: "How many Exactech cases are pending in the MDL?"
-    answer: "JPML reported 1,838 pending actions and 1,847 historical actions in MDL 3044 on October 1, 2026."
+    answer: "JPML reported 1,838 pending actions and 1,847 historical actions in MDL 3044 on November 2, 2026."
   - question: "Which Exactech products are covered here?"
     answer: "The FDA communication describes recalled polyethylene components in certain Exactech knee, ankle, and hip systems, including Optetrak, Logic, Truliant, Vantage, Novation, Acumatch, and MCS product families. Exact device and recall status require serial and implant records."
   - question: "Did every Exactech implant get recalled?"
@@ -48,7 +48,7 @@ faqs:
   - question: "What is the Exactech Settlement Trust?"
     answer: "The Settlement Trust was created by the September 2025 confirmation order in Exactech's Chapter 11 case (District of Delaware, Case 24-12441). The confirmed plan moved specified rights and responsibilities to post-confirmation trusts, including the Settlement Trust, which administers covered claims under the plan's terms. Whether and how much a claimant recovers depends on those terms, the claim's evidence, and available funds."
   - question: "When will the Exactech lawsuit be settled?"
-    answer: "There is no single settlement date. Covered claims run through the Settlement Trust process created by the confirmed bankruptcy plan, while MDL-3044 still listed 1,838 pending actions on the October 1, 2026 JPML report. This guide has not verified a universal payment date or amount for Exactech claims."
+    answer: "There is no single settlement date. Covered claims run through the Settlement Trust process created by the confirmed bankruptcy plan, while MDL-3044 still listed 1,838 pending actions on the November 2, 2026 JPML report. This guide has not verified a universal payment date or amount for Exactech claims."
   - question: "Should a recalled implant be removed?"
     answer: "That is a medical decision. The FDA does not recommend removal of a well-functioning Exactech joint replacement solely because of the recall; patients should discuss symptoms and options with their healthcare provider."
   - question: "What records identify an Exactech implant?"
@@ -66,7 +66,7 @@ faqs:
 <h2>Exactech lawsuit update 2026: the short answer</h2>
 <p>The key distinction is between the federal MDL and the bankruptcy Settlement Trust. <a href="#settlement-status">Read what the trust process means</a>, <a href="#exactech-deadlines">which deadline questions need review</a>, and <a href="/lawsuits/exactech/recall-records/">how to identify your implant</a>. An MDL case count does not establish trust eligibility or payment.</p>
 <ul>
-<li><strong>MDL count:</strong> 1,838 pending actions on the October 1, 2026 JPML report.</li>
+<li><strong>MDL count:</strong> 1,838 pending actions on the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a>.</li>
 <li><strong>Bankruptcy status:</strong> A September 2025 confirmation order created a Settlement Trust and post-confirmation claim process.</li>
 <li><strong>Payment status:</strong> There is no verified universal amount for every recalled-device claim.</li>
 <li><strong>Medical boundary:</strong> FDA does not recommend removal of a well-functioning device solely because it is recalled.</li>
@@ -76,6 +76,8 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified Exactech litigation and bankruptcy updates</h2>
+<h3>November 2, 2026: 1,838 actions pending</h3>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November JPML report</a> lists 1,838 pending and 1,847 historical actions, unchanged from October 1.</p>
 <h3>October 1, 2026: 1,838 actions pending</h3>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 1,838 pending and 1,847 historical actions, unchanged from August 3.</p>
 <h3>September 2025: bankruptcy plan confirmed</h3>
