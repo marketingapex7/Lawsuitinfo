@@ -10,8 +10,8 @@
     "judge": "Judge Richard M. Gergel",
     "established": "2018-12-07"
   },
-  "phase": "Personal-injury discovery; water-system settlement administration",
-  "phaseDetail": "CMO 26O sets Group B case-selection and expert-discovery proposals for November 20, 2026. CMO 33F sets thyroid/liver-cancer Rule 702 responses for November 20, 2026 and replies for January 22, 2027; these are not trial dates. Separately, the water-system administrator lists four additional proposed C.A.A.N. settlements with preliminary approval and a January 15, 2027 final fairness hearing. Public orders and administrator pages were reviewed November 10, 2026.",
+  "phase": "3M personal-injury agreement and claimant identification; separate water-system settlements",
+  "phaseDetail": "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate. CMO 40 stays covered MDL proceedings as to 3M, subject to the procedures and exceptions in CMOs 39 and 40. The stay leaves claims against other defendants outside its scope.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -68,6 +68,16 @@
   ],
   "settlements": [
     {
+      "label": "3M — personal-injury settlement agreement",
+      "status": "agreement signed; claimant identification underway",
+      "detail": "3M signed a November 3, 2026 personal-injury agreement with a $7.35 billion nominal commitment through 2034, subject to participation thresholds. The agreement is separate from the public-water-system settlements and provides no fixed payout for every individual claimant.",
+      "source": "3M Form 8-K and Master Settlement Agreement",
+      "sourceUrl": "https://investors.3m.com/financials/sec-filings/content/0000066740-26-000318/mmm-20261103.htm",
+      "verifiedOn": "2026-11-11",
+      "kind": "global",
+      "individualClaims": "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate."
+    },
+    {
       "label": "3M — public water systems",
       "status": "final approved, claims administration — water systems only",
       "detail": "$10.5 billion to $12.5 billion paid over 13 years to public water systems for PFAS contamination, per the official settlement FAQ. Final approval entered by Judge Gergel (fairness hearing February 2, 2024). Compensates water utilities, not individuals.",
@@ -116,16 +126,6 @@
       "sourceUrl": "https://www.pfaswatersettlement.com/",
       "verifiedOn": "2026-11-10",
       "individualClaims": "Eligible public-water-system claims only; no individual personal-injury payment program is announced by these proposals."
-    },
-    {
-      "label": "Personal-injury claims",
-      "status": "none",
-      "detail": "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
-      "verifiedOn": "2026-11-10",
-      "kind": "none",
-      "individualClaims": "The official administrator lists four finally approved public-water-system settlements and four additional proposed C.A.A.N. water-system settlements with preliminary approval. These programs address public-water-system claims, not individual injury payments. Public MDL orders and the administrator website reviewed November 10, 2026 did not identify a global personal-injury settlement or an official individual payout schedule.",
-      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders.asp",
-      "source": "Public MDL orders and official water-system administrator"
     }
   ],
   "keyDates": [
@@ -163,9 +163,20 @@
       "appliesTo": "Federal MDL proceedings"
     },
     {
+      "date": "2026-11-13",
+      "label": "3M personal-injury claimant identification due",
+      "detail": "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate.",
+      "sourceUrl": "https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf",
+      "source": "District of South Carolina CMO 39 (ECF 11962)",
+      "verifiedOn": "2026-11-11",
+      "kind": "claim",
+      "status": "scheduled",
+      "appliesTo": "Counsel for eligible claimants and eligible self-represented MDL plaintiffs under CMO 39"
+    },
+    {
       "date": "2026-11-20",
       "label": "Group B proposals due",
-      "detail": "CMO 26O extends the July 20 proposal date to November 20.",
+      "detail": "CMO 26O extends the July 20 proposal date to November 20. Read the earlier schedule with the later CMO 40 stay as to 3M.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf",
       "source": "Official court or settlement record",
       "verifiedOn": "2026-11-10",
@@ -176,7 +187,7 @@
     {
       "date": "2026-11-20",
       "label": "Thyroid/liver-cancer Rule 702 responses due",
-      "detail": "CMO 33F sets the response deadline; this is briefing, not a trial.",
+      "detail": "CMO 33F sets the response deadline; this is briefing, not a trial. Read the earlier schedule with the later CMO 40 stay as to 3M.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
       "source": "Official court or settlement record",
       "verifiedOn": "2026-11-10",
@@ -220,7 +231,7 @@
     {
       "date": "2027-01-22",
       "label": "Thyroid/liver-cancer Rule 702 replies due",
-      "detail": "CMO 33F sets the reply deadline.",
+      "detail": "CMO 33F sets the reply deadline. Read the earlier schedule with the later CMO 40 stay as to 3M.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
       "source": "Official court or settlement record",
       "verifiedOn": "2026-11-10",
@@ -230,6 +241,18 @@
     }
   ],
   "sources": [
+    {
+      "name": "3M Form 8-K and Master Settlement Agreement",
+      "url": "https://investors.3m.com/financials/sec-filings/content/0000066740-26-000318/mmm-20261103.htm"
+    },
+    {
+      "name": "District of South Carolina CMO 39 (ECF 11962)",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf"
+    },
+    {
+      "name": "District of South Carolina CMO 40 (ECF 11964)",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11964.0.pdf"
+    },
     {
       "name": "JPML — November 2, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
@@ -295,9 +318,24 @@
       "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf"
     }
   ],
-  "dataAsOf": "2026-11-10",
-  "statusVerifiedOn": "2026-11-10",
+  "dataAsOf": "2026-11-11",
+  "statusVerifiedOn": "2026-11-11",
   "updates": [
+    {
+      "date": "2026-11-11",
+      "summary": "3M signed a November 3, 2026 personal-injury agreement with a $7.35 billion nominal commitment through 2034, subject to participation thresholds. The agreement is separate from the public-water-system settlements and provides no fixed payout for every individual claimant.",
+      "sourceUrl": "https://investors.3m.com/financials/sec-filings/content/0000066740-26-000318/mmm-20261103.htm"
+    },
+    {
+      "date": "2026-11-11",
+      "summary": "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate.",
+      "sourceUrl": "https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf"
+    },
+    {
+      "date": "2026-11-11",
+      "summary": "CMO 40 stays covered MDL proceedings as to 3M, subject to the procedures and exceptions in CMOs 39 and 40. The stay leaves claims against other defendants outside its scope.",
+      "sourceUrl": "https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11964.0.pdf"
+    },
     {
       "date": "2026-11-10",
       "summary": "JPML reports 15,270 pending actions in MDL-2873 on November 2, 2026, up 6 from October 1; 19,846 total historical actions are reported separately.",
