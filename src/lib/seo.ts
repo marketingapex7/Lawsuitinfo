@@ -268,6 +268,10 @@ function monthYear(date?: string) {
 // current status, so update them whenever the status they describe changes.
 function ctrMetaDescription(lawsuit: string, period: string, count?: string): string | undefined {
   switch (lawsuit) {
+    case "AFFF Firefighting Foam":
+      return `3M’s $7.35 billion AFFF personal-injury agreement has a November 13 claimant identification deadline for eligible claims.`;
+    case "Exactech Implant":
+      return count ? `Exactech lawsuit update, ${period}: ${count} cases pending in MDL 3044. The bankruptcy Settlement Trust handles covered injury claims.` : undefined;
     case "Roundup Cancer":
       return `Updated ${period}: the $7.25B King v. Monsanto Roundup settlement still awaits final approval. Opt-out deadline passed; claims open after approval.`;
     case "Ozempic / GLP-1":
