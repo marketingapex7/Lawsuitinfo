@@ -177,7 +177,7 @@ function ctrTitle(lawsuit: string, context: LawsuitSeoContext): string | undefin
   const count = context.latestPendingCount?.toLocaleString("en-US");
   switch (lawsuit) {
     case "Roundup Cancer":
-      return `Roundup Lawsuit Update (${period}): $7.25B Settlement Status`;
+      return `Roundup Settlement Update | King Final Approval Pending`;
     case "Ozempic / GLP-1":
       return count
         ? `Ozempic Lawsuit Update (${period}): ${count} Federal Cases`
@@ -273,7 +273,7 @@ function ctrMetaDescription(lawsuit: string, period: string, count?: string): st
     case "Exactech Implant":
       return count ? `Exactech lawsuit update, ${period}: ${count} cases pending in MDL 3044. The bankruptcy Settlement Trust handles covered injury claims.` : undefined;
     case "Roundup Cancer":
-      return `Updated ${period}: the $7.25B King v. Monsanto Roundup settlement still awaits final approval. Opt-out deadline passed; claims open after approval.`;
+      return `King v. Monsanto awaits final approval. Roundup settlement registration remains closed. Check the official administrator for eligibility and updates.`;
     case "Ozempic / GLP-1":
       return count
         ? `Updated ${period}: ${count} Ozempic and GLP-1 cases are pending in MDL 3094. The judge is weighing expert-evidence motions; no settlement announced.`

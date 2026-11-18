@@ -10,8 +10,8 @@
     "judge": "Judge Karen Spencer Marston",
     "established": "2024-02-02"
   },
-  "phase": "Rule 702 motions; no ruling posted in public orders reviewed November 10, 2026",
-  "phaseDetail": "The court held the Rule 702 evidentiary hearing on September 14–18, 2026. An October 8 order scheduled closing arguments for October 13. The public orders list reviewed November 10 contains no later Rule 702 ruling or bellwether trial setting. The April 30 amended conference order schedules a November 17, 2026 status conference at 1 p.m. in Courtroom 16B; the October 8 order leaves November and December conferences unchanged. A status conference or expert-evidence hearing is not a trial. NAION vision-loss claims proceed separately in MDL-3163.",
+  "phase": "Federal pretrial proceedings",
+  "phaseDetail": "The November 17 status-conference setting has passed. A secondary docket tracker reports that ECF 934 canceled it, and the underlying entry was unavailable for verification. The published schedule lists December 15 at 1 p.m. ET, subject to later orders. NAION vision-loss claims proceed separately in MDL-3163, with 278 pending actions on November 2. The court heard Rule 702 evidence September 14–18, and the October 8 order set closing arguments for October 13.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -204,7 +204,7 @@
       "source": "Official court or settlement-administrator record",
       "verifiedOn": "2026-11-10",
       "kind": "court",
-      "status": "scheduled",
+      "status": "historical",
       "appliesTo": "MDL-3094 status conference"
     },
     {
@@ -220,6 +220,10 @@
     }
   ],
   "sources": [
+    {
+      "name": "FDA required safety labeling changes addressing a potential increased risk of NAION with GLP-1 receptor agonists",
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential"
+    },
     {
       "name": "JPML — November 2, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
@@ -269,8 +273,8 @@
       "url": "https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_4.pdf"
     }
   ],
-  "dataAsOf": "2026-11-10",
-  "statusVerifiedOn": "2026-11-10",
+  "dataAsOf": "2026-11-18",
+  "statusVerifiedOn": "2026-11-18",
   "updates": [
     {
       "date": "2026-11-10",
@@ -286,6 +290,11 @@
       "date": "2026-11-10",
       "summary": "The separate NAION vision-loss MDL-3163 has 278 pending actions as of November 2, 2026, compared with 247 on October 1.",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "FDA required safety labeling changes addressing a potential increased risk of NAION with GLP-1 receptor agonists.",
+      "sourceUrl": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential"
     },
     {
       "date": "2026-10-23",
@@ -308,14 +317,14 @@
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
     },
     {
-      "date": "2026-09-14",
-      "summary": "JPML reports 4,022 pending actions on September 1, 2026, compared with 3,928 on August 3; 4,056 total historical actions are reported separately.",
-      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
-    },
-    {
       "date": "2026-09-25",
       "summary": "The scheduled Rule 702 hearing window ended September 18; the official public MDL orders page reviewed September 25 does not announce a ruling.",
       "sourceUrl": "https://www.paed.uscourts.gov/mdl/mdl3094/orders"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "JPML reports 4,022 pending actions on September 1, 2026, compared with 3,928 on August 3; 4,056 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
     {
       "date": "2026-09-14",

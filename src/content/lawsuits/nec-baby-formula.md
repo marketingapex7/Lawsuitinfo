@@ -34,11 +34,11 @@ timeline:
   -
     label: "Individual legal review"
     detail: "Counsel must assess product identification, warnings, causation, medical alternatives, applicable law, and deadlines."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-09-22"
 faqs:
   - question: "How many NEC baby formula cases are pending in the MDL?"
-    answer: "JPML reported 844 pending actions and 1,064 historical actions in MDL 3026 on October 1, 2026."
+    answer: "JPML reported 847 pending actions and 1,077 historical actions in MDL 3026 on November 2, 2026."
   - question: "Which companies are defendants in MDL 3026?"
     answer: "The federal litigation includes Abbott Laboratories and Mead Johnson entities. Product identification must come from the infant's own NICU and feeding records."
   - question: "Did the Seventh Circuit decide that formula causes NEC?"
@@ -60,9 +60,10 @@ faqs:
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
 <h2>NEC baby formula lawsuit: the short answer</h2>
+<p>Abbott’s November 4 filing says August 20 agreements cover Gill and claims involving about 2,000 additional infants. Abbott recorded an approximately $670 million charge tied to those agreements. The original CMO 15 listed November 25 opening briefs. The controlling schedule remains unverified. <a href="https://abbottinvestor.gcs-web.com/static-files/47469637-64da-49f8-9907-06acb5a09c54">Abbott November 4 Form 10-Q</a>.</p>
 <ul>
 <li><strong>Current stage:</strong> Active federal MDL with case-specific bellwether, appellate, jurisdiction, and pretrial proceedings.</li>
-<li><strong>Pending count:</strong> 844 actions on the October 1, 2026 JPML report; 1,057 is the separate historical total.</li>
+<li><strong>Pending count:</strong> 847 actions on the November 2, 2026 JPML report; 1,077 is the separate historical total.</li>
 <li><strong>Settlement:</strong> No global MDL settlement program or universal payout schedule was identified in reviewed official records.</li>
 <li><strong>Medical boundary:</strong> NICU feeding and treatment decisions require qualified clinicians who know the infant's condition.</li>
 </ul>
@@ -71,6 +72,7 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified NEC litigation updates</h2>
+<p>JPML lists 847 pending and 1,077 historical actions in MDL-3026 on November 2, compared with 844 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <h3>October 1, 2026: 844 actions pending</h3>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 847 pending and 1,064 historical actions. The August figures were 825 and 1,035.</p>
 <h3>July 24, 2026: Abbott bellwether judgment affirmed</h3>

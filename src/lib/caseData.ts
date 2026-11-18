@@ -42,7 +42,7 @@ const caseDataSchema = z.object({
         detail: z.string(),
         source: z.string().optional(),
         sourceUrl: z.string().optional(),
-        kind: z.enum(["global", "public-entity", "individual", "proposed", "none"]).optional(),
+        kind: z.enum(["global", "bankruptcy-trust", "public-entity", "individual", "proposed", "none"]).optional(),
         amount: z.string().optional(),
         individualClaims: z.string().optional(),
         verifiedOn: z.string().optional()
@@ -118,9 +118,13 @@ export function monthlyChange(data: CaseData) {
   return latest && previous ? latest.count - previous.count : undefined;
 }
 
-export function nextMajorDate(data: CaseData, asOf = data.dataAsOf) {
+export function isUpcomingDate(entry: CaseData["keyDates"][number], asOf: string) {
+  return entry.date >= asOf && (entry.status === "scheduled" || entry.status === undefined);
+}
+
+export function nextMajorDate(data: CaseData, asOf = new Date().toISOString().slice(0, 10)) {
   return data.keyDates
-    .filter((entry) => entry.date >= asOf && entry.status !== "cancelled" && entry.status !== "completed" && entry.status !== "historical")
+    .filter((entry) => isUpcomingDate(entry, asOf))
     .sort((a, b) => a.date.localeCompare(b.date))[0];
 }
 

@@ -10,9 +10,18 @@
     "judge": "Judge Richard Seeborg",
     "established": "2025-12-12"
   },
-  "phase": "Pretrial: arbitration motions being briefed; no trial date",
-  "phaseDetail": "The court is first deciding whether bellwether plaintiffs' claims must go to arbitration. A May 18, 2026 order set a fall 2026 briefing schedule for Roblox's and Discord's bellwether motions to compel arbitration, with the hearing to be set by the court; the public record reviewed does not show a ruling. Defenses under Section 230 and the First Amendment are also expected to be litigated. No trial date or settlement program has been announced; in April 2026 the court gave notice that it intends to appoint a settlement master to mediate.",
+  "phase": "Arbitration motions and settlement-master appointment",
+  "phaseDetail": "A June 22 court order appointed Thomas J. Perrelli as settlement master. The November 16 case-management setting has passed and its outcome remains unverified. Reported arbitration dates are awaiting verification against the schedule order.",
   "pendingCounts": [
+    {
+      "date": "2026-11-02",
+      "count": 196,
+      "totalFiled": 207,
+      "scope": "Pending actions in MDL-3166",
+      "source": "JPML MDL Statistics Report, November 2, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-10-01",
       "count": 180,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-3166",
       "source": "JPML MDL Statistics Report, October 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-09-01",
@@ -107,6 +116,22 @@
   ],
   "sources": [
     {
+      "name": "Filed arbitration motion with noticed hearing",
+      "url": "https://www.robertkinglawfirm.com/wp-content/uploads/2026/10/roblox-csa-lawsuit-omnibus-motion-to-compel-arbitration-september-2026.pdf"
+    },
+    {
+      "name": "Arizona’s attorney general announced a separate petition to compel compliance with a civil investigative demand",
+      "url": "https://www.azag.gov/press-release/attorney-general-mayes-asks-court-compel-roblox-comply-child-safety-investigation"
+    },
+    {
+      "name": "The court appointed Thomas J",
+      "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_25-md-03166/pdf/USCOURTS-cand-3_25-md-03166-17.pdf"
+    },
+    {
+      "name": "JPML lists 196 pending and 207 historical actions in MDL-3166 on November 2, compared with 180 pending on October 1",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
+    {
       "name": "JPML — MDL-3166 transfer order (Dec. 12, 2025)",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3166-Transfer_Order-12-25.pdf"
     },
@@ -143,18 +168,33 @@
       "url": "https://report.cybertip.org/"
     }
   ],
-  "dataAsOf": "2026-10-17",
-  "statusVerifiedOn": "2026-10-17",
+  "dataAsOf": "2026-11-18",
+  "statusVerifiedOn": "2026-11-18",
   "updates": [
+    {
+      "date": "2026-11-02",
+      "summary": "JPML lists 196 pending and 207 historical actions in MDL-3166 on November 2, compared with 180 pending on October 1.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "date": "2026-10-17",
       "summary": "JPML reports 180 pending actions in MDL-3166 on October 1, 2026, compared with 182 on September 1; 190 total historical actions are reported separately.",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
     },
     {
+      "date": "2026-10-16",
+      "summary": "Arizona’s attorney general announced a separate petition to compel compliance with a civil investigative demand.",
+      "sourceUrl": "https://www.azag.gov/press-release/attorney-general-mayes-asks-court-compel-roblox-comply-child-safety-investigation"
+    },
+    {
       "date": "2026-09-01",
       "summary": "JPML reports 182 pending actions on September 1, 2026, compared with 177 on August 3.",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
+    },
+    {
+      "date": "2026-06-22",
+      "summary": "The court appointed Thomas J. Perrelli as settlement master.",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_25-md-03166/pdf/USCOURTS-cand-3_25-md-03166-17.pdf"
     },
     {
       "date": "2026-05-18",

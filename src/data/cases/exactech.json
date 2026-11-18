@@ -57,7 +57,7 @@
   "settlements": [
     {
       "label": "Bankruptcy plan and Settlement Trust govern claim administration",
-      "kind": "global",
+      "kind": "bankruptcy-trust",
       "status": "post-confirmation administration",
       "detail": "The September 2025 confirmation order approved a Chapter 11 plan that created a Settlement Trust and transferred specified rights and responsibilities to post-confirmation trusts. That process is not a verified universal payment amount for every recalled-device claim.",
       "individualClaims": "Eligibility, allowed-claim status, deadlines, valuation, insurance recovery, and distributions require review of the confirmed plan and trust procedures.",

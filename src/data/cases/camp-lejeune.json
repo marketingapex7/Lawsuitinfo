@@ -10,8 +10,8 @@
     "judge": "Cases distributed among the district's judges; magistrate coordination",
     "established": "2022-08-10"
   },
-  "phase": "Existing claims and settlement processing; new administrative claims closed",
-  "phaseDetail": "DOJ's claims page, reviewed November 10, 2026, still reports more than $1.1 billion offered and more than $879 million paid as of September 18, 2026. It also states that DOJ is not reconsidering Elective Option determinations or accepting additional EO documentation. The new administrative claim window closed August 10, 2024; timely claims remain subject to individual notices, court deadlines and settlement terms.",
+  "phase": "Timely claims and settlement processing continue",
+  "phaseDetail": "The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. On November 16 the court heard the Marine Corps data discovery motion and took it under advisement. The next hearing is December 9 at 11 a.m. ET in Wilmington. The administrative filing window closed August 10, 2024.",
   "pendingCounts": [],
   "defendants": [
     "United States of America (Department of the Navy)"
@@ -21,12 +21,12 @@
       "label": "Elective Option and CLJA settlement activity",
       "kind": "individual",
       "status": "active",
-      "amount": "More than $1.1 billion offered; more than $879 million paid (September 18, 2026)",
-      "detail": "DOJ’s September 18, 2026 totals describe aggregate CLJA settlement activity. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.",
+      "amount": "$1.232 billion in approved offers and $981 million paid as reported November 9, 2026",
+      "detail": "The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. Elective Option amounts depend on diagnosis and exposure tiers, and individual payment depends on eligibility and completed documents.",
       "individualClaims": "DOJ says accepted EO offers can be paid within 60 days or less with timely, accurate payment documents. That is not a deadline for receiving an offer. Its current notice says EO determinations are not being reconsidered and additional EO documentation is not accepted; payment paperwork is a separate step.",
-      "verifiedOn": "2026-11-10",
-      "source": "DOJ CLJA claims information",
-      "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
+      "verifiedOn": "2026-11-18",
+      "source": "November 9 DOJ settlement notice",
+      "sourceUrl": "https://camplejeunecourtinfo.com/wp-content/uploads/Settlement_Notice_2026_11_09_Final.pdf"
     }
   ],
   "keyDates": [
@@ -73,10 +73,40 @@
       "kind": "milestone",
       "status": "completed",
       "appliesTo": "Aggregate CLJA settlement activity"
+    },
+    {
+      "date": "2026-11-16",
+      "label": "Marine Corps data discovery hearing held",
+      "detail": "The court took the discovery motion under advisement.",
+      "appliesTo": "Camp Lejeune federal litigation",
+      "kind": "court",
+      "status": "completed",
+      "source": "Marine Corps data discovery hearing held",
+      "sourceUrl": "https://camplejeunecourtinfo.com/wp-content/uploads/cl-944-minute-entry.pdf",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-12-09",
+      "label": "Camp Lejeune hearing",
+      "detail": "11 a.m. ET in Wilmington.",
+      "appliesTo": "Camp Lejeune federal litigation",
+      "kind": "court",
+      "status": "scheduled",
+      "source": "Camp Lejeune hearing",
+      "sourceUrl": "https://camplejeunecourtinfo.com/wp-content/uploads/cl-944-minute-entry.pdf",
+      "verifiedOn": "2026-11-18"
     }
   ],
   "deadlineOverride": "The Navy stopped accepting new Camp Lejeune Justice Act administrative claims after August 10, 2024. State personal-injury deadlines do not reopen that federal window. A timely administrative claim does not eliminate later deadlines following denial, court orders or settlement offers; the notice and individual claim history need separate review.",
   "sources": [
+    {
+      "name": "On November 16 the court heard the Marine Corps data discovery motion and took it under advisement",
+      "url": "https://camplejeunecourtinfo.com/wp-content/uploads/cl-944-minute-entry.pdf"
+    },
+    {
+      "name": "The November 9 DOJ filing reports $1",
+      "url": "https://camplejeunecourtinfo.com/wp-content/uploads/Settlement_Notice_2026_11_09_Final.pdf"
+    },
     {
       "name": "U.S. Department of Justice — Camp Lejeune Claims information",
       "url": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
@@ -98,13 +128,23 @@
       "url": "https://www.nced.uscourts.gov/attorney/clwl.aspx"
     }
   ],
-  "dataAsOf": "2026-11-10",
-  "updateNote": "DOJ's public claims page and the E.D.N.C. litigation information page were reviewed November 10, 2026. The DOJ totals remain explicitly dated September 18, 2026; this review does not make them November totals. The current DOJ notice about EO determinations and additional documentation has been added. Earlier unsupported court and administrative totals remain excluded; those measures are not interchangeable with pending cases.",
+  "dataAsOf": "2026-11-18",
+  "updateNote": "The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. On November 16 the court heard the Marine Corps data discovery motion and took it under advisement. The next hearing is December 9 at 11 a.m. ET in Wilmington. The administrative filing window closed August 10, 2024.",
   "updates": [
+    {
+      "date": "2026-11-16",
+      "summary": "On November 16 the court heard the Marine Corps data discovery motion and took it under advisement. The next hearing is December 9 at 11 a.m. ET in Wilmington.",
+      "sourceUrl": "https://camplejeunecourtinfo.com/wp-content/uploads/cl-944-minute-entry.pdf"
+    },
     {
       "date": "2026-11-10",
       "summary": "Source review: DOJ's current notice says EO determinations are not being reconsidered and additional EO documentation is not accepted. Its published aggregate settlement totals remain dated September 18, 2026.",
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints.",
+      "sourceUrl": "https://camplejeunecourtinfo.com/wp-content/uploads/Settlement_Notice_2026_11_09_Final.pdf"
     },
     {
       "date": "2026-09-18",
@@ -127,5 +167,5 @@
       "sourceUrl": "https://www.justice.gov/civil/camp-lejeune-justice-act-claims"
     }
   ],
-  "statusVerifiedOn": "2026-11-10"
+  "statusVerifiedOn": "2026-11-18"
 }

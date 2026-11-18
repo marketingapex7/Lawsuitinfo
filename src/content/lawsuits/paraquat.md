@@ -32,7 +32,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-09-16"
 faqs:
   -
@@ -83,8 +83,9 @@ faqs:
 
 <section id="latest-update">
 <h2>Paraquat lawsuit update: settlement administration and opt-out cases</h2>
+<p>October 15 CMO 27 applies to specified Smith firm plaintiffs. The October 28 records deadline has passed, and the order gives February 16, 2027 for depositions. The October 29 order canceled the November 5 discovery conference. <a href="https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO27.pdf">CMO 27</a> · <a href="https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder10-29-26.pdf">Cancellation order</a>.</p>
 <p><strong>Settlement administration and selected opt-out proceedings.</strong> The court continues to administer the confidential agreement for certain individual paraquat claims identified in CMO 24. June orders selected opt-out cases for limited discovery. A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>6,602 pending actions</strong> in MDL-3004, compared with 6,666 on September 1. Its 8,495 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>6,635 pending actions</strong> in MDL-3004, compared with 6,602 on October 1. Its 8,529 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
 <p><a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">Official court records</a> checked September 16, 2026.</p>
 </section>
 
@@ -100,7 +101,7 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-3004; U.S. District Court, Southern District of Illinois</li>
 <li><strong>Judge:</strong> Judge Nancy J. Rosenstengel</li>
 <li><strong>JPML transfer date:</strong> 2021-06-07</li>
-<li><strong>Pending actions:</strong> 6,602 as of October 1, 2026</li>
+<li><strong>Pending actions:</strong> 6,635 as of November 2, 2026</li>
 <li><strong>Current phase:</strong> Settlement administration and selected opt-out proceedings</li>
 <li><strong>Settlement:</strong> CMO 24 identifies a confidential Master Settlement Agreement executed September 3, 2025 for certain individual claims. The special master reviews qualification, eligibility and opt-out information. Public orders checked September 14, 2026 do not disclose a payout grid, settlement total or average individual award. A pending MDL action does not by itself establish settlement eligibility.</li>
 </ul>
@@ -128,6 +129,7 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
+<p>JPML lists 6,635 pending and 8,529 historical actions in MDL-3004 on November 2, compared with 6,602 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <ul>
 <li>JPML reports 6,602 pending actions on October 1, 2026, compared with 6,666 on September 1; 8,495 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
 <li>A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases. <a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">Source</a></li>
@@ -208,7 +210,7 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 16, 2026 against <a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">public court records</a>; these public indexes are not complete live dockets.</p>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 16, 2026 against <a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
 <li><a href="https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation">A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases.</a></li>
 <li><a href="https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO24.pdf">CMO 24 identifies the September 3, 2025 agreement and the special master’s role in eligibility, offers and opt-out information.</a></li>

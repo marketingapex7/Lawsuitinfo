@@ -13,7 +13,7 @@ const breadcrumbs = [
   { name: "Settlement Tracker", url: "/settlements/" }
 ];
 const rows = cases.flatMap((item) => item.settlements.map((settlement) => ({ item, settlement })));
-const kindLabel = { global: "Global settlement", "public-entity": "Government / public entity", individual: "Individual claims", proposed: "Proposed settlement", none: "No announced settlement" };
+const kindLabel = { global: "Global settlement", "bankruptcy-trust": "Chapter 11 Settlement Trust", "public-entity": "Government / public entity", individual: "Individual claims", proposed: "Proposed settlement", none: "No announced settlement" };
 const statusLabel = (status: string) => status === "none" ? "No public settlement program identified" : status;
 ---
 

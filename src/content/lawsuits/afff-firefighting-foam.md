@@ -33,7 +33,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-11-11"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-11-11"
 faqs:
   -
@@ -64,8 +64,8 @@ faqs:
     question: "What is the AFFF lawsuit settlement status?"
     answer: "3M signed a November 3, 2026 personal-injury agreement with a $7.35 billion nominal commitment through 2034, subject to participation thresholds. The agreement is separate from the public-water-system settlements and provides no fixed payout for every individual claimant."
   -
-    question: "Who has to act by November 13 in the AFFF lawsuit?"
-    answer: "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate."
+    question: "Who was covered by the November 13 AFFF identification deadline?"
+    answer: "The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions."
   -
     question: "What PFAS exposure records may matter?"
     answer: "Fire department records, military records, airport or industrial employment records, training logs, incident reports, foam-use records, water testing records, address history, and medical records may be relevant."
@@ -89,7 +89,7 @@ faqs:
 <span id="status"></span><span id="case-status-snapshot"></span>
 <h2>AFFF lawsuit update: November 2026 status</h2>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> lists <strong>15,270 pending actions</strong> in MDL-2873, up from 15,264 on October 1. The separate historical total is 19,846 actions, not a count of people eligible for payment.</p>
-<p><strong>November 13 claimant identification:</strong> Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate. <a href="https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf">Read CMO 39</a>.</p>
+<p><strong>November 13 claimant identification:</strong> The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions. <a href="https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf">Read CMO 39</a>.</p>
 <p><a href="https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11964.0.pdf">Read CMO 40</a>. CMO 40 stays covered MDL proceedings as to 3M, subject to the procedures and exceptions in CMOs 39 and 40. The stay leaves claims against other defendants outside its scope. Earlier orders set Group B and Rule 702 deadlines. Read those schedules with the scope and exceptions of the later stay in mind.</p>
 <p>The <a href="https://www.pfaswatersettlement.com/">official administrator</a> lists four additional proposed C.A.A.N. water-system settlements with preliminary approval. They are separate from individual injury claims. <a href="#afff-settlement-status">See the settlement explanation and upcoming dates</a>.</p>
 <p>For a possible injury claim, review <a href="#afff-qualifications">exposure and diagnosis factors</a> and <a href="#afff-deadlines">deadline considerations</a>. The <a href="/lawsuits/afff-pfas/settlement/">AFFF settlement guide</a> explains the different claim types.</p>

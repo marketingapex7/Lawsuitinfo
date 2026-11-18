@@ -2,3 +2,5 @@
 /lawsuits/afff-firefighting-foam/:state/ /lawsuits/afff-pfas/:state/ 301
 /afff-pfas/ /lawsuits/afff-pfas/ 301
 /afff-pfas/:state/ /lawsuits/afff-pfas/:state/ 301
+/ozempic-lawsuit /lawsuits/ozempic/ 301
+/ozempic-lawsuit/ /lawsuits/ozempic/ 301

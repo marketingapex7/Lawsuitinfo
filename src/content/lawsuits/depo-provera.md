@@ -1,6 +1,6 @@
 ---
 title: "Depo-Provera Lawsuit Guide"
-description: "Depo-Provera lawsuit update: court status, settlement information, filing deadlines and state resources."
+description: "Eligible participants have until November 30, 2026 to register for the private Depo-Provera settlement. On October 29 the court approved establishment of the qualified settlement and common-benefit funds."
 lawsuit: "Depo-Provera"
 urlSlug: "depo-provera"
 category: "Defective Drug"
@@ -33,7 +33,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-10-11"
 faqs:
   -
@@ -79,14 +79,16 @@ faqs:
 
 <section id="overview">
 <h2>What the Depo-Provera lawsuit is about</h2>
+<p>Eligible participants have until November 30, 2026 to register for the private Depo-Provera settlement. On October 29 the court approved establishment of the qualified settlement and common-benefit funds. <a href="https://flnd.uscourts.gov/sites/flnd/files/mdl/Order%2010-29-26%20Establishment%20of%20Qualified%20Settlement%20%26%20Common%20Benefit%20Funds.pdf">October 29 court order</a>.</p>
 <p>Depo-Provera lawsuits allege that the contraceptive injection caused intracranial meningiomas and that warnings were inadequate. Federal MDL-3140 is before Judge M. Casey Rodgers in Florida. Pfizer and the Pharmacia defendants dispute liability. Court orders now confirm a private settlement program for eligible claims alongside continued litigation for other plaintiffs.</p>
 </section>
 
 <section id="latest-update">
 <h2>Depo-Provera Lawsuit update: October 2026</h2>
+<p>The court lists December 18 case management at 9 a.m. CT. <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">Court calendar</a>.</p>
 <p><strong>Settlement registration; litigation continues for remaining claims.</strong> Court orders confirm a private settlement program documented in July 2026. CMO 13 appoints BrownGreer as administrator, and CMO 14 identifies November 30, 2026 as the registration deadline. CMO 12 states that the original December Pilot trial was canceled; the court calendar listed a September 18 Rule 702 hearing for ongoing litigation, and the public orders page reviewed October 11 does not state an outcome. Eligibility and payments are not automatic.</p>
 <p>On September 4, the court added three settlement-administration appointments: a supplemental compensation fund allocation master (<a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20CMO%2015.pdf">CMO 15</a>), a qualified settlement fund administrator (<a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20CMO%2016.pdf">CMO 16</a>) and a lien resolution master (<a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20CMO%2017.pdf">CMO 17</a>). The court's MDL page lists the next case management conference for December 18, 2026. The orders page reviewed October 11 still shows no ruling from the September 18 Rule 702 hearing.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>6,412 pending actions</strong> in MDL-3140, compared with 6,403 on September 1. Its 6,524 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>6,413 pending actions</strong> in MDL-3140, compared with 6,412 on October 1. Its 6,525 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
 <p><a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">Official court records</a> checked October 11, 2026.</p>
 </section>
 
@@ -96,7 +98,7 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-3140; U.S. District Court, Northern District of Florida (Pensacola)</li>
 <li><strong>Judge:</strong> Judge M. Casey Rodgers</li>
 <li><strong>JPML transfer date:</strong> 2025-02-07</li>
-<li><strong>Pending actions:</strong> 6,412 as of October 1, 2026</li>
+<li><strong>Pending actions:</strong> 6,413 as of November 2, 2026</li>
 <li><strong>Current phase:</strong> Settlement registration; litigation continues for remaining claims</li>
 <li><strong>Settlement:</strong> Court orders confirm a confidential settlement program for eligible Depo-Provera claims, with BrownGreer appointed administrator on August 5, 2026. CMO 14 identifies November 30, 2026 as the registration deadline. The public orders reviewed October 11 do not disclose an aggregate fund or individual payout grid. This is a private agreement, not a class settlement requiring a fairness hearing. Nonparticipating and ineligible claims continue under court procedures.</li>
 </ul>
@@ -104,6 +106,7 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
+<p>JPML lists 6,413 pending and 6,525 historical actions in MDL-3140 on November 2, compared with 6,412 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <ul>
 <li>September 4 orders appoint a supplemental compensation fund allocation master, a qualified settlement fund administrator and a lien resolution master (CMOs 15–17). <a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/Depo%20CMO%2016.pdf">Source</a></li>
 <li>JPML reports 6,412 pending actions on October 1, 2026, compared with 6,403 on September 1; 6,524 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
@@ -167,7 +170,7 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked October 11, 2026 against <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">public court records</a>; these public indexes are not complete live dockets.</p>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked October 11, 2026 against <a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
 <li><a href="https://www.flnd.uscourts.gov/mdl3140-orders-by-date">The court calendar listed a September 18 Rule 702 hearing; the date has passed without an outcome posted on the public orders page.</a></li>
 <li><a href="https://www.flnd.uscourts.gov/sites/flnd/files/mdl/CMO%20No%2013%20Appointment%20of%20Settlement%20Administrator.pdf">The August 5 CMO 13 appoints BrownGreer PLC as settlement administrator to review records and determine eligibility.</a></li>

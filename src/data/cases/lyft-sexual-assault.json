@@ -10,9 +10,18 @@
     "judge": "Judge Rita F. Lin",
     "established": "2026-02-05"
   },
-  "phase": "Early pretrial stage; federal cases growing quickly",
-  "phaseDetail": "The JPML created MDL-3171 on February 5, 2026 over Lyft's opposition. The federal docket roughly doubled between the August and October 2026 JPML reports. No bellwether trial date or settlement program was identified in records reviewed October 17, 2026. A separate California state-court coordinated proceeding (JCCP No. 5061) also handles Lyft cases.",
+  "phase": "Federal pretrial and fact-sheet compliance",
+  "phaseDetail": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets.",
   "pendingCounts": [
+    {
+      "date": "2026-11-02",
+      "count": 150,
+      "totalFiled": 164,
+      "scope": "Pending actions in MDL-3171",
+      "source": "JPML MDL Statistics Report, November 2, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-10-01",
       "count": 134,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-3171",
       "source": "JPML MDL Statistics Report, October 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-09-01",
@@ -78,9 +87,28 @@
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
       "verifiedOn": "2026-10-17",
       "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-11-23",
+      "label": "Fact-sheet show-cause responses due",
+      "detail": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets.",
+      "appliesTo": "Plaintiffs in the six cases named in the November 9 order",
+      "kind": "claim",
+      "status": "scheduled",
+      "source": "Fact-sheet show-cause responses due",
+      "sourceUrl": "https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf",
+      "verifiedOn": "2026-11-18"
     }
   ],
   "sources": [
+    {
+      "name": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets",
+      "url": "https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf"
+    },
+    {
+      "name": "JPML lists 150 pending and 164 historical actions in MDL-3171 on November 2, compared with 134 pending on October 1",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "name": "JPML — MDL-3171 transfer order (Feb. 5, 2026)",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf"
@@ -102,9 +130,19 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-October-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-10-17",
-  "statusVerifiedOn": "2026-10-17",
+  "dataAsOf": "2026-11-18",
+  "statusVerifiedOn": "2026-11-18",
   "updates": [
+    {
+      "date": "2026-11-09",
+      "summary": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets.",
+      "sourceUrl": "https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf"
+    },
+    {
+      "date": "2026-11-02",
+      "summary": "JPML lists 150 pending and 164 historical actions in MDL-3171 on November 2, compared with 134 pending on October 1.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "date": "2026-10-17",
       "summary": "JPML reports 134 pending actions in MDL-3171 on October 1, 2026, up from 106 on September 1; 148 total historical actions are reported separately.",

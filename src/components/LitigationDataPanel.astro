@@ -1,5 +1,5 @@
 ---
-import { formatCount, latestPendingCount, secondaryPendingCounts, type CaseData } from "@lib/caseData";
+import { formatCount, isUpcomingDate, latestPendingCount, secondaryPendingCounts, type CaseData } from "@lib/caseData";
 import { formatDate } from "@lib/site";
 
 interface Props {
@@ -9,8 +9,9 @@ interface Props {
 const { data } = Astro.props;
 const latest = latestPendingCount(data);
 const secondary = secondaryPendingCounts(data);
-const upcoming = data.keyDates.filter((d) => d.date >= data.dataAsOf);
-const past = data.keyDates.filter((d) => d.date < data.dataAsOf).slice(-3);
+const today = new Date().toISOString().slice(0, 10);
+const upcoming = data.keyDates.filter((entry) => isUpcomingDate(entry, today));
+const past = data.keyDates.filter((entry) => !isUpcomingDate(entry, today)).slice(-3);
 ---
 
 <aside class="rounded-lg border border-line border-t-4 border-t-accent-dark bg-white p-4 shadow-sm">
@@ -84,6 +85,7 @@ const past = data.keyDates.filter((d) => d.date < data.dataAsOf).slice(-3);
           <li class="rounded-md border border-line bg-panel p-2.5">
             <p class="text-xs font-bold uppercase tracking-[0.08em] text-accent-dark">{formatDate(item.date)}</p>
             <p class="mt-0.5 text-sm font-semibold leading-5 text-ink">{item.label}</p>
+            {item.appliesTo && <p class="mt-1 text-xs text-muted">Applies to: {item.appliesTo}</p>}
           </li>
         ))}
       </ul>

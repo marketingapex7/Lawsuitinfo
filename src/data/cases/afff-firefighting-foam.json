@@ -11,7 +11,7 @@
     "established": "2018-12-07"
   },
   "phase": "3M personal-injury agreement and claimant identification; separate water-system settlements",
-  "phaseDetail": "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate. CMO 40 stays covered MDL proceedings as to 3M, subject to the procedures and exceptions in CMOs 39 and 40. The stay leaves claims against other defendants outside its scope.",
+  "phaseDetail": "The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions. CMO 40 stays covered MDL proceedings as to 3M, subject to the procedures and exceptions in CMOs 39 and 40. The stay leaves claims against other defendants outside its scope.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -75,7 +75,7 @@
       "sourceUrl": "https://investors.3m.com/financials/sec-filings/content/0000066740-26-000318/mmm-20261103.htm",
       "verifiedOn": "2026-11-11",
       "kind": "global",
-      "individualClaims": "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate."
+      "individualClaims": "The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions."
     },
     {
       "label": "3M — public water systems",
@@ -164,19 +164,19 @@
     },
     {
       "date": "2026-11-13",
-      "label": "3M personal-injury claimant identification due",
-      "detail": "Under CMO 39, counsel must identify eligible clients, including eligible unfiled clients, by November 13, 2026. Eligible people already representing themselves in the MDL on covered personal-injury claims against 3M must identify themselves by the same date. Identification is the first step. The settlement election and claim package are separate.",
+      "label": "3M personal-injury claimant identification deadline passed",
+      "detail": "The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions.",
       "sourceUrl": "https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf",
       "source": "District of South Carolina CMO 39 (ECF 11962)",
       "verifiedOn": "2026-11-11",
       "kind": "claim",
-      "status": "scheduled",
+      "status": "historical",
       "appliesTo": "Counsel for eligible claimants and eligible self-represented MDL plaintiffs under CMO 39"
     },
     {
       "date": "2026-11-20",
       "label": "Group B proposals due",
-      "detail": "CMO 26O extends the July 20 proposal date to November 20. Read the earlier schedule with the later CMO 40 stay as to 3M.",
+      "detail": "CMO 26O extends the July 20 proposal date to November 20. Read the earlier schedule with the later CMO 40 stay as to 3M. CMO 40 stays covered proceedings as to 3M. Check the scope and exceptions in that order before applying this date to a 3M claim.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf",
       "source": "Official court or settlement record",
       "verifiedOn": "2026-11-10",
@@ -187,7 +187,7 @@
     {
       "date": "2026-11-20",
       "label": "Thyroid/liver-cancer Rule 702 responses due",
-      "detail": "CMO 33F sets the response deadline; this is briefing, not a trial. Read the earlier schedule with the later CMO 40 stay as to 3M.",
+      "detail": "CMO 33F sets the response deadline; this is briefing, not a trial. Read the earlier schedule with the later CMO 40 stay as to 3M. CMO 40 stays covered proceedings as to 3M. Check the scope and exceptions in that order before applying this date to a 3M claim.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
       "source": "Official court or settlement record",
       "verifiedOn": "2026-11-10",
@@ -231,7 +231,7 @@
     {
       "date": "2027-01-22",
       "label": "Thyroid/liver-cancer Rule 702 replies due",
-      "detail": "CMO 33F sets the reply deadline. Read the earlier schedule with the later CMO 40 stay as to 3M.",
+      "detail": "CMO 33F sets the reply deadline. Read the earlier schedule with the later CMO 40 stay as to 3M. CMO 40 stays covered proceedings as to 3M. Check the scope and exceptions in that order before applying this date to a 3M claim.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
       "source": "Official court or settlement record",
       "verifiedOn": "2026-11-10",
@@ -318,9 +318,14 @@
       "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf"
     }
   ],
-  "dataAsOf": "2026-11-11",
-  "statusVerifiedOn": "2026-11-11",
+  "dataAsOf": "2026-11-18",
+  "statusVerifiedOn": "2026-11-18",
   "updates": [
+    {
+      "date": "2026-11-18",
+      "summary": "The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions.",
+      "sourceUrl": "https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf"
+    },
     {
       "date": "2026-11-11",
       "summary": "3M signed a November 3, 2026 personal-injury agreement with a $7.35 billion nominal commitment through 2034, subject to participation thresholds. The agreement is separate from the public-water-system settlements and provides no fixed payout for every individual claimant.",

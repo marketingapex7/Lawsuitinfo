@@ -10,9 +10,18 @@
     "judge": "Judge Nancy J. Rosenstengel",
     "established": "2021-06-07"
   },
-  "phase": "Settlement administration and selected opt-out proceedings",
-  "phaseDetail": "The court continues to administer the confidential agreement for certain individual paraquat claims identified in CMO 24. June orders selected opt-out cases for limited discovery. The court canceled the September 15, 2026 hearing concerning attorney Mark DiCello’s cases in a September 11 order.",
+  "phase": "Federal discovery and claimant-specific deadlines",
+  "phaseDetail": "October 15 CMO 27 applies to specified Smith firm plaintiffs. The October 28 records deadline has passed, and the order gives February 16, 2027 for depositions. The October 29 order canceled the November 5 discovery conference.",
   "pendingCounts": [
+    {
+      "date": "2026-11-02",
+      "count": 6635,
+      "totalFiled": 8529,
+      "scope": "Pending actions in MDL-3004",
+      "source": "JPML MDL Statistics Report, November 2, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-10-01",
       "count": 6602,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-3004",
       "source": "JPML MDL Statistics Report, October 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-09-01",
@@ -109,9 +118,50 @@
       "kind": "court",
       "status": "cancelled",
       "appliesTo": "Attorney Mark DiCello’s cases"
+    },
+    {
+      "date": "2026-10-28",
+      "label": "Smith firm records deadline passed",
+      "detail": "Applies to the plaintiffs specified in October 15 CMO 27.",
+      "appliesTo": "Specified Smith firm plaintiffs",
+      "kind": "claim",
+      "status": "historical",
+      "source": "Smith firm records deadline passed",
+      "sourceUrl": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO27.pdf",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Discovery conference canceled",
+      "detail": "The October 29 order canceled the November 5 conference.",
+      "appliesTo": "Federal MDL discovery",
+      "kind": "court",
+      "status": "cancelled",
+      "source": "Discovery conference canceled",
+      "sourceUrl": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder10-29-26.pdf",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2027-02-16",
+      "label": "Smith firm plaintiff depositions due",
+      "detail": "CMO 27 gives this deadline for the specified group.",
+      "appliesTo": "Specified Smith firm plaintiffs",
+      "kind": "claim",
+      "status": "scheduled",
+      "source": "Smith firm plaintiff depositions due",
+      "sourceUrl": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO27.pdf",
+      "verifiedOn": "2026-11-18"
     }
   ],
   "sources": [
+    {
+      "name": "The court canceled the November 5 discovery conference",
+      "url": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder10-29-26.pdf"
+    },
+    {
+      "name": "JPML lists 6,635 pending and 8,529 historical actions in MDL-3004 on November 2, compared with 6,602 pending on October 1",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "name": "JPML — October 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
@@ -145,23 +195,33 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-10-11",
-  "statusVerifiedOn": "2026-09-16",
+  "dataAsOf": "2026-11-18",
+  "statusVerifiedOn": "2026-11-18",
   "updates": [
+    {
+      "date": "2026-11-02",
+      "summary": "JPML lists 6,635 pending and 8,529 historical actions in MDL-3004 on November 2, compared with 6,602 pending on October 1.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
+    {
+      "date": "2026-10-29",
+      "summary": "The court canceled the November 5 discovery conference.",
+      "sourceUrl": "https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder10-29-26.pdf"
+    },
     {
       "date": "2026-10-11",
       "summary": "JPML reports 6,602 pending actions in MDL-3004 on October 1, 2026, down 64 from 6,666 on September 1; 8,495 total historical actions are reported separately.",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
     },
     {
-      "date": "2026-09-14",
-      "summary": "JPML reports 6,666 pending actions on September 1, 2026, compared with 6,665 on August 3; 8,488 total historical actions are reported separately.",
-      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
-    },
-    {
       "date": "2026-09-16",
       "summary": "A September 11 order canceled the September 15 hearing concerning attorney Mark DiCello’s cases.",
       "sourceUrl": "https://www.ilsd.uscourts.gov/paraquat-products-liability-litigation"
+    },
+    {
+      "date": "2026-09-14",
+      "summary": "JPML reports 6,666 pending actions on September 1, 2026, compared with 6,665 on August 3; 8,488 total historical actions are reported separately.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf"
     },
     {
       "date": "2026-09-14",

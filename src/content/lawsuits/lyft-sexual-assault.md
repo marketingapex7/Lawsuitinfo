@@ -32,13 +32,13 @@ timeline:
   -
     label: "Individual claim review"
     detail: "A lawyer compares the facts with the court record, the state filing deadline, and any special rules for sexual assault claims."
-lastUpdated: "2026-10-17"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-10-17"
 faqs:
   - question: "What is the Lyft sexual assault lawsuit about?"
     answer: "Riders allege that Lyft failed to screen and train drivers, respond to complaints, and add safety features such as video and audio monitoring, and that those failures led to sexual assaults and harassment during rides. Lyft disputes the allegations. Federal cases are coordinated in MDL-3171 before Judge Rita F. Lin in San Francisco."
   - question: "How many Lyft sexual assault cases are pending?"
-    answer: "The JPML reported 134 pending actions in MDL-3171 on October 1, 2026, up from 106 on September 1 and 72 on August 3. Cases in California state court are counted separately."
+    answer: "The JPML reported 150 pending actions in MDL-3171 on November 2, 2026, compared with 134 on October 1. Cases in California state court are counted separately."
   - question: "Is the Lyft case part of the Uber lawsuit?"
     answer: "No. Uber cases are in a separate MDL (MDL-3084) before a different judge. The two MDLs raise similar issues but are separate proceedings with separate defendants."
   - question: "Has Lyft settled?"
@@ -60,7 +60,9 @@ faqs:
 <section id="latest-update">
 <span id="status"></span><span id="litigation-updates"></span>
 <h2>Lyft sexual assault lawsuit update</h2>
-<p><strong>The federal docket nearly doubled in two months.</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>134 pending actions</strong> in <a href="/mdl/3171/">MDL-3171</a>, up from 106 on September 1 and 72 on August 3. Its 148 total historical actions include cases no longer pending.</p>
+<p>The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets. <a href="https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf">November 9 order</a>.</p>
+<p>JPML lists 150 pending and 164 historical actions in MDL-3171 on November 2, compared with 134 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
+<p><strong>The federal docket nearly doubled in two months.</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>150 pending actions</strong> in <a href="/mdl/3171/">MDL-3171</a>, compared with 134 on October 1. Its 164 total historical actions include cases no longer pending.</p>
 <p>The MDL is less than a year old. No bellwether trial date or settlement program was identified in records reviewed October 17, 2026.</p>
 <h3>February 5, 2026: MDL created over Lyft's objection</h3>
 <p>The JPML centralized 17 actions from 10 districts before Judge Rita F. Lin. Lyft argued that the claims belonged in the California state coordinated proceeding, JCCP No. 5061. The Panel disagreed, saying it "cannot require these or any future plaintiffs to file in California state court." It chose San Francisco partly because Lyft is headquartered there and because that would help coordination with the state cases.</p>
@@ -72,7 +74,7 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-3171, U.S. District Court, Northern District of California</li>
 <li><strong>Judge:</strong> Judge Rita F. Lin</li>
 <li><strong>JPML transfer date:</strong> February 5, 2026</li>
-<li><strong>Pending actions:</strong> 134 as of October 1, 2026</li>
+<li><strong>Pending actions:</strong> 150 as of November 2, 2026</li>
 <li><strong>Parallel state cases:</strong> California JCCP No. 5061</li>
 <li><strong>Settlement:</strong> none announced</li>
 </ul>
@@ -90,6 +92,6 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The claims, the Panel's reasoning and the JCCP reference come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf">February 5, 2026 transfer order</a>. Status was reviewed October 17, 2026.</p>
+<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The claims, the Panel's reasoning and the JCCP reference come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf">February 5, 2026 transfer order</a>. Status was reviewed October 17, 2026.</p>
 <p>Lyft disputes the allegations. Pending-case counts do not establish settlement eligibility.</p>
 </section>

@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-09-14"
 faqs:
   - question: "How much are Suboxone tooth-decay settlements worth?"
@@ -71,6 +71,7 @@ faqs:
 <section id="litigation-updates">
 <span id="timeline"></span>
 <h2>Verified litigation updates: what they mean</h2>
+<p>JPML lists 2,016 pending and 2,129 historical actions in MDL-3092 on November 2, compared with 2,022 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <h3>October 1, 2026: 2,022 pending actions</h3>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 2,022 pending actions, up 195 from 1,827 on September 1. The 2,112 historical total includes actions no longer pending.</p>
 <p><strong>For readers:</strong> These figures describe the federal docket. They do not count approved claims or people entitled to payment, and an unchanged total does not mean court work stopped.</p>

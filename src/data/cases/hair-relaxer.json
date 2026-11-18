@@ -10,9 +10,18 @@
     "judge": "Judge Mary M. Rowland",
     "established": "2023-02-06"
   },
-  "phase": "Active discovery and settlement coordination",
-  "phaseDetail": "CMO 24, filed August 27, 2026, sets discovery deadlines for specifically named second-wave defendants through July 15, 2027. Those deadlines do not apply to every defendant and are not trial dates. CMO 17 appointed a settlement special master but expressly cautions that the appointment does not signal the likelihood or timing of a settlement. Defendants dispute liability and causation.",
+  "phase": "General-causation rulings and second-wave discovery",
+  "phaseDetail": "The October 22 and November 12 general-causation rulings admitted some expert testimony on uterine and ovarian cancer and limited other opinions. The November 12 order excluded two experts. The September 29 second-wave written discovery response date has passed.",
   "pendingCounts": [
+    {
+      "date": "2026-11-02",
+      "count": 12743,
+      "totalFiled": 17018,
+      "scope": "Pending actions in MDL-3060",
+      "source": "JPML MDL Statistics Report, November 2, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-10-01",
       "count": 12381,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-3060",
       "source": "JPML MDL Statistics Report, October 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-09-01",
@@ -110,7 +119,7 @@
       "source": "Court or agency primary record",
       "verifiedOn": "2026-09-14",
       "kind": "court",
-      "status": "scheduled",
+      "status": "historical",
       "appliesTo": "Second-wave defendants named in CMO 24"
     },
     {
@@ -126,6 +135,18 @@
     }
   ],
   "sources": [
+    {
+      "name": "Minnesota’s attorney general announced a separate consumer-protection lawsuit on October 23 concerning chemical hair relaxer marketing",
+      "url": "https://www.ag.state.mn.us/Office/Communications/2026/10/23_Toxic-Hair-Relaxer.asp"
+    },
+    {
+      "name": "The October 22 and November 12 general-causation rulings admitted some expert testimony on uterine and ovarian cancer and limited other opinions",
+      "url": "https://law.justia.com/cases/federal/district-courts/illinois/ilndce/1%3A2023cv00818/430194/2092/"
+    },
+    {
+      "name": "JPML lists 12,743 pending and 17,018 historical actions in MDL-3060 on November 2, compared with 12,381 pending on October 1",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "name": "JPML — October 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
@@ -159,9 +180,24 @@
       "url": "https://nighgoldenberg.com/wp-content/uploads/2025/06/Hair-Relaxer-Lawsuit-%E2%80%93-CMO-17-Appointment-of-Special-Master-Ellen-Reisman-for-Settlement-2025-04-22-MDL-3060.pdf"
     }
   ],
-  "dataAsOf": "2026-10-11",
-  "statusVerifiedOn": "2026-09-14",
+  "dataAsOf": "2026-11-18",
+  "statusVerifiedOn": "2026-11-18",
   "updates": [
+    {
+      "date": "2026-11-12",
+      "summary": "The October 22 and November 12 general-causation rulings admitted some expert testimony on uterine and ovarian cancer and limited other opinions. The November 12 order excluded two experts. The September 29 second-wave written discovery response date has passed.",
+      "sourceUrl": "https://law.justia.com/cases/federal/district-courts/illinois/ilndce/1%3A2023cv00818/430194/2092/"
+    },
+    {
+      "date": "2026-11-02",
+      "summary": "JPML lists 12,743 pending and 17,018 historical actions in MDL-3060 on November 2, compared with 12,381 pending on October 1.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
+    {
+      "date": "2026-10-23",
+      "summary": "Minnesota’s attorney general announced a separate consumer-protection lawsuit on October 23 concerning chemical hair relaxer marketing.",
+      "sourceUrl": "https://www.ag.state.mn.us/Office/Communications/2026/10/23_Toxic-Hair-Relaxer.asp"
+    },
     {
       "date": "2026-10-11",
       "summary": "JPML reports 12,381 pending actions in MDL-3060 on October 1, 2026, up 252 from 12,129 on September 1; 16,828 total historical actions are reported separately.",
