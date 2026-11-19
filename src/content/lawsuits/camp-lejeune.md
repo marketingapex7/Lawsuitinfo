@@ -25,7 +25,7 @@ injuries:
   - "Multiple myeloma"
   - "Parkinson's disease"
   - "Kidney disease and other conditions"
-settlementStatus: "Settlements are actively being paid. The DOJ/Navy Elective Option program offers tiered payments of roughly $100,000 to $450,000 depending on diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. DOJ reported more than $1.1 billion in offers and more than $879 million paid as of September 18, 2026. Individual results vary, participation is voluntary, and no amount is guaranteed before an eligible claimant accepts an offer and completes the required documents."
+settlementStatus: "Settlements are actively being paid. The DOJ/Navy Elective Option program offers tiered payments of roughly $100,000 to $450,000 depending on diagnosis and exposure duration, plus $100,000 for qualifying wrongful-death claims. The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. Individual results vary, participation is voluntary, and no amount is guaranteed before an eligible claimant accepts an offer and completes the required documents."
 timeline:
   -
     label: "Time at Camp Lejeune"
@@ -36,7 +36,7 @@ timeline:
   -
     label: "Claim filed by August 10, 2024"
     detail: "The CLJA required an administrative claim with the Navy by the statutory deadline. Claims filed in time continue through review, settlement programs, or litigation in the Eastern District of North Carolina."
-lastUpdated: "2026-11-10"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-09-25"
 faqs:
   -
@@ -47,7 +47,7 @@ faqs:
     answer: "They remain active. Filed administrative claims continue through Navy review and settlement programs, and filed lawsuits continue in the Eastern District of North Carolina. Missing the deadline only affects people who never filed."
   -
     question: "How much are Camp Lejeune settlements paying?"
-    answer: "The Elective Option pays tiered amounts of roughly $100,000 to $450,000 based on diagnosis and exposure length, plus $100,000 for qualifying wrongful-death claims. Litigated or individually negotiated amounts can differ. DOJ reported more than $1.1 billion in offers and more than $879 million paid as of September 18, 2026."
+    answer: "The Elective Option pays tiered amounts of roughly $100,000 to $450,000 based on diagnosis and exposure length, plus $100,000 for qualifying wrongful-death claims. Litigated or individually negotiated amounts can differ. The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints."
   -
     question: "When will my Camp Lejeune claim be paid?"
     answer: "There is no universal timeline before an offer is made. For an accepted Elective Option offer, DOJ says payment can be expected within 60 days or less when all required payment documents are completed accurately and on time. Estate claims can require additional state-specific beneficiary information."
@@ -79,20 +79,22 @@ faqs:
 
 <section id="overview">
 <h2>What is the Camp Lejeune lawsuit?</h2>
+<p>The administrative filing window closed on August 10, 2024. People with timely claims should check the status of their own claim and any separate court or settlement deadlines.</p>
 <p><strong>Camp Lejeune claims seek compensation from the U.S. government, under the Camp Lejeune Justice Act, for people exposed to contaminated drinking water at Marine Corps Base Camp Lejeune between 1953 and 1987 who later developed cancer or other illnesses.</strong> The filing deadline closed on August 10, 2024, so the focus now is on claims already filed through the Navy or the U.S. District Court for the Eastern District of North Carolina. The government's Elective Option and related settlement processes have paid hundreds of millions of dollars.</p>
-<p>New Camp Lejeune Justice Act claims are generally barred because the filing window closed on August 10, 2024, but timely filed claims remain active. DOJ reported settlement offers exceeding $1.1 billion and payouts exceeding $879 million as of September 18, 2026.</p>
+<p>New Camp Lejeune Justice Act claims are generally barred because the filing window closed on August 10, 2024, but timely filed claims remain active. The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints.</p>
 <p>The claims involve drinking-water contamination at Marine Corps Base Camp Lejeune between 1953 and 1987. Pending claim review usually turns on proof of at least 30 days at the base, medical diagnosis records, Navy claim status, Elective Option documents, and estate or offset issues where applicable. The process is federal and is not reopened by living in a different state now.</p>
 </section>
 
 <section id="latest-update">
 <h2>Camp Lejeune Water Contamination Claims update: November 2026</h2>
-<p><strong>Existing claims and settlement processing; new administrative claims closed.</strong> DOJ's claims page, reviewed November 10, 2026, still reports more than $1.1 billion offered and more than $879 million paid as of September 18, 2026. It also states that DOJ is not reconsidering Elective Option determinations or accepting additional EO documentation. The new administrative claim window closed August 10, 2024; timely claims remain subject to individual notices, court deadlines and settlement terms.</p>
+<p>On November 16 the court heard the Marine Corps data discovery motion and took it under advisement. The next hearing is December 9 at 11 a.m. ET in Wilmington. <a href="https://camplejeunecourtinfo.com/wp-content/uploads/cl-944-minute-entry.pdf">November 16 hearing minutes</a>. The November 9–10 Fancher bench trial took place. Final findings remain unverified.</p>
+<p><strong>Existing claims and settlement processing; new administrative claims closed.</strong> The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. DOJ’s claims page says it is currently declining requests to reconsider Elective Option determinations or submit additional documentation. The new administrative claim window closed August 10, 2024; timely claims remain subject to individual notices, court deadlines and settlement terms.</p>
 
-<p><strong>Settlement status:</strong> DOJ’s September 18, 2026 totals describe aggregate CLJA settlement activity. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.</p>
+<p><strong>Settlement status:</strong> The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.</p>
 <h3>What the November source review confirmed</h3>
 <ul>
 <li>DOJ's current notice says EO determinations are not being reconsidered and additional EO documentation is not accepted. Claimants should distinguish this notice from instructions for completing an accepted settlement's payment paperwork. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
-<li>The published settlement totals are still dated September 18, 2026; they are not November totals. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
+<li>The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. <a href="https://camplejeunecourtinfo.com/wp-content/uploads/Settlement_Notice_2026_11_09_Final.pdf">DOJ filing</a>.</li>
 <li>The court's public information page links to litigation resources and explains that the plaintiffs' leadership group does not act as each claimant's individual attorney. <a href="https://www.nced.uscourts.gov/attorney/clwl.aspx">Source</a></li>
 <li>DOJ distinguishes accepted EO payment processing from the uncertain timing of an initial offer. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
 </ul>
@@ -130,7 +132,7 @@ faqs:
 <section id="litigation-updates">
 <h2>Litigation updates</h2>
 <ul>
-<li><strong>November 10, 2026 source review:</strong> DOJ's claims page carries a notice that it is not reconsidering EO determinations or accepting additional EO documentation. The aggregate settlement figures on that page remain dated September 18, 2026.</li>
+<li><strong>November 10, 2026 source review:</strong> DOJ's claims page carries a notice that it is not reconsidering EO determinations or accepting additional EO documentation. The September figures on that page preceded the separately filed November 9 settlement notice.</li>
 <li><strong>September 18, 2026:</strong> DOJ reports settlement offers exceeding $1.1 billion and payouts exceeding $879 million.</li>
 <li><strong>July 17, 2026:</strong> DOJ reported more than $968 million in settlement offers and more than $801 million in payouts.</li>
 <li><strong>2025:</strong> Elective Option acceptance accelerated; the court resolved disputes over trial structure and jury rights under the CLJA.</li>
@@ -172,5 +174,5 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and notes</h2>
-<p>Program details and settlement figures come from <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims" target="_blank" rel="noopener noreferrer">DOJ Camp Lejeune Justice Act claims information</a>, the <a href="https://www.navy.mil/clja/" target="_blank" rel="noopener noreferrer">Navy CLJA site</a> and <a href="https://clclaims.jag.navy.mil/" target="_blank" rel="noopener noreferrer">claims portal</a>, Eastern District of North Carolina filings, and <a href="https://www.atsdr.cdc.gov/camp-lejeune/health-studies/index.html" target="_blank" rel="noopener noreferrer">ATSDR health studies</a>. Settlement figures reflect DOJ reporting as of September 18, 2026 and change as offers and payments are processed. This page is informational only; it does not provide legal advice and does not create an attorney-client relationship.</p>
+<p>Program details and settlement figures come from <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims" target="_blank" rel="noopener noreferrer">DOJ Camp Lejeune Justice Act claims information</a>, the <a href="https://www.navy.mil/clja/" target="_blank" rel="noopener noreferrer">Navy CLJA site</a> and <a href="https://clclaims.jag.navy.mil/" target="_blank" rel="noopener noreferrer">claims portal</a>, Eastern District of North Carolina filings, and <a href="https://www.atsdr.cdc.gov/camp-lejeune/health-studies/index.html" target="_blank" rel="noopener noreferrer">ATSDR health studies</a>. Settlement figures reflect the November 9, 2026 DOJ filing and change as offers and payments are processed. This page is informational only; it does not provide legal advice and does not create an attorney-client relationship.</p>
 </section>

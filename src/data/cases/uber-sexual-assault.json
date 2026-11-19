@@ -10,9 +10,18 @@
     "judge": "Senior Judge Charles R. Breyer",
     "established": "2023-10-04"
   },
-  "phase": "Bellwether trials under way; two jury verdicts and one pre-trial settlement",
-  "phaseDetail": "Judge Breyer has sent individual bellwether cases back to the plaintiffs' home federal districts for trial. A Phoenix jury returned an $8.5 million compensatory verdict in February 2026 and a North Carolina jury awarded $5,000 in April 2026; Uber has said it will appeal the first verdict. The third bellwether, a Texas case, settled on confidential terms in early October 2026 after jury selection and before opening statements. No global settlement program has been announced.",
+  "phase": "Federal discovery and A.R.2 bellwether preparation",
+  "phaseDetail": "The October 26 order sets the A.R.2 bellwether schedule. Motions in limine and Rule 412 motions are due November 20 and oppositions December 8. Pretrial conference is December 17 at 9 a.m. PT, jury selection January 7 and trial January 11 at 9:15 a.m. PT. The public court calendar separately lists November 19 discovery at 3 p.m. PT.",
   "pendingCounts": [
+    {
+      "date": "2026-11-02",
+      "count": 4548,
+      "totalFiled": 5552,
+      "scope": "Pending actions in MDL-3084",
+      "source": "JPML MDL Statistics Report, November 2, 2026",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf",
+      "primary": true
+    },
     {
       "date": "2026-10-01",
       "count": 4916,
@@ -20,7 +29,7 @@
       "scope": "Pending actions in MDL-3084",
       "source": "JPML MDL Statistics Report, October 1, 2026",
       "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf",
-      "primary": true
+      "primary": false
     },
     {
       "date": "2026-09-01",
@@ -100,9 +109,98 @@
       "sourceUrl": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/",
       "verifiedOn": "2026-10-17",
       "appliesTo": "Federal bellwether trial"
+    },
+    {
+      "date": "2026-11-19",
+      "label": "Uber MDL discovery conference",
+      "detail": "3 p.m. PT.",
+      "appliesTo": "Federal MDL discovery",
+      "kind": "court",
+      "status": "scheduled",
+      "source": "Uber MDL discovery conference",
+      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eId=3b1e46e6-bbf2-473f-b5cb-998eca34e87f&eType=EmailBlastContent",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "A.R.2 motions in limine and Rule 412 motions due",
+      "detail": "Applies to motions in the A.R.2 bellwether.",
+      "appliesTo": "A.R.2 bellwether only",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "source": "A.R.2 motions in limine and Rule 412 motions due",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "A.R.2 pretrial motion oppositions due",
+      "detail": "Applies to the motion categories in the October 26 order.",
+      "appliesTo": "A.R.2 bellwether only",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "source": "A.R.2 pretrial motion oppositions due",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-12-17",
+      "label": "A.R.2 pretrial conference",
+      "detail": "9 a.m. PT.",
+      "appliesTo": "A.R.2 bellwether only",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "source": "A.R.2 pretrial conference",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-12-17",
+      "label": "Uber MDL discovery conference",
+      "detail": "10:30 a.m. PT before Magistrate Judge Cisneros.",
+      "appliesTo": "Federal MDL discovery",
+      "kind": "court",
+      "status": "scheduled",
+      "source": "Uber MDL discovery conference",
+      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eId=3b1e46e6-bbf2-473f-b5cb-998eca34e87f&eType=EmailBlastContent",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "A.R.2 jury selection",
+      "detail": "The court set jury selection in the A.R.2 case.",
+      "appliesTo": "A.R.2 bellwether only",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "source": "A.R.2 jury selection",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
+      "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2027-01-11",
+      "label": "A.R.2 bellwether trial",
+      "detail": "9:15 a.m. PT under the published schedule.",
+      "appliesTo": "A.R.2 bellwether only",
+      "kind": "bellwether",
+      "status": "scheduled",
+      "source": "A.R.2 bellwether trial",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
+      "verifiedOn": "2026-11-18"
     }
   ],
   "sources": [
+    {
+      "name": "North Carolina DOJ announced a Fourth Circuit amicus brief in the appeal involving the North Carolina bellwether",
+      "url": "https://ncdoj.gov/attorney-general-jeff-jackson-fights-for-passenger-safety-in-uber-sexual-assault-case/"
+    },
+    {
+      "name": "The October 26 order sets the A",
+      "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf"
+    },
+    {
+      "name": "JPML lists 4,548 pending and 5,552 historical actions in MDL-3084 on November 2, compared with 4,916 pending on October 1",
+      "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
     {
       "name": "JPML — October 1, 2026 pending and historical actions",
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf"
@@ -136,9 +234,24 @@
       "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/"
     }
   ],
-  "dataAsOf": "2026-10-17",
-  "statusVerifiedOn": "2026-10-17",
+  "dataAsOf": "2026-11-18",
+  "statusVerifiedOn": "2026-11-18",
   "updates": [
+    {
+      "date": "2026-11-16",
+      "summary": "North Carolina DOJ announced a Fourth Circuit amicus brief in the appeal involving the North Carolina bellwether.",
+      "sourceUrl": "https://ncdoj.gov/attorney-general-jeff-jackson-fights-for-passenger-safety-in-uber-sexual-assault-case/"
+    },
+    {
+      "date": "2026-11-02",
+      "summary": "JPML lists 4,548 pending and 5,552 historical actions in MDL-3084 on November 2, compared with 4,916 pending on October 1.",
+      "sourceUrl": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf"
+    },
+    {
+      "date": "2026-10-26",
+      "summary": "The October 26 order sets the A.R.2 bellwether schedule. Motions in limine and Rule 412 motions are due November 20 and oppositions December 8. Pretrial conference is December 17 at 9 a.m. PT, jury selection January 7 and trial January 11 at 9:15 a.m. PT. The public court calendar separately lists November 19 discovery at 3 p.m. PT.",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf"
+    },
     {
       "date": "2026-10-17",
       "summary": "JPML reports 4,916 pending actions in MDL-3084 on October 1, 2026, up 328 from 4,588 on September 1; 5,221 total historical actions are reported separately.",

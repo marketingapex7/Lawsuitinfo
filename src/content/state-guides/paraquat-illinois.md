@@ -11,7 +11,7 @@ categorySlug: "toxic-exposure"
 status: "Active / Investigating"
 primaryInjury: "Parkinson's disease"
 exposureContext: "State residents may have encountered paraquat through farms, crop handling, pesticide application, agricultural work, mixing, loading, or nearby work activities."
-lastUpdated: "2026-06-13"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-06-13"
 faqs:
   -
@@ -63,5 +63,7 @@ faqs:
 <li>Approximate dates of use, exposure, diagnosis, and treatment.</li>
 <li>Information about prior conditions, alternative exposures, or other facts a lawyer may need to evaluate.</li>
 </ul>
+
+<p>The October 15 order applies to specified Smith firm plaintiffs. The October 28 records deadline has passed, the court canceled the November 5 conference, and the order sets February 16, 2027 for depositions. <a href="https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatCMO27.pdf">October 15 CMO 27</a> · <a href="https://www.ilsd.uscourts.gov/sites/ilsd/files/ParaquatOrder10-29-26.pdf">October 29 cancellation order</a>.</p>
 </section>
 

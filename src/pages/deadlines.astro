@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
-import { getAllCaseData } from "@lib/caseData";
+import { getAllCaseData, isUpcomingDate } from "@lib/caseData";
 import { caseIntentHref } from "@lib/caseLinks";
 import { datasetSchema } from "@lib/seo";
 import { formatDate } from "@lib/site";
@@ -16,11 +16,11 @@ const breadcrumbs = [
 const upcomingDates = cases
   .flatMap((item) =>
     item.keyDates
-      .filter((date) => date.date >= today && date.status !== "cancelled" && date.status !== "completed" && date.status !== "historical")
+      .filter((date) => isUpcomingDate(date, today))
       .map((date) => ({ caseName: item.caseName, slug: item.slug, ...date }))
   )
   .sort((a, b) => a.date.localeCompare(b.date));
-const passedDates = cases.flatMap((item) => item.keyDates.filter((date) => date.date < today || date.status === "completed" || date.status === "cancelled" || date.status === "historical").map((date) => ({ caseName: item.caseName, slug: item.slug, ...date }))).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,12);
+const passedDates = cases.flatMap((item) => item.keyDates.filter((date) => !isUpcomingDate(date, today)).map((date) => ({ caseName: item.caseName, slug: item.slug, ...date }))).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,12);
 ---
 
 <BaseLayout
@@ -82,7 +82,7 @@ const passedDates = cases.flatMap((item) => item.keyDates.filter((date) => date.
         </div>
       </div>
     </section>
-    <section class="mt-8 rounded-lg border border-line bg-white p-5 shadow-sm"><h2 class="text-2xl font-bold text-ink">Recently Passed or Canceled Dates</h2><div class="mt-4 grid gap-4 md:grid-cols-2">{passedDates.map((item)=><article class="rounded-lg border border-line bg-panel p-4"><p class="text-xs font-bold uppercase tracking-wide text-muted">{item.date} · {item.status ?? "historical"}</p><h3 class="mt-1 font-bold"><a class="text-accent-dark" href={caseIntentHref(item.slug,"update")}>{item.caseName}</a>: {item.label}</h3>{item.detail&&<p class="mt-1 text-sm leading-6 text-muted">{item.detail}</p>}{item.sourceUrl&&<a class="mt-2 inline-block text-xs font-bold text-accent-dark underline" href={item.sourceUrl} data-track="source_click">Source</a>}</article>)}</div></section>
+    <section class="mt-8 rounded-lg border border-line bg-white p-5 shadow-sm"><h2 class="text-2xl font-bold text-ink">Recently Passed or Canceled Dates</h2><div class="mt-4 grid gap-4 md:grid-cols-2">{passedDates.map((item)=><article class="rounded-lg border border-line bg-panel p-4"><p class="text-xs font-bold uppercase tracking-wide text-muted">{item.date} · {item.status === "scheduled" || !item.status ? "date passed" : item.status}</p><h3 class="mt-1 font-bold"><a class="text-accent-dark" href={caseIntentHref(item.slug,"update")}>{item.caseName}</a>: {item.label}</h3>{item.detail&&<p class="mt-1 text-sm leading-6 text-muted">{item.detail}</p>}{item.sourceUrl&&<a class="mt-2 inline-block text-xs font-bold text-accent-dark underline" href={item.sourceUrl} data-track="source_click">Source</a>}</article>)}</div></section>
 
     <section class="mt-8 rounded-lg border border-line bg-white p-5 shadow-sm">
       <h2 class="text-2xl font-bold text-ink">Case-by-Case Deadline Notes</h2>

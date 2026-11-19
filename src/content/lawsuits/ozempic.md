@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the use-and-injury timeline with MDL-3094's litigation posture, state filing deadlines, and the evidence available."
-lastUpdated: "2026-11-10"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-10-23"
 faqs:
   -
@@ -72,7 +72,7 @@ faqs:
     answer: "The public MDL-3094 orders page reviewed November 10, 2026 does not announce an MDL-wide settlement program for GLP-1 gastrointestinal injury claims. This public index is not a complete live docket, and defendants dispute the allegations."
   -
     question: "When will the Ozempic lawsuit be settled?"
-    answer: "The public MDL-3094 orders list reviewed November 10, 2026 does not announce a settlement date or program. It lists no later Rule 702 ruling or bellwether trial setting. A November 17 status conference is scheduled, but a conference date is not a promised settlement date or a trial."
+    answer: "The public MDL-3094 orders list reviewed November 10, 2026 does not announce a settlement date or program. It lists no later Rule 702 ruling or bellwether trial setting. The November 17 status-conference setting has passed. A secondary docket tracker reports that ECF 934 canceled it, and the underlying entry was unavailable for verification. The published schedule lists December 15 at 1 p.m. ET, subject to later orders."
   -
     question: "How many Ozempic lawsuits are pending in MDL 3094?"
     answer: "The November 2, 2026 JPML report lists 4,082 pending actions in MDL-3094, up from 4,025 on October 1. Its 4,196 total historical actions include cases no longer pending. A pending action is not a count of people eligible for payment."
@@ -95,9 +95,10 @@ faqs:
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
 <h2>Ozempic lawsuit update 2026: November status</h2>
-<p><strong>MDL-3094 has 4,082 pending actions; the next scheduled status conference is November 17.</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists 4,082 pending actions, up from 4,025 on October 1. Its 4,196 historical actions include cases no longer pending and are not a settlement-participant count.</p>
+<p>On November 9, FDA required labeling changes addressing a potential increased risk of NAION. <a href="https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential">FDA safety communication</a>.</p>
+<p><strong>MDL-3094 has 4,082 pending actions; the published schedule lists a December 15 status conference.</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists 4,082 pending actions, up from 4,025 on October 1. Its 4,196 historical actions include cases no longer pending and are not a settlement-participant count.</p>
 <p>The <a href="https://www.paed.uscourts.gov/mdl/mdl3094/orders">public MDL orders list</a>, reviewed November 10, 2026, does not post a later Rule 702 ruling, bellwether trial setting or settlement program. An <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_6.pdf">October 8 order</a> scheduled closing arguments on expert-evidence motions for October 13; that past scheduled date does not establish a trial or a ruling.</p>
-<p>The <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_4.pdf">amended conference order</a> schedules status conferences on November 17 and December 15, 2026, at 1 p.m. in Courtroom 16B, Philadelphia. The October 8 order leaves those settings unchanged. A status conference and a Rule 702 hearing are not bellwether trials.</p>
+<p>The November 17 status-conference setting has passed. A secondary docket tracker reports that ECF 934 canceled it, and the underlying entry was unavailable for verification. The published schedule lists December 15 at 1 p.m. ET, subject to later orders. NAION vision-loss claims proceed separately in MDL-3163, with 278 pending actions on November 2. <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_4.pdf">Published conference order</a>.</p>
 <p>NAION vision-loss claims are coordinated separately in MDL-3163, with 278 pending actions as of November 2. Public court indexes are not complete live PACER dockets; this status reflects the identified records reviewed November 10.</p>
 </section>
 
@@ -155,12 +156,12 @@ faqs:
 <section id="ozempic-bellwether-trials">
 <h2>Ozempic hearings and bellwether trials</h2>
 <p>The <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_5.pdf">August 28 scheduling order</a> set the Rule 702 evidentiary hearing for September 14–18, 2026, and that hearing has been held. An <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_6.pdf">October 8 order</a> scheduled closing arguments on the Rule 702 motions for October 13, 2026. The proceeding concerns expert admissibility and is not a bellwether jury trial; the public MDL orders page reviewed November 10 does not announce a ruling or trial date.</p>
-<p>The next scheduled status conference is November 17, 2026 under the <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_4.pdf">amended conference order</a>. A conference date is not a trial date or a promised settlement date.</p>
+<p>The November 17 status-conference setting has passed. A secondary docket tracker reports that ECF 934 canceled it, and the underlying entry was unavailable for verification. The published schedule lists December 15 at 1 p.m. ET, subject to later orders. <a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_4.pdf">Published conference order</a>.</p>
 </section>
 
 <section id="ozempic-injury-details">
 <h2>Injuries alleged in filed cases</h2>
-<p><strong>Gastroparesis</strong> — delayed gastric emptying that can cause persistent vomiting, malnutrition, and long-term complications. <strong>Ileus and bowel obstruction</strong> — intestinal blockage or paralysis that can require hospitalization or surgery. <strong>NAION</strong> — a sudden optic-nerve injury associated in some studies with semaglutide use, capable of causing permanent vision loss; NAION claims are consolidated in their own proceeding, MDL-3163 (247 pending actions as of October 1, 2026). Filed complaints also describe severe dehydration, aspiration events, and related complications.</p>
+<p><strong>Gastroparesis</strong> — delayed gastric emptying that can cause persistent vomiting, malnutrition, and long-term complications. <strong>Ileus and bowel obstruction</strong> — intestinal blockage or paralysis that can require hospitalization or surgery. <strong>NAION</strong> — a sudden optic-nerve injury associated in some studies with semaglutide use, capable of causing permanent vision loss; NAION claims are consolidated in their own proceeding, MDL-3163 (278 pending actions as of November 2, 2026). Filed complaints also describe severe dehydration, aspiration events, and related complications.</p>
 </section>
 
 <section id="ozempic-deadlines">
@@ -173,7 +174,7 @@ faqs:
 <p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked November 10, 2026 against <a href="https://www.paed.uscourts.gov/mdl/mdl3094/orders">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
 <li><a href="https://www.paed.uscourts.gov/sites/paed/files/mdl-orders/24md3094_sched-ord_6.pdf">October 8, 2026 scheduling order setting Rule 702 closing arguments for October 13.</a></li>
-<li><a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">The separate NAION vision-loss MDL-3163 has 247 pending actions as of October 1, compared with 216 on September 1.</a></li>
+<li><a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">The separate NAION vision-loss MDL-3163 has 278 pending actions as of November 2, compared with 247 on October 1.</a></li>
 <li><a href="https://www.paed.uscourts.gov/mdl/mdl3094/orders">The public MDL orders checked November 10 contain no announced bellwether trial date or settlement program.</a></li>
 </ul>
 <p>Defendants dispute the allegations. Hearing schedules do not establish an outcome, and pending-action counts do not establish settlement eligibility. State filing deadlines and settlement-program deadlines are different.</p>

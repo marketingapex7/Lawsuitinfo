@@ -33,13 +33,13 @@ timeline:
   -
     label: "Individual claim review"
     detail: "A lawyer reviews the records, which companies may be responsible, the arbitration question, and state deadline rules for minors."
-lastUpdated: "2026-10-17"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-10-17"
 faqs:
   - question: "What is the Roblox lawsuit about?"
     answer: "Families allege that adults used Roblox to find, contact and groom children, and then moved them to other apps such as Discord, Snapchat or Instagram where the children were sexually exploited or assaulted. The lawsuits allege the companies misrepresented their safety and failed to adopt effective age verification and parental controls. The companies dispute the allegations. Federal cases are coordinated in MDL-3166 before Judge Richard Seeborg in San Francisco."
   - question: "How many Roblox cases are pending?"
-    answer: "The JPML reported 180 pending actions in MDL-3166 on October 1, 2026, compared with 182 on September 1 and 177 on August 3. Cases filed in state courts are not included in that count."
+    answer: "The JPML reported 196 pending actions in MDL-3166 on November 2, 2026, compared with 180 on October 1. Cases filed in state courts are not included in that count."
   - question: "Who is being sued besides Roblox?"
     answer: "Depending on the case, Discord, Snap (Snapchat) and Meta (Instagram) are also named, because many cases allege that contact began on Roblox and moved to those apps."
   - question: "Has Roblox settled?"
@@ -63,8 +63,9 @@ faqs:
 <section id="latest-update">
 <span id="status"></span>
 <h2>Roblox lawsuit update</h2>
+<p>A June 22 court order appointed Thomas J. Perrelli as settlement master. The November 16 case-management setting has passed and its outcome remains unverified. Reported arbitration dates are awaiting verification against the schedule order. <a href="https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_25-md-03166/pdf/USCOURTS-cand-3_25-md-03166-17.pdf">Settlement-master appointment order</a>.</p>
 <p><strong>The arbitration fight comes first.</strong> A <a href="https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Re-Schedule-and-Word-Limits-for-Motions-to-Compel-Arbitration-Docket-Entry-342-.pdf">May 18, 2026 order</a> set a fall 2026 briefing schedule for Roblox's and Discord's motions to compel arbitration in bellwether cases, with the hearing to be set by the court. If the court sends those claims to arbitration, they would leave the courtroom track. No ruling appears in the public record reviewed October 17, 2026.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>180 pending actions</strong> in <a href="/mdl/3166/">MDL-3166</a>, compared with 182 on September 1. Its 190 total historical actions include cases no longer pending.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>196 pending actions</strong> in <a href="/mdl/3166/">MDL-3166</a>, compared with 180 on October 1. Its 207 total historical actions include cases no longer pending.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -73,7 +74,7 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-3166, U.S. District Court, Northern District of California</li>
 <li><strong>Judge:</strong> Judge Richard Seeborg</li>
 <li><strong>JPML transfer date:</strong> December 12, 2025</li>
-<li><strong>Pending actions:</strong> 180 as of October 1, 2026</li>
+<li><strong>Pending actions:</strong> 196 as of November 2, 2026</li>
 <li><strong>Current phase:</strong> motions to compel arbitration; no trial date</li>
 <li><strong>Settlement:</strong> none announced; settlement master to mediate</li>
 </ul>
@@ -81,6 +82,8 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Verified litigation updates</h2>
+<p>Roblox’s filed arbitration motion lists a January 13, 2027 hearing at 9:30 a.m. PT. The controlling schedule order and reported November 20 reply deadline remain unverified. <a href="https://www.robertkinglawfirm.com/wp-content/uploads/2026/10/roblox-csa-lawsuit-omnibus-motion-to-compel-arbitration-september-2026.pdf">Filed arbitration motion</a>. Arizona’s October 16 investigative-demand petition is separate from the MDL. <a href="https://www.azag.gov/press-release/attorney-general-mayes-asks-court-compel-roblox-comply-child-safety-investigation">Arizona attorney general announcement</a>.</p>
+<p>JPML lists 196 pending and 207 historical actions in MDL-3166 on November 2, compared with 180 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <h3>May 18, 2026: arbitration briefing schedule</h3>
 <p>The court set deadlines for bellwether motions to compel arbitration, oppositions and replies running from September through November 2026. (<a href="https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Re-Schedule-and-Word-Limits-for-Motions-to-Compel-Arbitration-Docket-Entry-342-.pdf">order, Dkt. 342</a>)</p>
 <h3>April 16, 2026: settlement master</h3>
@@ -105,6 +108,6 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The allegations, defendants and legal issues come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3166-Transfer_Order-12-25.pdf">December 12, 2025 transfer order</a>. MDL orders are linked from copies posted by plaintiffs' counsel; published opinions are indexed on <a href="https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-md-03166">GovInfo</a>. Status was reviewed October 17, 2026.</p>
+<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The allegations, defendants and legal issues come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3166-Transfer_Order-12-25.pdf">December 12, 2025 transfer order</a>. MDL orders are linked from copies posted by plaintiffs' counsel; published opinions are indexed on <a href="https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-md-03166">GovInfo</a>. Status was reviewed October 17, 2026.</p>
 <p>The defendants dispute the allegations. Pending-case counts do not establish settlement eligibility.</p>
 </section>

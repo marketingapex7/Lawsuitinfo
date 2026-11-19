@@ -2,6 +2,14 @@ import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 
+const suboxoneGuide = await readFile("src/content/lawsuits/suboxone.md", "utf8");
+const suboxoneDate = suboxoneGuide.match(/^lastUpdated: "(\d{4}-\d{2}-\d{2})"\s*$/m)?.[1];
+if (!suboxoneDate) throw new Error("Suboxone guide is missing its lastUpdated date");
+const suboxoneUpdatedLabel = new Intl.DateTimeFormat("en-US", {
+  dateStyle: "long",
+  timeZone: "UTC",
+}).format(new Date(suboxoneDate));
+
 const checks = [
   {
     file: ["dist", "lawsuits", "ozempic", "index.html"],
@@ -35,7 +43,7 @@ const checks = [
   {
     file: ["dist", "lawsuits", "suboxone", "index.html"],
     required: [
-      "Updated October 11, 2026",
+      `Updated ${suboxoneUpdatedLabel}`,
       "What the Suboxone Tooth Decay lawsuit is about",
     ],
     forbidden: ['id="settlement"', 'href="#settlement"'],

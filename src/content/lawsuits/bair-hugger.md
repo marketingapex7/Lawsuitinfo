@@ -34,11 +34,11 @@ timeline:
   -
     label: "Individual legal review"
     detail: "A lawyer must assess product identification, causation evidence, alternative infection risks, applicable law, and filing time."
-lastUpdated: "2026-10-11"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-09-22"
 faqs:
   - question: "Is the Bair Hugger MDL still active?"
-    answer: "Yes. JPML listed MDL 2666 as active on October 1, 2026, with 8,424 pending actions before Senior Judge Joan N. Ericksen in Minnesota."
+    answer: "Yes. JPML listed MDL 2666 as active on November 2, 2026, with 8,414 pending actions before Senior Judge Joan N. Ericksen in Minnesota."
   - question: "Has the Bair Hugger lawsuit settled?"
     answer: "The official public records reviewed September 22, 2026 do not announce a global settlement program or payout schedule. Individual case outcomes do not establish a settlement for every claim."
   - question: "Does an infection after surgery prove a Bair Hugger claim?"
@@ -60,9 +60,10 @@ faqs:
 <section id="latest-update">
 <span id="status"></span><span id="case-status-snapshot"></span>
 <h2>Bair Hugger lawsuit: the short answer</h2>
+<p>Two November 9 orders dismissed specified cases or claims. The dismissals apply to the actions or claims listed in those filings. <a href="https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-72.pdf">ECF 3896</a> · <a href="https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-71.pdf">ECF 3894</a>.</p>
 <ul>
 <li><strong>Current stage:</strong> Active MDL case administration and plaintiff fact-sheet compliance.</li>
-<li><strong>Pending count:</strong> 8,424 actions on the October 1, 2026 JPML report; the 10,828 historical total is a separate figure.</li>
+<li><strong>Pending count:</strong> 8,414 actions on the November 2, 2026 JPML report; the 10,836 historical total is a separate figure.</li>
 <li><strong>Settlement:</strong> No global settlement program or payout schedule was identified in the official public records reviewed September 22.</li>
 <li><strong>Deadline:</strong> Individual state law and facts require review; the MDL schedule does not calculate a person's filing deadline.</li>
 </ul>
@@ -72,6 +73,7 @@ faqs:
 <section id="litigation-updates">
 <span id="timeline"></span>
 <h2>Verified Bair Hugger litigation updates</h2>
+<p>JPML lists 8,414 pending and 10,836 historical actions in MDL-2666 on November 2, compared with 8,424 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <h3>October 1, 2026: 8,424 actions pending</h3>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 8,433 pending actions and 10,828 historical actions. On August 3, the corresponding figures were 8,407 and 10,716.</p>
 <p><strong>For readers:</strong> Pending actions are not approved claims, and the historical total is not a claimant or payment count.</p>

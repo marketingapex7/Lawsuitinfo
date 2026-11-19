@@ -33,13 +33,13 @@ timeline:
   -
     label: "Individual claim review"
     detail: "A lawyer compares the facts with the MDL record, the state filing deadline, and any special rules for sexual assault claims."
-lastUpdated: "2026-10-17"
+lastUpdated: "2026-11-18"
 lastReviewed: "2026-10-17"
 faqs:
   - question: "What is the Uber sexual assault lawsuit about?"
     answer: "Riders allege that Uber failed to adopt reasonable safety measures, such as stronger driver screening and in-car monitoring, and misrepresented how safe its rides were, leading to sexual assaults and harassment by drivers. Uber disputes the allegations. Federal cases are coordinated in MDL-3084 before Senior Judge Charles R. Breyer in the Northern District of California."
   - question: "How many Uber sexual assault cases are pending?"
-    answer: "The JPML reported 4,916 pending actions in MDL-3084 on October 1, 2026, up from 4,588 on September 1. Cases in California state court are counted separately."
+    answer: "The JPML reported 4,548 pending actions in MDL-3084 on November 2, 2026, compared with 4,916 on October 1. Cases in California state court are counted separately."
   - question: "Have there been any Uber sexual assault verdicts?"
     answer: "Yes. In February 2026 a federal jury in Phoenix awarded $8.5 million in compensatory damages in the first bellwether trial; Uber said it would appeal. In April 2026 a North Carolina federal jury found Uber legally responsible and awarded $5,000. Verdicts can change after post-trial motions and appeals."
   - question: "Has Uber settled the sexual assault lawsuits?"
@@ -63,8 +63,9 @@ faqs:
 <section id="latest-update">
 <span id="status"></span>
 <h2>Uber sexual assault lawsuit update</h2>
+<p>The October 26 order sets the A.R.2 bellwether schedule. Motions in limine and Rule 412 motions are due November 20 and oppositions December 8. Pretrial conference is December 17 at 9 a.m. PT, jury selection January 7 and trial January 11 at 9:15 a.m. PT. The public court calendar separately lists November 19 discovery at 3 p.m. PT. <a href="https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf">A.R.2 pretrial order</a> · <a href="https://apps.cand.uscourts.gov/telhrg/">Court hearing calendar</a>.</p>
 <p><strong>The third bellwether settled before opening statements.</strong> The Texas bellwether known as Jane Doe QLF 001 settled on confidential terms in early October 2026, after jury selection, <a href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/">Top Class Actions reported</a>. It was the third federal case set for trial.</p>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1, 2026 JPML report</a> lists <strong>4,916 pending actions</strong> in MDL-3084, up 328 from 4,588 on September 1. Its 5,221 total historical actions include cases no longer pending. Neither number is a count of people eligible for payment.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>4,548 pending actions</strong> in MDL-3084, compared with 4,916 on October 1. Its 5,552 total historical actions include cases no longer pending. Neither number is a count of people eligible for payment.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -73,7 +74,7 @@ faqs:
 <li><strong>Federal proceeding:</strong> MDL-3084, U.S. District Court, Northern District of California</li>
 <li><strong>Judge:</strong> Senior Judge Charles R. Breyer</li>
 <li><strong>JPML transfer date:</strong> October 4, 2023</li>
-<li><strong>Pending actions:</strong> 4,916 as of October 1, 2026</li>
+<li><strong>Pending actions:</strong> 4,548 as of November 2, 2026</li>
 <li><strong>Trials so far:</strong> $8.5 million verdict (Arizona, February 2026), $5,000 verdict (North Carolina, April 2026), and one confidential settlement before trial (Texas, October 2026)</li>
 <li><strong>Settlement:</strong> no global program announced</li>
 </ul>
@@ -81,6 +82,8 @@ faqs:
 
 <section id="litigation-updates">
 <h2>Bellwether trial results</h2>
+<p>The clerk’s notice separately sets December 17 discovery at 10:30 a.m. PT. <a href="https://apps.cand.uscourts.gov/telhrg/?eId=3b1e46e6-bbf2-473f-b5cb-998eca34e87f&amp;eType=EmailBlastContent">Court hearing calendar</a>. On November 16, North Carolina DOJ announced a Fourth Circuit amicus brief in the North Carolina bellwether appeal. <a href="https://ncdoj.gov/attorney-general-jeff-jackson-fights-for-passenger-safety-in-uber-sexual-assault-case/">North Carolina DOJ announcement</a>.</p>
+<p>JPML lists 4,548 pending and 5,552 historical actions in MDL-3084 on November 2, compared with 4,916 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <h3>February 5, 2026: $8.5 million verdict in Phoenix</h3>
 <p>In the first federal bellwether, a Phoenix jury awarded Jaylynn Dean $8.5 million in compensatory damages after finding that the driver was acting as Uber's agent. The jury did not award punitive damages; her lawyers had asked for more than $140 million. Uber said it would appeal. (<a href="https://www.bnnbloomberg.ca/business/2026/02/05/uber-ordered-to-pay-us85-million-in-trial-over-driver-sex-assault-claims">Reuters</a>)</p>
 <h3>April 2026: $5,000 verdict in North Carolina</h3>
@@ -104,6 +107,6 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The court assignment and transfer date use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-October-1-2026.pdf">JPML by-number report</a>. Trial results come from news and counsel reports linked above, because the verdict forms are not posted on a public court page; published court opinions are indexed on <a href="https://www.govinfo.gov/app/details/USCOURTS-cand-3_23-md-03084">GovInfo</a>. Status was reviewed October 17, 2026.</p>
+<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The court assignment and transfer date use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-October-1-2026.pdf">JPML by-number report</a>. Trial results come from news and counsel reports linked above, because the verdict forms are not posted on a public court page; published court opinions are indexed on <a href="https://www.govinfo.gov/app/details/USCOURTS-cand-3_23-md-03084">GovInfo</a>. Status was reviewed October 17, 2026.</p>
 <p>Uber disputes the allegations. Pending-case counts do not establish settlement eligibility, and trial results in one case do not decide another.</p>
 </section>
