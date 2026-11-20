@@ -61,7 +61,7 @@ const passedDates = cases.flatMap((item) => item.keyDates.filter((date) => !isUp
             <article class="border-b border-line pb-4 last:border-0 last:pb-0">
               <p class="text-xs font-bold uppercase tracking-[0.08em] text-muted">{item.date} · {item.kind ?? "court"}</p>
               <h3 class="mt-1 text-base font-bold text-ink">
-                <a class="text-accent-dark" href={caseIntentHref(item.slug, "update")}>{item.caseName}</a>: {item.label}
+                <a class="text-accent-dark" href={caseIntentHref(item.slug, "update")}>{item.slug === "depo-provera" ? "Depo-Provera registration and court update" : item.caseName}</a>: {item.label}
               </h3>
               {item.detail && <p class="mt-1 text-sm leading-6 text-muted">{item.detail}</p>}
               {item.appliesTo && <p class="mt-1 text-xs text-muted"><strong>Applies to:</strong> {item.appliesTo}</p>}
@@ -78,6 +78,7 @@ const passedDates = cases.flatMap((item) => item.keyDates.filter((date) => !isUp
         <div class="mt-4 space-y-3 text-sm leading-6 text-muted">
           <p>Most injury claims do not have one national filing deadline. A deadline may depend on state law, diagnosis date, discovery facts, exposure location, product-use history, wrongful-death status, and prior settlement or release paperwork.</p>
           <p>Camp Lejeune is different from many open mass torts because the administrative filing window closed in August 2024. Other cases may still require state-by-state deadline review.</p>
+          <p>For Cook IVC filter claims, see the <a class="font-bold text-accent-dark" href={caseIntentHref("cook-ivc-filter", "deadline")}>IVC filter lawsuit filing deadline guide</a> and the records to gather for a deadline review.</p>
           <p>Use this page as an issue spotter, then review the case guide and relevant state guide for local context. The <a class="font-bold text-accent-dark" href={caseIntentHref("roundup", "deadline")}>Roundup filing-deadline guide</a> illustrates why an individual lawsuit deadline can differ from a proposed settlement schedule.</p>
         </div>
       </div>
