@@ -35,9 +35,9 @@ const breadcrumbs = [{ name: "Home", url: "/" }, { name: "MDL Statistics", url: 
     <Breadcrumbs items={breadcrumbs} />
     <header class="max-w-4xl"><p class="text-sm font-black uppercase tracking-wide text-accent-dark">Federal multidistrict litigation tracker</p><h1 class="mt-2 text-4xl font-black text-ink">MDL {number} Update — {data.caseName}</h1><p class="mt-4 text-lg leading-8 text-muted">{data.litigation.mdlName}. Counts are monthly JPML snapshots and can change between reports.</p></header>
     <nav class="mt-5 flex flex-wrap gap-3 text-sm font-bold text-accent-dark" aria-label="Detailed case answers">
-      <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(data.slug, "update")} data-track="mdl_to_lawsuit">{searchName} lawsuit updates</a>
-      <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(data.slug, "settlement")} data-track="mdl_to_lawsuit">Settlement status explained</a>
-      <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(data.slug, "deadline")} data-track="mdl_to_lawsuit">Filing deadline questions</a>
+      <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(data.slug, "update")} data-track="mdl_to_lawsuit">{number === "3140" ? "Depo-Provera registration and court update" : `${searchName} lawsuit updates`}</a>
+      <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(data.slug, "settlement")} data-track="mdl_to_lawsuit">{number === "3044" ? "Exactech settlement trust and claim status" : "Settlement status explained"}</a>
+      <a class="rounded-lg border border-line bg-white px-3 py-2 underline" href={caseIntentHref(data.slug, "deadline")} data-track="mdl_to_lawsuit">{number === "2570" ? "Cook IVC filter lawsuit filing deadlines" : "Filing deadline questions"}</a>
     </nav>
     <CaseStatusOverview data={data} />
     <div class="mt-8 grid gap-6 lg:grid-cols-[1.1fr_.9fr]">

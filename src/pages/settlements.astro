@@ -72,6 +72,9 @@ const statusLabel = (status: string) => status === "none" ? "No public settlemen
                   <div class="font-bold text-ink">{statusLabel(settlement.status)}</div>
                   {settlement.amount && <div class="mt-1 font-black text-accent-dark">{settlement.amount}</div>}
                   <p class="mt-1 max-w-xl leading-6 text-muted">{settlement.detail}</p>
+                  {item.slug === "depo-provera" && (
+                    <a class="font-bold text-accent-dark underline" href={caseIntentHref(item.slug, "update")}>Depo-Provera registration and court update</a>
+                  )}
                   {item.slug === "camp-lejeune" && (
                     <a class="font-bold text-accent-dark underline" href="/lawsuits/camp-lejeune/#camp-lejeune-settlement-status">Camp Lejeune settlement update</a>
                   )}
