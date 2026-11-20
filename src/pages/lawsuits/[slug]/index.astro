@@ -12,7 +12,7 @@ import SourceUpdateLog from "@components/SourceUpdateLog.astro";
 import DisclaimerBox from "@components/DisclaimerBox.astro";
 import CaseStatusOverview from "@components/CaseStatusOverview.astro";
 import { entrySlug } from "@lib/content";
-import { getCaseData } from "@lib/caseData";
+import { formatCount, getCaseData } from "@lib/caseData";
 import { formatDate, formatMonthYear } from "@lib/site";
 import { lawsuitMetaDescription, lawsuitSeoTitle } from "@lib/seo";
 import { caseIntentHref } from "@lib/caseLinks";
@@ -42,6 +42,11 @@ const latestPendingCount = primaryMdlDigits
       .filter((entry) => entry.scope.replace(/\D/g, " ").split(/\s+/).includes(primaryMdlDigits))
       .sort((a, b) => b.date.localeCompare(a.date))[0]?.count
   : undefined;
+const ozempicCountHistory = slug === "ozempic"
+  ? (caseData?.pendingCounts ?? [])
+      .filter((entry) => /\bMDL-3094\b/.test(entry.scope))
+      .sort((a, b) => b.date.localeCompare(a.date))
+  : [];
 const seoTitle = lawsuitSeoTitle(lawsuit.data.lawsuit, { lastUpdated: lawsuit.data.lastUpdated, latestPendingCount });
 const seoDescription = lawsuitMetaDescription(lawsuit.data.lawsuit, lawsuit.data.primaryInjury, lawsuit.data.lastUpdated, latestPendingCount);
 const relatedTitle = lawsuit.data.category === "Toxic Exposure" ? "Related Toxic Exposure Guides" : "Related Lawsuits";
@@ -110,6 +115,7 @@ if (slug === "afff-pfas") {
 }
 
 if (slug === "ozempic") {
+  toc.unshift({ id: "ozempic-mdl-case-counts", label: "Monthly MDL 3094 case counts" });
   toc.splice(3, 0, { id: "ozempic-drugs-included", label: "Drugs included" });
   toc.splice(4, 0, { id: "ozempic-qualifications", label: "Who may qualify" });
   toc.splice(7, 0, { id: "ozempic-bellwether-trials", label: "Path to first trials" });
@@ -118,8 +124,9 @@ if (slug === "ozempic") {
 }
 
 if (slug === "camp-lejeune") {
-  toc.splice(3, 0, { id: "camp-lejeune-deadline", label: "Filing deadline status" });
-  toc.splice(4, 0, { id: "camp-lejeune-elective-option", label: "Elective Option payouts" });
+  toc.splice(3, 0, { id: "camp-lejeune-settlement-status", label: "Settlement status" });
+  toc.splice(4, 0, { id: "camp-lejeune-deadline", label: "Filing deadline status" });
+  toc.splice(5, 0, { id: "camp-lejeune-elective-option", label: "Elective Option payouts" });
   toc.splice(7, 0, { id: "camp-lejeune-qualifications", label: "Who qualified" });
   toc.splice(13, 0, { id: "camp-lejeune-conditions", label: "Covered conditions" });
   toc.splice(16, 0, { id: "camp-lejeune-pending-claims", label: "Pending claims" });
@@ -217,6 +224,24 @@ const displayedToc = conciseStatusSlugs.has(slug)
       </div>
     </div>
     <div class="prose-legal max-w-none lg:order-2">
+      {ozempicCountHistory.length > 0 && (
+        <section id="ozempic-mdl-case-counts">
+          <h2>Ozempic MDL 3094 pending case counts by month</h2>
+          <p>These JPML snapshots cover the gastrointestinal-injury docket. The separate NAION vision-loss docket (MDL 3163) has its own count.</p>
+          <table>
+            <thead><tr><th scope="col">JPML report date</th><th scope="col">Pending actions</th></tr></thead>
+            <tbody>
+              {ozempicCountHistory.map((entry) => (
+                <tr>
+                  <th scope="row"><a href={entry.sourceUrl} data-track="source_click">{formatDate(entry.date)}</a></th>
+                  <td>{formatCount(entry.count)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          <p><a href="/mdl/3094/" data-track="lawsuit_to_mdl">See the MDL 3094 docket and case-count details</a>.</p>
+        </section>
+      )}
       <Content />
 
       <section id="research-resources">

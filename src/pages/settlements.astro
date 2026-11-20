@@ -72,6 +72,12 @@ const statusLabel = (status: string) => status === "none" ? "No public settlemen
                   <div class="font-bold text-ink">{statusLabel(settlement.status)}</div>
                   {settlement.amount && <div class="mt-1 font-black text-accent-dark">{settlement.amount}</div>}
                   <p class="mt-1 max-w-xl leading-6 text-muted">{settlement.detail}</p>
+                  {item.slug === "camp-lejeune" && (
+                    <a class="font-bold text-accent-dark underline" href="/lawsuits/camp-lejeune/#camp-lejeune-settlement-status">Camp Lejeune settlement update</a>
+                  )}
+                  {item.slug === "afff-pfas" && settlement.kind === "global" && (
+                    <a class="font-bold text-accent-dark underline" href="/lawsuits/afff-pfas/#afff-individual-payment-timing">PFAS personal-injury payment timing</a>
+                  )}
                 </td>
                 <td class="px-4 py-4 text-sm leading-6 text-muted">{settlement.individualClaims ?? (settlement.kind === "public-entity" ? "No — this entry covers public entities." : "Review the program scope; no payment is automatic.")}</td>
                 <td class="px-4 py-4">

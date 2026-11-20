@@ -88,16 +88,15 @@ faqs:
 <section id="latest-update">
 <h2>Camp Lejeune Water Contamination Claims update: November 2026</h2>
 <p>On November 16 the court heard the Marine Corps data discovery motion and took it under advisement. The next hearing is December 9 at 11 a.m. ET in Wilmington. <a href="https://camplejeunecourtinfo.com/wp-content/uploads/cl-944-minute-entry.pdf">November 16 hearing minutes</a>. The November 9–10 Fancher bench trial took place. Final findings remain unverified.</p>
-<p><strong>Existing claims and settlement processing; new administrative claims closed.</strong> The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. DOJ’s claims page says it is currently declining requests to reconsider Elective Option determinations or submit additional documentation. The new administrative claim window closed August 10, 2024; timely claims remain subject to individual notices, court deadlines and settlement terms.</p>
+<p><strong>Existing claims and settlement processing; new administrative claims closed.</strong> <a href="#camp-lejeune-settlement-status">See the November 9 settlement figures and payment process</a>. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">DOJ’s claims page</a> says it is currently declining requests to reconsider Elective Option determinations or submit additional documentation. The new administrative claim window closed August 10, 2024; timely claims remain subject to individual notices, court deadlines and settlement terms.</p>
 
-<p><strong>Settlement status:</strong> The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. EO diagnosis and exposure tiers range from $100,000 to $450,000, with a further $100,000 for qualifying deaths. Individual eligibility and payment depend on the applicable program and completed documents; aggregate totals are not average awards.</p>
-<h3>What the November source review confirmed</h3>
-<ul>
-<li>DOJ's current notice says EO determinations are not being reconsidered and additional EO documentation is not accepted. Claimants should distinguish this notice from instructions for completing an accepted settlement's payment paperwork. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
-<li>The November 9 DOJ filing reports $1.232 billion in approved offers, $981 million paid and 3,802 cumulative federal complaints. <a href="https://camplejeunecourtinfo.com/wp-content/uploads/Settlement_Notice_2026_11_09_Final.pdf">DOJ filing</a>.</li>
-<li>The court's public information page links to litigation resources and explains that the plaintiffs' leadership group does not act as each claimant's individual attorney. <a href="https://www.nced.uscourts.gov/attorney/clwl.aspx">Source</a></li>
-<li>DOJ distinguishes accepted EO payment processing from the uncertain timing of an initial offer. <a href="https://www.justice.gov/civil/camp-lejeune-justice-act-claims">Source</a></li>
-</ul>
+</section>
+
+<section id="camp-lejeune-settlement-status">
+<h2>Camp Lejeune settlement status</h2>
+<p>The <a href="https://camplejeunecourtinfo.com/wp-content/uploads/Settlement_Notice_2026_11_09_Final.pdf">November 9, 2026 DOJ filing</a> reported $1.232 billion in approved offers and $981 million paid. Those are program totals. The same report listed 3,802 federal complaints filed through November 9.</p>
+<p>The <a href="#camp-lejeune-elective-option">Elective Option</a> offers eligible claimants tiered settlements based on diagnosis and exposure duration. DOJ says payment can take 60 days or less after acceptance and timely completion of all required paperwork. See the <a href="#camp-lejeune-payment-process">payment process</a> for the documents involved.</p>
+<p>The <a href="https://camplejeunecourtinfo.com/wp-content/uploads/cl-944-minute-entry.pdf">November 16 court minutes</a> list the next hearing for December 9 at 11 a.m. ET in Wilmington. That is a court hearing in the litigation. The November 16 Marine Corps data discovery motion was taken under advisement.</p>
 </section>
 
 <section id="camp-lejeune-deadline">
