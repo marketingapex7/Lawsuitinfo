@@ -176,23 +176,23 @@
     {
       "date": "2026-11-20",
       "label": "Group B proposals due",
-      "detail": "CMO 26O extends the July 20 proposal date to November 20. Read the earlier schedule with the later CMO 40 stay as to 3M. CMO 40 stays covered proceedings as to 3M. Check the scope and exceptions in that order before applying this date to a 3M claim.",
+      "detail": "CMO 26O set November 20 for the parties' Group B case-selection and expert-discovery proposals. That deadline has passed. The public court orders page reviewed November 22 does not publish the proposals or a later order resolving this step, so no selection outcome is inferred. Read the earlier schedule with the scope and exceptions of the later CMO 40 stay as to 3M.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf",
       "source": "Official court or settlement record",
-      "verifiedOn": "2026-11-10",
+      "verifiedOn": "2026-11-22",
       "kind": "bellwether",
-      "status": "scheduled",
+      "status": "historical",
       "appliesTo": "Group B personal-injury discovery pool"
     },
     {
       "date": "2026-11-20",
       "label": "Thyroid/liver-cancer Rule 702 responses due",
-      "detail": "CMO 33F sets the response deadline; this is briefing, not a trial. Read the earlier schedule with the later CMO 40 stay as to 3M. CMO 40 stays covered proceedings as to 3M. Check the scope and exceptions in that order before applying this date to a 3M claim.",
+      "detail": "CMO 33F set November 20 for responses to the thyroid/liver-cancer Rule 702 motions. That filing deadline has passed. The public court orders page reviewed November 22 does not publish a ruling or a replacement schedule; the next listed briefing date is January 22, 2027 for replies. Read the schedule with the scope and exceptions of the later CMO 40 stay as to 3M.",
       "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf",
       "source": "Official court or settlement record",
-      "verifiedOn": "2026-11-10",
+      "verifiedOn": "2026-11-22",
       "kind": "court",
-      "status": "scheduled",
+      "status": "historical",
       "appliesTo": "Thyroid/liver-cancer expert motions"
     },
     {
@@ -318,9 +318,14 @@
       "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf"
     }
   ],
-  "dataAsOf": "2026-11-18",
-  "statusVerifiedOn": "2026-11-18",
+  "dataAsOf": "2026-11-22",
+  "statusVerifiedOn": "2026-11-22",
   "updates": [
+    {
+      "date": "2026-11-22",
+      "summary": "The November 20 Group B proposal and thyroid/liver-cancer Rule 702 response deadlines have passed. The public court orders page reviewed November 22 does not publish the proposals, a Rule 702 ruling, or a replacement schedule, so no substantive outcome is inferred.",
+      "sourceUrl": "https://www.scd.uscourts.gov/mdl-2873/orders.asp"
+    },
     {
       "date": "2026-11-18",
       "summary": "The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions.",
