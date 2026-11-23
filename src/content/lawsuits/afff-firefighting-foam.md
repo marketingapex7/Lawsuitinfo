@@ -33,8 +33,8 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-11-18"
-lastReviewed: "2026-11-11"
+lastUpdated: "2026-11-22"
+lastReviewed: "2026-11-22"
 faqs:
   -
     question: "How much are firefighting foam (AFFF) settlements worth?"
@@ -91,9 +91,10 @@ faqs:
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> lists <strong>15,270 pending actions</strong> in MDL-2873, up from 15,264 on October 1. The separate historical total is 19,846 actions, not a count of people eligible for payment.</p>
 <p><strong>November 13 claimant identification:</strong> The November 13, 2026 identification deadline under CMO 39 has passed. It applied to counsel for eligible clients, including qualifying unfiled clients, and eligible people already representing themselves in the MDL on covered claims against 3M. CMO 39 also sets a 10-day filing or refiling interval for counsel for specified identified claimants and a 14-day amended fact-sheet interval for specified claimants. Both intervals run from the identification response date. See CMO 39 for the covered groups and exceptions. <a href="https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11962.0.pdf">Read CMO 39</a>.</p>
 <p><a href="https://storage.courtlistener.com/recap/gov.uscourts.scd.247003/gov.uscourts.scd.247003.11964.0.pdf">Read CMO 40</a>. CMO 40 stays covered MDL proceedings as to 3M, subject to the procedures and exceptions in CMOs 39 and 40. The stay leaves claims against other defendants outside its scope. Earlier orders set Group B and Rule 702 deadlines. Read those schedules with the scope and exceptions of the later stay in mind.</p>
+<p><strong>November 20 deadlines:</strong> The Group B proposal deadline in CMO 26O and the thyroid/liver-cancer Rule 702 response deadline in CMO 33F have passed. The <a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">public court orders page</a> reviewed November 22 does not publish the proposals, a Rule 702 ruling, or a replacement schedule. No substantive outcome is inferred from the deadline alone; CMO 33F still lists January 22, 2027 for replies.</p>
 <p>The <a href="https://www.pfaswatersettlement.com/">official administrator</a> lists four additional proposed C.A.A.N. water-system settlements with preliminary approval. They are separate from individual injury claims. <a href="#afff-settlement-status">See the settlement explanation and upcoming dates</a>.</p>
 <p>For a possible injury claim, review <a href="#afff-qualifications">exposure and diagnosis factors</a> and <a href="#afff-deadlines">deadline considerations</a>. The <a href="/lawsuits/afff-pfas/settlement/">AFFF settlement guide</a> explains the different claim types.</p>
-<p><a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">Public court orders</a> and administrator pages checked November 10, 2026. Public indexes are not a complete live PACER docket.</p>
+<p><a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">Public court orders</a> and administrator pages checked November 22, 2026. Public indexes are not a complete live PACER docket.</p>
 </section>
 
 <section id="afff-lawsuit-overview">
@@ -122,8 +123,8 @@ faqs:
 <p><strong>October 30, 2026:</strong> <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf">CMO 4E</a> clarifies limited disclosure of case-caption, plaintiff-name and alleged-exposure-source information for proceedings before the JPML. It does not announce a settlement or trial date.</p>
 <ul>
 <li>JPML reports 15,264 pending actions on October 1, 2026, compared with 15,264 on September 1; 19,840 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
-<li>CMO 26O moves Group B case-selection and expert-discovery proposals to November 20, 2026. <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf">Source</a></li>
-<li>CMO 33F sets thyroid/liver-cancer expert-motion responses for November 20, 2026 and replies for January 22, 2027; it does not set a trial. <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf">Source</a></li>
+<li>The November 20 Group B proposal deadline in CMO 26O has passed. The public orders page reviewed November 22 does not publish the proposals or a later selection order. <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf">Scheduling source</a></li>
+<li>The November 20 Rule 702 response deadline in CMO 33F has passed; January 22, 2027 remains the listed reply deadline. The public orders page reviewed November 22 does not publish a ruling. <a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf">Scheduling source</a></li>
 <li>The administrator confirms four water-system settlements have final approval; the Phase Two water-system claims deadline was July 31, 2026. <a href="https://www.pfaswatersettlement.com/">Source</a></li>
 </ul>
 </section>
@@ -219,10 +220,10 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked November 10, 2026 against <a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">public court records</a>; these public indexes are not complete live dockets.</p>
+<p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked November 22, 2026 against <a href="https://www.scd.uscourts.gov/mdl-2873/orders.asp">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
-<li><a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf">CMO 26O moves Group B case-selection and expert-discovery proposals to November 20, 2026.</a></li>
-<li><a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf">CMO 33F sets thyroid/liver-cancer expert-motion responses for November 20, 2026 and replies for January 22, 2027; it does not set a trial.</a></li>
+<li><a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2026.O%20ECF%2010497.pdf">CMO 26O set the now-passed November 20 Group B proposal deadline.</a></li>
+<li><a href="https://www.scd.uscourts.gov/mdl-2873/orders/CMO%2033.F%20ECF%2011298.pdf">CMO 33F set the now-passed November 20 response deadline and the January 22, 2027 reply deadline; it does not set a trial.</a></li>
 <li><a href="https://www.pfaswatersettlement.com/">The administrator confirms four water-system settlements have final approval; the Phase Two water-system claims deadline was July 31, 2026.</a></li>
 </ul>
 <p>Defendants dispute the allegations. Hearing schedules do not establish an outcome, and pending-action counts do not establish settlement eligibility. State filing deadlines and settlement-program deadlines are different.</p>
