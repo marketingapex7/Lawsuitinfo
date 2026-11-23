@@ -10,8 +10,8 @@
     "judge": "Senior Judge David G. Campbell",
     "established": "2023-08-08"
   },
-  "phase": "Bellwether verdict and Hicks pretrial proceedings",
-  "phaseDetail": "The September 4 Divelbliss verdict awarded $40 million in compensatory damages and no punitive damages. The court addressed Hicks expert evidence October 15–21, denied summary judgment October 26, and issued an affirmative-defense ruling filed November 4. CMO 42 lists December 1 for Hicks. A later amended schedule and the outcome of the November 13 settlement-procedure conference remain unverified.",
+  "phase": "Court-directed settlement process and remand planning",
+  "phaseDetail": "CMO 52 says the November 13 conference addressed a proposed settlement process and the remand or transfer of cases that do not settle. New cases may be transferred to or directly filed in MDL-3081 through February 28, 2027. The parties then have until September 1, 2027 to attempt to negotiate settlement of cases pending in the MDL. Cases with a release or term sheet executed by that date may remain until March 1, 2028 to complete paperwork and file a stipulated dismissal; other cases are to be recommended for remand or transferred under 28 U.S.C. § 1404(a). The order does not publish a settlement fund, eligibility grid, individual payout amount, or guaranteed resolution.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -65,14 +65,14 @@
   ],
   "settlements": [
     {
-      "label": "Global settlement status",
-      "kind": "none",
-      "status": "not identified in reviewed records",
-      "detail": "The Arizona public MDL orders reviewed on September 14, 2026 did not identify a global settlement program. The posted order collection reviewed ends with CMO 46 in March 2026, so it cannot establish the absence of later private resolutions.",
-      "individualClaims": "No individual payment amount or universal payment date verified.",
-      "verifiedOn": "2026-09-14",
-      "source": "District of Arizona public MDL orders",
-      "sourceUrl": "https://www.azd.uscourts.gov/re-bard-implanted-port-catheter-products-liability-litigation"
+      "label": "Court-directed settlement and remand process",
+      "kind": "proposed",
+      "status": "process ordered; public agreement terms not identified",
+      "detail": "CMO 52 establishes deadlines for a proposed settlement process and for remand or transfer of cases that do not settle. It does not announce a global settlement agreement, settlement amount, claimant eligibility grid, or individual payment schedule.",
+      "individualClaims": "Whether a particular claim resolves depends on the parties' negotiations and any applicable agreement. The order provides no fixed or guaranteed individual amount.",
+      "verifiedOn": "2026-11-22",
+      "source": "District of Arizona CMO 52 (ECF 12139)",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf"
     }
   ],
   "keyDates": [
@@ -119,9 +119,68 @@
       "source": "Divelbliss verdict filed",
       "sourceUrl": "https://www.aboutlawsuits.com/wp-content/uploads/2026-09-04-Verdict.pdf",
       "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-11-17",
+      "label": "CMO 52 entered",
+      "detail": "The court set a settlement/remand process after the November 13 conference. The order does not publish settlement amounts or eligibility terms.",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf",
+      "source": "District of Arizona CMO 52 (ECF 12139)",
+      "verifiedOn": "2026-11-22",
+      "kind": "court",
+      "status": "completed",
+      "appliesTo": "All actions in MDL-3081"
+    },
+    {
+      "date": "2027-01-31",
+      "label": "Joint settlement-status memorandum due",
+      "detail": "CMO 52 directs the parties to propose processes for settlement-status updates, videotaped trial testimony, and preparation of remand or transfer records.",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf",
+      "source": "District of Arizona CMO 52 (ECF 12139)",
+      "verifiedOn": "2026-11-22",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "MDL-3081 settlement and remand administration"
+    },
+    {
+      "date": "2027-02-28",
+      "label": "New MDL transfer and direct-filing cutoff",
+      "detail": "CMO 52 sets February 28, 2027 as the closing date for new cases to be transferred to or directly filed in MDL-3081. It does not decide any state-law filing deadline.",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf",
+      "source": "District of Arizona CMO 52 (ECF 12139)",
+      "verifiedOn": "2026-11-22",
+      "kind": "claim",
+      "status": "scheduled",
+      "appliesTo": "New cases seeking transfer to or direct filing in MDL-3081"
+    },
+    {
+      "date": "2027-09-01",
+      "label": "Settlement-negotiation cutoff for pending MDL cases",
+      "detail": "CMO 52 gives the parties through September 1, 2027 to attempt settlement of cases pending in the MDL. Cases without an executed release or term sheet by that date are to be recommended for remand or transferred under 28 U.S.C. § 1404(a).",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf",
+      "source": "District of Arizona CMO 52 (ECF 12139)",
+      "verifiedOn": "2026-11-22",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "Cases pending in MDL-3081"
+    },
+    {
+      "date": "2028-03-01",
+      "label": "Settlement-paperwork and dismissal cutoff",
+      "detail": "Cases with a release or term sheet executed by September 1, 2027 may remain pending until March 1, 2028 to complete settlement paperwork and file a stipulated dismissal. Cases not dismissed by then are to be recommended for remand or transferred.",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf",
+      "source": "District of Arizona CMO 52 (ECF 12139)",
+      "verifiedOn": "2026-11-22",
+      "kind": "court",
+      "status": "scheduled",
+      "appliesTo": "MDL-3081 cases with an executed release or term sheet"
     }
   ],
   "sources": [
+    {
+      "name": "District of Arizona CMO 52 — settlement, closure and remand process",
+      "url": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf"
+    },
     {
       "name": "The Hicks docket includes October expert rulings, the October 26 denial of summary judgment and the affirmative-defense ruling filed November 4",
       "url": "https://www.govinfo.gov/app/details/USCOURTS-azd-2_23-md-03081/USCOURTS-azd-2_23-md-03081-43/context"
@@ -167,9 +226,14 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3081-Transfer_Order-7-23.pdf"
     }
   ],
-  "dataAsOf": "2026-11-18",
-  "statusVerifiedOn": "2026-11-18",
+  "dataAsOf": "2026-11-22",
+  "statusVerifiedOn": "2026-11-22",
   "updates": [
+    {
+      "date": "2026-11-17",
+      "summary": "CMO 52 sets a February 28, 2027 cutoff for new MDL transfers or direct filings, a September 1, 2027 settlement-negotiation cutoff for pending cases, and a March 1, 2028 paperwork and dismissal cutoff for cases with an executed release or term sheet. The order does not publish settlement amounts or claimant eligibility terms.",
+      "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/23-03081-12139.pdf"
+    },
     {
       "date": "2026-11-04",
       "summary": "The Hicks docket includes October expert rulings, the October 26 denial of summary judgment and the affirmative-defense ruling filed November 4.",
