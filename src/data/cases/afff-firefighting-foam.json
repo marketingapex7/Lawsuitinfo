@@ -198,12 +198,12 @@
     {
       "date": "2026-11-23",
       "label": "C.A.A.N. water-system settlement objections due",
-      "detail": "Administrator-listed objection deadline for the four proposed C.A.A.N. settlements; public-water-system class members only.",
+      "detail": "The administrator lists November 23, 2026 as the objection deadline for the four proposed C.A.A.N. public-water-system settlements. The deadline has passed. The administrator page reviewed November 24 continues to list preliminary approval and the January 15, 2027 fairness hearing but does not report an objection outcome. This was not a personal-injury filing deadline.",
       "sourceUrl": "https://www.pfaswatersettlement.com/",
       "source": "Official court or settlement-administrator record",
-      "verifiedOn": "2026-11-10",
+      "verifiedOn": "2026-11-24",
       "kind": "claim",
-      "status": "scheduled",
+      "status": "historical",
       "appliesTo": "Proposed C.A.A.N. public-water-system settlements only"
     },
     {
@@ -318,9 +318,14 @@
       "url": "https://www.scd.uscourts.gov/mdl-2873/orders/CMO%204.E%20ECF%2011940.pdf"
     }
   ],
-  "dataAsOf": "2026-11-22",
-  "statusVerifiedOn": "2026-11-22",
+  "dataAsOf": "2026-11-24",
+  "statusVerifiedOn": "2026-11-24",
   "updates": [
+    {
+      "date": "2026-11-24",
+      "summary": "The November 23 objection deadline for the proposed C.A.A.N. public-water-system settlements has passed. The official administrator page reviewed November 24 still describes the settlements as preliminarily approved and does not report an objection outcome; the January 15, 2027 fairness hearing remains listed.",
+      "sourceUrl": "https://www.pfaswatersettlement.com/"
+    },
     {
       "date": "2026-11-22",
       "summary": "The November 20 Group B proposal and thyroid/liver-cancer Rule 702 response deadlines have passed. The public court orders page reviewed November 22 does not publish the proposals, a Rule 702 ruling, or a replacement schedule, so no substantive outcome is inferred.",
