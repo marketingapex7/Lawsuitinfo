@@ -113,24 +113,24 @@
     {
       "date": "2026-11-19",
       "label": "Uber MDL discovery conference",
-      "detail": "3 p.m. PT.",
+      "detail": "The court's remote-hearings notice listed a November 19 discovery status conference. The official public notice reviewed November 24 continues to list the conference and the next December 17 conference but does not provide minutes or a substantive outcome. No ruling is inferred.",
       "appliesTo": "Federal MDL discovery",
       "kind": "court",
-      "status": "scheduled",
-      "source": "Uber MDL discovery conference",
-      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eId=3b1e46e6-bbf2-473f-b5cb-998eca34e87f&eType=EmailBlastContent",
-      "verifiedOn": "2026-11-18"
+      "status": "historical",
+      "source": "Northern District of California remote-hearings notice",
+      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent",
+      "verifiedOn": "2026-11-24"
     },
     {
       "date": "2026-11-20",
       "label": "A.R.2 motions in limine and Rule 412 motions due",
-      "detail": "Applies to motions in the A.R.2 bellwether.",
+      "detail": "The October 26 order set November 20 for A.R.2 motions in limine and Rule 412 motions. That filing deadline has passed. The Northern District of California public new-filings index reviewed through November 24 does not establish a ruling; oppositions remain scheduled for December 8 under the order.",
       "appliesTo": "A.R.2 bellwether only",
       "kind": "bellwether",
-      "status": "scheduled",
+      "status": "historical",
       "source": "A.R.2 motions in limine and Rule 412 motions due",
       "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
-      "verifiedOn": "2026-11-18"
+      "verifiedOn": "2026-11-24"
     },
     {
       "date": "2026-12-08",
@@ -190,6 +190,14 @@
   ],
   "sources": [
     {
+      "name": "Northern District of California remote-hearings notice",
+      "url": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent"
+    },
+    {
+      "name": "Northern District of California public new-filings index",
+      "url": "https://apps.cand.uscourts.gov/acf/"
+    },
+    {
       "name": "North Carolina DOJ announced a Fourth Circuit amicus brief in the appeal involving the North Carolina bellwether",
       "url": "https://ncdoj.gov/attorney-general-jeff-jackson-fights-for-passenger-safety-in-uber-sexual-assault-case/"
     },
@@ -234,9 +242,14 @@
       "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/third-bellwether-trial-in-uber-sexual-assault-mdl-ends-in-settlement/"
     }
   ],
-  "dataAsOf": "2026-11-18",
-  "statusVerifiedOn": "2026-11-18",
+  "dataAsOf": "2026-11-24",
+  "statusVerifiedOn": "2026-11-24",
   "updates": [
+    {
+      "date": "2026-11-24",
+      "summary": "The November 19 discovery conference and November 20 A.R.2 motion deadline have passed. Official public court pages reviewed through November 24 do not publish conference minutes or a ruling; the A.R.2 schedule still lists December 8 oppositions, a December 17 pretrial conference, January 7 jury selection, and a January 11 trial.",
+      "sourceUrl": "https://apps.cand.uscourts.gov/acf/"
+    },
     {
       "date": "2026-11-16",
       "summary": "North Carolina DOJ announced a Fourth Circuit amicus brief in the appeal involving the North Carolina bellwether.",
