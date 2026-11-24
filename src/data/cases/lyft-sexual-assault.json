@@ -91,16 +91,20 @@
     {
       "date": "2026-11-23",
       "label": "Fact-sheet show-cause responses due",
-      "detail": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets.",
+      "detail": "The November 9 order required plaintiffs in six named cases to respond by November 23 about alleged failures to serve timely fact sheets. The deadline has passed. The Northern District of California public new-filings index reviewed through November 24 does not publish a dismissal order or another outcome for those six cases, so no case disposition is inferred.",
       "appliesTo": "Plaintiffs in the six cases named in the November 9 order",
       "kind": "claim",
-      "status": "scheduled",
+      "status": "historical",
       "source": "Fact-sheet show-cause responses due",
       "sourceUrl": "https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf",
-      "verifiedOn": "2026-11-18"
+      "verifiedOn": "2026-11-24"
     }
   ],
   "sources": [
+    {
+      "name": "Northern District of California public new-filings index",
+      "url": "https://apps.cand.uscourts.gov/acf/"
+    },
     {
       "name": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets",
       "url": "https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf"
@@ -130,9 +134,14 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-October-1-2026.pdf"
     }
   ],
-  "dataAsOf": "2026-11-18",
-  "statusVerifiedOn": "2026-11-18",
+  "dataAsOf": "2026-11-24",
+  "statusVerifiedOn": "2026-11-24",
   "updates": [
+    {
+      "date": "2026-11-24",
+      "summary": "The November 23 show-cause response deadline for six case-specific plaintiffs has passed. The Northern District of California public new-filings index reviewed through November 24 does not publish a dismissal order or other outcome for those cases.",
+      "sourceUrl": "https://apps.cand.uscourts.gov/acf/"
+    },
     {
       "date": "2026-11-09",
       "summary": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets.",
