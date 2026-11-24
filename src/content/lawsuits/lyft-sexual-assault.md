@@ -21,7 +21,7 @@ injuries:
   - "Harassment or threats during a ride"
   - "Physical injuries"
   - "Post-traumatic stress, anxiety, and depression"
-settlementStatus: "No global settlement program or public payout schedule for MDL-3171 was identified in records reviewed October 17, 2026. The federal MDL is in its first year of pretrial proceedings."
+settlementStatus: "No global settlement program or public payout schedule for MDL-3171 was identified in official records reviewed November 24, 2026. The federal MDL remains in early pretrial proceedings."
 timeline:
   -
     label: "The ride and the report"
@@ -32,8 +32,8 @@ timeline:
   -
     label: "Individual claim review"
     detail: "A lawyer compares the facts with the court record, the state filing deadline, and any special rules for sexual assault claims."
-lastUpdated: "2026-11-18"
-lastReviewed: "2026-10-17"
+lastUpdated: "2026-11-24"
+lastReviewed: "2026-11-24"
 faqs:
   - question: "What is the Lyft sexual assault lawsuit about?"
     answer: "Riders allege that Lyft failed to screen and train drivers, respond to complaints, and add safety features such as video and audio monitoring, and that those failures led to sexual assaults and harassment during rides. Lyft disputes the allegations. Federal cases are coordinated in MDL-3171 before Judge Rita F. Lin in San Francisco."
@@ -42,7 +42,7 @@ faqs:
   - question: "Is the Lyft case part of the Uber lawsuit?"
     answer: "No. Uber cases are in a separate MDL (MDL-3084) before a different judge. The two MDLs raise similar issues but are separate proceedings with separate defendants."
   - question: "Has Lyft settled?"
-    answer: "No global settlement program or public payout schedule had been announced in records reviewed October 17, 2026."
+    answer: "No global settlement program or public payout schedule was identified in official records reviewed November 24, 2026."
   - question: "Is the Lyft lawsuit a class action?"
     answer: "No. MDL-3171 is multidistrict litigation. Each rider keeps a separate lawsuit."
   - question: "What is the deadline to file?"
@@ -60,10 +60,10 @@ faqs:
 <section id="latest-update">
 <span id="status"></span><span id="litigation-updates"></span>
 <h2>Lyft sexual assault lawsuit update</h2>
-<p>The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets. <a href="https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf">November 9 order</a>.</p>
+<p>The November 23 response deadline in a November 9 show-cause order has passed. The order concerned six named cases and alleged failures to serve timely fact sheets; it was not a deadline for every MDL plaintiff. The <a href="https://apps.cand.uscourts.gov/acf/">Northern District of California public new-filings index</a> reviewed through November 24 does not publish a dismissal order or other outcome for those six cases, so no disposition is inferred. <a href="https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_26-cv-02923/pdf/USCOURTS-cand-3_26-cv-02923-0.pdf">Official filed order</a>.</p>
 <p>JPML lists 150 pending and 164 historical actions in MDL-3171 on November 2, compared with 134 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <p><strong>The federal docket nearly doubled in two months.</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>150 pending actions</strong> in <a href="/mdl/3171/">MDL-3171</a>, compared with 134 on October 1. Its 164 total historical actions include cases no longer pending.</p>
-<p>The MDL is less than a year old. No bellwether trial date or settlement program was identified in records reviewed October 17, 2026.</p>
+<p>The MDL is less than a year old. No bellwether trial date or settlement program was identified in official records reviewed November 24, 2026.</p>
 <h3>February 5, 2026: MDL created over Lyft's objection</h3>
 <p>The JPML centralized 17 actions from 10 districts before Judge Rita F. Lin. Lyft argued that the claims belonged in the California state coordinated proceeding, JCCP No. 5061. The Panel disagreed, saying it "cannot require these or any future plaintiffs to file in California state court." It chose San Francisco partly because Lyft is headquartered there and because that would help coordination with the state cases.</p>
 </section>
@@ -92,6 +92,6 @@ faqs:
 
 <section id="sources-status-notes">
 <h2>Sources and status notes</h2>
-<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The claims, the Panel's reasoning and the JCCP reference come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf">February 5, 2026 transfer order</a>. Status was reviewed October 17, 2026.</p>
+<p>Case counts use the JPML reports for <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">October 1</a>, <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-August-3-2026.pdf">August 3, 2026</a>. The claims, the Panel's reasoning and the JCCP reference come from the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3171-Transfer_Order-1-26.pdf">February 5, 2026 transfer order</a>. Status was reviewed November 24, 2026 against the <a href="https://apps.cand.uscourts.gov/acf/">Northern District of California public new-filings index</a>.</p>
 <p>Lyft disputes the allegations. Pending-case counts do not establish settlement eligibility.</p>
 </section>
