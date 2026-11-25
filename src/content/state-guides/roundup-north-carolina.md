@@ -16,10 +16,10 @@ lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Where are Roundup cases for North Carolina residents coordinated?"
-    answer: "Federal Roundup cases filed by North Carolina residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
+    answer: "Federal Roundup cases filed by North Carolina residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026."
   -
     question: "Why is North Carolina relevant to Roundup claims?"
-    answer: "North Carolina is a significant row-crop and tobacco state with substantial soybean acreage, where glyphosate is widely used (USDA NASS 2018), so exposure commonly involves farm and tobacco workers and rural residents. Claims proceed through the federal MDL and the proposed settlement."
+    answer: "North Carolina is a significant row-crop and tobacco state with substantial soybean acreage, where glyphosate is widely used (USDA NASS 2018), so exposure commonly involves farm and tobacco workers and rural residents. Claims proceed through the federal MDL and the court-approved class settlement."
   -
     question: "Do North Carolina deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in North Carolina?</h2>
 <p>North Carolina's relevance to Roundup litigation is primarily agricultural. The state is a significant row-crop and tobacco state with substantial soybean acreage; the USDA NASS 2018 Soybean Chemical Use survey documents glyphosate applied to the large majority of U.S. soybean acreage, and the most common North Carolina exposure profiles involve farm and tobacco workers and rural residents.</p>
-<p>Federal Roundup cases filed by North Carolina residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p>Federal Roundup cases filed by North Carolina residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Soybean Chemical Use Highlights</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>.</p>
 </section>
 

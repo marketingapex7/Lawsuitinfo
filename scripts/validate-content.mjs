@@ -132,7 +132,7 @@ async function validateRoundupDeadlineAndQualificationContent() {
       "roundup-eligibility",
       [
         "<h2>Who may qualify for a Roundup lawsuit?</h2>",
-        "Being included in that proposed class is not the same legal question"
+        "Being included in that class is not the same legal question"
       ]
     ],
     ["roundup-proof-needed", ["<h2>What proof do you need for a Roundup lawsuit?</h2>"]],
@@ -141,9 +141,9 @@ async function validateRoundupDeadlineAndQualificationContent() {
       [
         "<h2>What is the deadline to file a Roundup lawsuit?</h2>",
         "There is no single national deadline for an individual Roundup lawsuit.",
-        "Class-settlement dates do not replace an individual lawsuit deadline.",
-        "If the proposed settlement receives final approval and becomes effective",
-        "The administrator says the court will now decide whether to approve the settlement"
+        "Online claim-package submissions are scheduled to open December 7, 2026.",
+        "Covered pending lawsuits must be stayed by December 21, 2026",
+        "Subclass 1 claim packages are due 180 days after the Effective Date"
       ]
     ]
   ];

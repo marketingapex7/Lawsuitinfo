@@ -16,7 +16,7 @@ lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Where are Roundup cases for Pennsylvania residents coordinated?"
-    answer: "Federal Roundup cases filed by Pennsylvania residents are transferred into MDL No. 2741 in the Northern District of California. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
+    answer: "Federal Roundup cases filed by Pennsylvania residents are transferred into MDL No. 2741 in the Northern District of California. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026."
   -
     question: "Have there been major Roundup verdicts in Pennsylvania?"
     answer: "Yes. The Philadelphia Court of Common Pleas produced the Caranci verdict ($175 million, upheld on appeal in 2025) and the McKivison verdict ($2.25 billion, later reduced to $400 million). Past verdicts do not guarantee any individual outcome."
@@ -50,7 +50,7 @@ faqs:
 <h2>What stands out about Roundup litigation in Pennsylvania?</h2>
 <p>Pennsylvania &mdash; specifically the Philadelphia Court of Common Pleas &mdash; has been one of the most active Roundup trial venues in the country. In <em>Caranci v. Monsanto</em> (October 2023), a Philadelphia jury returned a $175 million verdict, which a Pennsylvania appellate court upheld in 2025.</p>
 <p>In <em>McKivison v. Monsanto</em> (January 2024), a Philadelphia jury returned a $2.25 billion verdict that was later reduced to $400 million. Many Pennsylvania plaintiffs allege residential lawn-and-garden exposure rather than agricultural use.</p>
-<p>Federal Pennsylvania cases are transferred into the national proceeding, MDL No. 2741, in the Northern District of California, and many claims are also being resolved through the proposed $7.25 billion nationwide class settlement.</p>
+<p>Federal Pennsylvania cases are transferred into the national proceeding, MDL No. 2741, in the Northern District of California, and A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.inquirer.com/news/philadelphia/roundup-weed-killer-cancer-claim-philadelphia-verdict-20231027.html" target="_blank" rel="noopener noreferrer">Philadelphia Inquirer — Caranci $175M verdict (Oct. 2023)</a>; <a href="https://www.nbcnews.com/news/us-news/bayer-ordered-pay-225b-jury-finds-roundup-weed-killer-caused-pennsylva-rcna136338" target="_blank" rel="noopener noreferrer">NBC News — McKivison $2.25B verdict (Jan. 2024)</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
 

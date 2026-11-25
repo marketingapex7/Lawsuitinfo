@@ -138,8 +138,8 @@ faqs:
 <h3>Four additional proposed water-system settlements</h3>
 <p>The <a href="https://www.pfaswatersettlement.com/">court-supervised administrator</a> distinguishes the four finally approved settlements with 3M, DuPont-related companies, Tyco/Chemguard and BASF from four additional proposed settlements with Carrier, Amerex, Archroma and Nation Ford (C.A.A.N.). The additional proposals have preliminary approval, not final approval.</p>
 <ul>
-<li>November 23, 2026: objections due for the proposed C.A.A.N. water-system settlements.</li>
-<li>December 22, 2026: exclusion requests due.</li>
+<li>November 23, 2026: the objection deadline passed for the proposed C.A.A.N. water-system settlements.</li>
+<li>December 22, 2026: exclusion requests must be received by the administrator.</li>
 <li>January 15, 2027: scheduled final fairness hearing.</li>
 </ul>
 <p>These dates concern eligible public-water-system class members. They are not personal-injury filing deadlines, trial dates or individual payment dates. Review the administrator's notices for the applicable settlement.</p>

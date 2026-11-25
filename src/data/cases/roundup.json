@@ -10,8 +10,8 @@
     "judge": "Judge Vince Chhabria",
     "established": "2016-10-03"
   },
-  "phase": "King final approval pending",
-  "phaseDetail": "King v. Monsanto awaits final approval and settlement registration remains unavailable. Bayer reported an October 29 defense verdict in Aretino, the separate Missouri trial. The filed verdict form remains unverified.",
+  "phase": "King settlement approved; registration open",
+  "phaseDetail": "The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -63,15 +63,15 @@
   ],
   "settlements": [
     {
-      "label": "King v. Monsanto proposed class settlement",
-      "status": "pending final approval",
-      "detail": "The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The fairness hearing was held September 14, 2026; the administrator says the court will now decide whether to approve the settlement and that it does not know how long the decision will take. June 4 objection and opt-out deadlines have passed.",
+      "label": "King v. Monsanto class settlement",
+      "status": "final approval entered; Effective Date pending",
+      "detail": "The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending. Online claim-package submissions are scheduled to open December 7, 2026. Covered pending lawsuits must be stayed by December 21, 2026, subject to the agreement’s scope and exceptions. Subclass 1 claim packages are due 180 days after the Effective Date; that date has not occurred.",
       "source": "Official King settlement administrator",
       "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs",
-      "kind": "proposed",
+      "kind": "global",
       "amount": "Up to $7.25 billion",
-      "individualClaims": "Class terms and later approval events control; no automatic individual award.",
-      "verifiedOn": "2026-10-23"
+      "individualClaims": "Class eligibility and claim review apply.",
+      "verifiedOn": "2026-11-25"
     }
   ],
   "keyDates": [
@@ -122,7 +122,7 @@
     {
       "date": "2026-09-14",
       "label": "King class settlement fairness hearing held",
-      "detail": "The administrator says the hearing was held September 14 and the court will now decide whether to approve the settlement; the timing of that decision is unknown.",
+      "detail": "The administrator confirms the fairness hearing took place on September 14, 2026.",
       "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs",
       "source": "Official court or settlement record",
       "verifiedOn": "2026-09-16",
@@ -140,9 +140,57 @@
       "source": "Reuters via Claims Journal, September 30, 2026",
       "verifiedOn": "2026-10-11",
       "appliesTo": "Missouri state court"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "King class settlement final approval",
+      "detail": "The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending.",
+      "kind": "court",
+      "status": "completed",
+      "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "Missouri King class settlement"
+    },
+    {
+      "date": "2026-12-07",
+      "label": "Online claim-package submissions scheduled to open",
+      "detail": "The administrator lists this as the submission opening, with processing subject to program rules.",
+      "kind": "claim",
+      "status": "scheduled",
+      "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "Missouri King class settlement"
+    },
+    {
+      "date": "2026-12-21",
+      "label": "Stay deadline for covered pending lawsuits",
+      "detail": "The administrator lists this deadline for covered suits, subject to class terms and exceptions.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "Missouri King class settlement"
+    },
+    {
+      "date": "2027-05-19",
+      "label": "Subclass 1 registration deadline",
+      "detail": "Eligible class members diagnosed with NHL on or before March 4, 2026 must register.",
+      "kind": "claim",
+      "status": "scheduled",
+      "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "Missouri King class settlement"
     }
   ],
   "sources": [
+    {
+      "name": "Official administrator: November 20 final approval and claims schedule",
+      "url": "https://www.weedkillerclass.com/Home/FAQs"
+    },
     {
       "name": "Bayer reported a defense verdict in the separate Aretino trial",
       "url": "https://www.bayer.com/en-us/united-states/news-and-stories/2026/monsanto-wins-first-roundup-trial"
@@ -172,10 +220,6 @@
       "url": "https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation"
     },
     {
-      "name": "The fairness hearing was held September 14; the court's approval decision remains pending with timing unknown.",
-      "url": "https://www.weedkillerclass.com/Home/FAQs"
-    },
-    {
       "name": "The Supreme Court decided Monsanto v. Durnell on June 25, 2026, holding the label-based failure-to-warn claim at issue expressly preempted by FIFRA.",
       "url": "https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf"
     },
@@ -196,9 +240,14 @@
       "url": "https://www.claimsjournal.com/news/national/2026/09/30/340468.htm"
     }
   ],
-  "dataAsOf": "2026-11-18",
-  "statusVerifiedOn": "2026-11-18",
+  "dataAsOf": "2026-11-25",
+  "statusVerifiedOn": "2026-11-25",
   "updates": [
+    {
+      "date": "2026-11-20",
+      "summary": "The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending.",
+      "sourceUrl": "https://www.weedkillerclass.com/Home/FAQs"
+    },
     {
       "date": "2026-11-02",
       "summary": "JPML lists 916 pending and 5,319 historical actions in MDL-2741 on November 2, compared with 1,104 pending on October 1.",

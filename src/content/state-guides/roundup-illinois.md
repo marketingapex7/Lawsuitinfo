@@ -16,10 +16,10 @@ lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Where are Roundup cases for Illinois residents coordinated?"
-    answer: "Federal Roundup cases filed by Illinois residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
+    answer: "Federal Roundup cases filed by Illinois residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026."
   -
     question: "Why is Illinois relevant to Roundup claims?"
-    answer: "Illinois is one of the largest corn and soybean states (second nationally in both per USDA NASS 2018), where glyphosate-tolerant crops dominate, so farmer and applicator exposure is common. Claims proceed through the federal MDL and the proposed nationwide settlement."
+    answer: "Illinois is one of the largest corn and soybean states (second nationally in both per USDA NASS 2018), where glyphosate-tolerant crops dominate, so farmer and applicator exposure is common. Claims proceed through the federal MDL and the court-approved nationwide class settlement."
   -
     question: "Do Illinois deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Illinois?</h2>
 <p>Illinois's relevance to Roundup litigation is heavily agricultural. It is one of the top one or two corn and soybean states in the country &mdash; the USDA NASS 2018 chemical-use surveys ranked Illinois second nationally in both crops &mdash; and glyphosate-tolerant varieties dominate that acreage, so occupational exposure among farmers and applicators is a core fact pattern.</p>
-<p>Federal Roundup cases filed by Illinois residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p>Federal Roundup cases filed by Illinois residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Corn_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Corn Chemical Use Highlights</a>; <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2018_Peanuts_Soybeans_Corn/ChemUseHighlights_Soybeans_2018.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2018 Soybean Chemical Use Highlights</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>.</p>
 </section>
 
