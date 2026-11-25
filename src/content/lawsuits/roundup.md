@@ -1,6 +1,6 @@
 ---
 title: "Roundup Cancer Lawsuit Guide"
-description: "King v. Monsanto awaits final approval. Roundup settlement registration remains closed. Check the official administrator for eligibility and updates."
+description: "King v. Monsanto received final approval November 20, 2026. See the May 19, 2027 Subclass 1 registration deadline and separate claim deadlines."
 lawsuit: "Roundup Cancer"
 urlSlug: "roundup"
 category: "Toxic Exposure"
@@ -21,7 +21,7 @@ injuries:
   - "Glyphosate exposure"
   - "Agricultural exposure"
   - "Landscaping or groundskeeping exposure"
-settlementStatus: "The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The fairness hearing was held September 14, 2026; the administrator says the court will now decide whether to approve the settlement and that the timing is unknown. June 4 objection and opt-out deadlines have passed."
+settlementStatus: "The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending."
 timeline:
   -
     label: "Product use or exposure"
@@ -32,30 +32,30 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the exposure and diagnosis timeline with the current litigation posture, filing deadlines, and available evidence."
-lastUpdated: "2026-11-18"
+lastUpdated: "2026-11-25"
 lastReviewed: "2026-10-23"
 faqs:
   -
     question: "How much are Roundup lawsuit settlements worth?"
-    answer: "The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The fairness hearing was held September 14, 2026; the administrator says the court will now decide whether to approve the settlement and that the timing is unknown. June 4 objection and opt-out deadlines have passed."
+    answer: "The court approved the King v. Monsanto class settlement, which provides up to $7.25 billion. The total does not establish any individual award."
   -
     question: "Has the King v. Monsanto Roundup settlement received final approval?"
-    answer: "Not as of October 23, 2026. The fairness hearing was held September 14, 2026. The official settlement administrator's FAQ, checked October 23, says the court will now decide whether to approve the settlement and the amount of fees, and that it does not know how long those decisions will take."
+    answer: "The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending."
   -
     question: "What is the latest on the Roundup lawsuit?"
-    answer: "The proposed $7.25 billion King v. Monsanto class settlement awaits final approval. Registration remains unavailable. The November 2 JPML report lists 916 pending actions in federal MDL-2741."
+    answer: "The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending. The November 2 JPML report lists 916 pending federal MDL-2741 actions."
   -
     question: "Is it too late to join the Roundup lawsuit or class settlement?"
-    answer: "The June 4, 2026 deadline to object to or opt out of the proposed King v. Monsanto class settlement has passed. Registration for the settlement has not opened; the administrator says Subclass 1 registration will be due within 180 days after final approval, with exact dates posted after approval. Whether a person can still file an individual lawsuit is a separate state-law deadline question for a licensed attorney."
+    answer: "The June 4, 2026 objection and opt-out deadline passed. Eligible Subclass 1 members must register by May 19, 2027. The agreement and applicable state law govern individual lawsuit options."
   -
     question: "How do I file a Roundup settlement claim?"
-    answer: "Claims for the proposed King v. Monsanto settlement are handled by the court-appointed administrator at WeedKillerClass.com, not by this site. As of October 23, 2026, registration and claim packages depend on final approval. People diagnosed before March 4, 2026 (Subclass 1) must register within 180 days after final approval; people diagnosed after that date (Subclass 2) do not register and file a claim package within six years of diagnosis, under the administrator's FAQ."
+    answer: "Use WeedKillerClass.com. Eligible Subclass 1 members diagnosed with NHL on or before March 4, 2026 must register by May 19, 2027. Subclass 2 does not register. Online claim submissions are scheduled to open December 7, 2026."
   -
     question: "When can I expect my Roundup settlement check?"
-    answer: "No payment date has been set for the proposed King v. Monsanto settlement. Payments cannot begin until the court grants final approval, any appeals are resolved, and claims are reviewed. The settlement is funded through capped annual payments, so timing also depends on the program's payment schedule. Earlier individual Roundup settlements followed their own timelines."
+    answer: "The administrator has not established a universal payment date. The Effective Date, claim review, and program payment schedule affect payment timing."
   -
     question: "Is the Roundup lawsuit a class action or an MDL?"
-    answer: "Both exist. Federal Roundup cases are coordinated as multidistrict litigation (MDL-2741) in the Northern District of California, where each plaintiff keeps an individual claim. A separate proposed nationwide class settlement has also been through state-court approval proceedings. Many earlier cases were tried individually in state courts."
+    answer: "Both exist. Federal Roundup cases are coordinated as multidistrict litigation (MDL-2741) in the Northern District of California, where each plaintiff keeps an individual claim. A Missouri court approved the separate nationwide class settlement on November 20, 2026. Many earlier cases were tried individually in state courts."
   -
     question: "What is the Roundup lawsuit about?"
     answer: "Lawsuits allege that glyphosate-based Roundup exposure may be linked to non-Hodgkin lymphoma and that warnings were inadequate."
@@ -64,10 +64,10 @@ faqs:
     answer: "Roundup claims commonly involve non-Hodgkin lymphoma allegations."
   -
     question: "Who may qualify for a Roundup lawsuit?"
-    answer: "Roundup use alone does not establish a viable individual claim. A review may consider identifiable Roundup or glyphosate exposure, frequency and duration, a documented non-Hodgkin lymphoma diagnosis and subtype, timing, prior claim or release paperwork, and applicable state law. The proposed King class uses separate court-defined membership and award rules."
+    answer: "Roundup use alone does not establish a viable individual claim. A review may consider identifiable Roundup or glyphosate exposure, frequency and duration, a documented non-Hodgkin lymphoma diagnosis and subtype, timing, prior claim or release paperwork, and applicable state law. The King class uses separate court-defined membership and award rules."
   -
     question: "What is the deadline to file a Roundup lawsuit?"
-    answer: "There is no single national filing deadline. Applicable state statutes of limitation and repose vary. Diagnosis, discovery, death, claim type, prior filings, settlements, or releases may be relevant. The proposed class settlement's objection, exclusion, registration, and claim-submission dates are different deadlines."
+    answer: "There is no single national filing deadline. Applicable state statutes of limitation and repose vary. Diagnosis, discovery, death, claim type, prior filings, settlements, or releases may be relevant. The class settlement's objection, exclusion, registration, and claim-submission dates are different deadlines."
   -
     question: "When did the Roundup lawsuit start?"
     answer: "Roundup claims developed over several years, and federal cases were centralized in MDL No. 2741 in 2016. Earlier product use, diagnosis dates, and state filing deadlines still matter for individual review."
@@ -85,9 +85,9 @@ faqs:
 <section id="roundup-quick-answers">
 <h2>Roundup lawsuit status: quick answers (November 2026)</h2>
 <ul>
-<li><strong>Lawsuit status:</strong> The proposed $7.25 billion <em>King v. Monsanto</em> class settlement is awaiting the court's final approval decision. The fairness hearing was held September 14, 2026, and the <a href="https://www.weedkillerclass.com/Home/FAQs">settlement administrator</a> says the timing of a decision is unknown (checked October 23, 2026).</li>
-<li><strong>Settlement update:</strong> No final approval order had been posted as of October 23. Payments cannot begin until approval, any appeals and claim review are complete. <a href="#king-final-approval">What final approval would start</a>.</li>
-<li><strong>Deadlines:</strong> The June 4, 2026 objection and opt-out deadline has passed. Settlement registration has not opened. Deadlines for individual lawsuits depend on state law. <a href="#roundup-deadline-questions">Deadline details</a>.</li>
+<li><strong>Lawsuit status:</strong> The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending. <a href="#king-final-approval">Approval and registration details</a>.</li>
+<li><strong>Settlement update:</strong> Online claim-package submissions are scheduled to open December 7, 2026. <a href="#king-final-approval">See which deadlines apply</a>.</li>
+<li><strong>Deadlines:</strong> The June 4 objection and opt-out deadline passed. See the <a href="/lawsuits/roundup/deadline/#settlement-dates">registration and lawsuit stay deadlines</a>.</li>
 <li><strong>Claims:</strong> Settlement claims go through the court-appointed administrator at <a href="https://www.weedkillerclass.com/">WeedKillerClass.com</a>, not this site.</li>
 <li><strong>Federal MDL and trials:</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> lists 916 pending actions in MDL-2741. A St. Louis state-court trial for three plaintiffs outside the settlement opened September 29. Monsanto disputes the claims.</li>
 </ul>
@@ -95,26 +95,21 @@ faqs:
 
 <section id="overview">
 <h2>What the Roundup Cancer lawsuit is about</h2>
-<p>Roundup lawsuits allege that glyphosate-based herbicide exposure caused non-Hodgkin lymphoma and that warnings were inadequate. Monsanto/Bayer disputes the claims. Federal MDL-2741 proceedings, the proposed Missouri King class settlement and individual state cases are distinct proceedings.</p>
+<p>Roundup lawsuits allege that glyphosate-based herbicide exposure caused non-Hodgkin lymphoma and that warnings were inadequate. Monsanto/Bayer disputes the claims. Federal MDL-2741 proceedings, the Missouri King class settlement and individual state cases are distinct proceedings.</p>
 </section>
 <section id="latest-update">
 <h2>Roundup lawsuit and settlement update: November 2026</h2>
-<p>King v. Monsanto awaits final approval and settlement registration remains unavailable. Bayer reported an October 29 defense verdict in Aretino, the separate Missouri trial. The filed verdict form remains unverified. <a href="https://www.weedkillerclass.com/Home/FAQs">Administrator FAQ</a> · <a href="https://www.bayer.com/en-us/united-states/news-and-stories/2026/monsanto-wins-first-roundup-trial">Bayer announcement</a>.</p>
-<p><strong>Proposed class settlement still awaiting an approval decision.</strong> The King v. Monsanto fairness hearing was held September 14, 2026. As of October 23, the <a href="https://www.weedkillerclass.com/Home/FAQs">official administrator's FAQ</a> says the court will now decide whether to approve the settlement and the amount of fees to award, and that it does not know how long those decisions will take. Settlement registration does not open until after final approval. The separate federal MDL remains before Judge Vince Chhabria.</p>
+<p>The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending. Bayer reported an October 29 defense verdict in Aretino, the separate Missouri trial. The filed verdict form remains unverified. <a href="https://www.weedkillerclass.com/Home/FAQs">Administrator FAQ</a> · <a href="https://www.bayer.com/en-us/united-states/news-and-stories/2026/monsanto-wins-first-roundup-trial">Bayer announcement</a>.</p>
+<p>Online claim-package submissions are scheduled to open December 7, 2026. Covered pending lawsuits must be stayed by December 21, 2026, subject to the agreement’s scope and exceptions. Subclass 1 claim packages are due 180 days after the Effective Date; that date has not occurred. <a href="https://www.weedkillerclass.com/Home/FAQs">Official administrator FAQ</a>. The federal MDL remains a separate proceeding.</p>
 <p>On September 29, a Missouri state court in St. Louis opened a trial for three non-Hodgkin lymphoma plaintiffs who are not part of the settlement. Their claims rely on design-defect and inadequate-testing theories, which the Supreme Court's <em>Durnell</em> ruling on label warnings did not directly address (<a href="https://www.claimsjournal.com/news/national/2026/09/30/340468.htm">Reuters via Claims Journal</a>). Monsanto disputes the claims.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>916 pending actions</strong> in MDL-2741, compared with 1,104 on October 1. The JPML report does not explain the drop. Its 5,319 total historical actions include cases no longer pending; neither figure is a count of people eligible for payment.</p>
-<p><a href="https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">Official court records</a> checked September 14, 2026; settlement administrator FAQ checked October 23, 2026.</p>
+<p><a href="https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">Official court records</a> checked September 14, 2026; settlement administrator FAQ checked November 25, 2026.</p>
 </section>
 
 <section id="king-final-approval">
 <h2>Has the King v. Monsanto settlement received final approval?</h2>
-<p><strong>No final approval order had been posted as of October 23, 2026.</strong> The fairness hearing took place September 14, 2026. The <a href="https://www.weedkillerclass.com/Home/FAQs">court-appointed administrator's FAQ</a> says the court will now decide whether to approve the settlement and, if so, what fees to award, and that the administrator does not know how long those decisions will take.</p>
-<p>What final approval would start, according to the administrator's FAQ:</p>
-<ul>
-<li><strong>Subclass 1</strong> (diagnosed with non-Hodgkin lymphoma before March 4, 2026): registration due within 180 days after the court grants final approval, and a claim package due no later than 180 days after the settlement becomes final. Exact dates are to be posted after approval.</li>
-<li><strong>Subclass 2</strong> (diagnosed after March 4, 2026): no registration step; a claim package is due within six years of diagnosis and before the 16th annual payment date.</li>
-</ul>
-<p>Final approval is not the same as payment. Appeals, claim review, and the settlement's annual payment structure all affect when money is paid. Check <a href="https://www.weedkillerclass.com/">WeedKillerClass.com</a> or the administrator's phone line for official dates; this site does not process claims.</p>
+<p><strong>The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending.</strong> Online claim-package submissions are scheduled to open December 7, 2026. Covered pending lawsuits must be stayed by December 21, 2026, subject to the agreement’s scope and exceptions. Subclass 1 claim packages are due 180 days after the Effective Date; that date has not occurred. <a href="https://www.weedkillerclass.com/Home/FAQs">Official administrator FAQ</a>.</p>
+<p>Subclass 1 includes eligible class members diagnosed with NHL on or before March 4, 2026. Subclass 2 members do not register. See the administrator’s instructions for claim-package requirements and exceptions.</p>
 </section>
 
 <section id="case-status-snapshot">
@@ -124,15 +119,15 @@ faqs:
 <li><strong>Judge:</strong> Judge Vince Chhabria</li>
 <li><strong>JPML transfer date:</strong> 2016-10-03</li>
 <li><strong>Pending actions:</strong> 916 as of November 2, 2026</li>
-<li><strong>Current phase:</strong> Proposed class settlement awaiting approval decision</li>
-<li><strong>Settlement:</strong> The proposed King v. Monsanto class settlement provides up to $7.25 billion, subject to final approval. The fairness hearing was held September 14, 2026; the administrator says the court will now decide whether to approve the settlement and that the timing is unknown.</li>
+<li><strong>Current phase:</strong> Class settlement approved; Effective Date pending</li>
+<li><strong>Settlement:</strong> The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending.</li>
 </ul>
 </section>
 
 <section id="roundup-eligibility">
 <h2>Who may qualify for a Roundup lawsuit?</h2>
 <p><strong>Roundup use by itself does not establish that someone has a viable individual lawsuit.</strong> A claim review generally considers whether the product and exposure can be identified, whether medical records document non-Hodgkin lymphoma, whether the timeline fits the claim being evaluated, and whether state law or earlier Roundup paperwork affects the person's options.</p>
-<p>The proposed <em>King v. Monsanto</em> class uses its own court-defined membership and award rules. Being included in that proposed class is not the same legal question as whether someone can file or continue an individual personal-injury or wrongful-death lawsuit. The official settlement FAQ also treats certain people with pending MDL claims, earlier settlements, releases, judgments, or dismissals differently.</p>
+<p>The <em>King v. Monsanto</em> class uses its own court-defined membership and award rules. Being included in that class is not the same legal question as whether someone can file or continue an individual personal-injury or wrongful-death lawsuit. The official settlement FAQ also treats certain people with pending MDL claims, earlier settlements, releases, judgments, or dismissals differently.</p>
 <p>Common individual-claim review factors include:</p>
 <ul>
 <li><strong>Identifiable exposure:</strong> The Roundup or glyphosate-containing product, approximate years of use, frequency, duration, and whether exposure occurred at work, at home, or both.</li>
@@ -151,7 +146,7 @@ faqs:
 <ul>
 <li>JPML reports 1,104 pending actions on October 1, 2026, compared with 3,925 on September 1; 5,324 total historical actions are reported separately. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">Source</a></li>
 <li>A St. Louis state-court trial for three plaintiffs outside the settlement opened September 29 on design-defect and inadequate-testing theories. <a href="https://www.claimsjournal.com/news/national/2026/09/30/340468.htm">Source</a></li>
-<li>The fairness hearing was held September 14; as of October 23 the administrator says the court will now decide whether to approve the settlement, with timing unknown. <a href="https://www.weedkillerclass.com/Home/FAQs">Source</a></li>
+<li>The Missouri court granted final approval on November 20, 2026. <a href="https://www.weedkillerclass.com/Home/FAQs">Administrator FAQ</a>.</li>
 <li>The administrator lists June 4, 2026 as the objection and exclusion deadline; later benefit deadlines depend on final approval and appeals. <a href="https://www.weedkillerclass.com/">Source</a></li>
 <li>The Supreme Court decided Monsanto v. Durnell on June 25, 2026, holding the label-based failure-to-warn claim at issue expressly preempted by FIFRA. <a href="https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf">Source</a></li>
 </ul>
@@ -166,8 +161,8 @@ faqs:
 
 <section id="status">
 <h2>Roundup lawsuit status</h2>
-<p>The King v. Monsanto fairness hearing was held September 14, 2026. The official administrator says the court will now decide whether to approve the settlement and that the timing is unknown. The separate federal MDL remains before Judge Vince Chhabria.</p>
-<p>The proposed class settlement provides up to $7.25 billion, subject to final approval. June 4 objection and opt-out deadlines have passed. Registration and claim deadlines depend on later approval and appeal events; they are separate from state lawsuit deadlines.</p>
+<p>The King v. Monsanto fairness hearing was held September 14, 2026. The court entered final approval on November 20, 2026. The Effective Date remains pending. The separate federal MDL remains before Judge Vince Chhabria.</p>
+<p>The Missouri court granted final approval to the King v. Monsanto class settlement on November 20, 2026. Subclass 1 registration is open through May 19, 2027. The Effective Date remains pending. <a href="#king-final-approval">See the settlement dates</a>.</p>
 </section>
 
 <section id="key-issues">
@@ -192,7 +187,7 @@ faqs:
 
 <section id="roundup-settlement-timing">
 <h2>When will Roundup settlement checks be paid?</h2>
-<p>There is no single payment date for all Roundup claims. Earlier settlements, individual state-court cases, MDL cases, and the proposed 2026 nationwide class settlement may follow different timelines. The fairness hearing was held September 14, but final approval remains pending and the administrator says the decision timing is unknown. Any final order, appeal, eligibility review, claim administration, release, and individual documentation can affect timing.</p>
+<p>The Effective Date, claims review, and annual payment schedule affect when payments can be made. The administrator provides instructions for each subclass.</p>
 <p>For individual claims, a payment timeline may depend on whether the claim is already resolved, whether a release was signed, whether lien resolution is required, and whether the person is participating in a specific settlement program. Search results that promise a universal payout date should be treated cautiously unless they cite the settlement administrator, court order, or docket.</p>
 </section>
 
@@ -200,9 +195,9 @@ faqs:
 <h2>What is the deadline to file a Roundup lawsuit?</h2>
 <p><strong>There is no single national deadline for an individual Roundup lawsuit.</strong> A filing deadline may depend on the governing state's statute of limitations or repose, the legal claim, diagnosis and discovery facts, a death date in wrongful-death or survival matters, and any earlier lawsuit, tolling agreement, settlement, release, judgment, or dismissal.</p>
 <p>The federal MDL does not create one filing period for every person nationwide. Questions about whether time runs from product use, symptoms, diagnosis, discovery, or death require state-specific legal analysis. Because Roundup litigation has been public for years, waiting to identify the relevant dates can create additional risk.</p>
-<p><strong>Class-settlement dates do not replace an individual lawsuit deadline.</strong> The proposed <em>King v. Monsanto</em> settlement has a separate court-controlled schedule. Its official website says the June 4, 2026 deadline to object or request exclusion has passed. The administrator says the court will now decide whether to approve the settlement; benefit deadlines have not begun.</p>
-<p>If the proposed settlement receives final approval and becomes effective, people who are class members and did not opt out may be bound by its release and may lose the ability to pursue covered claims outside the settlement program, subject to the settlement's terms and exceptions. That possible consequence is separate from whether a state statute of limitations has expired.</p>
-<p>The proposed class also describes later registration and claim-submission periods if the settlement becomes final. Those program dates concern settlement participation; they do not establish whether an individual personal-injury, wrongful-death, or survival claim was timely filed under applicable state law.</p>
+<p>Online claim-package submissions are scheduled to open December 7, 2026. Covered pending lawsuits must be stayed by December 21, 2026, subject to the agreement’s scope and exceptions. Subclass 1 claim packages are due 180 days after the Effective Date; that date has not occurred. See the <a href="/lawsuits/roundup/deadline/#settlement-dates">Roundup deadline guide</a> for registration dates and the official source.</p>
+<p>Class members may be bound by the release, subject to the settlement terms and exceptions. The court-approved class rules and individual state filing limits address separate questions.</p>
+
 <p>To prepare for a deadline review, gather the earliest supportable dates for:</p>
 <ul>
 <li>first and last Roundup or glyphosate-product exposure;</li>
@@ -230,7 +225,7 @@ faqs:
 <h2>Sources and status notes</h2>
 <p>Counts use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2 JPML report</a> and <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-September-1-2026.pdf">September 1 report</a>. Court assignments and transfer dates use the <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_MDL_Number-September-1-2026.pdf">JPML by-number report</a>. Status was checked September 14, 2026 against <a href="https://www.cand.uscourts.gov/cases-e-filing/cases/316-md-02741-vc/re-roundup-products-liability-litigation">public court records</a>; these public indexes are not complete live dockets.</p>
 <ul>
-<li><a href="https://www.weedkillerclass.com/Home/FAQs">The fairness hearing was held September 14; the court's approval decision remains pending with timing unknown.</a></li>
+<li><a href="https://www.weedkillerclass.com/Home/FAQs">Administrator FAQ on the November 20 final approval, registration, and claim deadlines</a></li>
 <li><a href="https://www.weedkillerclass.com/">The administrator lists June 4, 2026 as the objection and exclusion deadline; later benefit deadlines depend on final approval and appeals.</a></li>
 <li><a href="https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf">The Supreme Court decided Monsanto v. Durnell on June 25, 2026, holding the label-based failure-to-warn claim at issue expressly preempted by FIFRA.</a></li>
 </ul>

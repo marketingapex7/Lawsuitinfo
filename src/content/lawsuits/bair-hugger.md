@@ -75,7 +75,7 @@ faqs:
 <h2>Verified Bair Hugger litigation updates</h2>
 <p>JPML lists 8,414 pending and 10,836 historical actions in MDL-2666 on November 2, compared with 8,424 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <h3>October 1, 2026: 8,424 actions pending</h3>
-<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 8,433 pending actions and 10,828 historical actions. On August 3, the corresponding figures were 8,407 and 10,716.</p>
+<p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-October-1-2026.pdf">JPML report</a> lists 8,424 pending actions and 10,828 historical actions as of October 1, 2026. On August 3, the corresponding figures were 8,407 and 10,716.</p>
 <p><strong>For readers:</strong> Pending actions are not approved claims, and the historical total is not a claimant or payment count.</p>
 <h3>2025–2026: plaintiff fact-sheet enforcement</h3>
 <p>A <a href="https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_15-md-02666/pdf/USCOURTS-mnd-0_15-md-02666-26.pdf">January 2026 report and recommendation</a> describes the court's process for identifying cases with missing verified plaintiff fact sheets, issuing orders to show cause, and recommending dismissal when a plaintiff does not comply.</p>

@@ -34,7 +34,7 @@ timeline:
   -
     label: "Claim review"
     detail: "A lawyer may compare the device and injury timeline with MDL-3081 status and filing deadlines."
-lastUpdated: "2026-11-18"
+lastUpdated: "2026-11-25"
 lastReviewed: "2026-09-14"
 faqs:
   -
@@ -76,10 +76,11 @@ faqs:
 </section>
 
 <section id="latest-update">
+<p>November 17 CMO 52 confirms the November 13 conference and sets February 28, 2027 as the cutoff for new direct filings and transfers into MDL 3081. Negotiations for pending cases run through September 1, 2027. Cases with a release or term sheet executed by then can remain pending through March 1, 2028 for settlement paperwork and stipulated dismissal. The order provides for remand or transfer of unresolved cases and does not publish individual payout amounts. <a href="https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf">November 17 CMO 52</a>.</p>
 <h2>Bard PowerPort Lawsuit update</h2>
 <p>The Hicks docket records October 15-21 expert rulings, the October 26 denial of summary judgment and the affirmative-defense ruling filed November 4. <a href="https://www.govinfo.gov/app/details/USCOURTS-azd-2_23-md-03081/USCOURTS-azd-2_23-md-03081-43/context">Federal docket and orders</a>.</p>
 <p>JPML lists 4,345 pending and 4,636 historical actions in MDL-3081 on November 2, compared with 4,140 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
-<p>The September 4 Divelbliss verdict awarded $40 million in compensatory damages and no punitive damages. The court addressed Hicks expert evidence October 15–21, denied summary judgment October 26, and issued an affirmative-defense ruling filed November 4. CMO 42 lists December 1 for Hicks. A later amended schedule and the outcome of the November 13 settlement-procedure conference remain unverified. <a href="https://www.aboutlawsuits.com/wp-content/uploads/2026-09-04-Verdict.pdf">Filed verdict</a> · <a href="https://www.azd.uscourts.gov/sites/azd/files/23-03081-6388.pdf">CMO 42</a>.</p>
+<p>The September 4 Divelbliss verdict awarded $40 million in compensatory damages and no punitive damages. The court addressed Hicks expert evidence October 15–21, denied summary judgment October 26, and issued an affirmative-defense ruling filed November 4. CMO 42 lists December 1 for Hicks. A superseding Hicks schedule remains unverified. <a href="https://www.aboutlawsuits.com/wp-content/uploads/2026-09-04-Verdict.pdf">Filed verdict</a> · <a href="https://www.azd.uscourts.gov/sites/azd/files/23-03081-6388.pdf">CMO 42</a>.</p>
 <p>The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML, November 2, 2026</a> lists <strong>4,345 pending actions</strong> and 4,636 total historical actions. The figures are docket counts, not settlement eligibility or payment counts.</p>
 <p><strong>Settlement status:</strong> The Arizona public MDL orders reviewed on September 14, 2026 did not identify a global settlement program. The posted order collection reviewed ends with CMO 46 in March 2026, so it cannot establish the absence of later private resolutions.</p>
 <h3>What changed this month?</h3>

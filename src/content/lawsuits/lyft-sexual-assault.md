@@ -60,7 +60,7 @@ faqs:
 <section id="latest-update">
 <span id="status"></span><span id="litigation-updates"></span>
 <h2>Lyft sexual assault lawsuit update</h2>
-<p>The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets. <a href="https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf">November 9 order</a>.</p>
+<p>The November 23, 2026 fact-sheet show-cause deadline in the November 9 order has passed. It applied to plaintiffs in six named cases. Responses and dismissal outcomes remain unverified. <a href="https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf">November 9 order</a>.</p>
 <p>JPML lists 150 pending and 164 historical actions in MDL-3171 on November 2, compared with 134 pending on October 1. <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">JPML report</a>.</p>
 <p><strong>The federal docket nearly doubled in two months.</strong> The <a href="https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-November-2-2026.pdf">November 2, 2026 JPML report</a> lists <strong>150 pending actions</strong> in <a href="/mdl/3171/">MDL-3171</a>, compared with 134 on October 1. Its 164 total historical actions include cases no longer pending.</p>
 <p>The MDL is less than a year old. No bellwether trial date or settlement program was identified in records reviewed October 17, 2026.</p>

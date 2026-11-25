@@ -11,7 +11,7 @@
     "established": "2025-12-12"
   },
   "phase": "Arbitration motions and settlement-master appointment",
-  "phaseDetail": "A June 22 court order appointed Thomas J. Perrelli as settlement master. The November 16 case-management setting has passed and its outcome remains unverified. Reported arbitration dates are awaiting verification against the schedule order.",
+  "phaseDetail": "A June 22 court order appointed Thomas J. Perrelli as settlement master. The August 25 court minutes set November 20, 2026 for arbitration replies and January 13, 2027 at 9:30 a.m. PT for the hearing on motions to compel arbitration. The reply date passed. Filings and the outcome of the November 16 case-management setting remain unverified.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -112,9 +112,46 @@
       "sourceUrl": "https://nighgoldenberg.com/wp-content/uploads/2026/07/MDL-3166-Roblox-Child-Sexual-Exploitation-Litigation-Order-Re-Schedule-and-Word-Limits-for-Motions-to-Compel-Arbitration-Docket-Entry-342-.pdf",
       "verifiedOn": "2026-10-17",
       "appliesTo": "Federal MDL proceedings"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "Arbitration reply date passed",
+      "detail": "August 25 minutes set this briefing date. Filing outcome remains unverified.",
+      "kind": "court",
+      "status": "historical",
+      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent",
+      "source": "Northern District of California court calendar",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "MDL 3166 arbitration motions"
+    },
+    {
+      "date": "2026-12-16",
+      "label": "Doe G.C. show-cause response due",
+      "detail": "The November 16 order applies to the plaintiff in Doe G.C. v. Roblox only.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv10813/461724/15/0.pdf",
+      "source": "November 16 order (Doc. 15)",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "Doe G.C. v. Roblox, No. 25-cv-10813-RS only"
+    },
+    {
+      "date": "2027-01-13",
+      "label": "Hearing on motions to compel arbitration",
+      "detail": "Scheduled for 9:30 a.m. PT.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent",
+      "source": "Northern District of California court calendar",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "MDL 3166 arbitration motions"
     }
   ],
   "sources": [
+    {
+      "name": "August 25 case-management minutes and arbitration schedule",
+      "url": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent"
+    },
     {
       "name": "Filed arbitration motion with noticed hearing",
       "url": "https://www.robertkinglawfirm.com/wp-content/uploads/2026/10/roblox-csa-lawsuit-omnibus-motion-to-compel-arbitration-september-2026.pdf"

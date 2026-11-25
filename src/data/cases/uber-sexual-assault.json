@@ -11,7 +11,7 @@
     "established": "2023-10-04"
   },
   "phase": "Federal discovery and A.R.2 bellwether preparation",
-  "phaseDetail": "The October 26 order sets the A.R.2 bellwether schedule. Motions in limine and Rule 412 motions are due November 20 and oppositions December 8. Pretrial conference is December 17 at 9 a.m. PT, jury selection January 7 and trial January 11 at 9:15 a.m. PT. The public court calendar separately lists November 19 discovery at 3 p.m. PT.",
+  "phaseDetail": "The October 26 order sets the A.R.2 bellwether schedule. Motions in limine and Rule 412 motions were due November 20, with oppositions scheduled for December 8. Pretrial conference is December 17 at 9 a.m. PT, jury selection January 7 and trial January 11 at 9:15 a.m. PT. The November 19 discovery setting at 3 p.m. PT has passed, and its outcome remains unverified. The September 11 clerk’s notice for ECF 7070 lists December 9 replies and a December 18 motion hearing at 10 a.m. PT, separate from A.R.2 and the December 17 discovery conference at 10:30 a.m. PT.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -113,10 +113,10 @@
     {
       "date": "2026-11-19",
       "label": "Uber MDL discovery conference",
-      "detail": "3 p.m. PT.",
+      "detail": "3 p.m. PT. The scheduled date passed. The outcome remains unverified.",
       "appliesTo": "Federal MDL discovery",
       "kind": "court",
-      "status": "scheduled",
+      "status": "historical",
       "source": "Uber MDL discovery conference",
       "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eId=3b1e46e6-bbf2-473f-b5cb-998eca34e87f&eType=EmailBlastContent",
       "verifiedOn": "2026-11-18"
@@ -124,10 +124,10 @@
     {
       "date": "2026-11-20",
       "label": "A.R.2 motions in limine and Rule 412 motions due",
-      "detail": "Applies to motions in the A.R.2 bellwether.",
+      "detail": "Applies to motions in the A.R.2 bellwether. The scheduled date passed. The outcome remains unverified.",
       "appliesTo": "A.R.2 bellwether only",
       "kind": "bellwether",
-      "status": "scheduled",
+      "status": "historical",
       "source": "A.R.2 motions in limine and Rule 412 motions due",
       "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
       "verifiedOn": "2026-11-18"
@@ -142,6 +142,17 @@
       "source": "A.R.2 pretrial motion oppositions due",
       "sourceUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-md-03084/pdf/USCOURTS-cand-3_23-md-03084-419.pdf",
       "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-12-09",
+      "label": "ECF 7070 replies due",
+      "detail": "September 11 clerk’s notice sets this reply date.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent",
+      "source": "Northern District of California court calendar",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "ECF 7070 only"
     },
     {
       "date": "2026-12-17",
@@ -164,6 +175,17 @@
       "source": "Uber MDL discovery conference",
       "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eId=3b1e46e6-bbf2-473f-b5cb-998eca34e87f&eType=EmailBlastContent",
       "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-12-18",
+      "label": "ECF 7070 motion hearing",
+      "detail": "September 11 clerk’s notice sets a video hearing at 10 a.m. PT.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent",
+      "source": "Northern District of California court calendar",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "ECF 7070 only"
     },
     {
       "date": "2027-01-07",
@@ -189,6 +211,10 @@
     }
   ],
   "sources": [
+    {
+      "name": "September 11 clerk’s notice on ECF 7070",
+      "url": "https://apps.cand.uscourts.gov/telhrg/?eid=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a&etype=emailblastcontent"
+    },
     {
       "name": "North Carolina DOJ announced a Fourth Circuit amicus brief in the appeal involving the North Carolina bellwether",
       "url": "https://ncdoj.gov/attorney-general-jeff-jackson-fights-for-passenger-safety-in-uber-sexual-assault-case/"

@@ -16,10 +16,10 @@ lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Where are Roundup cases for Florida residents coordinated?"
-    answer: "Federal Roundup cases filed by Florida residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
+    answer: "Federal Roundup cases filed by Florida residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026."
   -
     question: "Why is Florida relevant to Roundup claims?"
-    answer: "Florida residents may have agricultural, residential, landscaping, or groundskeeping exposure histories, but claims proceed through the federal MDL and the proposed nationwide settlement rather than a Florida-specific trial track."
+    answer: "Florida residents may have agricultural, residential, landscaping, or groundskeeping exposure histories, but claims proceed through the federal MDL and the court-approved nationwide class settlement rather than a Florida-specific trial track."
   -
     question: "Do Florida deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Florida?</h2>
 <p>Florida residents may have Roundup exposure histories tied to agricultural, residential, landscaping, or groundskeeping use, but the current litigation path is not Florida-specific.</p>
-<p>Federal Roundup cases filed by Florida residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p>Federal Roundup cases filed by Florida residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026.</p>
 <p>The practical center of gravity for Florida claimants is therefore the federal MDL and the nationwide settlement rather than a Florida-specific trial track.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>.</p>
 </section>

@@ -16,10 +16,10 @@ lastReviewed: "2026-09-16"
 faqs:
   -
     question: "Where are Roundup cases for Missouri residents coordinated?"
-    answer: "Federal Roundup cases filed by Missouri residents are transferred into MDL No. 2741 in the Northern District of California. Separately, the proposed $7.25 billion King v. Monsanto class settlement is pending in St. Louis state court."
+    answer: "Federal Roundup cases filed by Missouri residents are transferred into MDL No. 2741 in the Northern District of California. Separately, the St. Louis court granted final approval to the King v. Monsanto class settlement on November 20, 2026."
   -
     question: "Why is Missouri central to the Roundup litigation?"
-    answer: "St. Louis is Monsanto's historic home and the venue for the proposed $7.25 billion King v. Monsanto class settlement. It received preliminary approval in March 2026, and the fairness hearing was held September 14. The official administrator says the court will now decide whether to approve the settlement and that the timing is unknown."
+    answer: "St. Louis is Monsanto's historic home and the venue for the $7.25 billion King v. Monsanto class settlement. It received final approval on November 20, 2026, and the fairness hearing was held September 14. Subclass 1 registration is open through May 19, 2027."
   -
     question: "Do Missouri deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -48,7 +48,7 @@ faqs:
 
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Missouri?</h2>
-<p>Missouri is central to Roundup litigation because St. Louis is Monsanto's historic home, and the city's 22nd Judicial Circuit is where Bayer's proposed <strong>$7.25 billion nationwide class settlement</strong> (<em>King v. Monsanto</em>) received preliminary approval on March 4, 2026. The fairness hearing was held September 14. The <a href="https://www.weedkillerclass.com/Home/FAQs" target="_blank" rel="noopener noreferrer">official administrator</a> says the court will now decide whether to approve the settlement and that the timing is unknown.</p>
+<p>Missouri is central to Roundup litigation because St. Louis is Monsanto's historic home, and the city's 22nd Judicial Circuit is where the court granted final approval to the <strong>$7.25 billion nationwide class settlement</strong> (<em>King v. Monsanto</em>) on November 20, 2026. See the national Roundup guide for registration and claim deadlines.</p>
 <p>Missouri courts have also produced major trial verdicts. In <em>Anderson v. Monsanto</em> (Cole County, November 2023), a jury awarded about $1.56 billion; the award was later reduced to $611 million and upheld by a Missouri appellate court in 2025.</p>
 <p>A separate Missouri case, <em>Durnell v. Monsanto</em>, became the vehicle for the U.S. Supreme Court's review of federal pesticide-label preemption. On June 25, 2026, the Court held that FIFRA expressly preempted the state-law label-based failure-to-warn claim at issue. Federal Missouri cases are transferred into MDL No. 2741 in the Northern District of California.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.weedkillerclass.com/Docs/Preliminary_Approval_Order.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>; <a href="https://www.drugwatch.com/news/2023/11/20/bayer-hit-with-1b-loss-in-latest-roundup-cancer-trial-verdict/" target="_blank" rel="noopener noreferrer">Drugwatch — Cole County $1.5B verdict (Nov. 2023)</a>; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24-1068.html" target="_blank" rel="noopener noreferrer">U.S. Supreme Court docket — Monsanto v. Durnell (No. 24-1068)</a>.</p>

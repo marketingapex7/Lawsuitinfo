@@ -11,7 +11,7 @@
     "established": "2023-08-08"
   },
   "phase": "Bellwether verdict and Hicks pretrial proceedings",
-  "phaseDetail": "The September 4 Divelbliss verdict awarded $40 million in compensatory damages and no punitive damages. The court addressed Hicks expert evidence October 15–21, denied summary judgment October 26, and issued an affirmative-defense ruling filed November 4. CMO 42 lists December 1 for Hicks. A later amended schedule and the outcome of the November 13 settlement-procedure conference remain unverified.",
+  "phaseDetail": "November 17 CMO 52 confirms the November 13 conference and sets February 28, 2027 as the cutoff for new direct filings and transfers into MDL 3081. Negotiations for pending cases run through September 1, 2027. Cases with a release or term sheet executed by then can remain pending through March 1, 2028 for settlement paperwork and stipulated dismissal. The order provides for remand or transfer of unresolved cases and does not publish individual payout amounts. A superseding Hicks schedule remains unverified.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -65,14 +65,14 @@
   ],
   "settlements": [
     {
-      "label": "Global settlement status",
+      "label": "CMO 52 settlement negotiations",
       "kind": "none",
-      "status": "not identified in reviewed records",
-      "detail": "The Arizona public MDL orders reviewed on September 14, 2026 did not identify a global settlement program. The posted order collection reviewed ends with CMO 46 in March 2026, so it cannot establish the absence of later private resolutions.",
+      "status": "negotiation process ordered",
+      "detail": "November 17 CMO 52 confirms the November 13 conference and sets February 28, 2027 as the cutoff for new direct filings and transfers into MDL 3081. Negotiations for pending cases run through September 1, 2027. Cases with a release or term sheet executed by then can remain pending through March 1, 2028 for settlement paperwork and stipulated dismissal. The order provides for remand or transfer of unresolved cases and does not publish individual payout amounts.",
       "individualClaims": "No individual payment amount or universal payment date verified.",
-      "verifiedOn": "2026-09-14",
-      "source": "District of Arizona public MDL orders",
-      "sourceUrl": "https://www.azd.uscourts.gov/re-bard-implanted-port-catheter-products-liability-litigation"
+      "verifiedOn": "2026-11-25",
+      "source": "District of Arizona CMO 52 (ECF 12139)",
+      "sourceUrl": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf"
     }
   ],
   "keyDates": [
@@ -119,9 +119,68 @@
       "source": "Divelbliss verdict filed",
       "sourceUrl": "https://www.aboutlawsuits.com/wp-content/uploads/2026-09-04-Verdict.pdf",
       "verifiedOn": "2026-11-18"
+    },
+    {
+      "date": "2026-11-13",
+      "label": "Settlement-procedure conference held",
+      "detail": "CMO 52 confirms the conference addressed negotiations and remand or transfer.",
+      "kind": "court",
+      "status": "completed",
+      "sourceUrl": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "MDL 3081"
+    },
+    {
+      "date": "2027-01-31",
+      "label": "Joint memorandum due",
+      "detail": "Parties must propose reporting, video testimony, and record preparation procedures.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "MDL 3081"
+    },
+    {
+      "date": "2027-02-28",
+      "label": "MDL cutoff for direct filings and transfers",
+      "detail": "This cutoff governs entry into MDL 3081. Individual filings depend on jurisdiction, venue, and applicable filing limits.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "MDL 3081"
+    },
+    {
+      "date": "2027-09-01",
+      "label": "Pending-case negotiation milestone",
+      "detail": "Cases without an executed release or term sheet are subject to remand recommendation or transfer.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "MDL 3081"
+    },
+    {
+      "date": "2028-03-01",
+      "label": "Settlement paperwork and dismissal deadline",
+      "detail": "Applies to cases with a release or term sheet executed by September 1, 2027.",
+      "kind": "court",
+      "status": "scheduled",
+      "sourceUrl": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf",
+      "source": "Official court or administrator record",
+      "verifiedOn": "2026-11-25",
+      "appliesTo": "MDL 3081"
     }
   ],
   "sources": [
+    {
+      "name": "November 17 CMO 52 (ECF 12139)",
+      "url": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf"
+    },
     {
       "name": "The Hicks docket includes October expert rulings, the October 26 denial of summary judgment and the affirmative-defense ruling filed November 4",
       "url": "https://www.govinfo.gov/app/details/USCOURTS-azd-2_23-md-03081/USCOURTS-azd-2_23-md-03081-43/context"
@@ -167,9 +226,14 @@
       "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3081-Transfer_Order-7-23.pdf"
     }
   ],
-  "dataAsOf": "2026-11-18",
-  "statusVerifiedOn": "2026-11-18",
+  "dataAsOf": "2026-11-25",
+  "statusVerifiedOn": "2026-11-25",
   "updates": [
+    {
+      "date": "2026-11-17",
+      "summary": "November 17 CMO 52 confirms the November 13 conference and sets February 28, 2027 as the cutoff for new direct filings and transfers into MDL 3081. Negotiations for pending cases run through September 1, 2027. Cases with a release or term sheet executed by then can remain pending through March 1, 2028 for settlement paperwork and stipulated dismissal. The order provides for remand or transfer of unresolved cases and does not publish individual payout amounts.",
+      "sourceUrl": "https://www.mdlcentrality.com/bardport/Docs/IndexDocs/Bard_CMO_52.pdf"
+    },
     {
       "date": "2026-11-04",
       "summary": "The Hicks docket includes October expert rulings, the October 26 denial of summary judgment and the affirmative-defense ruling filed November 4.",

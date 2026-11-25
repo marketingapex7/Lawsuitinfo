@@ -16,10 +16,10 @@ lastReviewed: "2026-06-16"
 faqs:
   -
     question: "Where are Roundup cases for Texas residents coordinated?"
-    answer: "Federal Roundup cases filed by Texas residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement."
+    answer: "Federal Roundup cases filed by Texas residents are transferred into MDL No. 2741 in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026."
   -
     question: "Why is Texas relevant to Roundup claims?"
-    answer: "Texas is one of the largest cotton and row-crop states, where glyphosate is widely used (USDA NASS), so the most common Texas exposure profiles involve farmworkers and applicators. Claims still proceed through the federal MDL and the proposed nationwide settlement."
+    answer: "Texas is one of the largest cotton and row-crop states, where glyphosate is widely used (USDA NASS), so the most common Texas exposure profiles involve farmworkers and applicators. Claims still proceed through the federal MDL and the court-approved nationwide class settlement."
   -
     question: "Do Texas deadlines matter?"
     answer: "Yes. Filing deadlines may depend on state law, diagnosis date, discovery date, exposure history, and other facts."
@@ -49,7 +49,7 @@ faqs:
 <section id="state-roundup-context">
 <h2>What stands out about Roundup litigation in Texas?</h2>
 <p>Texas's relevance to Roundup litigation is largely agricultural. As one of the country's largest cotton and row-crop states, Texas has extensive glyphosate use; the USDA NASS 2021 Cotton Chemical Use survey documents glyphosate as a standard herbicide across U.S. cotton acreage, with Texas the dominant cotton-producing state. The most common Texas exposure profiles involve farmworkers, applicators, and agricultural handlers.</p>
-<p>Federal Roundup cases filed by Texas residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. Many claims are also being resolved through the proposed $7.25 billion nationwide class settlement that received preliminary approval in Missouri state court in March 2026.</p>
+<p>Federal Roundup cases filed by Texas residents are transferred into the national proceeding, MDL No. 2741, in the Northern District of California before Judge Vince Chhabria. A Missouri court granted final approval to the separate nationwide class settlement on November 20, 2026.</p>
 <p>The practical center of gravity for Texas claimants is therefore the federal MDL and the nationwide settlement rather than a Texas-specific trial track.</p>
 <p class="mt-4 text-sm text-muted"><strong>Sources:</strong> <a href="https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/2021_Field_Crops/chemhighlights-cotton.pdf" target="_blank" rel="noopener noreferrer">USDA NASS 2021 Cotton Chemical Use Highlights</a>; <a href="https://www.jpml.uscourts.gov/pending-mdls-0" target="_blank" rel="noopener noreferrer">JPML — pending MDL dockets</a>; <a href="https://aglaw.psu.edu/wp-content/uploads/2026/03/09-Order-Prelim-Approval-King-v-Monsanto-3.4.36.pdf" target="_blank" rel="noopener noreferrer">King v. Monsanto preliminary approval order (Mar. 4, 2026)</a>.</p>
 </section>

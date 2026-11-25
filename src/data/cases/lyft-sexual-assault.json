@@ -11,7 +11,7 @@
     "established": "2026-02-05"
   },
   "phase": "Federal pretrial and fact-sheet compliance",
-  "phaseDetail": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets.",
+  "phaseDetail": "The November 23, 2026 fact-sheet show-cause deadline in the November 9 order has passed. It applied to plaintiffs in six named cases. Responses and dismissal outcomes remain unverified.",
   "pendingCounts": [
     {
       "date": "2026-11-02",
@@ -90,11 +90,11 @@
     },
     {
       "date": "2026-11-23",
-      "label": "Fact-sheet show-cause responses due",
-      "detail": "The November 9 order requires plaintiffs in six named cases to respond by November 23, 2026 about why their cases should remain open after alleged failures to serve timely fact sheets.",
+      "label": "Fact-sheet show-cause responses deadline passed",
+      "detail": "The November 23, 2026 fact-sheet show-cause deadline in the November 9 order has passed. It applied to plaintiffs in six named cases. Responses and dismissal outcomes remain unverified.",
       "appliesTo": "Plaintiffs in the six cases named in the November 9 order",
       "kind": "claim",
-      "status": "scheduled",
+      "status": "historical",
       "source": "Fact-sheet show-cause responses due",
       "sourceUrl": "https://cases.justia.com/federal/district-courts/california/candce/3%3A2025cv07369/455566/19/0.pdf",
       "verifiedOn": "2026-11-18"
